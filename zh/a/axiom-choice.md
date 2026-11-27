@@ -2,7 +2,7 @@
 
 > *首次发表于 2008 年 1 月 8 日；实质修订于 2021 年 12 月 10 日。*
 
-集合论中被称为 **选择公理** 的原则，被誉为“也许是最有趣、而且尽管出现较晚，却是数学中被讨论得最多的公理，仅次于两千多年前引入的欧几里得平行公理”（Fraenkel, Bar-Hillel & Levy 1973, §II.4）[^fraenkel-1973]。这番溢美之词或许会使不熟悉该公理的读者以为它像光速不变原理或海森堡不确定性原理那样惊世骇俗。但实际上，通常表述的选择公理看上去平淡无奇，甚至自明。因为它只不过断言：给定任意一族两两不交的非空集合，就可以组装出一个新集合——一个 **横截集** 或 **选择集**——它恰好从该族的每个成员中取一个元素。然而，这个看似无害的原则却有深远的数学后果——许多不可或缺，有些令人惊讶——并已在数学基础讨论中占据显著位置。它（或其等价形式）已被用于无数数学论文，还有若干专著专门讨论它。
+集合论中称为 **选择公理** 的原则，素有“也许是最有趣、而且尽管出现较晚，却是数学中被讨论得最多的公理，仅次于两千多年前引入的欧几里得平行公理”之称（Fraenkel, Bar-Hillel & Levy 1973, §II.4）[^fraenkel-1973]。这番溢美之词或许会使不熟悉该公理的读者以为它像光速不变原理或海森堡不确定性原理那样惊世骇俗。但实际上，通常表述的选择公理看上去平淡无奇，甚至自明。因为它只不过断言：给定任意一族两两不交的非空集合，就可以组装出一个新集合——一个 **横截集** 或 **选择集**——它恰好从该族的每个成员中取一个元素。然而，这个看似无害的原则却有深远的数学后果——许多不可或缺，有些令人惊讶——并已在数学基础讨论中占据显著位置。它（或其等价形式）已被用于无数数学论文，还有若干专著专门讨论它。
 
 ## 1. 选择公理的起源与年表
 
@@ -10,7 +10,7 @@
 
 > 设想每个子集 $M'$ 都配定一个出现在 $M'$ 自身之中的任意元素 $m_{1}'$；称 $m_{1}'$ 为 $M'$ 的“特异”（distinguished）元素。这就得到由集合 $M$ 的某些元素对集合 $M$ 所作的一个“覆盖” $g$。这些覆盖的数目等于［所有子集 $M'$ 的基数之］积，并且肯定不为 0。
 
-这段引文的最后一句——它实际上断言，对任何（非空）集合的非空子集汇集，覆盖总是存在——是 Zermelo 对选择公理的第一个表述[^note-1]。这一表述如今通常用 **选择函数** 来陈述：非空集合族 $\mathcal{H}$ 上的选择函数，是一个定义域为 $\mathcal{H}$ 的映射 $f$，使得对每个 $X \in \mathcal{H}$ 都有 $f(X) \in X$。
+这段引文的最后一句——它实际上断言，对任何（非空）集合的非空子集汇集，覆盖总是存在——是 Zermelo 对选择公理的第一个表述[^note-1]。这一表述如今通常用 **选择函数** 来陈述：由非空集合构成的族 $\mathcal{H}$ 上的选择函数，是一个定义域为 $\mathcal{H}$ 的映射 $f$，使得对每个 $X \in \mathcal{H}$ 都有 $f(X) \in X$。
 
 举一个很简单的例子：令 $\mathcal{H}$ 为 $\{0, 1\}$ 的非空子集构成的汇集，即 $\mathcal{H} = \{\{0\}, \{1\}, \{0,1\}\}$。于是 $\mathcal{H}$ 有两个不同的选择函数 $f_{1}$ 与 $f_{2}$，由下式给出：
 
@@ -20,7 +20,7 @@ $$\begin{align} f_{1}(\{0\}) &= 0 \\ f_{1}(\{1\}) &= 1 \\ f_{1}(\{0, 1\}) &= 0 \
 
 用选择函数来陈述，Zermelo 对 *AC* 的第一个表述是：
 
-**AC1**：任何非空集合族都有一个选择函数。
+**AC1**：任何由非空集合构成的族都有一个选择函数。
 
 **AC1** 也可以用 **索引集族** 或 **变元集** 来重新表述。集合的索引集族 $\mathcal{A} = \{A_{i}: i \in I\}$ 可以设想为一个 **变元集**，即一个在索引集 $I$ 上 **变动** 的集合。此时每个 $A_{i}$ 都是变元集 $\mathcal{A}$ 在 **阶段** $i$ 的“值”。$\mathcal{A}$ 上的 **选择函数** 是一个映射 $f: I \rightarrow \bigcup_{i\in I} A_{i}$，使得对所有 $i\in I$ 都有 $f(i) \in A_{i}$。于是 $\mathcal{A}$ 上的选择函数就是在每一阶段对变元集 $\mathcal{A}$ 的某个元素作出的“选择”；换言之，$\mathcal{A}$ 上的选择函数是 $\mathcal{A}$ 的一个 **变元元素**。**AC1** 于是等价于下述断言：
 
@@ -40,19 +40,19 @@ $$ {\forall x\in A}\ \exists y\in B[R(x,y)] \Rightarrow \exists f[f: A \rightarr
 
 **AC4**：任何满射函数都有右逆。
 
-在 1908 年的一篇论文中，Zermelo 引入了 *AC* 的一种修正形式。我们称集合族 $\mathcal{H}$ 的一个 **横截集**（或 **选择集**）为任一子集 $T \subseteq \bigcup \mathcal{H}$，使得对每个 $X \in \mathcal{H}$，交集 $T \cap X$ 恰有一个元素。举一个很简单的例子：令 $\mathcal{H} = \{\{0\}, \{1\}, \{2, 3\}\}$，则 $\mathcal{H}$ 有两个横截集 $\{0, 1, 2\}$ 与 $\{0, 1, 3\}$。一个更实在的例子是：令 $\mathcal{H}$ 为欧几里得平面中所有平行于 $x$ 轴的直线构成的汇集。此时 $y$ 轴上的点集 $T$ 就是 $\mathcal{H}$ 的一个横截集。
+在 1908 年的一篇论文中，Zermelo 引入了 *AC* 的一种修正形式。我们称任一子集 $T \subseteq \bigcup \mathcal{H}$ 为集合族 $\mathcal{H}$ 的一个 **横截集**（或 **选择集**），只要对每个 $X \in \mathcal{H}$，交集 $T \cap X$ 恰有一个元素。举一个很简单的例子：令 $\mathcal{H} = \{\{0\}, \{1\}, \{2, 3\}\}$，则 $\mathcal{H}$ 有两个横截集 $\{0, 1, 2\}$ 与 $\{0, 1, 3\}$。一个更实在的例子是：令 $\mathcal{H}$ 为欧几里得平面中所有平行于 $x$ 轴的直线构成的汇集。此时 $y$ 轴上的点集 $T$ 就是 $\mathcal{H}$ 的一个横截集。
 
 那么，用横截集来陈述，Zermelo 的第二个（1908 年）表述就相当于断言：任何两两不交的非空集合族都有一个横截集。[^note-3]
 
-Zermelo 断言，这一原则“纯客观的特性”“是显而易见的”。作出这一断言时，Zermelo 意在强调：在这一形式下，该原则并未诉诸作出“选择”的可能性。也可能 Zermelo 心中想的是下面这个对该原则的“组合”辩护。给定一个两两不交的非空集合族 $\mathcal{H}$，称子集 $S \subseteq \bigcup \mathcal{H}$ 为 $\mathcal{H}$ 的 **选择子**，如果对所有 $X \in \mathcal{H}$ 都有 $S\cap X \ne \varnothing$。显然 $\mathcal{H}$ 的选择子是存在的；$\bigcup \mathcal{H}$ 本身就是一例。现在可以设想取 $\mathcal{H}$ 的一个选择子 $S$，并“削薄”每个交集 $S \cap X$（其中 $X\in \mathcal{H}$），直到它只含一个元素。结果便是 $\mathcal{H}$ 的一个横截集。这一论证经适当精化，就从称为 **佐恩引理** 的集合论原则（见下文）给出了这一形式下 *AC* 的精确推导。
+Zermelo 断言，这一原则“纯客观的特性”“是显而易见的”。作此断言时，Zermelo 意在强调：在这一形式下，该原则并未诉诸“选择”的可能性。也可能 Zermelo 心中想的是下面这个对该原则的“组合”辩护。给定一个两两不交的非空集合族 $\mathcal{H}$，称子集 $S \subseteq \bigcup \mathcal{H}$ 为 $\mathcal{H}$ 的 **选择子**，如果对所有 $X \in \mathcal{H}$ 都有 $S\cap X \ne \varnothing$。显然 $\mathcal{H}$ 的选择子是存在的；$\bigcup \mathcal{H}$ 本身就是一例。现在可以设想取 $\mathcal{H}$ 的一个选择子 $S$，并“削薄”每个交集 $S \cap X$（其中 $X\in \mathcal{H}$），直到它只含一个元素。结果便是 $\mathcal{H}$ 的一个横截集。这一论证经适当精化，就从称为 **佐恩引理** 的集合论原则（见下文）给出了这一形式下 *AC* 的精确推导。
 
 我们称 Zermelo 1908 年的表述为 **组合** 形式的选择公理：
 
 **CAC**：任何两两不交的非空集合族都有一个横截集。
 
-应当注意，对于 **有限** 的集合族，**AC1** 与 **CAC** 在通常的集合论中都是可证的（用归纳法）。但对于 **无限** 族，即便其每个成员都是有限的，选择函数或横截集的存在性问题也是成问题的[^note-4]。例如，如前所述，为实数对族找一个选择函数很容易（只需选出每一对中较小的元素）。但是，要为任意实数集合组成的无序对构成的族给出一个选择函数，却绝非显然。
+应当注意，对于 **有限** 的集合族，**AC1** 与 **CAC** 在通常的集合论中都是可证的（用归纳法）。但对于 **无限** 族，即便其每个成员都是有限的，选择函数或横截集是否存在，也是成问题的[^note-4]。例如，如前所述，为实数无序对构成的族找一个选择函数很容易（只需选出每一对中较小的元素）。但是，要为任意实数集合组成的无序对构成的族给出一个选择函数，却绝非显然。
 
-Zermelo 引入 *AC* 的初衷，是要确立 Cantor 集合论的一条核心原则，即每个集合都容许一个良序，因而也可以被指派一个基数。Zermelo 1904 年对这一公理的引入，以及他对它的使用，招致了当时数学家的相当多批评。主要反对意见针对的是某些人眼中的该公理高度非构造性、甚至唯心主义的特征：该公理断言可以作出若干——甚至可能不可数多个——任意的“选择”，却丝毫没有说明这些选择实际上如何实现，换言之，丝毫没有说明选择函数如何被 **定义**。这一点对具有“构造”倾向的数学家尤其难以接受，例如所谓的法国经验论者 Baire、Borel 与 Lebesgue；在他们看来，一个数学对象只有能被如此定义以致唯一地刻画它时，才能被断言存在。Zermelo 对批评者的回应见于 1908 年的两篇论文。在第一篇中，如上所述，他用横截集重新表述了 *AC*；在第二篇（1908a）中，他明确给出了完成其良序定理证明所需的进一步假设。这些假设构成了对集合论公理系统的首次明确陈述。
+Zermelo 引入 *AC* 的初衷，是要确立 Cantor 集合论的一条核心原则，即每个集合都容许一个良序，因而也可以被指派一个基数。Zermelo 于 1904 年引入这一公理并使用它，招致了当时数学家的相当多批评。主要反对意见针对该公理高度非构造性、甚至唯心主义的特征。它断言可以任意选择若干——甚至可能不可数多个——对象，却丝毫没有说明这些选择实际上如何实现，也丝毫没有说明如何 **定义** 选择函数。这一点对具有“构造”倾向的数学家尤其难以接受，例如所谓的法国经验论者 Baire、Borel 与 Lebesgue；在他们看来，一个数学对象只有能如此定义以致唯一地刻画它，才能被断言存在。Zermelo 对批评者的回应见于 1908 年的两篇论文。在第一篇中，如上所述，他用横截集重新表述了 *AC*；在第二篇（1908a）中，他明确给出了完成其良序定理证明所需的进一步假设。这些假设构成了对集合论公理系统的首次明确陈述。
 
 随着关于选择公理的争论持续发酵，人们渐渐看清楚：若干重要数学定理的证明都本质地用到它，从而使许多数学家把它当作本行不可或缺的工具。例如 Hilbert 逐渐把 *AC* 视为数学的一条本质性原则[^note-5]，并在为经典数学推理辩护、反驳直觉主义者攻击时使用了它。事实上，他的 ε 算子本质上就是选择函数（见“ε 演算”词条）。
 
@@ -76,23 +76,23 @@ Zermelo 引入 *AC* 的初衷，是要确立 Cantor 集合论的一条核心原�
 
 ## 2. 选择公理的独立性与相容性
 
-如前所述，1922 年 Fraenkel 证明了 *AC* 相对于一个含有“原子”的集合论系统的独立性。这里所谓 **原子**（atom），指的是一个纯粹的个体，即一个没有成员、却又区别于空集的实体（因此 *a fortiori* 原子不可能是集合）。在带原子的集合论系统中，假定给定了一个由原子构成的无限集 $A$。人们可以从 $A$ 出发，先加入 $A$ 的一切子集，再加入所得结果的一切子集，如此等等，并超限地迭代下去，从而在 $A$ 之上构造出一个集合的宇宙 $V(A)$。于是 $V(A)$ 就是带原子的集合论的一个模型。Fraenkel 证明 *AC* 独立性之方法的核心在于这样一个观察：既然原子无法在集合论上被区分，那么原子集 $A$ 的任一置换都会诱导出由 $A$ 构造的集合宇宙 $V(A)$ 的一个保结构置换——一个 **自同构**。这一想法可用来构造集合论的另一个模型 $Sym(V)$——一个 **置换模型** 或 **对称模型**——在其中，由 $A$ 的元素构成的、彼此不交的对所组成的集合没有选择函数。
+如前所述，1922 年 Fraenkel 证明了 *AC* 相对于一个含有“原子”的集合论系统的独立性。这里所谓 **原子**（atom），指的是一个纯粹的个体，即一个没有成员、却又区别于空集的实体（因此 *a fortiori* 原子不可能是集合）。在带原子的集合论系统中，假定给定了一个由原子构成的无限集 $A$。人们可以从 $A$ 出发，先加入 $A$ 的一切子集，再加入所得结果的一切子集，如此等等，并超限地迭代下去，从而在 $A$ 之上构造出一个集合的宇宙 $V(A)$。于是 $V(A)$ 就是带原子的集合论的一个模型。Fraenkel 证明 *AC* 独立性之方法的核心在于这样一个观察：既然原子无法在集合论上被区分，那么原子集 $A$ 的任一置换都会诱导出由 $A$ 构造的集合宇宙 $V(A)$ 的一个保结构置换——一个 **自同构**。这一想法可用来构造集合论的另一个模型 $Sym(V)$：一个 **置换模型** 或 **对称模型**；在其中，由 $A$ 的元素组成彼此不交的对，再由这些对组成集合，该集合没有选择函数。
 
 现在假定给定 $A$ 的一个自同构群 $G$。我们说 $A$ 的一个自同构 *π* **固定** $V(A)$ 的一个元素 $x$，如果 $\pi(x) = x$。显然，若 $\pi \in G$ 固定 $A$ 的每个元素，则它也固定 $V(A)$ 的每个元素。现在可能出现这样的情况：对某些元素 $x \in V(A)$，只要任一 $\pi\in G$ 固定 $A$ 的某个 **子集** 的元素，就足以固定 $x$。于是我们不妨把 $x$ 的一个 **支撑** 定义为 $A$ 的一个子集 $X$，使得只要 $\pi\in G$ 固定 $X$ 的每个成员，它也就固定 $x$。$V(A)$ 中具有 **有限** 支撑的成员称为 **对称的**。
 
 我们接下来把宇宙 $Sym(V)$ 定义为由 $V(A)$ 中 **遗传对称的** 成员组成，即那些 $x\in V(A)$，使得 $x$、$x$ 的元素、$x$ 的元素的元素等等全都是对称的。$Sym(V)$ 也是以 $A$ 为原子集的集合论的一个模型，而 *π* 诱导出 $Sym(V)$ 的一个自同构。
 
-现在设 $A$ 被划分成一个（必然无限的）由两两不交的对构成的族 $P$。取 $G$ 为 $A$ 的、固定 $P$ 中所有对的一切置换所构成的群。于是 $P\in Sym(V)$；此时可以证明，$Sym(V)$ 中不含 $P$ 上的任何选择函数。因为，假定 $f$ 是 $P$ 上的一个选择函数且 $f \in Sym(V)$。那么 $f$ 有一个有限支撑，不妨取为形如 $\{a_{1}, \ldots, a_{n}, b_{1},\ldots,b_{n}\}$ 的集合，其中每一对 $\{a_{i}, b_{i}\} \in P$。既然 $P$ 是无限的，我们可以从 $P$ 中选出一对 $\{c, d\} = U$，它不同于所有的 $\{a_{i}, b_{i}\}$。现在我们定义 $\pi \in G$，使 *π* 固定每个 $a_{i}$ 与 $b_{i}$，并互换 $c$ 与 $d$。于是 *π* 也固定 $f$。既然假定 $f$ 是 $P$ 上的选择函数，而 $U \in P$，就必须有 $f(U) \in U$，即 $f(U) = c$ 或 $f(U) = d$。既然 *π* 互换 $c$ 与 $d$，就有 $\pi(f(U)) \ne f(U)$。但 *π* 是自同构，因而也保持函数应用，故 $\pi(f(U)) = \pi f(\pi(U))$。然而 $\pi(U) = U$ 且 $\pi f = f$，于是 $\pi(f(U)) = f(U)$。我们就这样得出了一个矛盾，这表明宇宙 $Sym(V)$ 不含 $P$ 上的任何选择函数。
+现在设 $A$ 被划分成一个（必然无限的）由彼此不交的对组成的族 $P$。取 $G$ 为 $A$ 的、固定 $P$ 中所有对的一切置换所构成的群。于是 $P\in Sym(V)$；此时可以证明，$Sym(V)$ 中不含 $P$ 上的任何选择函数。因为，假定 $f$ 是 $P$ 上的一个选择函数且 $f \in Sym(V)$。那么 $f$ 有一个有限支撑，不妨取为形如 $\{a_{1}, \ldots, a_{n}, b_{1},\ldots,b_{n}\}$ 的集合，其中每一对 $\{a_{i}, b_{i}\} \in P$。既然 $P$ 是无限的，我们可以从 $P$ 中选出一对 $\{c, d\} = U$，它不同于所有的 $\{a_{i}, b_{i}\}$。现在我们定义 $\pi \in G$，使 *π* 固定每个 $a_{i}$ 与 $b_{i}$，并互换 $c$ 与 $d$。于是 *π* 也固定 $f$。既然假定 $f$ 是 $P$ 上的选择函数，而 $U \in P$，就必须有 $f(U) \in U$，即 $f(U) = c$ 或 $f(U) = d$。既然 *π* 互换 $c$ 与 $d$，就有 $\pi(f(U)) \ne f(U)$。但 *π* 是自同构，因而也保持函数应用，故 $\pi(f(U)) = \pi f(\pi(U))$。然而 $\pi(U) = U$ 且 $\pi f = f$，于是 $\pi(f(U)) = f(U)$。我们就这样得出了一个矛盾，这表明宇宙 $Sym(V)$ 不含 $P$ 上的任何选择函数。
 
-这里的要点在于：对定义在 $P$ 上的对称函数 $f$，存在一个有限的、由 $P$ 中的对组成的表 $L$，固定其中所有元素就足以固定 $f$，从而也固定 $f$ 的一切值。现在，对 $P$ 中任一不在 $L$ 中的对 $U$，总能找到一个置换 *π*，它固定 $L$ 中各对的所有元素，却不固定 $U$ 的成员。既然 *π* 必须固定 $f$ 在 $U$ 处的值，该值就不可能落在 $U$ 中。因此 $f$ 无法“选择” $U$ 的一个元素，于是 *a fortiori* $f$ 不可能是 $P$ 上的选择函数。
+这里的要点在于：对定义在 $P$ 上的对称函数 $f$，存在一个有限的、由 $P$ 中的对组成的表 $L$，固定这些对中的所有元素就足以固定 $f$，从而也固定 $f$ 的一切值。现在，对 $P$ 中任一不在 $L$ 中的对 $U$，总能找到一个置换 *π*，它固定 $L$ 中各对的所有元素，却不固定 $U$ 的成员。既然 *π* 必须固定 $f$ 在 $U$ 处的值，该值就不可能落在 $U$ 中。因此 $f$ 无法“选择” $U$ 的一个元素，于是 *a fortiori* $f$ 不可能是 $P$ 上的选择函数。
 
 这一论证表明，**由原子构成的集合** 所组成的族未必都有选择函数；但它未能对数学中“通常的”集合，例如实数集，建立同样的事实。这要等到 1963 年，Paul Cohen 才证明：与集合论的标准公理（它们排除了原子的存在）相容的是，可数多个由实数集合构成的对所组成的汇集没有选择函数。Cohen 证明方法的核心——著名的 **力迫** 方法——其普适性远超以往的任何技巧；尽管如此，他的独立性证明也本质地使用了置换与对称，其形式与 Fraenkel 最初所用的大致相同。
 
-Gödel 关于 *AC* 相对于集合论公理之相对相容性的证明（见“Kurt Gödel”词条），依据的是一个全然不同的想法：**可定义性**。他仿照累积类型分层，引入了一个新的集合分层——**可构造** 分层。我们记得，后者的定义是如下关于序数的递归，其中 $\mathcal{P}(X)$ 是 $X$ 的幂集，*α* 是序数，*λ* 是极限序数：
+Gödel 关于 *AC* 相对于集合论公理之相对相容性的证明（见“Kurt Gödel”词条），依据的是一个全然不同的想法：**可定义性**。他仿照累积类型分层，引入了一个新的集合分层——**可构造** 分层。我们记得，后者的定义是如下关于序数的递归，其中 $\mathcal{P}(X)$ 表示 $X$ 的幂集，*α* 是序数，*λ* 是极限序数：
 
 $$\begin{align} V_0 &= \varnothing \\ V_{\alpha+1} &= \mathcal{P}(V_{\alpha}) \\ V_{\lambda} &= {\bigcup}_{\alpha \lt \lambda} V_{\alpha} \end{align}$$
 
-可构造分层由关于序数的类似递归定义，其中 $\mathrm{Def}(X)$ 是在结构 $(X, \in, (x)_{x\in X})$ 中一阶可定义的一切 $X$ 的子集所构成的集合：[^note-7]
+可构造分层由关于序数的类似递归定义，其中 $\mathrm{Def}(X)$ 是在结构 $(X, \in, (x)_{x\in X})$ 中一阶可定义的一切 $X$ 子集构成的集合：[^note-7]
 
 $$\begin{align} L_0 &= \varnothing \\ L_{\alpha+1} &= \mathrm{Def}(L_{\alpha}) \\ L_{\lambda} &= {\bigcup}_{\alpha\lt \lambda} L_{\alpha} \end{align}$$
 
@@ -104,9 +104,9 @@ Gödel（1964）[^gödel-1964] 也注意到（Myhill 与 Scott 1971、Takeuti 19
 
 选择公理与一组统称为 **极大原理** 的数学命题密切相关。宽泛地说，这些命题断言：某些条件足以保证一个偏序集至少含有一个 **极大元**，即这样一个元素：相对于给定的偏序，没有元素严格超过它。
 
-要看出极大元概念与 *AC* 之间的联系，让我们回到后者用索引集表述的形式 **AC2**。据此，假定给定一个由非空集构成的索引集族 $\mathcal{A} = \{A_{i}:i \in I\}.$ 我们称 $\mathcal{A}$ 上的一个 **潜在选择函数** 为这样一个函数 $f$：其定义域是 $I$ 的子集，且对所有 $i\in J$ 都有 $f(i) \in A_{i}$。（这里使用 **潜在** 这一限定语，是因为定义域是 $I$ 的子集；回想一下，$\mathcal{A}$ 上的选择函数 $f$ 具有与我们现在称为潜在选择函数的那些函数相同的性质，只不过要求 $f$ 的定义域是整个 $I$，而不只是一个子集。）$\mathcal{A}$ 上潜在选择函数的集合 $P$ 可按包含关系偏序化：我们约定，对潜在选择函数 $f, g \in P$，关系 $f \le g$ 成立，当且仅当 $f$ 的定义域包含于 $g$ 的定义域，且 $f$ 在其定义域某个元素处的值与 $g$ 在该处的值一致。现在容易看出，$P$ 关于偏序 $\le$ 的极大元恰恰就是 $\mathcal{A}$ 上的选择函数。
+要看出极大元概念与 *AC* 之间的联系，让我们回到后者用索引集表述的形式 **AC2**。据此，假定给定一个由非空集构成的索引集族 $\mathcal{A} = \{A_{i}:i \in I\}.$ 我们称这样一个函数 $f$ 为 $\mathcal{A}$ 上的一个 **潜在选择函数**：其定义域是 $I$ 的子集，且对所有 $i\in \operatorname{dom}(f)$ 都有 $f(i) \in A_{i}$。（这里使用 **潜在** 这一限定语，是因为定义域是 $I$ 的子集；回想一下，$\mathcal{A}$ 上的选择函数 $f$ 其性质与我们现在所称的潜在选择函数相同，只不过要求 $f$ 的定义域是整个 $I$，而不只是一个子集。）$\mathcal{A}$ 上潜在选择函数的集合 $P$ 可按包含关系偏序化。我们约定，对潜在选择函数 $f, g \in P$，关系 $f \le g$ 成立，当且仅当 $f$ 的定义域包含于 $g$ 的定义域，且 $f$ 在其定义域某个元素处的值与 $g$ 在该处的值一致。现在容易看出，$P$ 关于偏序 $\le$ 的极大元恰恰就是 $\mathcal{A}$ 上的选择函数。
 
-**佐恩引理** 是确保这类极大元存在的最著名原则。要陈述它，我们需要一些定义。给定偏序集 $(P, \le)$，$P$ 的子集 $X$ 的 **上界** 是这样一个元素 $a\in P$：对每个 $x\in X$ 都有 $x\le a$；于是 $P$ 的 **极大元** 可以定义为这样一个元素 $a$：$\{a\}$ 的上界集与 $\{a\}$ 重合，这实质上意味着 $P$ 中没有元素严格大于 $a$。$(P,\le)$ 中的 **链** 是 $P$ 的一个子集 $C$，使得对任意的 $x$、$y\in P$，或者 $x\le y$，或者 $y\le x$。若 $P$ 中每条链都有上界，则称 $P$ 是 **归纳的**。现在，佐恩引理断言：
+**佐恩引理** 是确保这类极大元存在的最著名原则。要陈述它，我们需要一些定义。给定偏序集 $(P, \le)$，$P$ 的子集 $X$ 的 **上界** 是这样一个元素 $a\in P$：对每个 $x\in X$ 都有 $x\le a$；于是 $P$ 的 **极大元** 可以定义为这样一个元素 $a$：$\{a\}$ 的上界集与 $\{a\}$ 重合，这实质上意味着 $P$ 中没有元素严格大于 $a$。$(P,\le)$ 中的 **链** 指 $P$ 的子集 $C$，使得对任意的 $x$、$y\in C$，或者 $x\le y$，或者 $y\le x$。若 $P$ 中每条链都有上界，则称 $P$ 是 **归纳的**。现在，佐恩引理断言：
 
 **佐恩引理**（**ZL**）：每个非空归纳偏序集都有极大元。
 
@@ -118,7 +118,7 @@ Gödel（1964）[^gödel-1964] 也注意到（Myhill 与 Scott 1971、Takeuti 19
 
 现在很容易从这种替代形式的佐恩引理推出 **AC2**。因为索引集族 $\mathcal{A}$ 上潜在选择函数的集合 $P$ 显然非空，且不难证明它是强归纳的；于是佐恩引理给出 $\mathcal{A}$ 上一个选择函数的存在性。
 
-**CAC** 可以从 **ZL** 推出，其方式与上文勾勒的 **CAC** 的“组合”辩护相呼应。据此，假定给定一个由两两不交的非空集构成的族 $\mathcal{H}$；称子集 $S \subseteq \bigcup \mathcal{H}$ 为 $\mathcal{H}$ 的一个 **采样**，如果对任一 $X\in \mathcal{H}$，或者 $X \subseteq S$，或者 $S \cap X$ 非空且有限。极小采样恰恰就是 $\mathcal{H}$ 的横截集；[^note-11] 而采样构成的族 $\mathcal{T}$ 显然非空，因为它包含 $\bigcup \mathcal{H}$。因此，若能证明 $\mathcal{T}$ 是强归约的，[^note-12] 佐恩引理就将给出 $\mathcal{T}$ 的一个极小元，从而是 $\mathcal{H}$ 的一个横截集。$\mathcal{T}$ 的强归约性可以这样看出：设 $\{S_{i}: i\in I\}$ 是一个由采样构成的巢；令 $S = {\bigcap}_{i\in I} S_{i}$。我们需要证明 $S$ 本身是一个采样；为此设 $X \in \mathcal{H}$，并假定 $\neg(X \subseteq S)$。则存在 $i \in I$ 使 $\neg(X \subseteq S_{i})$；既然 $S_{i}$ 是采样，$S_{i}\cap X$ 有限且非空，比如 $S_{i}\cap X = \{x_{1}, \ldots, x_{n}\}$。显然此时 $S\cap X$ 是有限的；为导出矛盾，假定 $S\cap X = \varnothing$。那么对每个 $k = 1,\ldots,n$，存在 $i_k \in I$ 使 $\neg(x_k \in S_{i_k})$。由此可知 $\neg(S_{i} \subseteq S_{i_k})$，对 $k = 1, \ldots, n$。因此，既然这些 $S_{i}$ 构成链，每个 $S_{i_k}$ 都是 $S_{i}$ 的子集。令 $S_{j}$ 为 $S_{i_1},\ldots, S_{i_k}$ 中最小的一个；则 $S_{j}\subseteq S_{i}$。但既然 $\neg(x_{k} \in S_{j})$ 对 $k = 1, \ldots, n$ 成立，此时就推出 $S_{j} \cap X = \varnothing$，这与 $S_{j}$ 是采样这一事实矛盾。因此 $S \cap X\ne \varnothing$；故 $S$ 如所断言是一个采样。
+**CAC** 可以从 **ZL** 推出，其方式与上文勾勒的 **CAC** 的“组合”辩护相呼应。据此，假定给定一个由两两不交的非空集构成的族 $\mathcal{H}$；称子集 $S \subseteq \bigcup \mathcal{H}$ 为 $\mathcal{H}$ 的一个 **采样**，如果对任一 $X\in \mathcal{H}$，或者 $X \subseteq S$，或者 $S \cap X$ 非空且有限。极小采样恰恰就是 $\mathcal{H}$ 的横截集；[^note-11] 而采样构成的族 $\mathcal{T}$ 显然非空，因为它包含 $\bigcup \mathcal{H}$。因此，若能证明 $\mathcal{T}$ 是强归约的，[^note-12] 佐恩引理就将给出 $\mathcal{T}$ 的一个极小元，从而是 $\mathcal{H}$ 的一个横截集。$\mathcal{T}$ 的强归约性可以这样看出：设 $\{S_{i}: i\in I\}$ 是一个由采样构成的巢；令 $S = {\bigcap}_{i\in I} S_{i}$。我们需要证明 $S$ 本身是一个采样；为此设 $X \in \mathcal{H}$，并假定 $\neg(X \subseteq S)$。则存在 $i \in I$ 使 $\neg(X \subseteq S_{i})$；既然 $S_{i}$ 是采样，$S_{i}\cap X$ 有限且非空，比如 $S_{i}\cap X = \{x_{1}, \ldots, x_{n}\}$。显然此时 $S\cap X$ 是有限的；为导出矛盾，假定 $S\cap X = \varnothing$。那么对每个 $k = 1,\ldots,n$，存在 $i_k \in I$ 使 $\neg(x_k \in S_{i_k})$。由此可知 $\neg(S_{i} \subseteq S_{i_k})$，对 $k = 1, \ldots, n$。因此，既然这些 $S_{i}$ 构成链，每个 $S_{i_k}$ 都是 $S_{i}$ 的子集。令 $S_{j}$ 为 $S_{i_1},\ldots, S_{i_n}$ 中最小的一个；则 $S_{j}\subseteq S_{i}$。但既然 $\neg(x_{k} \in S_{j})$ 对 $k = 1, \ldots, n$ 成立，此时就推出 $S_{j} \cap X = \varnothing$，这与 $S_{j}$ 是采样这一事实矛盾。因此 $S \cap X\ne \varnothing$；故 $S$ 如所断言是一个采样。
 
 我们注意到，虽然佐恩引理与选择公理在集合论上等价，但从后者推出前者要比从前者推出后者困难得多。
 
@@ -166,7 +166,7 @@ $$ \bigcap_{i\in I} \bigcup_{j\in J} M_{i,j} = \bigcup_{f\in J^I} \bigcap_{i\in 
 
 - **吉洪诺夫定理**（1930）：紧致拓扑空间的积是紧致的。这一点在 Kelley 1950 中被证明等价于 *AC*。但对紧致豪斯多夫空间，它等价于 **BPI**（见下文），因而弱于 *AC*。
 - **勒文海姆—斯科伦—塔斯基定理**（Löwenheim 1915, Skolem 1920, Tarski and Vaught 1957）[^tarski-1957]：具有无限基数 *κ* 之模型的一阶语句，也具有任一满足 $\mu \le \kappa$ 的无限基数 *μ* 之模型。Tarski 证明了它等价于 *AC*。
-- **克莱因—米尔曼定理**：实赋范线性空间的对偶空间的单位球 $B$ 有一个极点，即一个不是 $B$ 中任何线段内点的点。这一点在 Bell and Fremlin 1972a 中被证明等价于 *AC*。该文表明，给定任一由非空集构成的索引族 $\mathcal{A}$，$\mathcal{A}$ 上的选择函数与由 $\mathcal{A}$ 构造的某个实赋范线性空间之对偶的单位球的极点之间存在自然的双射。
+- **克莱因—米尔曼定理**：实赋范线性空间的对偶空间的单位球 $B$ 有一个极点，即一个不是 $B$ 中任何线段内点的点。这一点在 Bell and Fremlin 1972a 中被证明等价于 *AC*。该文表明，给定任一非空集构成的索引族 $\mathcal{A}$，$\mathcal{A}$ 上的选择函数与由 $\mathcal{A}$ 构造出的某个实赋范线性空间之对偶的单位球的极点之间存在自然的双射。
 - 每个分配格都有极大理想。这一点在 Klimovsky 1958 中被证明等价于 *AC*；对由集合构成的格的情形则在 Bell and Fremlin 1972 中得到证明。
 - 每个含单位元的交换环都有极大理想。Hodges 1979 证明了它等价于 *AC*。
 
@@ -179,7 +179,7 @@ $$ \bigcap_{i\in I} \bigcup_{j\in J} M_{i,j} = \bigcup_{f\in J^I} \bigcap_{i\in 
 
 最后还有
 
-- **布尔代数的西科尔斯基扩张定理**（Sikorski 1949）：每个完备布尔代数都是内射的，即对任一布尔代数 $A$ 与任一完备布尔代数 $B$，从 $A$ 的子代数到 $B$ 的任一同态都可扩张到整个 $A$ 上。
+- **布尔代数的西科尔斯基扩张定理**（Sikorski 1949）①：每个完备布尔代数都是内射的，即对任一布尔代数 $A$ 与任一完备布尔代数 $B$，从 $A$ 的子代数到 $B$ 的任一同态都可扩张到整个 $A$ 上。
 
 这一原理是否等价于 *AC*，是该领域中少数几个尚存的有趣未决问题之一；它显然蕴涵 **BPI**，但 Bell 1983 证明了它独立于 **BPI**。
 
@@ -235,13 +235,13 @@ $$ A \vee \neg A $$
 
 即排中律。
 
-选择公理蕴涵排中律这一事实，初看似乎与下述事实相左：在受直觉主义逻辑支配的构造性数学系统——例如比肖普的《构造性分析》[^note-16] 与马丁-洛夫的构造性类型论[^note-17]——中，前者常被视为一条 **有效** 原理，而这些系统并不肯定排中律。用比肖普的话说：“在构造性数学中，选择函数存在，因为选择 **正是由存在的意义本身所蕴涵的**。”因此，举例来说，**ACL** 的前件 $\forall x \exists y \phi(x,y)$，在作构造性解读时，恰恰 **意味着** 我们有一个程序，把它施用于每个 $x$，就产生一个使 $\phi(x, y)$ 成立的 $y$。而这正是 **ACL** 的后件 $\exists f \forall x \phi(x,fx)$ 所表达的东西。
+选择公理蕴涵排中律这一事实，初看似乎与下述事实相左。在受直觉主义逻辑支配的构造性数学系统——例如比肖普的《构造性分析》[^note-16] 与马丁-洛夫的构造性类型论[^note-17]——中，前者常被视为一条 **有效** 原理，而这些系统并不肯定排中律。用比肖普的话说：“在构造性数学中，选择函数存在，因为选择 **正是由存在的意义本身所蕴涵的**。”因此，举例来说，**ACL** 的前件 $\forall x \exists y \phi(x,y)$，在作构造性解读时，恰恰 **意味着** 我们有一个程序，把它施用于每个 $x$，就产生一个使 $\phi(x, y)$ 成立的 $y$。而这正是 **ACL** 的后件 $\exists f \forall x \phi(x,fx)$ 所表达的东西。
 
-为化解这一困难，我们注意到，从 **AC1L** 推导排中律时，本质地使用了直谓概括原理与函数的外延性原理[^note-18]。由此可知，在肯定 **AC**（但不肯定排中律）的构造性数学系统中，**要么直谓概括原理失效，要么函数的外延性原理失效**。直谓概括原理尚可给出构造性的证成，而函数的外延性原理却无法得到这样的证成。谓词上的函数是内涵地给出的，只满足相应的内涵性原理 $\forall X \forall Y \forall F[X = Y \rightarrow FX = FY]$。外延性原理很容易被弄成失效：例如考虑谓词 $P$：**有理性、无羽的两足动物** 与 $Q$：**人**，以及定义在谓词上的函数 $K$，它给每个谓词指派其描述中的词数。于是我们可以同意 $P \approx Q$，但 $KP = 3$ 而 $KQ = 2$。
+为化解这一困难，我们注意到，从 **AC1L** 推导排中律时，本质地使用了直谓概括原理与函数的外延性原理[^note-18]。由此可知，在肯定 **AC**（但不肯定排中律）的构造性数学系统中，**要么直谓概括原理失效，要么函数的外延性原理失效**。直谓概括原理尚可得到构造性证成，函数的外延性原理却无法如此。谓词上的函数按内涵给出，只满足相应的内涵性原理 $\forall X \forall Y \forall F[X = Y \rightarrow FX = FY]$。很容易构造出使外延性原理失效的实例：例如考虑谓词 $P$：**有理性的、无羽毛的两足动物** 与 $Q$：**人**，以及定义在谓词上的函数 $K$，它给每个谓词指派其描述中的词数。于是我们可以同意 $P \approx Q$，但 $KP = 3$ 而 $KQ = 2$。
 
-在直觉主义集合论（即以直觉主义逻辑而非经典逻辑为基础的集合论——我们将其缩写为 **IST**）与拓扑斯理论中，直谓概括原理与函数的外延性原理（两者都作适当解读）成立，因此在其中 **AC** 蕴涵排中律。[^note-19][^note-20]
+在直觉主义集合论（以直觉主义逻辑而非经典逻辑为基础，缩写为 **IST**）与拓扑斯理论中，直谓概括原理与函数的外延性原理（两者都作适当解读）成立，因此在其中 **AC** 蕴涵排中律。[^note-19][^note-20]
 
-Diaconescu（1975）[^diaconescu-1975] 最早在范畴论框架中给出了从 *AC* 推导排中律的论证。他的证明所使用的基本想法与上文给出的证明不同；特别是，它不使用外延性原理，而是采用以等价关系对对象（或集合）作商的想法。在 **IST** 中表述 Diaconescu 的论证是有教益的。为此，我们称集合 $A$ 的子集 $U$ 是 **可分离的**，如果存在 $A$ 的子集 $V$，使得 $U \cap V = \varnothing$ 且 $U \cup V = A$。Diaconescu 的论证相当于从 **AC4**（见上文）推出如下断言：集合的每个子集都是可分离的；由此即可容易地得出排中律。论证如下。
+Diaconescu（1975）[^diaconescu-1975] 最早在范畴论框架中给出了从 *AC* 推导排中律的论证。他的证明的基本想法与上文不同；特别是，它不使用外延性原理，而是采用以等价关系对对象（或集合）作商的想法。在 **IST** 中表述 Diaconescu 的论证是有教益的。为此，我们称集合 $A$ 的子集 $U$ 是 **可分离的**（detachable），如果存在 $A$ 的子集 $V$，使得 $U \cap V = \varnothing$ 且 $U \cup V = A$。Diaconescu 的论证相当于从 **AC4**（见上文）推出如下断言：集合的每个子集都是可分离的；由此即可容易地得出排中律。论证如下。
 
 首先，给定 $U \subseteq A$，$U$（在 $A$ 中）的一个 **指示映射** 是一个满足下式的映射 $g: A \times 2 \rightarrow 2$：
 
@@ -255,7 +255,7 @@ $$ U = \{ x \in A: g(x,0) = g(x,1) \} $$
 
 $$ R = \{ ((x,0),(x,0)) : x \in A \} \cup \{ ((x,1),(x,1)) : x \in A \} \cup \{ ((x,0),(x,1) : x \in A \} \cup \{ ((x,1),(x,0) \} : x \in A $$
 
-可以验证 $R$ 是一个等价关系。用 $r$ 表示从 $A + A$ 到 $(A + A)$ 关于 $R$ 的商[^note-21] $Q$ 的自然映射，它把 $A + A$ 的每个成员送到其 $R-$等价类。
+可以验证 $R$ 是一个等价关系。用 $r$ 表示从 $A + A$ 到 $(A + A)$ 模 $R$ 的商[^note-21] $Q$ 的自然映射，它把 $A + A$ 的每个成员送到其 $R-$等价类。
 
 现在施用 **AC4**，得到映射 $f: Q \rightarrow A + A$，使得对所有 $X \in Q$ 都有 $f(X) \in X$。于是不难证明：若用 $\pi_{1}$ 表示向第一坐标的投影，则
 
@@ -366,11 +366,17 @@ ${\exists f \in 2^X}[{\forall x \in X}[\phi(x,0) \vee \phi(x,1)] \rightarrow {\f
 
 [^note-2]: A function $f$: $A \rightarrow B$ is *surjective* if for any element $b \in B$ there is $a \in A$ such that $f(a) = b$. A *right inverse* to $f$ is a function $g: B \rightarrow A$ such that, for any $x\in B$, $f(g(x) = x$.
 
-[^note-3]: Zermelo’s formulation reads literally:  > A set $S$ that can be decomposed into a set of disjoint parts $A$, $B$, $C$, … , each containing at least one element, possess at least one subset $S_{1}$ having exactly one element with each of the parts $A$, $B$, $C$, … , considered.
+[^note-3]: Zermelo’s formulation reads literally:
+
+> A set $S$ that can be decomposed into a set of disjoint parts $A$, $B$, $C$, … , each containing at least one element, possess at least one subset $S_{1}$ having exactly one element with each of the parts $A$, $B$, $C$, … , considered.
 
 [^note-4]: The difficulty here is amusingly illustrated by an anecdote due to Bertrand Russell. A millionaire possesses an infinite number of pairs of shoes, and an infinite number of pairs of socks. One day, in a fit of eccentricity, the millionaire summons his valet and asks him to select one shoe from each pair. When the valet, accustomed to receiving precise instructions, asks for details as to how to perform the selection, the millionaire suggests that the left shoe be chosen from each pair. Next day the millionaire proposes to the valet that he select one *sock* from each pair. When asked as to how *this* operation is to be carried out, the millionaire is at a loss for a reply, since, unlike shoes, there is no intrinsic way of distinguishing one sock of a pair from the other. In other words, the selection of the socks must be truly arbitrary.
 
-[^note-5]: In 1923 Hilbert asserted:  > The essential idea on which the axiom of choice is based constitutes a general logical principle which, even for the first elements of mathematical inference, is indispensable.  (Quoted in section 4.8 of Moore 1982.)[^moore-1982]
+[^note-5]: In 1923 Hilbert asserted:
+
+> The essential idea on which the axiom of choice is based constitutes a general logical principle which, even for the first elements of mathematical inference, is indispensable.
+
+(Quoted in section 4.8 of Moore 1982.)[^moore-1982]
 
 [^note-6]: For a detailed history of the Axiom of Choice, see Moore 1982.
 
@@ -402,7 +408,7 @@ ${\exists f \in 2^X}[{\forall x \in X}[\phi(x,0) \vee \phi(x,1)] \rightarrow {\f
 
 [^note-20]: With Zorn’s Lemma the situation is otherwise. For despite its equivalence to *AC* in classical set theory, in intuitionistic set theory Zorn’s Lemma *does not imply* **LEM:** in fact, it has no “non-constructive” logical consequences whatsoever (Grayson 1975, Bell 1997)[^bell-1997][^grayson-1975]. Thus Zorn’s Lemma is considerably weaker than *AC* in intuitionistic set theory. Intuitionistic equivalents of Zorn’s Lemma are scarce; a few have been formulated in Bell 2003.
 
-[^note-21]: That is, the set of all $R$-equivalence classes of members of $A$.  ### Notes to Supplementary Document: The Axiom of Choice and Type Theory  1. Dependent types were actually first studied in the late 1960s by de Bruijn and his colleagues at the University of Eindhoven in connection with the AUTOMATH project. CDTT has been employed as a basis for various computational devices employed for the verification of mathematical theories and of software and hardware systems in computer science.  2. Analogous constructive versions of set theory, incorporating choice principles, have been developed by Peter Aczel. See Aczel 1978, 1982, 2005 and Aczel & Rathjen 2001.  3. This idea was advanced by Curry and Feys 1958 and later by Howard 1980. As the *Curry-Howard correspondence* it has come to play an important role in theoretical computer science.  4. For a complete specification of the operations and rules of DCTT, see Chapter 10 of Jacobs 1999 or Gambino & Aczel 2005.  5. See §4.  6. It is interesting to note that Ramsey 1926 also asserted the tautological character of *AC* but for quite different reasons. Like Zermelo, Ramsey construed—and accepted the truth of—*AC* as asserting the objective existence of choice functions, given extensionally and so independently of the manner in which they might be described. But the intensional nature of constructive mathematics, and, in particular, of **CDTT**, decrees that nothing is given completely independently of its description. This leads to a strong construal of the quantifiers which, as we have observed, essentially trivializes *AC* by rendering the antecedent of the implication constituting it essentially equivalent to the consequent. It is remarkable that *AC* can be considered tautological both from an extensional and from an intensional point of view.  7. While in classical set theory each singleton in this sense is either empty or a one-element set, in intuitionistic set theory there are many additional “intermediate” sets qualifying as singletons.
+[^note-21]: That is, the set of all $R$-equivalence classes of members of $A$.
 
 [^aczel-1978]: Aczel, P., 1978. “The type-theoretic interpretation of constructive set theory,” in A. ManIntyre, L. Pacholski, and J. Paris (eds.), *Logic Colloquium 77*, Amsterdam: North-Holland, pp. 55–66.
 
@@ -590,7 +596,7 @@ ${\exists f \in 2^X}[{\forall x \in X}[\phi(x,0) \vee \phi(x,1)] \rightarrow {\f
 
 2. Peter Aczel 发展了类似的、包含选择原理的构造性集合论版本。参见 Aczel 1978、1982、2005 与 Aczel & Rathjen 2001。
 
-3. 这一想法由 Curry 与 Feys 1958 提出，后由 Howard 1980 推进。作为“柯里—霍华德对应”，它在理论计算机科学中已发挥重要作用。
+3. 这一想法由 Curry 与 Feys 1958 提出，后由 Howard 1980 推进。作为“柯里-霍华德对应”（Curry–Howard correspondence），它在理论计算机科学中已发挥重要作用。
 
 4. 关于 DCTT 的运算与规则的完整规定，参见 Jacobs 1999 第 10 章或 Gambino & Aczel 2005。
 
@@ -600,3 +606,7 @@ ${\exists f \in 2^X}[{\forall x \in X}[\phi(x,0) \vee \phi(x,1)] \rightarrow {\f
 
 7. 在经典集合论中，这种意义上的每个单元素集要么是空的，要么是一元集；而在直觉主义集合论中，有许多额外的“中间”集合也符合单元素集的资格。
 
+
+## 译者注释
+
+① 正文作“Sikorski 1949”，书目条目作 `sikorski-1948`（1948）；上游两处年份不一致，译文照录，未改。

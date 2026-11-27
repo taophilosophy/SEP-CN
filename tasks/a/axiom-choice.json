@@ -2,7 +2,7 @@
   "slug": "axiom-choice",
   "kind": "retranslate",
   "zh_doc": "zh/a/axiom-choice.md",
-  "state": "tr-02_checked",
+  "state": "tr-04_checked",
   "steps": [
     {
       "step": "ex-04",
@@ -17,6 +17,20 @@
       "actor": "trae-main",
       "at": "2026-11-27T13:46:58Z",
       "evidence": "T222–T225 全量完成并经译后编辑（PE，results/t222–t225-review.md）：导论＋§1–§5＋尾节＋111 脚注＋7 条补充注记；159 块、60 标记、473 行内（含 ADR-0049 文字化 1 处）、16 display、4 表块；111 定义闭合；账本 148 段；check_style／quotes／math_zh 0、terms 硬 0、academic 0；check_pairs 0"
+    },
+    {
+      "step": "tr-03",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-27T13:56:46Z",
+      "evidence": "T226 tr-03 一校完成（results/t226-tr03.md）：两个子代理分段；Critical 0／Major 4 全部落地（两处定义主宾倒置、note-3/5 引块、note-21 压行）；Minor 11 采纳 8；勘误第十八节累计 6 条＋译注①；结构 159 块、60 标记、111 定义守恒；check_style／quotes／math_zh／terms／academic／pairs 硬错误 0"
+    },
+    {
+      "step": "tr-04",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-27T13:56:51Z",
+      "evidence": "T226 tr-04 二校完成（results/t226-tr04.md）：check_prose 23→6；17 条 FIX（被动 2、长句 3、弱动词 1、去链 11），6 条数学定义句 de-chain 逐条豁免；语体：学术书面语统一，被动与翻译腔已改或豁免；check_style／quotes／math_zh／terms／academic／pairs 硬错误 0；159 块／60 标记／111 定义／148 段账本守恒"
     }
   ],
   "blockers": [],

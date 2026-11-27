@@ -12,9 +12,9 @@ segments:
     source: |-
       The principle of set theory known as the *Axiom of Choice* has been hailed as “probably the most interesting and, in spite of its late appearance, the most discussed axiom of mathematics, second only to Euclid’s axiom of parallels which was introduced more than two thousand years ago” (Fraenkel, Bar-Hillel & Levy 1973, §II.4)[^fraenkel-1973]. The fulsomeness of this description might lead those unfamiliar with the axiom to expect it to be as startling as, say, the Principle of the Constancy of the Velocity of Light or the Heisenberg Uncertainty Principle. But in fact the Axiom of Choice as it is usually stated appears humdrum, even self-evident. For it amounts to nothing more than the claim that, given any collection of mutually disjoint nonempty sets, it is possible to assemble a new set—a *transversal* or *choice set*—containing exactly one element from each member of the given collection. Nevertheless, this seemingly innocuous principle has far-reaching mathematical consequences—many indispensable, some startling—and has come to figure prominently in discussions on the foundations of mathematics. It (or its equivalents) have been employed in countless mathematical papers, and a number of monographs have been exclusively devoted to it.
     step1: |-
-      集合论中被称为 **选择公理** 的原则，被誉为“也许是最有趣、而且尽管出现较晚，却是数学中被讨论得最多的公理，仅次于两千多年前引入的欧几里得平行公理”（Fraenkel, Bar-Hillel & Levy 1973, §II.4）[^fraenkel-1973]。这番溢美之词或许会使不熟悉该公理的读者以为它像光速不变原理或海森堡不确定性原理那样惊世骇俗。但实际上，通常表述的选择公理看上去平淡无奇，甚至自明。因为它只不过断言：给定任意一族两两不交的非空集合，就可以组装出一个新集合——一个 **横截集** 或 **选择集**——它恰好从该族的每个成员中取一个元素。然而，这个看似无害的原则却有深远的数学后果——许多不可或缺，有些令人惊讶——并已在数学基础讨论中占据显著位置。它（或其等价形式）已被用于无数数学论文，还有若干专著专门讨论它。
+      集合论中称为 **选择公理** 的原则，素有“也许是最有趣、而且尽管出现较晚，却是数学中被讨论得最多的公理，仅次于两千多年前引入的欧几里得平行公理”之称（Fraenkel, Bar-Hillel & Levy 1973, §II.4）[^fraenkel-1973]。这番溢美之词或许会使不熟悉该公理的读者以为它像光速不变原理或海森堡不确定性原理那样惊世骇俗。但实际上，通常表述的选择公理看上去平淡无奇，甚至自明。因为它只不过断言：给定任意一族两两不交的非空集合，就可以组装出一个新集合——一个 **横截集** 或 **选择集**——它恰好从该族的每个成员中取一个元素。然而，这个看似无害的原则却有深远的数学后果——许多不可或缺，有些令人惊讶——并已在数学基础讨论中占据显著位置。它（或其等价形式）已被用于无数数学论文，还有若干专著专门讨论它。
     step2: |-
-      集合论中被称为 **选择公理** 的原则，被誉为“也许是最有趣、而且尽管出现较晚，却是数学中被讨论得最多的公理，仅次于两千多年前引入的欧几里得平行公理”（Fraenkel, Bar-Hillel & Levy 1973, §II.4）[^fraenkel-1973]。这番溢美之词或许会使不熟悉该公理的读者以为它像光速不变原理或海森堡不确定性原理那样惊世骇俗。但实际上，通常表述的选择公理看上去平淡无奇，甚至自明。因为它只不过断言：给定任意一族两两不交的非空集合，就可以组装出一个新集合——一个 **横截集** 或 **选择集**——它恰好从该族的每个成员中取一个元素。然而，这个看似无害的原则却有深远的数学后果——许多不可或缺，有些令人惊讶——并已在数学基础讨论中占据显著位置。它（或其等价形式）已被用于无数数学论文，还有若干专著专门讨论它。
+      集合论中称为 **选择公理** 的原则，素有“也许是最有趣、而且尽管出现较晚，却是数学中被讨论得最多的公理，仅次于两千多年前引入的欧几里得平行公理”之称（Fraenkel, Bar-Hillel & Levy 1973, §II.4）[^fraenkel-1973]。这番溢美之词或许会使不熟悉该公理的读者以为它像光速不变原理或海森堡不确定性原理那样惊世骇俗。但实际上，通常表述的选择公理看上去平淡无奇，甚至自明。因为它只不过断言：给定任意一族两两不交的非空集合，就可以组装出一个新集合——一个 **横截集** 或 **选择集**——它恰好从该族的每个成员中取一个元素。然而，这个看似无害的原则却有深远的数学后果——许多不可或缺，有些令人惊讶——并已在数学基础讨论中占据显著位置。它（或其等价形式）已被用于无数数学论文，还有若干专著专门讨论它。
   - id: 2
     kind: body
     source: |-
@@ -44,9 +44,9 @@ segments:
     source: |-
       The last sentence of this quotation—which asserts, in effect, that coverings always exist for the collection of nonempty subsets of any (nonempty) set—is Zermelo’s first formulation of the Axiom of Choice[^note-1]. This is now usually stated in terms of *choice functions*: here a choice function on a collection $\sH$ of nonempty sets is a map $f$ with domain $\sH$ such that $f(X) \in X$ for every $X \in \sH$.
     step1: |-
-      这段引文的最后一句——它实际上断言，对任何（非空）集合的非空子集汇集，覆盖总是存在——是 Zermelo 对选择公理的第一个表述[^note-1]。这一表述如今通常用 **选择函数** 来陈述：非空集合族 $\mathcal{H}$ 上的选择函数，是一个定义域为 $\mathcal{H}$ 的映射 $f$，使得对每个 $X \in \mathcal{H}$ 都有 $f(X) \in X$。
+      这段引文的最后一句——它实际上断言，对任何（非空）集合的非空子集汇集，覆盖总是存在——是 Zermelo 对选择公理的第一个表述[^note-1]。这一表述如今通常用 **选择函数** 来陈述：由非空集合构成的族 $\mathcal{H}$ 上的选择函数，是一个定义域为 $\mathcal{H}$ 的映射 $f$，使得对每个 $X \in \mathcal{H}$ 都有 $f(X) \in X$。
     step2: |-
-      这段引文的最后一句——它实际上断言，对任何（非空）集合的非空子集汇集，覆盖总是存在——是 Zermelo 对选择公理的第一个表述[^note-1]。这一表述如今通常用 **选择函数** 来陈述：非空集合族 $\mathcal{H}$ 上的选择函数，是一个定义域为 $\mathcal{H}$ 的映射 $f$，使得对每个 $X \in \mathcal{H}$ 都有 $f(X) \in X$。
+      这段引文的最后一句——它实际上断言，对任何（非空）集合的非空子集汇集，覆盖总是存在——是 Zermelo 对选择公理的第一个表述[^note-1]。这一表述如今通常用 **选择函数** 来陈述：由非空集合构成的族 $\mathcal{H}$ 上的选择函数，是一个定义域为 $\mathcal{H}$ 的映射 $f$，使得对每个 $X \in \mathcal{H}$ 都有 $f(X) \in X$。
   - id: 6
     kind: body
     source: |-
@@ -84,9 +84,9 @@ segments:
     source: |-
       **AC1**: Any collection of nonempty sets has a choice function.
     step1: |-
-      **AC1**：任何非空集合族都有一个选择函数。
+      **AC1**：任何由非空集合构成的族都有一个选择函数。
     step2: |-
-      **AC1**：任何非空集合族都有一个选择函数。
+      **AC1**：任何由非空集合构成的族都有一个选择函数。
   - id: 11
     kind: body
     source: |-
@@ -164,9 +164,9 @@ segments:
     source: |-
       In a 1908 paper Zermelo introduced a modified form of *AC*. Let us call a *transversal* (or *choice set*) for a family of sets $\sH$ any subset $T \subseteq \bigcup \sH$ for which each intersection $T \cap X$ for $X \in \sH$ has exactly one element. As a very simple example, let $\sH = \{\{0\}, \{1\}, \{2, 3\}\}$. Then $\sH$ has the two transversals $\{0, 1, 2\}$ and $\{0, 1, 3\}$. A more substantial example is afforded by letting $\sH$ be the collection of all lines in the Euclidean plane parallel to the $x$-axis. Then the set $T$ of points on the $y$-axis is a transversal for $\sH$.
     step1: |-
-      在 1908 年的一篇论文中，Zermelo 引入了 *AC* 的一种修正形式。我们称集合族 $\mathcal{H}$ 的一个 **横截集**（或 **选择集**）为任一子集 $T \subseteq \bigcup \mathcal{H}$，使得对每个 $X \in \mathcal{H}$，交集 $T \cap X$ 恰有一个元素。举一个很简单的例子：令 $\mathcal{H} = \{\{0\}, \{1\}, \{2, 3\}\}$，则 $\mathcal{H}$ 有两个横截集 $\{0, 1, 2\}$ 与 $\{0, 1, 3\}$。一个更实在的例子是：令 $\mathcal{H}$ 为欧几里得平面中所有平行于 $x$ 轴的直线构成的汇集。此时 $y$ 轴上的点集 $T$ 就是 $\mathcal{H}$ 的一个横截集。
+      在 1908 年的一篇论文中，Zermelo 引入了 *AC* 的一种修正形式。我们称任一子集 $T \subseteq \bigcup \mathcal{H}$ 为集合族 $\mathcal{H}$ 的一个 **横截集**（或 **选择集**），只要对每个 $X \in \mathcal{H}$，交集 $T \cap X$ 恰有一个元素。举一个很简单的例子：令 $\mathcal{H} = \{\{0\}, \{1\}, \{2, 3\}\}$，则 $\mathcal{H}$ 有两个横截集 $\{0, 1, 2\}$ 与 $\{0, 1, 3\}$。一个更实在的例子是：令 $\mathcal{H}$ 为欧几里得平面中所有平行于 $x$ 轴的直线构成的汇集。此时 $y$ 轴上的点集 $T$ 就是 $\mathcal{H}$ 的一个横截集。
     step2: |-
-      在 1908 年的一篇论文中，Zermelo 引入了 *AC* 的一种修正形式。我们称集合族 $\mathcal{H}$ 的一个 **横截集**（或 **选择集**）为任一子集 $T \subseteq \bigcup \mathcal{H}$，使得对每个 $X \in \mathcal{H}$，交集 $T \cap X$ 恰有一个元素。举一个很简单的例子：令 $\mathcal{H} = \{\{0\}, \{1\}, \{2, 3\}\}$，则 $\mathcal{H}$ 有两个横截集 $\{0, 1, 2\}$ 与 $\{0, 1, 3\}$。一个更实在的例子是：令 $\mathcal{H}$ 为欧几里得平面中所有平行于 $x$ 轴的直线构成的汇集。此时 $y$ 轴上的点集 $T$ 就是 $\mathcal{H}$ 的一个横截集。
+      在 1908 年的一篇论文中，Zermelo 引入了 *AC* 的一种修正形式。我们称任一子集 $T \subseteq \bigcup \mathcal{H}$ 为集合族 $\mathcal{H}$ 的一个 **横截集**（或 **选择集**），只要对每个 $X \in \mathcal{H}$，交集 $T \cap X$ 恰有一个元素。举一个很简单的例子：令 $\mathcal{H} = \{\{0\}, \{1\}, \{2, 3\}\}$，则 $\mathcal{H}$ 有两个横截集 $\{0, 1, 2\}$ 与 $\{0, 1, 3\}$。一个更实在的例子是：令 $\mathcal{H}$ 为欧几里得平面中所有平行于 $x$ 轴的直线构成的汇集。此时 $y$ 轴上的点集 $T$ 就是 $\mathcal{H}$ 的一个横截集。
   - id: 21
     kind: body
     source: |-
@@ -180,9 +180,9 @@ segments:
     source: |-
       Zermelo asserts that “the purely objective character” of this principle “is immediately evident.” In making this assertion Zermelo meant to emphasize the fact that in this form the principle makes no appeal to the possibility of making “choices”. It may also be that Zermelo had the following “combinatorial” justification of the principle in mind. Given a family $\sH$ of mutually disjoint nonempty sets, call a subset $S \subseteq \bigcup \sH$ a *selector* for $\sH$ if $S\cap X \ne \varnothing$ for all $X \in \sH$. Clearly selectors for $\sH$ exist; $\bigcup \sH$ itself is an example. Now one can imagine taking a selector $S$ for $\sH$ and “thinning out” each intersection $S \cap X$ for $X\in \sH$ until it contains just a single element. The result is a transversal for $\sH$. This argument, suitably refined, yields a precise derivation of *AC* in this formulation from the set-theoretical principle known as *Zorn’s lemma* (see below).
     step1: |-
-      Zermelo 断言，这一原则“纯客观的特性”“是显而易见的”。作出这一断言时，Zermelo 意在强调：在这一形式下，该原则并未诉诸作出“选择”的可能性。也可能 Zermelo 心中想的是下面这个对该原则的“组合”辩护。给定一个两两不交的非空集合族 $\mathcal{H}$，称子集 $S \subseteq \bigcup \mathcal{H}$ 为 $\mathcal{H}$ 的 **选择子**，如果对所有 $X \in \mathcal{H}$ 都有 $S\cap X \ne \varnothing$。显然 $\mathcal{H}$ 的选择子是存在的；$\bigcup \mathcal{H}$ 本身就是一例。现在可以设想取 $\mathcal{H}$ 的一个选择子 $S$，并“削薄”每个交集 $S \cap X$（其中 $X\in \mathcal{H}$），直到它只含一个元素。结果便是 $\mathcal{H}$ 的一个横截集。这一论证经适当精化，就从称为 **佐恩引理** 的集合论原则（见下文）给出了这一形式下 *AC* 的精确推导。
+      Zermelo 断言，这一原则“纯客观的特性”“是显而易见的”。作此断言时，Zermelo 意在强调：在这一形式下，该原则并未诉诸“选择”的可能性。也可能 Zermelo 心中想的是下面这个对该原则的“组合”辩护。给定一个两两不交的非空集合族 $\mathcal{H}$，称子集 $S \subseteq \bigcup \mathcal{H}$ 为 $\mathcal{H}$ 的 **选择子**，如果对所有 $X \in \mathcal{H}$ 都有 $S\cap X \ne \varnothing$。显然 $\mathcal{H}$ 的选择子是存在的；$\bigcup \mathcal{H}$ 本身就是一例。现在可以设想取 $\mathcal{H}$ 的一个选择子 $S$，并“削薄”每个交集 $S \cap X$（其中 $X\in \mathcal{H}$），直到它只含一个元素。结果便是 $\mathcal{H}$ 的一个横截集。这一论证经适当精化，就从称为 **佐恩引理** 的集合论原则（见下文）给出了这一形式下 *AC* 的精确推导。
     step2: |-
-      Zermelo 断言，这一原则“纯客观的特性”“是显而易见的”。作出这一断言时，Zermelo 意在强调：在这一形式下，该原则并未诉诸作出“选择”的可能性。也可能 Zermelo 心中想的是下面这个对该原则的“组合”辩护。给定一个两两不交的非空集合族 $\mathcal{H}$，称子集 $S \subseteq \bigcup \mathcal{H}$ 为 $\mathcal{H}$ 的 **选择子**，如果对所有 $X \in \mathcal{H}$ 都有 $S\cap X \ne \varnothing$。显然 $\mathcal{H}$ 的选择子是存在的；$\bigcup \mathcal{H}$ 本身就是一例。现在可以设想取 $\mathcal{H}$ 的一个选择子 $S$，并“削薄”每个交集 $S \cap X$（其中 $X\in \mathcal{H}$），直到它只含一个元素。结果便是 $\mathcal{H}$ 的一个横截集。这一论证经适当精化，就从称为 **佐恩引理** 的集合论原则（见下文）给出了这一形式下 *AC* 的精确推导。
+      Zermelo 断言，这一原则“纯客观的特性”“是显而易见的”。作此断言时，Zermelo 意在强调：在这一形式下，该原则并未诉诸“选择”的可能性。也可能 Zermelo 心中想的是下面这个对该原则的“组合”辩护。给定一个两两不交的非空集合族 $\mathcal{H}$，称子集 $S \subseteq \bigcup \mathcal{H}$ 为 $\mathcal{H}$ 的 **选择子**，如果对所有 $X \in \mathcal{H}$ 都有 $S\cap X \ne \varnothing$。显然 $\mathcal{H}$ 的选择子是存在的；$\bigcup \mathcal{H}$ 本身就是一例。现在可以设想取 $\mathcal{H}$ 的一个选择子 $S$，并“削薄”每个交集 $S \cap X$（其中 $X\in \mathcal{H}$），直到它只含一个元素。结果便是 $\mathcal{H}$ 的一个横截集。这一论证经适当精化，就从称为 **佐恩引理** 的集合论原则（见下文）给出了这一形式下 *AC* 的精确推导。
   - id: 23
     kind: body
     source: |-
@@ -204,17 +204,17 @@ segments:
     source: |-
       It is to be noted that **AC1** and **CAC** for *finite* collections of sets are both provable (by induction) in the usual set theories. But in the case of an *infinite* collection, even when each of its members is finite, the question of the existence of a choice function or a transversal is problematic[^note-4]. For example, as already mentioned, it is easy to come up with a choice function for the collection of pairs of real numbers (simply choose the smaller element of each pair). But it is by no means obvious how to produce a choice function for the collection of pairs of *arbitrary sets* of real numbers.
     step1: |-
-      应当注意，对于 **有限** 的集合族，**AC1** 与 **CAC** 在通常的集合论中都是可证的（用归纳法）。但对于 **无限** 族，即便其每个成员都是有限的，选择函数或横截集的存在性问题也是成问题的[^note-4]。例如，如前所述，为实数对族找一个选择函数很容易（只需选出每一对中较小的元素）。但是，要为任意实数集合组成的无序对构成的族给出一个选择函数，却绝非显然。
+      应当注意，对于 **有限** 的集合族，**AC1** 与 **CAC** 在通常的集合论中都是可证的（用归纳法）。但对于 **无限** 族，即便其每个成员都是有限的，选择函数或横截集是否存在，也是成问题的[^note-4]。例如，如前所述，为实数无序对构成的族找一个选择函数很容易（只需选出每一对中较小的元素）。但是，要为任意实数集合组成的无序对构成的族给出一个选择函数，却绝非显然。
     step2: |-
-      应当注意，对于 **有限** 的集合族，**AC1** 与 **CAC** 在通常的集合论中都是可证的（用归纳法）。但对于 **无限** 族，即便其每个成员都是有限的，选择函数或横截集的存在性问题也是成问题的[^note-4]。例如，如前所述，为实数对族找一个选择函数很容易（只需选出每一对中较小的元素）。但是，要为任意实数集合组成的无序对构成的族给出一个选择函数，却绝非显然。
+      应当注意，对于 **有限** 的集合族，**AC1** 与 **CAC** 在通常的集合论中都是可证的（用归纳法）。但对于 **无限** 族，即便其每个成员都是有限的，选择函数或横截集是否存在，也是成问题的[^note-4]。例如，如前所述，为实数无序对构成的族找一个选择函数很容易（只需选出每一对中较小的元素）。但是，要为任意实数集合组成的无序对构成的族给出一个选择函数，却绝非显然。
   - id: 26
     kind: body
     source: |-
       Zermelo’s original purpose in introducing *AC* was to establish a central principle of Cantor’s set theory, namely, that every set admits a well-ordering and so can also be assigned a cardinal number. Zermelo’s 1904 introduction of the axiom, as well as the use to which he put it, provoked considerable criticism from the mathematicians of the day. The chief objection raised was to what some saw as its highly non-constructive, even idealist, character: while the axiom asserts the possibility of making a number of—perhaps even an uncountable number—of arbitrary “choices”, it gives no indication whatsoever of how these latter are actually to be effected, of how, otherwise put, choice functions are to be *defined*. This was particularly objectionable to mathematicians of a “constructive” bent such as the so-called French Empiricists Baire, Borel and Lebesgue, for whom a mathematical object could be asserted to exist only if it can be defined in such a way as to characterize it uniquely. Zermelo’s response to his critics came in the form in two papers in 1908. In the first of these, as remarked above, he reformulated *AC* in terms of transversals; in the second (1908a) he made explicit the further assumptions needed to carry through his proof of the well-ordering theorem. These assumptions constituted the first explicit presentation of an axiom system for set theory.
     step1: |-
-      Zermelo 引入 *AC* 的初衷，是要确立 Cantor 集合论的一条核心原则，即每个集合都容许一个良序，因而也可以被指派一个基数。Zermelo 1904 年对这一公理的引入，以及他对它的使用，招致了当时数学家的相当多批评。主要反对意见针对的是某些人眼中的该公理高度非构造性、甚至唯心主义的特征：该公理断言可以作出若干——甚至可能不可数多个——任意的“选择”，却丝毫没有说明这些选择实际上如何实现，换言之，丝毫没有说明选择函数如何被 **定义**。这一点对具有“构造”倾向的数学家尤其难以接受，例如所谓的法国经验论者 Baire、Borel 与 Lebesgue；在他们看来，一个数学对象只有能被如此定义以致唯一地刻画它时，才能被断言存在。Zermelo 对批评者的回应见于 1908 年的两篇论文。在第一篇中，如上所述，他用横截集重新表述了 *AC*；在第二篇（1908a）中，他明确给出了完成其良序定理证明所需的进一步假设。这些假设构成了对集合论公理系统的首次明确陈述。
+      Zermelo 引入 *AC* 的初衷，是要确立 Cantor 集合论的一条核心原则，即每个集合都容许一个良序，因而也可以被指派一个基数。Zermelo 于 1904 年引入这一公理并使用它，招致了当时数学家的相当多批评。主要反对意见针对该公理高度非构造性、甚至唯心主义的特征。它断言可以任意选择若干——甚至可能不可数多个——对象，却丝毫没有说明这些选择实际上如何实现，也丝毫没有说明如何 **定义** 选择函数。这一点对具有“构造”倾向的数学家尤其难以接受，例如所谓的法国经验论者 Baire、Borel 与 Lebesgue；在他们看来，一个数学对象只有能如此定义以致唯一地刻画它，才能被断言存在。Zermelo 对批评者的回应见于 1908 年的两篇论文。在第一篇中，如上所述，他用横截集重新表述了 *AC*；在第二篇（1908a）中，他明确给出了完成其良序定理证明所需的进一步假设。这些假设构成了对集合论公理系统的首次明确陈述。
     step2: |-
-      Zermelo 引入 *AC* 的初衷，是要确立 Cantor 集合论的一条核心原则，即每个集合都容许一个良序，因而也可以被指派一个基数。Zermelo 1904 年对这一公理的引入，以及他对它的使用，招致了当时数学家的相当多批评。主要反对意见针对的是某些人眼中的该公理高度非构造性、甚至唯心主义的特征：该公理断言可以作出若干——甚至可能不可数多个——任意的“选择”，却丝毫没有说明这些选择实际上如何实现，换言之，丝毫没有说明选择函数如何被 **定义**。这一点对具有“构造”倾向的数学家尤其难以接受，例如所谓的法国经验论者 Baire、Borel 与 Lebesgue；在他们看来，一个数学对象只有能被如此定义以致唯一地刻画它时，才能被断言存在。Zermelo 对批评者的回应见于 1908 年的两篇论文。在第一篇中，如上所述，他用横截集重新表述了 *AC*；在第二篇（1908a）中，他明确给出了完成其良序定理证明所需的进一步假设。这些假设构成了对集合论公理系统的首次明确陈述。
+      Zermelo 引入 *AC* 的初衷，是要确立 Cantor 集合论的一条核心原则，即每个集合都容许一个良序，因而也可以被指派一个基数。Zermelo 于 1904 年引入这一公理并使用它，招致了当时数学家的相当多批评。主要反对意见针对该公理高度非构造性、甚至唯心主义的特征。它断言可以任意选择若干——甚至可能不可数多个——对象，却丝毫没有说明这些选择实际上如何实现，也丝毫没有说明如何 **定义** 选择函数。这一点对具有“构造”倾向的数学家尤其难以接受，例如所谓的法国经验论者 Baire、Borel 与 Lebesgue；在他们看来，一个数学对象只有能如此定义以致唯一地刻画它，才能被断言存在。Zermelo 对批评者的回应见于 1908 年的两篇论文。在第一篇中，如上所述，他用横截集重新表述了 *AC*；在第二篇（1908a）中，他明确给出了完成其良序定理证明所需的进一步假设。这些假设构成了对集合论公理系统的首次明确陈述。
   - id: 27
     kind: body
     source: |-
@@ -298,9 +298,9 @@ segments:
     source: |-
       As stated above, in 1922 Fraenkel proved the independence of *AC* from a system of set theory containing “atoms”. Here by an *atom* is meant a pure individual, that is, an entity having no members and yet distinct from the empty set (so *a fortiori* an atom cannot be a set). In a system of set theory with atoms it is assumed that one is given an infinite set $A$ of atoms. One can build a universe $V(A)$ of sets over $A$ by starting with $A$, adding all the subsets of $A$, adjoining all the subsets of the result, etc., and iterating transfinitely. $V(A)$ is then a model of set theory with atoms. The kernel of Fraenkel’s method for proving the independence of *AC* is the observation that, since atoms cannot be set-theoretically distinguished, any permutation of the set $A$ of atoms induces a structure-preserving permutation—an *automorphism*—of the universe $V(A)$ of sets built from $A$. This idea may be used to construct another model $Sym(V)$ of set theory—a *permutation* or *symmetric model*—in which a set of mutually disjoint pairs of elements of $A$ has no choice function.
     step1: |-
-      如前所述，1922 年 Fraenkel 证明了 *AC* 相对于一个含有“原子”的集合论系统的独立性。这里所谓 **原子**（atom），指的是一个纯粹的个体，即一个没有成员、却又区别于空集的实体（因此 *a fortiori* 原子不可能是集合）。在带原子的集合论系统中，假定给定了一个由原子构成的无限集 $A$。人们可以从 $A$ 出发，先加入 $A$ 的一切子集，再加入所得结果的一切子集，如此等等，并超限地迭代下去，从而在 $A$ 之上构造出一个集合的宇宙 $V(A)$。于是 $V(A)$ 就是带原子的集合论的一个模型。Fraenkel 证明 *AC* 独立性之方法的核心在于这样一个观察：既然原子无法在集合论上被区分，那么原子集 $A$ 的任一置换都会诱导出由 $A$ 构造的集合宇宙 $V(A)$ 的一个保结构置换——一个 **自同构**。这一想法可用来构造集合论的另一个模型 $Sym(V)$——一个 **置换模型** 或 **对称模型**——在其中，由 $A$ 的元素构成的、彼此不交的对所组成的集合没有选择函数。
+      如前所述，1922 年 Fraenkel 证明了 *AC* 相对于一个含有“原子”的集合论系统的独立性。这里所谓 **原子**（atom），指的是一个纯粹的个体，即一个没有成员、却又区别于空集的实体（因此 *a fortiori* 原子不可能是集合）。在带原子的集合论系统中，假定给定了一个由原子构成的无限集 $A$。人们可以从 $A$ 出发，先加入 $A$ 的一切子集，再加入所得结果的一切子集，如此等等，并超限地迭代下去，从而在 $A$ 之上构造出一个集合的宇宙 $V(A)$。于是 $V(A)$ 就是带原子的集合论的一个模型。Fraenkel 证明 *AC* 独立性之方法的核心在于这样一个观察：既然原子无法在集合论上被区分，那么原子集 $A$ 的任一置换都会诱导出由 $A$ 构造的集合宇宙 $V(A)$ 的一个保结构置换——一个 **自同构**。这一想法可用来构造集合论的另一个模型 $Sym(V)$：一个 **置换模型** 或 **对称模型**；在其中，由 $A$ 的元素组成彼此不交的对，再由这些对组成集合，该集合没有选择函数。
     step2: |-
-      如前所述，1922 年 Fraenkel 证明了 *AC* 相对于一个含有“原子”的集合论系统的独立性。这里所谓 **原子**（atom），指的是一个纯粹的个体，即一个没有成员、却又区别于空集的实体（因此 *a fortiori* 原子不可能是集合）。在带原子的集合论系统中，假定给定了一个由原子构成的无限集 $A$。人们可以从 $A$ 出发，先加入 $A$ 的一切子集，再加入所得结果的一切子集，如此等等，并超限地迭代下去，从而在 $A$ 之上构造出一个集合的宇宙 $V(A)$。于是 $V(A)$ 就是带原子的集合论的一个模型。Fraenkel 证明 *AC* 独立性之方法的核心在于这样一个观察：既然原子无法在集合论上被区分，那么原子集 $A$ 的任一置换都会诱导出由 $A$ 构造的集合宇宙 $V(A)$ 的一个保结构置换——一个 **自同构**。这一想法可用来构造集合论的另一个模型 $Sym(V)$——一个 **置换模型** 或 **对称模型**——在其中，由 $A$ 的元素构成的、彼此不交的对所组成的集合没有选择函数。
+      如前所述，1922 年 Fraenkel 证明了 *AC* 相对于一个含有“原子”的集合论系统的独立性。这里所谓 **原子**（atom），指的是一个纯粹的个体，即一个没有成员、却又区别于空集的实体（因此 *a fortiori* 原子不可能是集合）。在带原子的集合论系统中，假定给定了一个由原子构成的无限集 $A$。人们可以从 $A$ 出发，先加入 $A$ 的一切子集，再加入所得结果的一切子集，如此等等，并超限地迭代下去，从而在 $A$ 之上构造出一个集合的宇宙 $V(A)$。于是 $V(A)$ 就是带原子的集合论的一个模型。Fraenkel 证明 *AC* 独立性之方法的核心在于这样一个观察：既然原子无法在集合论上被区分，那么原子集 $A$ 的任一置换都会诱导出由 $A$ 构造的集合宇宙 $V(A)$ 的一个保结构置换——一个 **自同构**。这一想法可用来构造集合论的另一个模型 $Sym(V)$：一个 **置换模型** 或 **对称模型**；在其中，由 $A$ 的元素组成彼此不交的对，再由这些对组成集合，该集合没有选择函数。
   - id: 34
     kind: body
     source: |-
@@ -322,17 +322,17 @@ segments:
     source: |-
       Now suppose $A$ to be partitioned into a (necessarily infinite) mutually disjoint set $P$ of pairs. Take $G$ to be the group of permutations of $A$ which fix all the pairs in $P$. Then $P\in Sym(V)$; it can now be shown that $Sym(V)$ contains no choice function on $P$. For suppose $f$ were a choice function on $P$ and $f \in Sym(V)$. Then $f$ has a finite support which may be taken to be of the form $\{a_{1}, \ldots, a_{n}, b_{1},\ldots,b_{n}\} with each pair \{a_{i}, b_{i}\} \in P$. Since $P$ is infinite, we may select a pair $\{c, d\} = U$ from $P$ different from all the $\{a_{i}, b_{i}\}$. Now we define $\pi \in G$ so that *π* fixes each $a_{i}$ and $b_{i}$ and interchanges $c$ and $d$. Then *π* also fixes $f$. Since $f$ was supposed to be a choice function on $P$, and $U \in P$, we must have $f(U) \in U$, that is, $f(U) = c$ or $f(U) = d$. Since *π* interchanges $c$ and $d$, it follows that $\pi(f(U)) \ne f(U)$. But since *π* is an automorphism, it also preserves function application, so that $\pi(f(U)) = \pi f(\pi(U))$. But $\pi(U) = U$ and $\pi f = f$, whence $\pi(f(U)) = f(U)$. We have duly arrived at a contradiction, showing that the universe $Sym(V)$ contains no choice function on $P$.
     step1: |-
-      现在设 $A$ 被划分成一个（必然无限的）由两两不交的对构成的族 $P$。取 $G$ 为 $A$ 的、固定 $P$ 中所有对的一切置换所构成的群。于是 $P\in Sym(V)$；此时可以证明，$Sym(V)$ 中不含 $P$ 上的任何选择函数。因为，假定 $f$ 是 $P$ 上的一个选择函数且 $f \in Sym(V)$。那么 $f$ 有一个有限支撑，不妨取为形如 $\{a_{1}, \ldots, a_{n}, b_{1},\ldots,b_{n}\}$ 的集合，其中每一对 $\{a_{i}, b_{i}\} \in P$。既然 $P$ 是无限的，我们可以从 $P$ 中选出一对 $\{c, d\} = U$，它不同于所有的 $\{a_{i}, b_{i}\}$。现在我们定义 $\pi \in G$，使 *π* 固定每个 $a_{i}$ 与 $b_{i}$，并互换 $c$ 与 $d$。于是 *π* 也固定 $f$。既然假定 $f$ 是 $P$ 上的选择函数，而 $U \in P$，就必须有 $f(U) \in U$，即 $f(U) = c$ 或 $f(U) = d$。既然 *π* 互换 $c$ 与 $d$，就有 $\pi(f(U)) \ne f(U)$。但 *π* 是自同构，因而也保持函数应用，故 $\pi(f(U)) = \pi f(\pi(U))$。然而 $\pi(U) = U$ 且 $\pi f = f$，于是 $\pi(f(U)) = f(U)$。我们就这样得出了一个矛盾，这表明宇宙 $Sym(V)$ 不含 $P$ 上的任何选择函数。
+      现在设 $A$ 被划分成一个（必然无限的）由彼此不交的对组成的族 $P$。取 $G$ 为 $A$ 的、固定 $P$ 中所有对的一切置换所构成的群。于是 $P\in Sym(V)$；此时可以证明，$Sym(V)$ 中不含 $P$ 上的任何选择函数。因为，假定 $f$ 是 $P$ 上的一个选择函数且 $f \in Sym(V)$。那么 $f$ 有一个有限支撑，不妨取为形如 $\{a_{1}, \ldots, a_{n}, b_{1},\ldots,b_{n}\}$ 的集合，其中每一对 $\{a_{i}, b_{i}\} \in P$。既然 $P$ 是无限的，我们可以从 $P$ 中选出一对 $\{c, d\} = U$，它不同于所有的 $\{a_{i}, b_{i}\}$。现在我们定义 $\pi \in G$，使 *π* 固定每个 $a_{i}$ 与 $b_{i}$，并互换 $c$ 与 $d$。于是 *π* 也固定 $f$。既然假定 $f$ 是 $P$ 上的选择函数，而 $U \in P$，就必须有 $f(U) \in U$，即 $f(U) = c$ 或 $f(U) = d$。既然 *π* 互换 $c$ 与 $d$，就有 $\pi(f(U)) \ne f(U)$。但 *π* 是自同构，因而也保持函数应用，故 $\pi(f(U)) = \pi f(\pi(U))$。然而 $\pi(U) = U$ 且 $\pi f = f$，于是 $\pi(f(U)) = f(U)$。我们就这样得出了一个矛盾，这表明宇宙 $Sym(V)$ 不含 $P$ 上的任何选择函数。
     step2: |-
-      现在设 $A$ 被划分成一个（必然无限的）由两两不交的对构成的族 $P$。取 $G$ 为 $A$ 的、固定 $P$ 中所有对的一切置换所构成的群。于是 $P\in Sym(V)$；此时可以证明，$Sym(V)$ 中不含 $P$ 上的任何选择函数。因为，假定 $f$ 是 $P$ 上的一个选择函数且 $f \in Sym(V)$。那么 $f$ 有一个有限支撑，不妨取为形如 $\{a_{1}, \ldots, a_{n}, b_{1},\ldots,b_{n}\}$ 的集合，其中每一对 $\{a_{i}, b_{i}\} \in P$。既然 $P$ 是无限的，我们可以从 $P$ 中选出一对 $\{c, d\} = U$，它不同于所有的 $\{a_{i}, b_{i}\}$。现在我们定义 $\pi \in G$，使 *π* 固定每个 $a_{i}$ 与 $b_{i}$，并互换 $c$ 与 $d$。于是 *π* 也固定 $f$。既然假定 $f$ 是 $P$ 上的选择函数，而 $U \in P$，就必须有 $f(U) \in U$，即 $f(U) = c$ 或 $f(U) = d$。既然 *π* 互换 $c$ 与 $d$，就有 $\pi(f(U)) \ne f(U)$。但 *π* 是自同构，因而也保持函数应用，故 $\pi(f(U)) = \pi f(\pi(U))$。然而 $\pi(U) = U$ 且 $\pi f = f$，于是 $\pi(f(U)) = f(U)$。我们就这样得出了一个矛盾，这表明宇宙 $Sym(V)$ 不含 $P$ 上的任何选择函数。
+      现在设 $A$ 被划分成一个（必然无限的）由彼此不交的对组成的族 $P$。取 $G$ 为 $A$ 的、固定 $P$ 中所有对的一切置换所构成的群。于是 $P\in Sym(V)$；此时可以证明，$Sym(V)$ 中不含 $P$ 上的任何选择函数。因为，假定 $f$ 是 $P$ 上的一个选择函数且 $f \in Sym(V)$。那么 $f$ 有一个有限支撑，不妨取为形如 $\{a_{1}, \ldots, a_{n}, b_{1},\ldots,b_{n}\}$ 的集合，其中每一对 $\{a_{i}, b_{i}\} \in P$。既然 $P$ 是无限的，我们可以从 $P$ 中选出一对 $\{c, d\} = U$，它不同于所有的 $\{a_{i}, b_{i}\}$。现在我们定义 $\pi \in G$，使 *π* 固定每个 $a_{i}$ 与 $b_{i}$，并互换 $c$ 与 $d$。于是 *π* 也固定 $f$。既然假定 $f$ 是 $P$ 上的选择函数，而 $U \in P$，就必须有 $f(U) \in U$，即 $f(U) = c$ 或 $f(U) = d$。既然 *π* 互换 $c$ 与 $d$，就有 $\pi(f(U)) \ne f(U)$。但 *π* 是自同构，因而也保持函数应用，故 $\pi(f(U)) = \pi f(\pi(U))$。然而 $\pi(U) = U$ 且 $\pi f = f$，于是 $\pi(f(U)) = f(U)$。我们就这样得出了一个矛盾，这表明宇宙 $Sym(V)$ 不含 $P$ 上的任何选择函数。
   - id: 37
     kind: body
     source: |-
       The point here is that for a symmetric function $f$ defined on $P$ there is a finite list $L$ of pairs from $P$ the fixing of all of whose elements suffices to fix $f$, and hence also all the values of $f$. Now, for any pair $U$ in $P$ but not in $L$ , a permutation *π* can always be found which fixes all the elements of the pairs in $L$, but does not fix the members of $U$. Since *π* must fix the value of $f$ at $U$, that value cannot lie in $U$. Therefore $f$ cannot “choose” an element of $U$, so *a fortiori* $f$ cannot be a choice function on $P$.
     step1: |-
-      这里的要点在于：对定义在 $P$ 上的对称函数 $f$，存在一个有限的、由 $P$ 中的对组成的表 $L$，固定其中所有元素就足以固定 $f$，从而也固定 $f$ 的一切值。现在，对 $P$ 中任一不在 $L$ 中的对 $U$，总能找到一个置换 *π*，它固定 $L$ 中各对的所有元素，却不固定 $U$ 的成员。既然 *π* 必须固定 $f$ 在 $U$ 处的值，该值就不可能落在 $U$ 中。因此 $f$ 无法“选择” $U$ 的一个元素，于是 *a fortiori* $f$ 不可能是 $P$ 上的选择函数。
+      这里的要点在于：对定义在 $P$ 上的对称函数 $f$，存在一个有限的、由 $P$ 中的对组成的表 $L$，固定这些对中的所有元素就足以固定 $f$，从而也固定 $f$ 的一切值。现在，对 $P$ 中任一不在 $L$ 中的对 $U$，总能找到一个置换 *π*，它固定 $L$ 中各对的所有元素，却不固定 $U$ 的成员。既然 *π* 必须固定 $f$ 在 $U$ 处的值，该值就不可能落在 $U$ 中。因此 $f$ 无法“选择” $U$ 的一个元素，于是 *a fortiori* $f$ 不可能是 $P$ 上的选择函数。
     step2: |-
-      这里的要点在于：对定义在 $P$ 上的对称函数 $f$，存在一个有限的、由 $P$ 中的对组成的表 $L$，固定其中所有元素就足以固定 $f$，从而也固定 $f$ 的一切值。现在，对 $P$ 中任一不在 $L$ 中的对 $U$，总能找到一个置换 *π*，它固定 $L$ 中各对的所有元素，却不固定 $U$ 的成员。既然 *π* 必须固定 $f$ 在 $U$ 处的值，该值就不可能落在 $U$ 中。因此 $f$ 无法“选择” $U$ 的一个元素，于是 *a fortiori* $f$ 不可能是 $P$ 上的选择函数。
+      这里的要点在于：对定义在 $P$ 上的对称函数 $f$，存在一个有限的、由 $P$ 中的对组成的表 $L$，固定这些对中的所有元素就足以固定 $f$，从而也固定 $f$ 的一切值。现在，对 $P$ 中任一不在 $L$ 中的对 $U$，总能找到一个置换 *π*，它固定 $L$ 中各对的所有元素，却不固定 $U$ 的成员。既然 *π* 必须固定 $f$ 在 $U$ 处的值，该值就不可能落在 $U$ 中。因此 $f$ 无法“选择” $U$ 的一个元素，于是 *a fortiori* $f$ 不可能是 $P$ 上的选择函数。
   - id: 38
     kind: body
     source: |-
@@ -346,9 +346,9 @@ segments:
     source: |-
       Gödel’s proof of the relative consistency of *AC* with the axioms of set theory (see the entry on Kurt Gödel) rests on an entirely different idea: that of *definability*. He introduced a new hierarchy of sets—the *constructible* hierarchy—by analogy with the cumulative type hierarchy. We recall that the latter is defined by the following recursion on the ordinals, where $\sP(X)$ is the power set of $X$, *α* is an ordinal, and *λ* is a limit ordinal::
     step1: |-
-      Gödel 关于 *AC* 相对于集合论公理之相对相容性的证明（见“Kurt Gödel”词条），依据的是一个全然不同的想法：**可定义性**。他仿照累积类型分层，引入了一个新的集合分层——**可构造** 分层。我们记得，后者的定义是如下关于序数的递归，其中 $\mathcal{P}(X)$ 是 $X$ 的幂集，*α* 是序数，*λ* 是极限序数：
+      Gödel 关于 *AC* 相对于集合论公理之相对相容性的证明（见“Kurt Gödel”词条），依据的是一个全然不同的想法：**可定义性**。他仿照累积类型分层，引入了一个新的集合分层——**可构造** 分层。我们记得，后者的定义是如下关于序数的递归，其中 $\mathcal{P}(X)$ 表示 $X$ 的幂集，*α* 是序数，*λ* 是极限序数：
     step2: |-
-      Gödel 关于 *AC* 相对于集合论公理之相对相容性的证明（见“Kurt Gödel”词条），依据的是一个全然不同的想法：**可定义性**。他仿照累积类型分层，引入了一个新的集合分层——**可构造** 分层。我们记得，后者的定义是如下关于序数的递归，其中 $\mathcal{P}(X)$ 是 $X$ 的幂集，*α* 是序数，*λ* 是极限序数：
+      Gödel 关于 *AC* 相对于集合论公理之相对相容性的证明（见“Kurt Gödel”词条），依据的是一个全然不同的想法：**可定义性**。他仿照累积类型分层，引入了一个新的集合分层——**可构造** 分层。我们记得，后者的定义是如下关于序数的递归，其中 $\mathcal{P}(X)$ 表示 $X$ 的幂集，*α* 是序数，*λ* 是极限序数：
   - id: 40
     kind: body
     source: |-
@@ -362,9 +362,9 @@ segments:
     source: |-
       The constructible hierarchy is defined by a similar recursion on the ordinals, where $\Def(X)$ is the set of all subsets of $X$ which are first-order definable in the structure $(X, \in, (x)_{x\in X})$:[^note-7]
     step1: |-
-      可构造分层由关于序数的类似递归定义，其中 $\mathrm{Def}(X)$ 是在结构 $(X, \in, (x)_{x\in X})$ 中一阶可定义的一切 $X$ 的子集所构成的集合：[^note-7]
+      可构造分层由关于序数的类似递归定义，其中 $\mathrm{Def}(X)$ 是在结构 $(X, \in, (x)_{x\in X})$ 中一阶可定义的一切 $X$ 子集构成的集合：[^note-7]
     step2: |-
-      可构造分层由关于序数的类似递归定义，其中 $\mathrm{Def}(X)$ 是在结构 $(X, \in, (x)_{x\in X})$ 中一阶可定义的一切 $X$ 的子集所构成的集合：[^note-7]
+      可构造分层由关于序数的类似递归定义，其中 $\mathrm{Def}(X)$ 是在结构 $(X, \in, (x)_{x\in X})$ 中一阶可定义的一切 $X$ 子集构成的集合：[^note-7]
   - id: 42
     kind: body
     source: |-
@@ -410,17 +410,17 @@ segments:
     source: |-
       To see the connection between the idea of a maximal element and *AC*, let us return to the latter’s formulation **AC2** in terms of indexed sets. Accordingly suppose we are given an indexed family of nonempty sets $\sA = \{A_{i}:i \in I\}.$ Let us define a *potential choice function* on $\sA$ to be a function $f$ whose domain is a subset of $I$ such that $f(i) \in A_{i}$ for all $i\in J$. (Here the use of the qualifier *potential* is suggested by the fact that the domain is a subset of $I$; recall that a choice function $f$ on $\sA$ has the same properties as what we are now calling potential choice functions except that the domain of $f$ is required to be all of $I$, not just a subset.) The set $P$ of potential choice functions on $\sA$ can be partially ordered by inclusion: we agree that, for potential choice functions $f, g \in P$, the relation $f \le g$ holds provided that the domain of $f$ is included in that of $g$ and the value of $f$ at an element of its domain coincides with the value of $g$ there. It is now easy to see that the maximal elements of $P$ with respect to the partial ordering $\le$ are precisely the choice functions on $\sA$.
     step1: |-
-      要看出极大元概念与 *AC* 之间的联系，让我们回到后者用索引集表述的形式 **AC2**。据此，假定给定一个由非空集构成的索引集族 $\mathcal{A} = \{A_{i}:i \in I\}.$ 我们称 $\mathcal{A}$ 上的一个 **潜在选择函数** 为这样一个函数 $f$：其定义域是 $I$ 的子集，且对所有 $i\in J$ 都有 $f(i) \in A_{i}$。（这里使用 **潜在** 这一限定语，是因为定义域是 $I$ 的子集；回想一下，$\mathcal{A}$ 上的选择函数 $f$ 具有与我们现在称为潜在选择函数的那些函数相同的性质，只不过要求 $f$ 的定义域是整个 $I$，而不只是一个子集。）$\mathcal{A}$ 上潜在选择函数的集合 $P$ 可按包含关系偏序化：我们约定，对潜在选择函数 $f, g \in P$，关系 $f \le g$ 成立，当且仅当 $f$ 的定义域包含于 $g$ 的定义域，且 $f$ 在其定义域某个元素处的值与 $g$ 在该处的值一致。现在容易看出，$P$ 关于偏序 $\le$ 的极大元恰恰就是 $\mathcal{A}$ 上的选择函数。
+      要看出极大元概念与 *AC* 之间的联系，让我们回到后者用索引集表述的形式 **AC2**。据此，假定给定一个由非空集构成的索引集族 $\mathcal{A} = \{A_{i}:i \in I\}.$ 我们称这样一个函数 $f$ 为 $\mathcal{A}$ 上的一个 **潜在选择函数**：其定义域是 $I$ 的子集，且对所有 $i\in \operatorname{dom}(f)$ 都有 $f(i) \in A_{i}$。（这里使用 **潜在** 这一限定语，是因为定义域是 $I$ 的子集；回想一下，$\mathcal{A}$ 上的选择函数 $f$ 其性质与我们现在所称的潜在选择函数相同，只不过要求 $f$ 的定义域是整个 $I$，而不只是一个子集。）$\mathcal{A}$ 上潜在选择函数的集合 $P$ 可按包含关系偏序化。我们约定，对潜在选择函数 $f, g \in P$，关系 $f \le g$ 成立，当且仅当 $f$ 的定义域包含于 $g$ 的定义域，且 $f$ 在其定义域某个元素处的值与 $g$ 在该处的值一致。现在容易看出，$P$ 关于偏序 $\le$ 的极大元恰恰就是 $\mathcal{A}$ 上的选择函数。
     step2: |-
-      要看出极大元概念与 *AC* 之间的联系，让我们回到后者用索引集表述的形式 **AC2**。据此，假定给定一个由非空集构成的索引集族 $\mathcal{A} = \{A_{i}:i \in I\}.$ 我们称 $\mathcal{A}$ 上的一个 **潜在选择函数** 为这样一个函数 $f$：其定义域是 $I$ 的子集，且对所有 $i\in J$ 都有 $f(i) \in A_{i}$。（这里使用 **潜在** 这一限定语，是因为定义域是 $I$ 的子集；回想一下，$\mathcal{A}$ 上的选择函数 $f$ 具有与我们现在称为潜在选择函数的那些函数相同的性质，只不过要求 $f$ 的定义域是整个 $I$，而不只是一个子集。）$\mathcal{A}$ 上潜在选择函数的集合 $P$ 可按包含关系偏序化：我们约定，对潜在选择函数 $f, g \in P$，关系 $f \le g$ 成立，当且仅当 $f$ 的定义域包含于 $g$ 的定义域，且 $f$ 在其定义域某个元素处的值与 $g$ 在该处的值一致。现在容易看出，$P$ 关于偏序 $\le$ 的极大元恰恰就是 $\mathcal{A}$ 上的选择函数。
+      要看出极大元概念与 *AC* 之间的联系，让我们回到后者用索引集表述的形式 **AC2**。据此，假定给定一个由非空集构成的索引集族 $\mathcal{A} = \{A_{i}:i \in I\}.$ 我们称这样一个函数 $f$ 为 $\mathcal{A}$ 上的一个 **潜在选择函数**：其定义域是 $I$ 的子集，且对所有 $i\in \operatorname{dom}(f)$ 都有 $f(i) \in A_{i}$。（这里使用 **潜在** 这一限定语，是因为定义域是 $I$ 的子集；回想一下，$\mathcal{A}$ 上的选择函数 $f$ 其性质与我们现在所称的潜在选择函数相同，只不过要求 $f$ 的定义域是整个 $I$，而不只是一个子集。）$\mathcal{A}$ 上潜在选择函数的集合 $P$ 可按包含关系偏序化。我们约定，对潜在选择函数 $f, g \in P$，关系 $f \le g$ 成立，当且仅当 $f$ 的定义域包含于 $g$ 的定义域，且 $f$ 在其定义域某个元素处的值与 $g$ 在该处的值一致。现在容易看出，$P$ 关于偏序 $\le$ 的极大元恰恰就是 $\mathcal{A}$ 上的选择函数。
   - id: 48
     kind: body
     source: |-
       *Zorn’s Lemma* is the best-known principle ensuring the existence of such maximal elements. To state it, we need a few definitions. Given a partially ordered set $(P, \le)$, an *upper bound* for a subset $X$ of $P$ is an element $a\in P$ for which $x\le a$ for every $x\in X$; a *maximal element* of $P$ may then be defined as an element $a$ for which the set of upper bounds of $\{a\}$ coincides with $\{a\}$, which essentially means that no element of $P$ is strictly larger than $a$. A *chain* in $(P,\le)$ is a subset $C$ of $P$ such that, for any $x$, $y\in P$, either $x\le y$ or $y\le x$. $P$ is said to be *inductive* if every chain in $P$ has an upper bound. Now Zorn’s Lemma asserts:
     step1: |-
-      **佐恩引理** 是确保这类极大元存在的最著名原则。要陈述它，我们需要一些定义。给定偏序集 $(P, \le)$，$P$ 的子集 $X$ 的 **上界** 是这样一个元素 $a\in P$：对每个 $x\in X$ 都有 $x\le a$；于是 $P$ 的 **极大元** 可以定义为这样一个元素 $a$：$\{a\}$ 的上界集与 $\{a\}$ 重合，这实质上意味着 $P$ 中没有元素严格大于 $a$。$(P,\le)$ 中的 **链** 是 $P$ 的一个子集 $C$，使得对任意的 $x$、$y\in P$，或者 $x\le y$，或者 $y\le x$。若 $P$ 中每条链都有上界，则称 $P$ 是 **归纳的**。现在，佐恩引理断言：
+      **佐恩引理** 是确保这类极大元存在的最著名原则。要陈述它，我们需要一些定义。给定偏序集 $(P, \le)$，$P$ 的子集 $X$ 的 **上界** 是这样一个元素 $a\in P$：对每个 $x\in X$ 都有 $x\le a$；于是 $P$ 的 **极大元** 可以定义为这样一个元素 $a$：$\{a\}$ 的上界集与 $\{a\}$ 重合，这实质上意味着 $P$ 中没有元素严格大于 $a$。$(P,\le)$ 中的 **链** 指 $P$ 的子集 $C$，使得对任意的 $x$、$y\in C$，或者 $x\le y$，或者 $y\le x$。若 $P$ 中每条链都有上界，则称 $P$ 是 **归纳的**。现在，佐恩引理断言：
     step2: |-
-      **佐恩引理** 是确保这类极大元存在的最著名原则。要陈述它，我们需要一些定义。给定偏序集 $(P, \le)$，$P$ 的子集 $X$ 的 **上界** 是这样一个元素 $a\in P$：对每个 $x\in X$ 都有 $x\le a$；于是 $P$ 的 **极大元** 可以定义为这样一个元素 $a$：$\{a\}$ 的上界集与 $\{a\}$ 重合，这实质上意味着 $P$ 中没有元素严格大于 $a$。$(P,\le)$ 中的 **链** 是 $P$ 的一个子集 $C$，使得对任意的 $x$、$y\in P$，或者 $x\le y$，或者 $y\le x$。若 $P$ 中每条链都有上界，则称 $P$ 是 **归纳的**。现在，佐恩引理断言：
+      **佐恩引理** 是确保这类极大元存在的最著名原则。要陈述它，我们需要一些定义。给定偏序集 $(P, \le)$，$P$ 的子集 $X$ 的 **上界** 是这样一个元素 $a\in P$：对每个 $x\in X$ 都有 $x\le a$；于是 $P$ 的 **极大元** 可以定义为这样一个元素 $a$：$\{a\}$ 的上界集与 $\{a\}$ 重合，这实质上意味着 $P$ 中没有元素严格大于 $a$。$(P,\le)$ 中的 **链** 指 $P$ 的子集 $C$，使得对任意的 $x$、$y\in C$，或者 $x\le y$，或者 $y\le x$。若 $P$ 中每条链都有上界，则称 $P$ 是 **归纳的**。现在，佐恩引理断言：
   - id: 49
     kind: body
     source: |-
@@ -466,9 +466,9 @@ segments:
     source: |-
       **CAC** can be derived from **ZL** in a way echoing the “combinatorial” justification of **CAC** sketched above. Accordingly suppose we are given a family $\sH$ of mutually disjoint nonempty sets; call a subset $S \subseteq \bigcup \sH$ a *sampling* for $\sH$ if, for any $X\in \sH$, either $X \subseteq S$ or $S \cap X$ is nonempty and finite. Minimal samplings are precisely transversals for $\sH$;[^note-11] and the collection $\sT$ of samplings is clearly nonempty since it contains $\bigcup \sH$. So if it can be shown that $\sT$ is strongly reductive,[^note-12] Zorn’s lemma will yield a minimal element of $\sT$ and so a transversal for $\sH$. The strong reductiveness of $\sT$ may be seen as follows: suppose that $\{S_{i}: i\in I\}$ is a nest of samplings; let $S = {\bigcap}_{i\in I} S_{i}$. We need to show that $S$ is itself a sampling; to this end let $X \in \sH$ and suppose $\neg(X \subseteq S)$. Then there is $i \in I$ for which $\neg(X \subseteq S_{i})$; since $S_{i}$ is a sampling, $S_{i}\cap X$ is finite and nonempty, say $S_{i}\cap X = \{x_{1}, \ldots, x_{n}\}$. Clearly $S\cap X$ is then finite; suppose for the sake of contradiction that $S\cap X = \varnothing$. Then for each $k = 1,\ldots,n$ there is $i_k \in I$ for which $\neg(x_k \in S_{i_k})$. It follows that $\neg(S_{i} \subseteq S_{i_k})$, for $k = 1, \ldots, n$. So, since the $S_{i}$ form a chain, each $S_{i_k}$ is a subset of $S_{i}$. Let $S_{j}$ be the least of $S_{i_1},\ldots, S_{i_k}$; then $S_{j}\subseteq S_{i}$. But since $\neg(x_{k} \in S_{j})$, for $k = 1, \ldots, n$, it now follows that $S_{j} \cap X = \varnothing$, contradicting the fact that $S_{j}$ is a sampling. Therefore $S \cap X\ne \varnothing$; and $S$ is a sampling as claimed.
     step1: |-
-      **CAC** 可以从 **ZL** 推出，其方式与上文勾勒的 **CAC** 的“组合”辩护相呼应。据此，假定给定一个由两两不交的非空集构成的族 $\mathcal{H}$；称子集 $S \subseteq \bigcup \mathcal{H}$ 为 $\mathcal{H}$ 的一个 **采样**，如果对任一 $X\in \mathcal{H}$，或者 $X \subseteq S$，或者 $S \cap X$ 非空且有限。极小采样恰恰就是 $\mathcal{H}$ 的横截集；[^note-11] 而采样构成的族 $\mathcal{T}$ 显然非空，因为它包含 $\bigcup \mathcal{H}$。因此，若能证明 $\mathcal{T}$ 是强归约的，[^note-12] 佐恩引理就将给出 $\mathcal{T}$ 的一个极小元，从而是 $\mathcal{H}$ 的一个横截集。$\mathcal{T}$ 的强归约性可以这样看出：设 $\{S_{i}: i\in I\}$ 是一个由采样构成的巢；令 $S = {\bigcap}_{i\in I} S_{i}$。我们需要证明 $S$ 本身是一个采样；为此设 $X \in \mathcal{H}$，并假定 $\neg(X \subseteq S)$。则存在 $i \in I$ 使 $\neg(X \subseteq S_{i})$；既然 $S_{i}$ 是采样，$S_{i}\cap X$ 有限且非空，比如 $S_{i}\cap X = \{x_{1}, \ldots, x_{n}\}$。显然此时 $S\cap X$ 是有限的；为导出矛盾，假定 $S\cap X = \varnothing$。那么对每个 $k = 1,\ldots,n$，存在 $i_k \in I$ 使 $\neg(x_k \in S_{i_k})$。由此可知 $\neg(S_{i} \subseteq S_{i_k})$，对 $k = 1, \ldots, n$。因此，既然这些 $S_{i}$ 构成链，每个 $S_{i_k}$ 都是 $S_{i}$ 的子集。令 $S_{j}$ 为 $S_{i_1},\ldots, S_{i_k}$ 中最小的一个；则 $S_{j}\subseteq S_{i}$。但既然 $\neg(x_{k} \in S_{j})$ 对 $k = 1, \ldots, n$ 成立，此时就推出 $S_{j} \cap X = \varnothing$，这与 $S_{j}$ 是采样这一事实矛盾。因此 $S \cap X\ne \varnothing$；故 $S$ 如所断言是一个采样。
+      **CAC** 可以从 **ZL** 推出，其方式与上文勾勒的 **CAC** 的“组合”辩护相呼应。据此，假定给定一个由两两不交的非空集构成的族 $\mathcal{H}$；称子集 $S \subseteq \bigcup \mathcal{H}$ 为 $\mathcal{H}$ 的一个 **采样**，如果对任一 $X\in \mathcal{H}$，或者 $X \subseteq S$，或者 $S \cap X$ 非空且有限。极小采样恰恰就是 $\mathcal{H}$ 的横截集；[^note-11] 而采样构成的族 $\mathcal{T}$ 显然非空，因为它包含 $\bigcup \mathcal{H}$。因此，若能证明 $\mathcal{T}$ 是强归约的，[^note-12] 佐恩引理就将给出 $\mathcal{T}$ 的一个极小元，从而是 $\mathcal{H}$ 的一个横截集。$\mathcal{T}$ 的强归约性可以这样看出：设 $\{S_{i}: i\in I\}$ 是一个由采样构成的巢；令 $S = {\bigcap}_{i\in I} S_{i}$。我们需要证明 $S$ 本身是一个采样；为此设 $X \in \mathcal{H}$，并假定 $\neg(X \subseteq S)$。则存在 $i \in I$ 使 $\neg(X \subseteq S_{i})$；既然 $S_{i}$ 是采样，$S_{i}\cap X$ 有限且非空，比如 $S_{i}\cap X = \{x_{1}, \ldots, x_{n}\}$。显然此时 $S\cap X$ 是有限的；为导出矛盾，假定 $S\cap X = \varnothing$。那么对每个 $k = 1,\ldots,n$，存在 $i_k \in I$ 使 $\neg(x_k \in S_{i_k})$。由此可知 $\neg(S_{i} \subseteq S_{i_k})$，对 $k = 1, \ldots, n$。因此，既然这些 $S_{i}$ 构成链，每个 $S_{i_k}$ 都是 $S_{i}$ 的子集。令 $S_{j}$ 为 $S_{i_1},\ldots, S_{i_n}$ 中最小的一个；则 $S_{j}\subseteq S_{i}$。但既然 $\neg(x_{k} \in S_{j})$ 对 $k = 1, \ldots, n$ 成立，此时就推出 $S_{j} \cap X = \varnothing$，这与 $S_{j}$ 是采样这一事实矛盾。因此 $S \cap X\ne \varnothing$；故 $S$ 如所断言是一个采样。
     step2: |-
-      **CAC** 可以从 **ZL** 推出，其方式与上文勾勒的 **CAC** 的“组合”辩护相呼应。据此，假定给定一个由两两不交的非空集构成的族 $\mathcal{H}$；称子集 $S \subseteq \bigcup \mathcal{H}$ 为 $\mathcal{H}$ 的一个 **采样**，如果对任一 $X\in \mathcal{H}$，或者 $X \subseteq S$，或者 $S \cap X$ 非空且有限。极小采样恰恰就是 $\mathcal{H}$ 的横截集；[^note-11] 而采样构成的族 $\mathcal{T}$ 显然非空，因为它包含 $\bigcup \mathcal{H}$。因此，若能证明 $\mathcal{T}$ 是强归约的，[^note-12] 佐恩引理就将给出 $\mathcal{T}$ 的一个极小元，从而是 $\mathcal{H}$ 的一个横截集。$\mathcal{T}$ 的强归约性可以这样看出：设 $\{S_{i}: i\in I\}$ 是一个由采样构成的巢；令 $S = {\bigcap}_{i\in I} S_{i}$。我们需要证明 $S$ 本身是一个采样；为此设 $X \in \mathcal{H}$，并假定 $\neg(X \subseteq S)$。则存在 $i \in I$ 使 $\neg(X \subseteq S_{i})$；既然 $S_{i}$ 是采样，$S_{i}\cap X$ 有限且非空，比如 $S_{i}\cap X = \{x_{1}, \ldots, x_{n}\}$。显然此时 $S\cap X$ 是有限的；为导出矛盾，假定 $S\cap X = \varnothing$。那么对每个 $k = 1,\ldots,n$，存在 $i_k \in I$ 使 $\neg(x_k \in S_{i_k})$。由此可知 $\neg(S_{i} \subseteq S_{i_k})$，对 $k = 1, \ldots, n$。因此，既然这些 $S_{i}$ 构成链，每个 $S_{i_k}$ 都是 $S_{i}$ 的子集。令 $S_{j}$ 为 $S_{i_1},\ldots, S_{i_k}$ 中最小的一个；则 $S_{j}\subseteq S_{i}$。但既然 $\neg(x_{k} \in S_{j})$ 对 $k = 1, \ldots, n$ 成立，此时就推出 $S_{j} \cap X = \varnothing$，这与 $S_{j}$ 是采样这一事实矛盾。因此 $S \cap X\ne \varnothing$；故 $S$ 如所断言是一个采样。
+      **CAC** 可以从 **ZL** 推出，其方式与上文勾勒的 **CAC** 的“组合”辩护相呼应。据此，假定给定一个由两两不交的非空集构成的族 $\mathcal{H}$；称子集 $S \subseteq \bigcup \mathcal{H}$ 为 $\mathcal{H}$ 的一个 **采样**，如果对任一 $X\in \mathcal{H}$，或者 $X \subseteq S$，或者 $S \cap X$ 非空且有限。极小采样恰恰就是 $\mathcal{H}$ 的横截集；[^note-11] 而采样构成的族 $\mathcal{T}$ 显然非空，因为它包含 $\bigcup \mathcal{H}$。因此，若能证明 $\mathcal{T}$ 是强归约的，[^note-12] 佐恩引理就将给出 $\mathcal{T}$ 的一个极小元，从而是 $\mathcal{H}$ 的一个横截集。$\mathcal{T}$ 的强归约性可以这样看出：设 $\{S_{i}: i\in I\}$ 是一个由采样构成的巢；令 $S = {\bigcap}_{i\in I} S_{i}$。我们需要证明 $S$ 本身是一个采样；为此设 $X \in \mathcal{H}$，并假定 $\neg(X \subseteq S)$。则存在 $i \in I$ 使 $\neg(X \subseteq S_{i})$；既然 $S_{i}$ 是采样，$S_{i}\cap X$ 有限且非空，比如 $S_{i}\cap X = \{x_{1}, \ldots, x_{n}\}$。显然此时 $S\cap X$ 是有限的；为导出矛盾，假定 $S\cap X = \varnothing$。那么对每个 $k = 1,\ldots,n$，存在 $i_k \in I$ 使 $\neg(x_k \in S_{i_k})$。由此可知 $\neg(S_{i} \subseteq S_{i_k})$，对 $k = 1, \ldots, n$。因此，既然这些 $S_{i}$ 构成链，每个 $S_{i_k}$ 都是 $S_{i}$ 的子集。令 $S_{j}$ 为 $S_{i_1},\ldots, S_{i_n}$ 中最小的一个；则 $S_{j}\subseteq S_{i}$。但既然 $\neg(x_{k} \in S_{j})$ 对 $k = 1, \ldots, n$ 成立，此时就推出 $S_{j} \cap X = \varnothing$，这与 $S_{j}$ 是采样这一事实矛盾。因此 $S \cap X\ne \varnothing$；故 $S$ 如所断言是一个采样。
   - id: 55
     kind: body
     source: |-
@@ -646,13 +646,13 @@ segments:
     step1: |-
       - **吉洪诺夫定理**（1930）：紧致拓扑空间的积是紧致的。这一点在 Kelley 1950 中被证明等价于 *AC*。但对紧致豪斯多夫空间，它等价于 **BPI**（见下文），因而弱于 *AC*。
       - **勒文海姆—斯科伦—塔斯基定理**（Löwenheim 1915, Skolem 1920, Tarski and Vaught 1957）[^tarski-1957]：具有无限基数 *κ* 之模型的一阶语句，也具有任一满足 $\mu \le \kappa$ 的无限基数 *μ* 之模型。Tarski 证明了它等价于 *AC*。
-      - **克莱因—米尔曼定理**：实赋范线性空间的对偶空间的单位球 $B$ 有一个极点，即一个不是 $B$ 中任何线段内点的点。这一点在 Bell and Fremlin 1972a 中被证明等价于 *AC*。该文表明，给定任一由非空集构成的索引族 $\mathcal{A}$，$\mathcal{A}$ 上的选择函数与由 $\mathcal{A}$ 构造的某个实赋范线性空间之对偶的单位球的极点之间存在自然的双射。
+      - **克莱因—米尔曼定理**：实赋范线性空间的对偶空间的单位球 $B$ 有一个极点，即一个不是 $B$ 中任何线段内点的点。这一点在 Bell and Fremlin 1972a 中被证明等价于 *AC*。该文表明，给定任一非空集构成的索引族 $\mathcal{A}$，$\mathcal{A}$ 上的选择函数与由 $\mathcal{A}$ 构造出的某个实赋范线性空间之对偶的单位球的极点之间存在自然的双射。
       - 每个分配格都有极大理想。这一点在 Klimovsky 1958 中被证明等价于 *AC*；对由集合构成的格的情形则在 Bell and Fremlin 1972 中得到证明。
       - 每个含单位元的交换环都有极大理想。Hodges 1979 证明了它等价于 *AC*。
     step2: |-
       - **吉洪诺夫定理**（1930）：紧致拓扑空间的积是紧致的。这一点在 Kelley 1950 中被证明等价于 *AC*。但对紧致豪斯多夫空间，它等价于 **BPI**（见下文），因而弱于 *AC*。
       - **勒文海姆—斯科伦—塔斯基定理**（Löwenheim 1915, Skolem 1920, Tarski and Vaught 1957）[^tarski-1957]：具有无限基数 *κ* 之模型的一阶语句，也具有任一满足 $\mu \le \kappa$ 的无限基数 *μ* 之模型。Tarski 证明了它等价于 *AC*。
-      - **克莱因—米尔曼定理**：实赋范线性空间的对偶空间的单位球 $B$ 有一个极点，即一个不是 $B$ 中任何线段内点的点。这一点在 Bell and Fremlin 1972a 中被证明等价于 *AC*。该文表明，给定任一由非空集构成的索引族 $\mathcal{A}$，$\mathcal{A}$ 上的选择函数与由 $\mathcal{A}$ 构造的某个实赋范线性空间之对偶的单位球的极点之间存在自然的双射。
+      - **克莱因—米尔曼定理**：实赋范线性空间的对偶空间的单位球 $B$ 有一个极点，即一个不是 $B$ 中任何线段内点的点。这一点在 Bell and Fremlin 1972a 中被证明等价于 *AC*。该文表明，给定任一非空集构成的索引族 $\mathcal{A}$，$\mathcal{A}$ 上的选择函数与由 $\mathcal{A}$ 构造出的某个实赋范线性空间之对偶的单位球的极点之间存在自然的双射。
       - 每个分配格都有极大理想。这一点在 Klimovsky 1958 中被证明等价于 *AC*；对由集合构成的格的情形则在 Bell and Fremlin 1972 中得到证明。
       - 每个含单位元的交换环都有极大理想。Hodges 1979 证明了它等价于 *AC*。
   - id: 73
@@ -693,9 +693,9 @@ segments:
     source: |-
       - **The Sikorski Extension Theorem for Boolean algebras** (Sikorski 1949): every complete Boolean algebra is injective, i.e., for any Boolean algebra $A$ and any complete Boolean algebra $B$, any homomorphism of a subalgebra of $A$ into $B$ can be extended to the whole of $A$.
     step1: |-
-      - **布尔代数的西科尔斯基扩张定理**（Sikorski 1949）：每个完备布尔代数都是内射的，即对任一布尔代数 $A$ 与任一完备布尔代数 $B$，从 $A$ 的子代数到 $B$ 的任一同态都可扩张到整个 $A$ 上。
+      - **布尔代数的西科尔斯基扩张定理**（Sikorski 1949）①：每个完备布尔代数都是内射的，即对任一布尔代数 $A$ 与任一完备布尔代数 $B$，从 $A$ 的子代数到 $B$ 的任一同态都可扩张到整个 $A$ 上。
     step2: |-
-      - **布尔代数的西科尔斯基扩张定理**（Sikorski 1949）：每个完备布尔代数都是内射的，即对任一布尔代数 $A$ 与任一完备布尔代数 $B$，从 $A$ 的子代数到 $B$ 的任一同态都可扩张到整个 $A$ 上。
+      - **布尔代数的西科尔斯基扩张定理**（Sikorski 1949）①：每个完备布尔代数都是内射的，即对任一布尔代数 $A$ 与任一完备布尔代数 $B$，从 $A$ 的子代数到 $B$ 的任一同态都可扩张到整个 $A$ 上。
   - id: 77
     kind: body
     source: |-
@@ -915,33 +915,33 @@ segments:
     source: |-
       The fact that the Axiom of Choice implies Excluded Middle seems at first sight to be at variance with the fact that the former is often taken as a *valid* principle in systems of constructive mathematics governed by intuitionistic logic, e.g. Bishop’s Constructive Analysis[^note-16] and Martin-Löf’s Constructive Type Theory[^note-17], in which Excluded Middle is not affirmed. In Bishop’s words, “A choice function exists in constructive mathematics because a choice is *implied by the very meaning of existence*.” Thus, for example, the antecedent $\forall x \exists y \phi(x,y)$ of **ACL**, given a constructive construal, just *means* that we have a procedure which, applied to each $x$, yields a $y$ for which $\phi(x, y)$. But this is precisely what is expressed by the consequent $\exists f \forall x \phi(x,fx)$ of **ACL**.
     step1: |-
-      选择公理蕴涵排中律这一事实，初看似乎与下述事实相左：在受直觉主义逻辑支配的构造性数学系统——例如比肖普的《构造性分析》[^note-16] 与马丁-洛夫的构造性类型论[^note-17]——中，前者常被视为一条 **有效** 原理，而这些系统并不肯定排中律。用比肖普的话说：“在构造性数学中，选择函数存在，因为选择 **正是由存在的意义本身所蕴涵的**。”因此，举例来说，**ACL** 的前件 $\forall x \exists y \phi(x,y)$，在作构造性解读时，恰恰 **意味着** 我们有一个程序，把它施用于每个 $x$，就产生一个使 $\phi(x, y)$ 成立的 $y$。而这正是 **ACL** 的后件 $\exists f \forall x \phi(x,fx)$ 所表达的东西。
+      选择公理蕴涵排中律这一事实，初看似乎与下述事实相左。在受直觉主义逻辑支配的构造性数学系统——例如比肖普的《构造性分析》[^note-16] 与马丁-洛夫的构造性类型论[^note-17]——中，前者常被视为一条 **有效** 原理，而这些系统并不肯定排中律。用比肖普的话说：“在构造性数学中，选择函数存在，因为选择 **正是由存在的意义本身所蕴涵的**。”因此，举例来说，**ACL** 的前件 $\forall x \exists y \phi(x,y)$，在作构造性解读时，恰恰 **意味着** 我们有一个程序，把它施用于每个 $x$，就产生一个使 $\phi(x, y)$ 成立的 $y$。而这正是 **ACL** 的后件 $\exists f \forall x \phi(x,fx)$ 所表达的东西。
     step2: |-
-      选择公理蕴涵排中律这一事实，初看似乎与下述事实相左：在受直觉主义逻辑支配的构造性数学系统——例如比肖普的《构造性分析》[^note-16] 与马丁-洛夫的构造性类型论[^note-17]——中，前者常被视为一条 **有效** 原理，而这些系统并不肯定排中律。用比肖普的话说：“在构造性数学中，选择函数存在，因为选择 **正是由存在的意义本身所蕴涵的**。”因此，举例来说，**ACL** 的前件 $\forall x \exists y \phi(x,y)$，在作构造性解读时，恰恰 **意味着** 我们有一个程序，把它施用于每个 $x$，就产生一个使 $\phi(x, y)$ 成立的 $y$。而这正是 **ACL** 的后件 $\exists f \forall x \phi(x,fx)$ 所表达的东西。
+      选择公理蕴涵排中律这一事实，初看似乎与下述事实相左。在受直觉主义逻辑支配的构造性数学系统——例如比肖普的《构造性分析》[^note-16] 与马丁-洛夫的构造性类型论[^note-17]——中，前者常被视为一条 **有效** 原理，而这些系统并不肯定排中律。用比肖普的话说：“在构造性数学中，选择函数存在，因为选择 **正是由存在的意义本身所蕴涵的**。”因此，举例来说，**ACL** 的前件 $\forall x \exists y \phi(x,y)$，在作构造性解读时，恰恰 **意味着** 我们有一个程序，把它施用于每个 $x$，就产生一个使 $\phi(x, y)$ 成立的 $y$。而这正是 **ACL** 的后件 $\exists f \forall x \phi(x,fx)$ 所表达的东西。
   - id: 104
     kind: body
     source: |-
       To resolve the difficulty, we note that in deriving Excluded Middle from **ACL1** essential use was made of the principles of Predicative Comprehension and Extensionality of Functions[^note-18]. It follows that, in systems of constructive mathematics affirming **AC** (but not Excluded Middle) *either the principle of Predicative Comprehension or the principle of Extensionality of Functions must fail*. While the principle of Predicative Comprehension can be given a constructive justification, no such justification can be provided for the principle of Extensionality of Functions. Functions on predicates are given intensionally, and satisfy just the corresponding principle of Intensionality $\forall X \forall Y \forall F[X = Y \rightarrow FX = FY]$. The principle of Extensionality can easily be made to fail by considering, for example, the predicates $P$: *rational featherless biped* and $Q$: *human being* and the function $K$ on predicates which assigns to each predicate the number of words in its description. Then we can agree that $P \approx Q$ but $KP = 3$ and $KQ = 2$.
     step1: |-
-      为化解这一困难，我们注意到，从 **AC1L** 推导排中律时，本质地使用了直谓概括原理与函数的外延性原理[^note-18]。由此可知，在肯定 **AC**（但不肯定排中律）的构造性数学系统中，**要么直谓概括原理失效，要么函数的外延性原理失效**。直谓概括原理尚可给出构造性的证成，而函数的外延性原理却无法得到这样的证成。谓词上的函数是内涵地给出的，只满足相应的内涵性原理 $\forall X \forall Y \forall F[X = Y \rightarrow FX = FY]$。外延性原理很容易被弄成失效：例如考虑谓词 $P$：**有理性、无羽的两足动物** 与 $Q$：**人**，以及定义在谓词上的函数 $K$，它给每个谓词指派其描述中的词数。于是我们可以同意 $P \approx Q$，但 $KP = 3$ 而 $KQ = 2$。
+      为化解这一困难，我们注意到，从 **AC1L** 推导排中律时，本质地使用了直谓概括原理与函数的外延性原理[^note-18]。由此可知，在肯定 **AC**（但不肯定排中律）的构造性数学系统中，**要么直谓概括原理失效，要么函数的外延性原理失效**。直谓概括原理尚可得到构造性证成，函数的外延性原理却无法如此。谓词上的函数按内涵给出，只满足相应的内涵性原理 $\forall X \forall Y \forall F[X = Y \rightarrow FX = FY]$。很容易构造出使外延性原理失效的实例：例如考虑谓词 $P$：**有理性的、无羽毛的两足动物** 与 $Q$：**人**，以及定义在谓词上的函数 $K$，它给每个谓词指派其描述中的词数。于是我们可以同意 $P \approx Q$，但 $KP = 3$ 而 $KQ = 2$。
     step2: |-
-      为化解这一困难，我们注意到，从 **AC1L** 推导排中律时，本质地使用了直谓概括原理与函数的外延性原理[^note-18]。由此可知，在肯定 **AC**（但不肯定排中律）的构造性数学系统中，**要么直谓概括原理失效，要么函数的外延性原理失效**。直谓概括原理尚可给出构造性的证成，而函数的外延性原理却无法得到这样的证成。谓词上的函数是内涵地给出的，只满足相应的内涵性原理 $\forall X \forall Y \forall F[X = Y \rightarrow FX = FY]$。外延性原理很容易被弄成失效：例如考虑谓词 $P$：**有理性、无羽的两足动物** 与 $Q$：**人**，以及定义在谓词上的函数 $K$，它给每个谓词指派其描述中的词数。于是我们可以同意 $P \approx Q$，但 $KP = 3$ 而 $KQ = 2$。
+      为化解这一困难，我们注意到，从 **AC1L** 推导排中律时，本质地使用了直谓概括原理与函数的外延性原理[^note-18]。由此可知，在肯定 **AC**（但不肯定排中律）的构造性数学系统中，**要么直谓概括原理失效，要么函数的外延性原理失效**。直谓概括原理尚可得到构造性证成，函数的外延性原理却无法如此。谓词上的函数按内涵给出，只满足相应的内涵性原理 $\forall X \forall Y \forall F[X = Y \rightarrow FX = FY]$。很容易构造出使外延性原理失效的实例：例如考虑谓词 $P$：**有理性的、无羽毛的两足动物** 与 $Q$：**人**，以及定义在谓词上的函数 $K$，它给每个谓词指派其描述中的词数。于是我们可以同意 $P \approx Q$，但 $KP = 3$ 而 $KQ = 2$。
   - id: 105
     kind: body
     source: |-
       In intuitionistic set theory (that is, set theory based on intuitionistic as opposed to classical logic—we shall abbreviate this as **IST**) and in topos theory the principles of Predicative Comprehension and Extensionality of Functions (both appropriately construed) hold and so there **AC** implies Excluded Middle.[^note-19] ^{,} [^note-20]
     step1: |-
-      在直觉主义集合论（即以直觉主义逻辑而非经典逻辑为基础的集合论——我们将其缩写为 **IST**）与拓扑斯理论中，直谓概括原理与函数的外延性原理（两者都作适当解读）成立，因此在其中 **AC** 蕴涵排中律。[^note-19][^note-20]
+      在直觉主义集合论（以直觉主义逻辑而非经典逻辑为基础，缩写为 **IST**）与拓扑斯理论中，直谓概括原理与函数的外延性原理（两者都作适当解读）成立，因此在其中 **AC** 蕴涵排中律。[^note-19][^note-20]
     step2: |-
-      在直觉主义集合论（即以直觉主义逻辑而非经典逻辑为基础的集合论——我们将其缩写为 **IST**）与拓扑斯理论中，直谓概括原理与函数的外延性原理（两者都作适当解读）成立，因此在其中 **AC** 蕴涵排中律。[^note-19][^note-20]
+      在直觉主义集合论（以直觉主义逻辑而非经典逻辑为基础，缩写为 **IST**）与拓扑斯理论中，直谓概括原理与函数的外延性原理（两者都作适当解读）成立，因此在其中 **AC** 蕴涵排中律。[^note-19][^note-20]
   - id: 106
     kind: body
     source: |-
       The derivation of Excluded Middle from *AC* was first given by Diaconescu (1975)[^diaconescu-1975] in a category-theoretic setting. His proof employed essentially different ideas from the proof presented above; in particular, it makes no use of extensionality principles but instead employs the idea of the quotient of an object (or set) by an equivalence relation. It is instructive to formulate Diaconescu’s argument within **IST**. To do this, let us call a subset $U$ of a set $A$ *detachable* if there is a subset $V$ of $A$ for which $U \cap V = \varnothing$ and $U \cup V = A$. Diaconescu’s argument amounts to a derivation from **AC4** (see above) of the assertion that every subset of a set is detachable, from which Excluded Middle readily follows. Here it is.
     step1: |-
-      Diaconescu（1975）[^diaconescu-1975] 最早在范畴论框架中给出了从 *AC* 推导排中律的论证。他的证明所使用的基本想法与上文给出的证明不同；特别是，它不使用外延性原理，而是采用以等价关系对对象（或集合）作商的想法。在 **IST** 中表述 Diaconescu 的论证是有教益的。为此，我们称集合 $A$ 的子集 $U$ 是 **可分离的**，如果存在 $A$ 的子集 $V$，使得 $U \cap V = \varnothing$ 且 $U \cup V = A$。Diaconescu 的论证相当于从 **AC4**（见上文）推出如下断言：集合的每个子集都是可分离的；由此即可容易地得出排中律。论证如下。
+      Diaconescu（1975）[^diaconescu-1975] 最早在范畴论框架中给出了从 *AC* 推导排中律的论证。他的证明的基本想法与上文不同；特别是，它不使用外延性原理，而是采用以等价关系对对象（或集合）作商的想法。在 **IST** 中表述 Diaconescu 的论证是有教益的。为此，我们称集合 $A$ 的子集 $U$ 是 **可分离的**（detachable），如果存在 $A$ 的子集 $V$，使得 $U \cap V = \varnothing$ 且 $U \cup V = A$。Diaconescu 的论证相当于从 **AC4**（见上文）推出如下断言：集合的每个子集都是可分离的；由此即可容易地得出排中律。论证如下。
     step2: |-
-      Diaconescu（1975）[^diaconescu-1975] 最早在范畴论框架中给出了从 *AC* 推导排中律的论证。他的证明所使用的基本想法与上文给出的证明不同；特别是，它不使用外延性原理，而是采用以等价关系对对象（或集合）作商的想法。在 **IST** 中表述 Diaconescu 的论证是有教益的。为此，我们称集合 $A$ 的子集 $U$ 是 **可分离的**，如果存在 $A$ 的子集 $V$，使得 $U \cap V = \varnothing$ 且 $U \cup V = A$。Diaconescu 的论证相当于从 **AC4**（见上文）推出如下断言：集合的每个子集都是可分离的；由此即可容易地得出排中律。论证如下。
+      Diaconescu（1975）[^diaconescu-1975] 最早在范畴论框架中给出了从 *AC* 推导排中律的论证。他的证明的基本想法与上文不同；特别是，它不使用外延性原理，而是采用以等价关系对对象（或集合）作商的想法。在 **IST** 中表述 Diaconescu 的论证是有教益的。为此，我们称集合 $A$ 的子集 $U$ 是 **可分离的**（detachable），如果存在 $A$ 的子集 $V$，使得 $U \cap V = \varnothing$ 且 $U \cup V = A$。Diaconescu 的论证相当于从 **AC4**（见上文）推出如下断言：集合的每个子集都是可分离的；由此即可容易地得出排中律。论证如下。
   - id: 107
     kind: body
     source: |-
@@ -995,9 +995,9 @@ segments:
     source: |-
       It can be checked that $R$ is an equivalence relation. Write $r$ for the natural map from $A + A$ to the quotient[^note-21] $Q$ of $(A + A)$ by $R$ which carries each member of $A + A$ to its $R-$equivalence class.
     step1: |-
-      可以验证 $R$ 是一个等价关系。用 $r$ 表示从 $A + A$ 到 $(A + A)$ 关于 $R$ 的商[^note-21] $Q$ 的自然映射，它把 $A + A$ 的每个成员送到其 $R-$等价类。
+      可以验证 $R$ 是一个等价关系。用 $r$ 表示从 $A + A$ 到 $(A + A)$ 模 $R$ 的商[^note-21] $Q$ 的自然映射，它把 $A + A$ 的每个成员送到其 $R-$等价类。
     step2: |-
-      可以验证 $R$ 是一个等价关系。用 $r$ 表示从 $A + A$ 到 $(A + A)$ 关于 $R$ 的商[^note-21] $Q$ 的自然映射，它把 $A + A$ 的每个成员送到其 $R-$等价类。
+      可以验证 $R$ 是一个等价关系。用 $r$ 表示从 $A + A$ 到 $(A + A)$ 模 $R$ 的商[^note-21] $Q$ 的自然映射，它把 $A + A$ 的每个成员送到其 $R-$等价类。
   - id: 114
     kind: body
     source: |-
