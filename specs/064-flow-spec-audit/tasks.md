@@ -1,10 +1,10 @@
 # 任务清单：064 全流程全要素审计与规范化
 
 - 输入：`specs/064-flow-spec-audit/spec.md`（rev 21）、`plan.md`、`results/axioms-v3.md`、`results/axioms-tasks.md`、`results/test-coverage.md`、`results/target-workflow.md`、`results/exploration-2026-11-27.md`
-- 状态：**31 项已验证（T131、T168、T169、T130、T020–T024、T132、T133、T134、T135、T136、T137、T185、T186、T187、T188、T189、T190、T139、T191、T192、T141、T193、T194、T195、T143、T196、T197）；0 项部分执行；87 项未开始；0 项撤销**。合计 **118 个编号（全部有效）**；habermas 已 `done`；logic-preference `ex-04_checked`、T196（§3）／T197（§4）完成、T198 未启动。2026-11-26 全部批准十项建议＋流程 v2；2026-11-27 全部批准探索建议书 EP-01–09；2026-11-27 迁移轨 S0＋S3–S9 共 37 项全部批准实施（R0–R7）；A／B 组与 C 组 T132–T137 已完成，其余维持“已批准、待执行”
+- 状态：**31 项已验证（T131、T168、T169、T130、T020–T024、T132、T133、T134、T135、T136、T137、T185、T186、T187、T188、T189、T190、T139、T191、T192、T141、T193、T194、T195、T143、T196、T197）；0 项部分执行；93 项未开始；0 项撤销**。合计 **124 个编号（全部有效）**；habermas 已 `done`；logic-preference `ex-04_checked`、T196（§3）／T197（§4）完成；**S16 临时布局迁移已插入（T202–T207）**。2026-11-26 全部批准十项建议＋流程 v2；2026-11-27 全部批准探索建议书 EP-01–09；2026-11-27 迁移轨 S0＋S3–S9 共 37 项全部批准实施（R0–R7）；A／B 组与 C 组 T132–T137 已完成，其余维持“已批准、待执行”
 - **删除记录（rev21）**：S1 登记表 7 项、S11 案 B 5 项、S-1 案 B 复核 1 项已从本书**直接删除**，不保留 `[撤销]` 行；精确清单见 spec §11 rev21／§15（本文件不再引用已删 T 号）
 - 新增落点：**T166（G4 测试）、T167（G6＋G8 ADR）、T168（G24／G25 治理）、T169（标准回写）、T170–T175（S14 学术翻译出版流程 v2）、T176–T184（S15 探索批准项 EP-01–09）**；**T168／T169 已于 2026-11-27 完成**，其余均为“已批准、待执行”
-- **执行排程**：`results/schedule.md`（W0–W7、W0b、G0–G5、11 件逐件表；探索批准项 E0–E5）是唯一排程源；本清单只定义工作项，不复制波次。**a／b 组已完成；C 组 T132–T137 完成，habermas 全链完成并 `done`；logic-preference ex-04、T143 样章、T196（§3）、T197（§4）完成，T198 未启动**。
+- **执行排程**：`results/schedule.md`（W0–W7、W0b、G0–G5、11 件逐件表；探索批准项 E0–E5）是唯一排程源；本清单只定义工作项，不复制波次。**a／b 组已完成；C 组 T132–T137 完成，habermas 全链完成并 `done`；logic-preference ex-04、T143 样章、T196（§3）、T197（§4）完成；S16 临时布局迁移 T202–T207 已插入，未启动**。
 - **组界 tag**：a–k 每组开始／结束各打一枚 `batch/064-<组>-start|end`；规则见 `results/schedule.md` §8。未打 start 不开工，未打 end 不收口；tag 不替代 evidence。
 - 形式约束：`results/axioms-tasks.md` 的 TA1–TA8／TH1–TH8 是本清单的结构验收面；任何修改须复跑其中的只读检查（编号、分区、验收、依赖、状态、工作包分层）
 - **编号纪律**：本文件的 `S-1／S0–S15`（S1、S11 已删除，实际 15 个分区）是**任务分区**；spec §8 与 plan §7 的路线包写作 `WP-*`。`WP-S1`（标准回写）不是登记表契约
@@ -204,6 +204,17 @@
 - [ ] T182 [S15] **[工作包]** EP-07 AI 治理增强：ISO/IEC 42005:2025 影响评估三阶段表；5338 生命周期位（数据/模型/更新/退役）；25058 度量来源；42006 生态事实——执行前拆评估/生命周期/度量三线；验收：风险＋影响表；模型变更回归。
 - [ ] T183 [S15] **[工作包]** EP-08 学术元数据与无障碍：词条页 `citation_*`（标题/作者/日期/源 URL）；GB/T 37668 四原则抽样（告警档）；ISO 999 索引低优先观察——执行前拆元数据/无障碍/索引三线；验收：元数据注入清单；无障碍抽样报告。
 - [ ] T184 [S15] **[工作包]** EP-09 交换与供应链观察：XLIFF 2.2/ISO 21720/TMX/SRX 差异登记；SBOM（SPDX 3.0/CycloneDX 1.7）＋SLSA v1.0 写入 WP-R1 契约草案——验收：差异表；契约草案含 SBOM/SLSA 条款。
+
+## 阶段 S16 临时布局迁移（2026-11-27 用户裁定；双写验证；含中文目录；SUMMARY 迁入 zh/；URL 新前缀；历史文本＋.vitepress＋壳仓一并改写）
+
+> 依据 `results/layout-migration-plan.md`。目标：`en/` 与 `yuanwen/` 互换目录名；`a–z`、`1`、`fang-fa-lun`、`guan-yu`、`jian-yi-shu`、`qian-yan` 归入新建 `zh/`；`SUMMARY.md` 迁入 `zh/SUMMARY.md`；站点接受 `/zh/…`、`/en/…` 新前缀；同步工具链、日志、记忆、文档、任务书、specs、`.vitepress` 与壳仓 `taophilosophy.github.io`。T202–T207 为原子步骤，顺序不可跳；开始／结束各打 `batch/064-migrate-start|end`。
+
+- [ ] T202 [S16] 盘点与备份：生成 `en/`、`yuanwen/`、27 个字母目录、4 个中文目录、`SUMMARY.md`、`.gitbook.yaml`、`.vitepress/` 的文件清单（路径＋SHA-256＋字节数），复制到 `state/layout-backup/2026-11-27/`；登记壳仓 HEAD 与 `deploy.yml`／`README.md` 路径引用现状；生成回退脚本——验收：清单与备份校验一致、回退步骤可执行；证据 `results/t202-review.md`
+- [ ] T203 [S16] 双写 en／yuanwen＋站点常量：以旧 `yuanwen/` 生成新 `en/`（Markdown 镜像，含 `SUMMARY.md`、`SUMMARY-en.md`、`.gitbook.yaml`、`assets/`），以旧 `en/` 生成新 `yuanwen/`（HTML）；复制 `SUMMARY.md` 为 `zh/SUMMARY.md`；旧目录仍在备份中；同步 `axis_lib`、`fetch_entry`、`yuanwen.py`、`en_*` 等工具常量；改 `.vitepress/config.mts` 的分片、SUMMARY 路径、配对、侧栏、srcExclude、locales、watch，改 `prepare-gitstamps.mjs` 排除项与 `VersionPin.vue` 镜像判定——验收：只读门禁与抽样路径解析通过；证据 `results/t203-review.md`（前置 T202）
+- [ ] T204 [S16] 根目录归集 `zh/`＋壳仓：移动 27 个字母目录＋4 个中文目录到 `zh/`；改写 `zh/SUMMARY.md` 与根级说明页链接；更新 `rules/layout.json`、`check_*` 扫描根、`tasks/**/*.json` 的 `zh_doc`；同步 `.vitepress/README.md`；更新壳仓 `README.md` 布局说明，复核 `deploy.yml` 路径不需改——验收：`SUMMARY` 无失效链接、任务 `zh_doc` 全解析、壳仓说明与新布局一致；证据 `results/t204-review.md`（前置 T203）
+- [ ] T205 [S16] 历史文本改写：`journal/`、`specs/`、`rules/`、`README`／`AGENTS`、`.vitepress/README.md`、壳仓 `README.md`、项目记忆中的旧路径与 `en`／`yuanwen` 语义一并改写；生成旧→新映射表；不改写 Git 历史——验收：旧路径扫描仅剩映射表与归档说明；证据 `results/t205-review.md`（前置 T204）
+- [ ] T206 [S16] 全量验证：`check_all` 23/23、`unittest discover`、VitePress 分片构建（至少 `ad`，最好四片＋合并）、壳仓 `bun run build`、`/zh/…` 与 `/en/…` 页面与死链检查、GitBook 两份配置可解析、11 件抽样三路径解析；修复残余——验收：门禁全绿、站点与壳仓构建通过、抽样通过；证据 `results/t206-review.md`（前置 T205）
+- [ ] T207 [S16] 收口：二次确认后删除备份与旧目录；更新 `PROGRESS.md`、`schedule.md`、`axioms-tasks.md`；提交并推送本仓与壳仓（壳仓只含壳侧改动）；打 `batch/064-migrate-end`——验收：两仓工作区干净、远端同步、回退备份已按指示处置；证据 `results/t207-review.md`（前置 T206）
 
 ## 非本卡工作项与交接（不计入 W／114）
 
