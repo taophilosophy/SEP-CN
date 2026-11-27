@@ -1495,9 +1495,9 @@ segments:
     source: |-
       Finally, the preference relation can be formally defined using modal expressions. For instance, $p \succ_1 \neg p$ holds if, for safety reasons, installing an alarm (represented by *p*) is preferred over not installing one, denoted by the utility scale $u_1$ for safety. If $u_2$ (cost) is also considered, the preference relation may combine both $u_1$ and $u_2$, thereby capturing a comprehensive view that balances safety and cost.
     step1: |-
-      最后，偏好关系可用模态表达式形式定义。例如，$p \succ_1 \neg p$ 成立，当且仅当出于安全理由，安装报警器（由 *p* 表示）胜过不安装，记作安全效用尺度 $u_1$。若同时考虑 $u_2$（成本），偏好关系可结合 $u_1$ 与 $u_2$，从而把握平衡安全与成本的整体观点。
+      最后，偏好关系可用模态表达式形式定义。例如，$p \succ_1 \neg p$ 成立，只要出于安全理由，安装报警器（由 *p* 表示）胜过不安装，记作安全效用尺度 $u_1$。若同时考虑 $u_2$（成本），偏好关系可结合 $u_1$ 与 $u_2$，从而把握平衡安全与成本的整体观点。
     step2: |-
-      最后，偏好关系可用模态表达式形式定义。例如，$p \succ_1 \neg p$ 成立，当且仅当出于安全理由，安装报警器（由 *p* 表示）胜过不安装，记作安全效用尺度 $u_1$。若同时考虑 $u_2$（成本），偏好关系可结合 $u_1$ 与 $u_2$，从而把握平衡安全与成本的整体观点。
+      最后，偏好关系可用模态表达式形式定义。例如，$p \succ_1 \neg p$ 成立，只要出于安全理由，安装报警器（由 *p* 表示）胜过不安装，记作安全效用尺度 $u_1$。若同时考虑 $u_2$（成本），偏好关系可结合 $u_1$ 与 $u_2$，从而把握平衡安全与成本的整体观点。
   - id: 178
     kind: body
     source: |-
@@ -2404,9 +2404,9 @@ segments:
     source: |-
       If we write $\varphi\Rightarrow \psi$ for the conditional “if *φ* then *ψ*”, then under suitable conditions, we can define that *φ* is preferred to *ψ* if $\varphi\lor \psi$ implies *φ* and not *ψ*:
     step1: |-
-      若我们用 $\varphi\Rightarrow \psi$ 表示条件句“如果 *φ* 那么 *ψ*”，则在适当条件下，我们可以定义：*φ* 优于 *ψ*，当且仅当 $\varphi\lor \psi$ 蕴含 *φ* 而非 *ψ*：
+      若我们用 $\varphi\Rightarrow \psi$ 表示条件句“如果 *φ* 那么 *ψ*”，则在适当条件下，可定义 *φ* 优于 *ψ*，当且仅当 $\varphi\lor \psi$ 蕴含 *φ* 而非 *ψ*。
     step2: |-
-      若我们用 $\varphi\Rightarrow \psi$ 表示条件句“如果 *φ* 那么 *ψ*”，则在适当条件下，我们可以定义：*φ* 优于 *ψ*，当且仅当 $\varphi\lor \psi$ 蕴含 *φ* 而非 *ψ*：
+      若我们用 $\varphi\Rightarrow \psi$ 表示条件句“如果 *φ* 那么 *ψ*”，则在适当条件下，可定义 *φ* 优于 *ψ*，当且仅当 $\varphi\lor \psi$ 蕴含 *φ* 而非 *ψ*。
   - id: 286
     kind: body
     source: |-
@@ -2420,9 +2420,9 @@ segments:
     source: |-
       Then we also have that the conditional “if *φ* then *ψ*” is defined as a preference of $\varphi\land \psi$ over $\varphi\land \neg \psi$:
     step1: |-
-      于是我们也有：条件句“如果 *φ* 那么 *ψ*”定义为 $\varphi\land \psi$ 优于 $\varphi\land \neg \psi$：
+      于是，条件句“如果 *φ* 那么 *ψ*”也可定义为 $\varphi\land \psi$ 优于 $\varphi\land \neg \psi$。
     step2: |-
-      于是我们也有：条件句“如果 *φ* 那么 *ψ*”定义为 $\varphi\land \psi$ 优于 $\varphi\land \neg \psi$：
+      于是，条件句“如果 *φ* 那么 *ψ*”也可定义为 $\varphi\land \psi$ 优于 $\varphi\land \neg \psi$。
   - id: 288
     kind: body
     source: |-
@@ -2452,9 +2452,9 @@ segments:
     source: |-
       Traditional deontic logic often uses possible world semantics to interpret notions like obligation and permission, with the worlds ordered by a preference relation that ranks them by ideality. Deontic formulas are evaluated in the context of the current world based on their accessibility to these ideal worlds: an action is obligatory if it occurs in all the most preferred worlds accessible from the current world. The intricate relationship between better worlds and the best worlds has been extensively examined by Parent (2014)[^parent-2014] and Grossi, Van der Hoek, and Kuijer (2022). This ordering reflects intuitive deontic principles, but it struggles with conflicts and dilemmas because a single ordering may not fully capture multiple, potentially incompatible imperatives.
     step1: |-
-      传统道义逻辑常用可能世界语义学解释义务与允许等概念，其中世界按理想性由偏好关系排序。道义公式在当前世界的语境中根据其与这些理想世界的可达性来评价：一个行动是义务性的，当且仅当它出现在从当前世界可达的所有最受偏好的世界中。较佳世界与最佳世界之间的复杂关系已由 Parent（2014）[^parent-2014] 以及 Grossi、Van der Hoek 与 Kuijer（2022）广泛考察。这种排序反映了直观的道义原则，但难以处理冲突与困境，因为单一排序可能无法充分刻画多重且可能不相容的命令。
+      传统道义逻辑常用可能世界语义学解释义务与允许等概念，其中世界按理想性由偏好关系排序。道义公式在当前世界的语境中根据其与这些理想世界的可达性来评价：一个行动是义务性的，如果它出现在从当前世界可达的所有最受偏好的世界中。较佳世界与最佳世界之间的复杂关系已由 Parent（2014）[^parent-2014] 以及 Grossi、Van der Hoek 与 Kuijer（2022）广泛考察。这种排序反映了直观的道义原则，但难以处理冲突与困境，因为单一排序可能无法充分刻画多重且可能不相容的命令。
     step2: |-
-      传统道义逻辑常用可能世界语义学解释义务与允许等概念，其中世界按理想性由偏好关系排序。道义公式在当前世界的语境中根据其与这些理想世界的可达性来评价：一个行动是义务性的，当且仅当它出现在从当前世界可达的所有最受偏好的世界中。较佳世界与最佳世界之间的复杂关系已由 Parent（2014）[^parent-2014] 以及 Grossi、Van der Hoek 与 Kuijer（2022）广泛考察。这种排序反映了直观的道义原则，但难以处理冲突与困境，因为单一排序可能无法充分刻画多重且可能不相容的命令。
+      传统道义逻辑常用可能世界语义学解释义务与允许等概念，其中世界按理想性由偏好关系排序。道义公式在当前世界的语境中根据其与这些理想世界的可达性来评价：一个行动是义务性的，如果它出现在从当前世界可达的所有最受偏好的世界中。较佳世界与最佳世界之间的复杂关系已由 Parent（2014）[^parent-2014] 以及 Grossi、Van der Hoek 与 Kuijer（2022）广泛考察。这种排序反映了直观的道义原则，但难以处理冲突与困境，因为单一排序可能无法充分刻画多重且可能不相容的命令。
   - id: 292
     kind: body
     source: |-

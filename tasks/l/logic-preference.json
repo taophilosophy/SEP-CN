@@ -16,7 +16,7 @@
     "system": "DeepSeek-V4.1-Flash",
     "disclosure": "任务 evidence 与词条译后编辑记录"
   },
-  "state": "rv-02_checked",
+  "state": "rv-09_checked",
   "steps": [
     {
       "step": "ex-04",
@@ -59,6 +59,55 @@
       "actor": "trae-main",
       "at": "2026-11-27T09:45:00Z",
       "evidence": "T146 rv-02 两轴复检完成：账本 301 段守恒（300 body 与正文 300 块对应）；脚注标记 64（不同键 43）、定义 67、悬空 0；密度统计（破折号 22、一个 50、的 514 约 3.9%）与冷置回读（§1/§3.3/§5.3/§6.2/§7–§8）留痕；check_pairs/check_style/check_quotes 0、check_math_zh 0 硬错误、check_terms 硬 0、check_academic --strict 无硬错误、check_all 23/23；未改文；证据 results/t146-rv02.md"
+    },
+    {
+      "step": "rv-03",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-27T09:58:23Z",
+      "evidence": "T147 rv-03 引文锁定完成：直引候选 30（inline 26/block 4），pass 6、waived 24（C-4c 术语/短语/公式读法）、pending 0、anchor 全非空；cite_audit --gate 0；凭证 state/axis/logic-preference.cite.json、results/t147-rv03.md"
+    },
+    {
+      "step": "rv-04",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-27T09:58:28Z",
+      "evidence": "T147 rv-04 逻辑一致性完成：骨架 460 句、承载 128、候选 25；2 处 L-6 模态修正（L382 iff→只要、L625 iff→如果），其余 23 条误报（公式剥离/存在量化/当且仅当）；128 承载句全部裁定、pending 0；logic_audit --gate 0；凭证 state/axis/logic-preference.logic.jsonl、results/t147-rv04.md"
+    },
+    {
+      "step": "rv-05",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-27T09:58:32Z",
+      "evidence": "T147 rv-05 语法完成：全文 460 散句扫描，告警 0、问题 0、pending 0；未发现成分残缺/搭配不当/指代悬空；grammar_audit --gate 0；凭证 state/axis/logic-preference.grammar.json、results/t147-rv05.md"
+    },
+    {
+      "step": "rv-06",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-27T09:58:36Z",
+      "evidence": "T147 rv-06 语域完成：8 节全部定档 R-1（学术书面语）；R-b/d/e/f 均 0；register_audit --gate 0；凭证 state/axis/logic-preference.register.json、results/t147-rv06.md"
+    },
+    {
+      "step": "rv-07",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-27T09:58:41Z",
+      "evidence": "T147 rv-07 计量完成：量值条目 0；范围候选 2 均为脚注键 seligman-2011-2/shi-2021-2 截取；M-4 七条为 P2/P3 公理标签与 figxy2 文件名，全部 false-positive；真缺陷 0；measure_audit --gate 0；凭证 state/axis/logic-preference.measure.json、results/t147-rv07.md"
+    },
+    {
+      "step": "rv-08",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-27T09:58:45Z",
+      "evidence": "T147 rv-08 标点完成：P-7 冒号套用 2 处（L613/L617）已改写为单句无套用；punct_audit --gate 0，P-1–P-20 无其他命中；六轴机检全部 0；凭证 state/axis/logic-preference.punct.json、results/t147-rv08.md"
+    },
+    {
+      "step": "rv-09",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-27T09:59:05Z",
+      "evidence": "T146 rv-09 体例终校完成：H1/pubinfo/小节编号/尾序（参考文献>学术工具>其他网络资源>相关词条>脚注>译者注释）/脚注闭合 64 标记·43 键·67 定义·悬空 0/勘误锚点与第十四节可追溯；六轴出口齐备（rv-03 引文、rv-04 逻辑、rv-05 语法、rv-06 语域、rv-07 计量、rv-08 标点均 0）；check_style、check_quotes、check_pairs --gate 0，check_academic --strict 与 check_math_zh --strict 0 硬错误，check_all 23/23；未改文；证据 results/t146-rv09.md、t147-rv03–rv08.md"
     }
   ],
   "blockers": [],
