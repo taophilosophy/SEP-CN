@@ -28,7 +28,7 @@
 | `h/habermas` | 一 | T130、T132–T141 | 5 候选定性；22 节点行；公式与引文样本 | 已完成（`done`） |
 | `l/logic-preference` | 一 | T142–T148 | 417 处行内公式无损（实测；原 362 为旧口径） | 已完成（`done`） |
 | `e/environmental-aesthetics` | 一 | T149–T153 | 369 条文献键位与脚注配对 | 已完成（`done`） |
-| `i/imprecise-probabilities` | 二 | T154（T209–T214） | 14 类构件无丢失（命中 12/14） | T209–T213 完成；sg-01／sg-02 完成，`sg-02_checked`；sg-03 待 mandate |
+| `i/imprecise-probabilities` | 二 | T154（T209–T214） | 14 类构件无丢失（命中 12/14） | 已完成（`done`；T209–T214 全链，sg-03 用户 2026-11-27 授权） |
 | `a/action` | 二 | T155 | 长文＋引文双密集口径 | 未启动 |
 | `a/axiom-choice` | 二 | T156 | 530 行内公式＋8 块＋4 表无损 | 未启动 |
 | `n/newton-principia` | 二 | T157 | 36,082 汉字＋3 图版式 | 未启动 |
