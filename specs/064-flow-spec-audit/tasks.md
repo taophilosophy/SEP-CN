@@ -1,10 +1,10 @@
 # 任务清单：064 全流程全要素审计与规范化
 
 - 输入：`specs/064-flow-spec-audit/spec.md`（rev 21）、`plan.md`、`results/axioms-v3.md`、`results/axioms-tasks.md`、`results/test-coverage.md`、`results/target-workflow.md`、`results/exploration-2026-11-27.md`
-- 状态：**20 项已验证（T131、T168、T169、T130、T020–T024、T132、T133、T134、T135、T136、T137、T185、T186、T187、T188、T189）；0 项部分执行；87 项未开始；0 项撤销**。合计 **107 个编号（全部有效）**；T138 已拆为 T185–T190（q1–q6），T185–T189（q1–q5）已完成，q6 未启动。2026-11-26 全部批准十项建议＋流程 v2；2026-11-27 全部批准探索建议书 EP-01–09；2026-11-27 迁移轨 S0＋S3–S9 共 37 项全部批准实施（R0–R7）；A／B 组与 C 组 T132–T137 已完成，其余维持“已批准、待执行”
+- 状态：**21 项已验证（T131、T168、T169、T130、T020–T024、T132、T133、T134、T135、T136、T137、T185、T186、T187、T188、T189、T190）；0 项部分执行；86 项未开始；0 项撤销**。合计 **107 个编号（全部有效）**；T138 已拆为 T185–T190（q1–q6），六个原子任务全部完成（T138 容器不勾选），T139 起未启动。2026-11-26 全部批准十项建议＋流程 v2；2026-11-27 全部批准探索建议书 EP-01–09；2026-11-27 迁移轨 S0＋S3–S9 共 37 项全部批准实施（R0–R7）；A／B 组与 C 组 T132–T137 已完成，其余维持“已批准、待执行”
 - **删除记录（rev21）**：S1 登记表 7 项、S11 案 B 5 项、S-1 案 B 复核 1 项已从本书**直接删除**，不保留 `[撤销]` 行；精确清单见 spec §11 rev21／§15（本文件不再引用已删 T 号）
 - 新增落点：**T166（G4 测试）、T167（G6＋G8 ADR）、T168（G24／G25 治理）、T169（标准回写）、T170–T175（S14 学术翻译出版流程 v2）、T176–T184（S15 探索批准项 EP-01–09）**；**T168／T169 已于 2026-11-27 完成**，其余均为“已批准、待执行”
-- **执行排程**：`results/schedule.md`（W0–W7、W0b、G0–G5、11 件逐件表；探索批准项 E0–E5）是唯一排程源；本清单只定义工作项，不复制波次。**a／b 组已完成；C 组 T132–T137 完成，T185–T189（q1–q5）完成、q6 未启动**。
+- **执行排程**：`results/schedule.md`（W0–W7、W0b、G0–G5、11 件逐件表；探索批准项 E0–E5）是唯一排程源；本清单只定义工作项，不复制波次。**a／b 组已完成；C 组 T132–T137 完成，T185–T190（q1–q6）完成、T139 未启动**。
 - **组界 tag**：a–k 每组开始／结束各打一枚 `batch/064-<组>-start|end`；规则见 `results/schedule.md` §8。未打 start 不开工，未打 end 不收口；tag 不替代 evidence。
 - 形式约束：`results/axioms-tasks.md` 的 TA1–TA8／TH1–TH8 是本清单的结构验收面；任何修改须复跑其中的只读检查（编号、分区、验收、依赖、状态、工作包分层）
 - **编号纪律**：本文件的 `S-1／S0–S15`（S1、S11 已删除，实际 15 个分区）是**任务分区**；spec §8 与 plan §7 的路线包写作 `WP-*`。`WP-S1`（标准回写）不是登记表契约
@@ -29,13 +29,13 @@
 - [x] T135 [S-1] tr-04 二校（语体、反欧化）——**已完成**（2026-11-27；`check_prose` 153→139，13 处改写、139 条逐条豁免留痕；`check_style` 0 issue；证据 `results/t135-review.md`）；验收：`check_prose` 告警清零或逐条豁免
 - [x] T136 [S-1] rv-01 术语与勘误（术语轴＋体例轴＋勘误轴）——**已完成**（2026-11-27；新增 civil society (Habermas)=公民社会、legitimacy (Habermas)=合法性；正文统一；check_terms 硬 0；check_pairs/check_style 0；勘误两条照录区一致；证据 `results/t136-review.md`）；验收：三段 evidence
 - [x] T137 [S-1] rv-02 全局一致性（两轴比较校对）——**已完成**（2026-11-27；239 段守恒；脚注 156/156、定义 254/254；密度与语体留痕；`check_pairs`/`check_style`/`check_academic --strict` 0；证据 `results/t137-review.md`）；验收：两轴记录＋机检输出
-- [ ] T138 [S-1] **[工作包]** rv-03–08 六轴（q1 引文→q2 逻辑→q3 语法→q4 语域→q5 计量→q6 标点，顺序固定）——**已拆为 T185–T190**（方案 `results/t138-decomposition.md`；轴定义按 `rules/04` ADR-0079）；本行只作容器，**不得整体勾选**；验收：T185–T190 全部完成且各轴凭据落 `state/axis/` 与 `results/t185–t190-review.md`
+- [ ] T138 [S-1] **[工作包]** rv-03–08 六轴（q1 引文→q2 逻辑→q3 语法→q4 语域→q5 计量→q6 标点，顺序固定）——**六个原子任务 T185–T190 均已完成**（方案 `results/t138-decomposition.md`；轴定义按 `rules/04` ADR-0079）；本行只作容器，**不得整体勾选**（完成由子项派生）；验收：T185–T190 全部完成且各轴凭据落 `state/axis/` 与 `results/t185–t190-review.md`
 - [x] T185 [S-1] rv-03 q1 引文锁定：成句直引清单、原著语种与原文可得性（na/present/verifiable/unavailable）、hash 锁定——`cite_audit --init/--gate`；判据 `specs/060-six-axis-quality-gates/checklists/q1-cite.md` C-1/C-2/C-3/C-4/C-6/C-7；**已完成**（2026-11-27：补引块抽取工具缺口；167 候选＝28 引块＋139 行内，pass 39、waived 128、pending 0；`--gate`/`--check-hash` 0；发现 F2 承载形态、F3 德语原文缺口；证据 `results/t185-review.md`、`state/axis/habermas.cite.json`）；验收：清单完备、字段合法、anchor 非空、verdict 无 pending、hash 守恒
 - [x] T186 [S-1] rv-04 q2 逻辑一致性：谓词-论元骨架、量化与辖域、条件方向、模态——`logic_audit`（只产候选）；判据 `q2-logic.md`；**已完成**（2026-11-27：907 散句／235 承载句／30 算子候选；28 误报逐条定性、2 处 L-6 模态修正（L526、L544）；235 条全部有裁决、0 pending；`--gate` 0、q1 hash 不变；G1 全文形式化缺口登记；证据 `results/t186-review.md`、`state/axis/habermas.logic.jsonl`）；验收：候选逐条定性、无未处置告警（前置 T185）
 - [x] T187 [S-1] rv-05 q3 语法：句法合法性、反欧化、和制汉语——`grammar_audit`（吸收 `check_prose`）；判据 `q3-grammar.md`；**已完成**（2026-11-27：140 条 issue＝G-11 105／G-10 32／G-9 2／G-7 1；139 条 waived（沿用 T135 逐条口径，2 条补录）＋1 条 false-positive；0 pending；G-1／G-5 为 0、和制汉语无命中；`--gate` 0；H1 第一层未全量重审已登记；证据 `results/t187-review.md`、`state/axis/habermas.grammar.json`）；验收：告警清零或逐条豁免（前置 T186）
 - [x] T188 [S-1] rv-06 q4 语域：五档标尺、档位漂移、语气——`register_audit`（只产候选）；判据 `q4-register.md`；**已完成**（2026-11-27：7 节全部 R-1、无 R-4／R-5 越界；8 条文言候选全部 false-positive（“是＋以……”子串误报）；R-e／R-f 无命中；0 pending；`--gate` 0；修正工具节内相对行号→全文绝对行号（新增单测 1/1）；I1 样章基准缺失登记，须 sg-03 前处置；证据 `results/t188-review.md`、`state/axis/habermas.register.json`）；验收：档位漂移逐条定性、无未处置告警（前置 T187）
 - [x] T189 [S-1] rv-07 q5 计量：量值-单位、数字形态、换算——`measure_audit`；判据 `q5-measure.md`；**已完成**（2026-11-27：量值条目 0（本件无物理单位/货币）；170 处数值范围＝164 引文页码（en-dash 照录豁免）＋6 正文范围（一字线统一）；唯一 M-6 聚合告警定性 false-positive；日期/年代形态一致；修正工具误把引用键 1992a 当量值（新增单测 4/4）；`--gate` 0；J1 本件量值面为空已登记；证据 `results/t189-review.md`、`state/axis/habermas.measure.json`）；验收：硬错误 0、告警逐条处置（前置 T188）
-- [ ] T190 [S-1] rv-08 q6 标点：GB/T 15834 十七种标点、邻接与禁则——`punct_audit`（吸收 `check_style` 标点项）；判据 `q6-punct.md`；验收：告警清零或逐条豁免；证据 `state/axis/habermas.punct.json`＋`results/t190-review.md`（前置 T189）
+- [x] T190 [S-1] rv-08 q6 标点：GB/T 15834 十七种标点、邻接与禁则——`punct_audit`（吸收 `check_style` 标点项）；判据 `q6-punct.md`；**已完成**（2026-11-27：168 条 issue＝P-13 164（引文页码，waived）＋P-7 4（引文 locator 冒号，false-positive）；P-8／P-18 工具误报修复、P-20 12 处清零；正文改 12 处引文定位符标点＋1 处双冒号；工具修正加单测 4/4；`--gate` 0；K1 P-19 渲染层未验已登记；证据 `results/t190-review.md`、`state/axis/habermas.punct.json`）；验收：告警清零或逐条豁免（前置 T189）
 - [ ] T139 [S-1] rv-09 体例终校——验收：`check_style` 0 issue（前置 T190）
 - [ ] T140 [S-1] **[工作包]** sg-01／sg-02（初审＋复审）——执行前按节点拆两项；验收：自审与复核记录
 - [ ] T141 [S-1] sg-03 终审（需用户显式指定 `--mandate`）——验收：CI 全绿＋签字；不得因试金石批准自动执行

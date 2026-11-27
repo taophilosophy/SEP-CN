@@ -16,7 +16,7 @@
     "system": "DeepSeek-V4.1-Flash",
     "disclosure": "任务 evidence 与词条译后编辑记录"
   },
-  "state": "rv-07_checked",
+  "state": "rv-08_checked",
   "steps": [
     {
       "step": "ex-04",
@@ -94,6 +94,13 @@
       "actor": "trae-main",
       "at": "2026-11-27T04:39:49Z",
       "evidence": "T189 rv-07 q5 计量完成：量值条目 0（本件无物理单位/货币）；170 处数值范围＝164 引文页码（en-dash 照录豁免）＋6 正文范围（一字线统一）；唯一 M-6 聚合告警定性 false-positive；日期/年代形态一致；measure_audit --gate 0；工具修正引用键 1992a 误判并加单测 4/4；J1 量值面为空登记；证据 results/t189-review.md、state/axis/habermas.measure.json"
+    },
+    {
+      "step": "rv-08",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-27T04:47:56Z",
+      "evidence": "T190 rv-08 q6 标点完成：168 条 issue＝P-13 164（引文页码区间 waived）＋P-7 4（引文 locator 冒号 false-positive）；P-8／P-18 工具误报修复、P-20 12 处清零；正文改 12 处引文定位符标点＋1 处双冒号；punct_audit --gate 0；q1–q5 门禁复跑均 0；K1 P-19 渲染层未验登记；证据 results/t190-review.md、state/axis/habermas.punct.json"
     }
   ],
   "blockers": [],

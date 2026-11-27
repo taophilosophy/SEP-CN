@@ -53,7 +53,7 @@ RANGE_ENDASH = re.compile(r"(?<![\w–])(\d+(?:[.,]\d+)?)–(\d+(?:[.,]\d+)?)")
 RANGE_TILDE = re.compile(r"(?<![\w~])(\d+(?:[.,]\d+)?)~(\d+(?:[.,]\d+)?)")
 ELLIPSIS = re.compile(r"(?<!\.)\.{3,}(?!\.)|。{3,}")
 HALF = re.compile(r"[%s][,;:?!]" % HAN)
-QUOTE_GAP = re.compile(r"[“”]\s+[%s]|\s+[“”]" % HAN)
+QUOTE_GAP = re.compile(r"[“”][ \t]+[%s]|[ \t]+[“”]" % HAN)
 KANJI_GAI = re.compile(r"[一二三四五六七八九十]\s*、\s*[一二三四五六七八九十]")
 
 
@@ -61,9 +61,7 @@ def line_of(text, pos):
     return text.count("\n", 0, pos) + 1
 
 
-def scan(path):
-    text = ax.read_doc(path)
-    slug = ax.slug_of(path)
+def scan_text(text, slug):
     masked = ax.protect(text)
     issues = []
 
@@ -88,6 +86,11 @@ def scan(path):
             if ch == left:
                 stack.append(i)
             elif ch == right:
+                # 拉丁词内撇号（d’appui）不是单引号对
+                if ch == "’" and 0 < i < len(masked) - 1 \
+                        and re.match(r"[A-Za-z]", masked[i - 1]) \
+                        and re.match(r"[A-Za-z]", masked[i + 1]):
+                    continue
                 if stack:
                     stack.pop()
                 else:
@@ -124,7 +127,13 @@ def scan(path):
     for m in re.finditer(r"《[^》]{0,80}《", masked):
         add("P-15", m.start(), "书名号套用内层应改用单书名号〈〉")
 
-    return slug, {"schema": "punct-report/v1", "slug": slug, "issues": issues}
+    return {"schema": "punct-report/v1", "slug": slug, "issues": issues}
+
+
+def scan(path):
+    text = ax.read_doc(path)
+    slug = ax.slug_of(path)
+    return slug, scan_text(text, slug)
 
 
 def report_path(slug):
