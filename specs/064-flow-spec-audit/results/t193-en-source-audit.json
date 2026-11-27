@@ -1,0 +1,54 @@
+{
+  "checked_at": "2026-11-27T05:26:39Z",
+  "reports": [
+    {
+      "slug": "logic-preference",
+      "hard": [
+        {
+          "class": "math_delim",
+          "msg": "\\[ 45 处与 \\] 43 处不配对"
+        }
+      ],
+      "warn": [
+        {
+          "cls": "heading_skip",
+          "msg": "标题层级跳档 h2→h4"
+        },
+        {
+          "kind": "word_digit_eq",
+          "token": "win2022",
+          "ctx": "< https://plato.stanford.edu/archives/win2022/entries/social-choice/ >. First publish",
+          "cls": "typo_candidate"
+        },
+        {
+          "kind": "comma_no_space",
+          "token": "a,b",
+          "ctx": "ese preferences.\nDietrich and List (2013a,b) started to address this gap. They prop",
+          "cls": "typo_candidate"
+        },
+        {
+          "kind": "comma_no_space",
+          "token": "a,b",
+          "ctx": "vational states,\nDietrich and List (2013a,b) introduced the  weighing relation \n  o",
+          "cls": "typo_candidate"
+        },
+        {
+          "kind": "comma_no_space",
+          "token": "a,b",
+          "ctx": "The works of Dietrich and List (2013a,b) explore rationality by\ncontrasting  st",
+          "cls": "typo_candidate"
+        }
+      ],
+      "info": [],
+      "counts": {
+        "entry_links": 12,
+        "external_links": 11,
+        "math_inline": 417,
+        "math_display": 45,
+        "tables": 1,
+        "headings": 40
+      },
+      "checked_at": "2026-11-27T05:26:39Z"
+    }
+  ]
+}
