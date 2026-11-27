@@ -44,13 +44,14 @@
 
 ## 3 终审签字与硬门
 
-- **actor 独立性硬门**：ADR-0084 D1=C 与 `task_ops._independence_gate` 规定，sg-03 actor 不得等于 tr-02（`trae-main`）或 sg-01／sg-02（同为 `trae-main`）；违反直接拒绝，冷置／密度补偿不适用。
-- 因此本会话（actor `trae-main`）**不能**执行 `advance --step sg-03`；T141 保持未勾选，habermas 停 `sg-02_checked`。
-- 可签字路径（二选一）：
-  1. 用户以 `user` 身份签署终审（`--actor user --mandate "2026-11-27 用户指定：habermas sg-03，范围 h/habermas.md"`），并以本卷宗 §2 为验收依据；
+- **签字记录**：2026-11-27 用户回复“按方案 1，以 user 身份签署 T141 终审”；`advance --step sg-03 --actor user --mandate ...` 已通过独立性硬门，状态 `sg-03_checked`。
+- **记录更正**：首次写入时 PowerShell 把中文弯引号当引号分隔符，`mandate` 字段被截断为“用户回复”；已按用户原话补全为“用户回复：按方案 1，以 user 身份签署 T141 终审”，并在任务 JSON 留 `mandate_note`；状态与签字不变。
+- **独立性说明**：本会话 actor `trae-main` 不得执行 sg-03（ADR-0084 D1=C）；本次签字 actor 为 `user`，与 tr-02／sg-01／sg-02 不同，符合硬门。
+- 可签字路径（已采用第 1 条）：
+  1. 用户以 `user` 身份签署终审（`--actor user --mandate "..."`），以本卷宗 §2 为验收依据；
   2. 另指定未参与初译／初审／复审的复核会话或人员执行 sg-03。
 - 不得以改 actor 字符串、复用 `trae-main` 或伪造签字绕过该门。
 
 ## 4 结论
 
-F2／F3／I1／K1 均已按用户授权形成书面结案；六轴与体例门禁全绿，交付清单完整，pin 有效。**T141 终审材料就绪，但因 actor 独立性硬门，尚不能由本会话签字**；待用户以 `user` 身份签署或另指定独立复核者后，方可推进 `sg-03_checked` 与 `done`。
+F2／F3／I1／K1 均已按用户授权形成书面结案；六轴与体例门禁全绿，交付清单完整，pin 有效。**T141 终审已由用户以 `user` 身份签署，状态 `sg-03_checked`**；随后置 `done`。

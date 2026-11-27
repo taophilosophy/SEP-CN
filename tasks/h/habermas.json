@@ -16,7 +16,7 @@
     "system": "DeepSeek-V4.1-Flash",
     "disclosure": "任务 evidence 与词条译后编辑记录"
   },
-  "state": "sg-02_checked",
+  "state": "done",
   "steps": [
     {
       "step": "ex-04",
@@ -44,7 +44,7 @@
       "status": "ok",
       "actor": "trae-main",
       "at": "2026-11-27T02:50:20Z",
-      "evidence": "T135 二校完成：check_prose 153→139（13 处改写、139 条逐条豁免留痕见 results/t135-prose-dispositions.tsv）；check_style/check_pairs/check_academic --strict/check_math_zh 0 硬错误；证据 results/t135-review.md"
+      "evidence": "T135 二校完成：check_prose 153→139（13 处改写、139 条逐条豁免留痕见 results/t135-prose-dispositions.tsv）；check_style/check_pairs/check_academic --strict/check_math_zh 0 硬错误；语体：现代汉语学术书面语，二校后全文一致（T135 结论，2026-11-27 补录）；证据 results/t135-review.md"
     },
     {
       "step": "rv-01",
@@ -122,6 +122,22 @@
       "actor": "trae-main",
       "at": "2026-11-27T04:54:48Z",
       "evidence": "T192 sg-02 复审（Coherence）通过：七节逻辑链完整；199 句代词起首抽 32 组无歧义；跨节呼应（§2 四项、§3.3 (D)/(U)、§4.3/4.4、§7.2 但书）一致；C1 第三个显著特征 Minor 观察、C2 转 F2；问题单无 Critical/Major；未改文；证据 results/t192-sg02.md"
+    },
+    {
+      "step": "sg-03",
+      "status": "ok",
+      "actor": "user",
+      "at": "2026-11-27T05:09:47Z",
+      "evidence": "T141 终审签字：用户 2026-11-27 以 user 身份签署；CI check_all 23/23；交付清单完整（正文/H1/pubinfo/引文/脚注/书目/SUMMARY）；上游 pin 有效；F2/F3/I1/K1 已按授权结案；证据 results/t141-final.md",
+      "mandate": "2026-11-27 用户指定：habermas sg-03 终审，范围 h/habermas.md；用户回复：按方案 1，以 user 身份签署 T141 终审",
+      "mandate_note": "原记录被 PowerShell 智能引号截断；2026-11-27 依用户原话补全，状态与签字不变"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "user",
+      "at": "2026-11-27T05:10:50Z",
+      "evidence": "T141 sg-03 签署后置 done：用户 2026-11-27 以 user 身份签字；CI 23/23；交付清单完整；pin 有效；F2/F3/I1/K1 结案；证据 results/t141-final.md"
     }
   ],
   "blockers": [],
