@@ -2,6 +2,8 @@
 
 > *首次发表于 2008 年 1 月 8 日；实质修订于 2021 年 12 月 10 日。*
 
+集合论中被称为 **选择公理** 的原则，被誉为“也许是最有趣、而且尽管出现较晚，却是数学中被讨论得最多的公理，仅次于两千多年前引入的欧几里得平行公理”（Fraenkel, Bar-Hillel & Levy 1973, §II.4）[^fraenkel-1973]。这番溢美之词或许会使不熟悉该公理的读者以为它像光速不变原理或海森堡不确定性原理那样惊世骇俗。但实际上，通常表述的选择公理看上去平淡无奇，甚至自明。因为它只不过断言：给定任意一族两两不交的非空集合，就可以组装出一个新集合——一个 **横截集** 或 **选择集**——它恰好从该族的每个成员中取一个元素。然而，这个看似无害的原则却有深远的数学后果——许多不可或缺，有些令人惊讶——并已在数学基础讨论中占据显著位置。它（或其等价形式）已被用于无数数学论文，还有若干专著专门讨论它。
+
 ## 1. 选择公理的起源与年表
 
 1904 年，Ernst Zermelo 以一种他称为 **覆盖**（coverings）的方式表述了选择公理（本文通篇简称 *AC*）（Zermelo 1904）[^zermelo-1904]。他先从任意集合 $M$ 出发，用符号 $M'$ 表示 $M$ 的任意非空子集，并把它们的汇集记作 M。他接着写道：
@@ -333,11 +335,32 @@ ${\exists f \in 2^X}[{\forall x \in X}[\phi(x,0) \vee \phi(x,1)] \rightarrow {\f
 
 对选择公理与类型论这一主题感兴趣的读者，可参阅以下补充文档：
 
-> [选择公理与类型论](axiom-choice.choice-and-type-theory.md)
+> [选择公理与类型论](https://plato.stanford.edu/entries/axiom-choice/choice-and-type-theory.html)
+
+## 参考文献
+
+> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=axiom-choice)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/axiom-choice/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=axiom-choice&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](http://philpapers.org/sep/axiom-choice/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+- [选择公理主页](http://www.math.vanderbilt.edu/~schectex/ccc/choice.html)，由 Eric Schecter（范德堡大学）维护。
+
+## 相关词条
+
+范畴论 | 哥德尔，库尔特 | 逻辑史：直觉主义逻辑 | 逻辑：直觉主义 | 数学：构造性的 | 集合论：构造性与直觉主义 ZF | 集合论：策梅洛公理化 | 类型论：直觉主义
+
+### 致谢
+
+作者与编者感谢 Jesse Alama 仔细阅读本文并提出许多有价值的改进建议。
 
 ## 脚注
-
-[^zermelo-1904]: Zermelo, E., 1904. “Neuer Beweis, dass jede Menge Wohlordnung werden kann (Aus einem an Herrn Hilbert gerichteten Briefe)”, *Mathematische Annalen*, 59: 514–16. Translated in J. van Heijenoort (ed.), *From Frege to Gödel: A Source Book in Mathematical Logic, 1879–1931*, Cambridge, MA: Harvard University Press, 1967, pp. 139–141.
 
 [^note-1]: Zermelo does not, however, actually give the principle an explicit name at this point. ( He does so only in 1908, where he uses the term “postulate of choice”. We note that Zermelo here uses the term “product” , which is the reason why a number of mathematicians (in particular Russell and Ramsey) referred to the axiom as the “multiplicative axiom” (see §4 below).
 
@@ -349,45 +372,9 @@ ${\exists f \in 2^X}[{\forall x \in X}[\phi(x,0) \vee \phi(x,1)] \rightarrow {\f
 
 [^note-5]: In 1923 Hilbert asserted:  > The essential idea on which the axiom of choice is based constitutes a general logical principle which, even for the first elements of mathematical inference, is indispensable.  (Quoted in section 4.8 of Moore 1982.)[^moore-1982]
 
-[^moore-1982]: Moore, G.H., 1982. *Zermelo’s Axiom of Choice*, Berlin: Springer-Verlag.
-
-[^banach-1924]: Banach, S. and Tarski, A., 1924. “Sur la décomposition des ensembles de points en parties respectivement congruentes,” *Fundamenta Mathematicae*, 6: 244–277.
-
-[^wagon-1993]: Wagon, S., 1993.*The Banach-Tarski Paradox*, Cambridge University Press.
-
 [^note-6]: For a detailed history of the Axiom of Choice, see Moore 1982.
 
-[^hausdorff-1914]: –––, 1914. *Grundzüge der Mengenlehre*, Leipzig: de Gruyter. Reprinted, New York: Chelsea, 1965.
-
-[^fraenkel-1922]: Fraenkel, A., 1922. “Zu den Grundlagen der Cantor-Zermeloschen Mengenlehre”, *Mathematische Annalen*, 86: 230–237.
-
-[^hilbert-1926]: Hilbert D., 1926. “Über das Unendliche,” *Mathematische Annalen*, 95. Translated in J. van Heijenoort (ed.) *From Frege to Gödel: A Source Book in Mathematical Logic, 1879–1931*, Cambridge, MA: Harvard University Press, 1967, pp. 367–392.
-
-[^lindenbaum-1938]: Lindenbaum, A., and Mostowski, A., 1938. “Über die Unabhängigkeit des Auswahlsaxioms und einiger seiner Folgerungen,” *Comptes Rendus des Séances de la Société des Sciences et des Lettres de Varsovie*, 31: 27–32.
-
-[^gödel-1938a]: Gödel, K., 1938a. “The consistency of the axiom of choice and of the generalized continuum-hypothesis,” *Proceedings of the U.S. National Academy of Sciences*, 24: 556–7.
-
-[^gödel-1938b]: Gödel, K., 1938b. “Consistency-proof for the generalized continuum-hypothesis,” *Proceedings of the U.S. National Academy of Sciemces*, 25: 220–4.
-
-[^gödel-1940]: Gödel, K., 1940. *The Consistency of the Axiom of Choice and of the Generalized Continuum-Hypothesis with the Axioms of Set Theory*, Annals of Mathematics Studies, No. 3, Princeton: Princeton University Press.
-
-[^mendelson-1956]: Mendelson, E., 1956. “The independence of a weak axiom of choice,” *Journal of Symbolic Logic*, 21: 350–366.
-
-[^mendelson-1958]: –––, 1958. “The axiom of fundierung and the axiom of choice,” *Arkiv fur Mathematische Logik und Grundlagenforschung*, 4: 67–70.
-
-[^shoenfield-1955]: Shoenfield, J. R., 1955. “The independence of the axiom of choice,” *Journal of Symbolic Logic*, 20: 202.
-
-[^specker-1957]: Specker, E., 1957. “Zur Axiomatik der Mengenlehre (Fundierungs- und Auswahlaxiom),” *Zeit. Math. Logik und Grund.*, 3: 173–210.
-
-[^cohen-1963]: Cohen, P.J., 1963. “The independence of the continuum hypothesis I,” *Proceedings of the U.S. National Academy of Sciemces*, 50: 1143–48. [The independence of the Axiom of Choice from the standard axioms of set theory, ZF, is part of Theorem 1 of this paper.]
-
-[^cohen-1964]: –––, 1964. “The independence of the continuum hypothesis II,” *Proceedings of the U.S. National Academy of Sciemces*, 51: 105–110.
-
 [^note-7]: Here ($x)_{x\in X}$ indicates that all the members of $X$ are taken as designated elements of the structure, i.e. as being named by constant symbols in the associated first-order language.
-
-[^gödel-1964]: Gödel, K., 1964. “Remarks before the Princeton Bicentennial Conference,” in *The Undecidable*, Martin Davis (ed.), CITY: Raven Press, pp. 84–88.
-
-[^myhill-1971]: Myhill, J. and Scott, D.S., 1971. “Ordinal definability,” *Axiomatic Set Theory*. Proceedings of Symposia in Pure Mathematics, Vol. XIII, Part I. American Mathematical Society, pp. 271–8.
 
 [^note-8]: For a detailed account of the proof of the independence of the Axiom of Choice, see Bell 2005 or Jech 1973.
 
@@ -399,43 +386,9 @@ ${\exists f \in 2^X}[{\forall x \in X}[\phi(x,0) \vee \phi(x,1)] \rightarrow {\f
 
 [^note-12]: Had we elected to follow more closely the intuitive combinatorial derivation of *AC* as sketched above by using selectors instead of samplings we would have encountered the obstacle that—unlike the set of samplings—the set of selectors is not necessarily reductive.
 
-[^hausdorff-1909]: Hausdorff, F., 1909. “Die Graduierung nach dem Endverlauf,” *Königlich Sächsichsen Gesellschaft der Wissenschaften zu Leipzig, Math.—Phys. Klasse, Sitzungberichte*, 61: 297–334.
-
-[^kuratowski-1922]: Kuratowski, K., 1922. “Une méthode d’élimination des nombres transfinis des raissonements mathématiques,” *Fundamenta Mathematicae*, 3: 76–108.
-
-[^bochner-1928]: Bochner, S., 1928. “Fortsetzung Riemannscher Flachen,” *Mathematische Annalen*, 98: 406–421.
-
-[^moore-1932]: Moore, R.L., 1932. *Foundations of Point Set Theory*, Anerican Mathematical Society Colloquium Publications, vol. 13.
-
-[^zorn-1935]: Zorn, M., 1935. A remark on method in transfinite algebra, *Bulletin of the American Mathematical Society*, 41: 667–70.
-
-[^bourbaki-1939]: Bourbaki, N., 1939. *Elements de Mathematique, Livre I: Theorie des Ensembles*, Paris: Hermann.
-
-[^teichmuller-1939]: Teichmuller, O., 1939. “Brauch der Algebraiker das Auswahlaxiom?” *Deutsches Mathematik*, 4: 567–577.
-
 [^note-13]: For equivalents of the Axiom of Choice, see Rubin and Rubin 1985; for consequences, see Howard and Rubin 1998.
 
-[^zermelo-1908]: –––, 1908. Neuer Beweis für die Möglichkeit einer Wohlordnung, *Mathematische Annalen*, 65: 107–128. Translated in J. van Heijenoort (ed.), *From Frege to Gödel: A Source Book in Mathematical Logic, 1879–1931*, Cambridge, MA: Harvard University Press, 1967, pp. 183–198.
-
-[^russell-1906]: Russell, B., 1906. “On some difficulties in the theory of transfinite numbers and order types,” *Proceedings of the London Mathematical Society*, 4(2): 29–53.
-
-[^hamel-1905]: Hamel, G., 1905. “Eine Basis aller Zahlen und die unstetigen Lösungen der Funktionalgleichung: *f(x* + *y*) = *f(x*) + *f(y*),” *Mathematische Annalen*, 60: 459–62.
-
-[^steinitz-1910]: Steinitz, E., 1910. “Algebraische Theorie der Körper,” *Journal für die Reine und angewandte Mathematik (Crelle)*, 137: 167–309.
-
-[^vitali-1905]: Vitali, G., 1905. *Sul problema della misura dei gruppi di punti di una retta*, Bologna: Tip. Gamberini e Parmeggiani.
-
-[^solovay-1970]: Solovay, R., 1970. “A model of set theory in which every set of reals is Lebesgue measurable,” *Annals of Mathematics*, 92: 1–56.
-
-[^bernays-1942]: Bernays, P., 1942. “A system of axiomatic set theory, Part III,” *Journal of Symbolic Logic*, 7: 65–89.
-
-[^tarski-1948]: Tarski, A., 1948. “Axiomatic and algebraic aspects of two theorems on sums of cardinals,” *Fundamenta Mathematicae*, 35: 79–104.
-
-[^tarski-1957]: Tarski, A., and Robert L. Vaught, 1957. “Arithmetical extensions of relational systems,” *Compositio Mathematica*, 13: 81–102. [[Tarski & Vaught 1957 available online](http://www.numdam.org/article/CM_1956-1958__13__81_0.pdf)]
-
 [^note-14]: “Weaker” here means that, within the context of the axioms of set theory (minus, of course, *AC*), the proposition in question is entailed by *AC*, but not vice-versa.
-
-[^stone-1936]: Stone, M.H., 1936. “The theory of representations for Boolean algebras,” *Transactions of the American Mathematical Society*, 40: 37–111.
 
 [^note-15]: The idea of the proof goes back to Goodman and Myhill 1978, which was itself built on a result of Diaconescu 1975. See below.
 
@@ -449,12 +402,201 @@ ${\exists f \in 2^X}[{\forall x \in X}[\phi(x,0) \vee \phi(x,1)] \rightarrow {\f
 
 [^note-20]: With Zorn’s Lemma the situation is otherwise. For despite its equivalence to *AC* in classical set theory, in intuitionistic set theory Zorn’s Lemma *does not imply* **LEM:** in fact, it has no “non-constructive” logical consequences whatsoever (Grayson 1975, Bell 1997)[^bell-1997][^grayson-1975]. Thus Zorn’s Lemma is considerably weaker than *AC* in intuitionistic set theory. Intuitionistic equivalents of Zorn’s Lemma are scarce; a few have been formulated in Bell 2003.
 
+[^note-21]: That is, the set of all $R$-equivalence classes of members of $A$.  ### Notes to Supplementary Document: The Axiom of Choice and Type Theory  1. Dependent types were actually first studied in the late 1960s by de Bruijn and his colleagues at the University of Eindhoven in connection with the AUTOMATH project. CDTT has been employed as a basis for various computational devices employed for the verification of mathematical theories and of software and hardware systems in computer science.  2. Analogous constructive versions of set theory, incorporating choice principles, have been developed by Peter Aczel. See Aczel 1978, 1982, 2005 and Aczel & Rathjen 2001.  3. This idea was advanced by Curry and Feys 1958 and later by Howard 1980. As the *Curry-Howard correspondence* it has come to play an important role in theoretical computer science.  4. For a complete specification of the operations and rules of DCTT, see Chapter 10 of Jacobs 1999 or Gambino & Aczel 2005.  5. See §4.  6. It is interesting to note that Ramsey 1926 also asserted the tautological character of *AC* but for quite different reasons. Like Zermelo, Ramsey construed—and accepted the truth of—*AC* as asserting the objective existence of choice functions, given extensionally and so independently of the manner in which they might be described. But the intensional nature of constructive mathematics, and, in particular, of **CDTT**, decrees that nothing is given completely independently of its description. This leads to a strong construal of the quantifiers which, as we have observed, essentially trivializes *AC* by rendering the antecedent of the implication constituting it essentially equivalent to the consequent. It is remarkable that *AC* can be considered tautological both from an extensional and from an intensional point of view.  7. While in classical set theory each singleton in this sense is either empty or a one-element set, in intuitionistic set theory there are many additional “intermediate” sets qualifying as singletons.
+
+[^aczel-1978]: Aczel, P., 1978. “The type-theoretic interpretation of constructive set theory,” in A. ManIntyre, L. Pacholski, and J. Paris (eds.), *Logic Colloquium 77*, Amsterdam: North-Holland, pp. 55–66.
+
+[^aczel-1982]: –––, 1982. “The type-theoretic interpretation of constructive set theory: choice principles,” in A. S. Troelstra and D. van Dalen (eds.), *The L.E.J. Brouwer Centenary Symposium*, Amsterdam: North-Holland, pp. 1–40.
+
+[^aczel-2002]: Aczel, P. and N. Gambino, 2002. “Collection principles in dependent type theory,” in P. Callaghan, Z. Luo, J. McKinna and R. Pollack (eds.), *Types for Proofs and Programs* (Lecture Notes on Computer Science, Volume 2277), Berlin: Springer, pp. 1–23.
+
+[^aczel-2005]: –––, 2005. “The generalized type-theoretic interpretation of constructive set theory,” *Journal of Symbolic Logic*, 71/1: 67–103. [[Preprint available online in compressed Postscript](http://www.cs.man.ac.uk/~petera/gambino-aczel.ps.gz)]
+
+[^aczel-2013]: Aczel, P., Berg, B. and J. Granstrom, 2013. “Are there enough injective sets?,” *Studia Logica*, 101(3): 467–482.
+
+[^aczel-2001]: Aczel, P. and M. Rathjen, 2001. *Notes on Constructive Set Theory*. Technical Report 40, Mittag-Leffler Institute, The Swedish Royal Academy of Sciences. [[Preprint available online](http://www.mittag-leffler.se/sites/default/files/IML-0001-40.pdf)]
+
+[^banach-1924]: Banach, S. and Tarski, A., 1924. “Sur la décomposition des ensembles de points en parties respectivement congruentes,” *Fundamenta Mathematicae*, 6: 244–277.
+
+[^bell-1983]: Bell, J.L., 1983. “On the strength of the Sikorski extension theorem for Boolean algebras,” *Journal of Symbolic Logic*, 48: 841–846.
+
+[^bell-1988]: –––, 1988. *Toposes and Local Set Theories: An Introduction*, Oxford: Clarendon Press.
+
 [^bell-1997]: –––, 1997. “Zorn’s lemma and complete Boolean algebras in intuitionistic type theories,” *Journal of Symbolic Logic*, 62: 1265–1279.
 
-[^grayson-1975]: Grayson, R.J., 1975. “A sheaf approach to models of set theory,” M.Sc. Thesis, Mathematics Department, Oxford University.
+[^bell-2003]: –––, 2003. “Some new intuitionistic equivalents of Zorn’s Lemma,” *Archive for Mathematical Logic*, 42: 811–814.
+
+[^bell-2005]: –––, 2005. *Set Theory: Boolean-valued Models and Independence Proofs*, Oxford: Clarendon Press.
+
+[^bell-2006]: –––, 2006. “Choice principles in intuitionistic set theory,” in *A Logical Approach to Philosophy*, Devidi, D. and Kenyon, T.(eds.), Berlin: Springer, 36–44.
+
+[^bell-2008]: –––, 2008. “The axiom of choice and the law of excluded middle in weak set theories,” *Mathematical Logic Quarterly*, 48: 841–846.
+
+[^bell-2009]: –––, 2009. *The Axiom of Choice*, London: College Publications.
+
+[^bell-2011]: –––, 2011. “The axiom of choice in an elementary theory of operations and sets” in *Analysis and Interpretation in the Exact Sciences*, Devidi, D. and Kenyon, T.(eds.), Berlin: Springer, 163–175.
+
+[^bell-1972]: Bell, J.L. and Fremlin, D., 1972. “The maximal ideal theorem for lattices of sets,” *Bulletin of the London Mathematical Society*, 4: 1–2.
+
+[^bell-1972a]: –––, 1972a. “A geometric form of the axiom of choice,” *Fundamenta Mathematicae*, 77: 167–170.
+
+[^bell-1977]: Bell, J.L. and Machover, M. , 1977. *A Course in Mathematical Logic*. Amsterdam: North-Holland.
+
+[^bernays-1942]: Bernays, P., 1942. “A system of axiomatic set theory, Part III,” *Journal of Symbolic Logic*, 7: 65–89.
+
+[^bishop-1985]: Bishop, E. and Bridges, D., 1985. *Constructive Analysis*, Berlin: Springer.
+
+[^blass-1984]: Blass, A., 1984. “Existence of bases implies the axiom of choice,” in *Axiomatic Set Theory*, Baumgartner, Martin and Shelah (eds.) (Contemporary Mathematics Series, Volume 31), American Mathematical Society, pp. 31–33.
+
+[^bochner-1928]: Bochner, S., 1928. “Fortsetzung Riemannscher Flachen,” *Mathematische Annalen*, 98: 406–421.
+
+[^bourbaki-1939]: Bourbaki, N., 1939. *Elements de Mathematique, Livre I: Theorie des Ensembles*, Paris: Hermann.
+
+[^bourbaki-1950]: –––, 1950.“Sur le theoreme de Zorn,” *Archiv dem Mathematik*, 2: 434–437.
+
+[^cohen-1963]: Cohen, P.J., 1963. “The independence of the continuum hypothesis I,” *Proceedings of the U.S. National Academy of Sciemces*, 50: 1143–48. [The independence of the Axiom of Choice from the standard axioms of set theory, ZF, is part of Theorem 1 of this paper.]
+
+[^cohen-1964]: –––, 1964. “The independence of the continuum hypothesis II,” *Proceedings of the U.S. National Academy of Sciemces*, 51: 105–110.
+
+[^cohen-1966]: –––, 1966. *Set Theory and the Continuum Hypotheis*, New York: Benjamin.
+
+[^curry-1958]: Curry, H.B. and R. Feys, 1958. *Combinatory Logic*, Amsterdam: North Holland.
+
+[^devidi-2004]: Devidi, D., 2004. “Choice principles and constructive logics,” *Philosophia Mathematica*, 12(3): 222–243.
 
 [^diaconescu-1975]: Diaconescu, R., 1975. “Axiom of choice and complementation,” *Proceedings of the American Mathematical Society*, 51: 176–8.
 
-[^note-21]: That is, the set of all $R$-equivalence classes of members of $A$.  ### Notes to Supplementary Document: The Axiom of Choice and Type Theory  1. Dependent types were actually first studied in the late 1960s by de Bruijn and his colleagues at the University of Eindhoven in connection with the AUTOMATH project. CDTT has been employed as a basis for various computational devices employed for the verification of mathematical theories and of software and hardware systems in computer science.  2. Analogous constructive versions of set theory, incorporating choice principles, have been developed by Peter Aczel. See Aczel 1978, 1982, 2005 and Aczel & Rathjen 2001.  3. This idea was advanced by Curry and Feys 1958 and later by Howard 1980. As the *Curry-Howard correspondence* it has come to play an important role in theoretical computer science.  4. For a complete specification of the operations and rules of DCTT, see Chapter 10 of Jacobs 1999 or Gambino & Aczel 2005.  5. See §4.  6. It is interesting to note that Ramsey 1926 also asserted the tautological character of *AC* but for quite different reasons. Like Zermelo, Ramsey construed—and accepted the truth of—*AC* as asserting the objective existence of choice functions, given extensionally and so independently of the manner in which they might be described. But the intensional nature of constructive mathematics, and, in particular, of **CDTT**, decrees that nothing is given completely independently of its description. This leads to a strong construal of the quantifiers which, as we have observed, essentially trivializes *AC* by rendering the antecedent of the implication constituting it essentially equivalent to the consequent. It is remarkable that *AC* can be considered tautological both from an extensional and from an intensional point of view.  7. While in classical set theory each singleton in this sense is either empty or a one-element set, in intuitionistic set theory there are many additional “intermediate” sets qualifying as singletons.
+[^fraenkel-1922]: Fraenkel, A., 1922. “Zu den Grundlagen der Cantor-Zermeloschen Mengenlehre”, *Mathematische Annalen*, 86: 230–237.
 
-[^bell-2006]: –––, 2006. “Choice principles in intuitionistic set theory,” in *A Logical Approach to Philosophy*, Devidi, D. and Kenyon, T.(eds.), Berlin: Springer, 36–44.
+[^fraenkel-1922a]: Fraenkel, A., 1922a.“Über den Begriff ‘definit’ und die Unabhängigkeit des Auswahlsaxioms,” *Sitzungsberichte der Preussischen Akademie der Wissenschaften, Physik-math. Klasse*, 253–257. Translated in van Heijenoort, From Frege to Gödel: A Source Book in Mathematical Logic 1879–1931, Harvard University Press, 1967, pp. 284–289.
+
+[^fraenkel-1973]: Fraenkel, A., Y. Bar-Hillel and A. Levy, 1973. *Foundations of Set Theory*, Amsterdam: North-Holland, 2ⁿᵈ edition.
+
+[^gödel-1938a]: Gödel, K., 1938a. “The consistency of the axiom of choice and of the generalized continuum-hypothesis,” *Proceedings of the U.S. National Academy of Sciences*, 24: 556–7.
+
+[^gödel-1938b]: Gödel, K., 1938b. “Consistency-proof for the generalized continuum-hypothesis,” *Proceedings of the U.S. National Academy of Sciemces*, 25: 220–4.
+
+[^gödel-1940]: Gödel, K., 1940. *The Consistency of the Axiom of Choice and of the Generalized Continuum-Hypothesis with the Axioms of Set Theory*, Annals of Mathematics Studies, No. 3, Princeton: Princeton University Press.
+
+[^gödel-1964]: Gödel, K., 1964. “Remarks before the Princeton Bicentennial Conference,” in *The Undecidable*, Martin Davis (ed.), CITY: Raven Press, pp. 84–88.
+
+[^goodman-1978]: Goodman, N. and Myhill, J., 1978. “Choice implies excluded middle,” *Zeitschrift fur Mathematische Logik und Grundlagen der Mathematik* , 24(25–30): 461.
+
+[^grattan-guinness-2012]: Grattan-Guinness, I., 2012. “Jourdain, Russell and the axiom of choice: a new document,” *Russell: The Journal of the Bertrand Russell Archives*, 32(1): 69–74.
+
+[^grayson-1975]: Grayson, R.J., 1975. “A sheaf approach to models of set theory,” M.Sc. Thesis, Mathematics Department, Oxford University.
+
+[^halpern-1971]: Halpern, , J.D. and Levy, A., 1971. “The Boolean prime ideal theorem does not imply the axiom of choice,” *Axiomatic Set Theory*, Proceedings of Symposia in Pure Mathematics, Vol. XIII, Part I. American Mathematical Society, pp. 83–134.
+
+[^hamel-1905]: Hamel, G., 1905. “Eine Basis aller Zahlen und die unstetigen Lösungen der Funktionalgleichung: *f(x* + *y*) = *f(x*) + *f(y*),” *Mathematische Annalen*, 60: 459–62.
+
+[^hausdorff-1909]: Hausdorff, F., 1909. “Die Graduierung nach dem Endverlauf,” *Königlich Sächsichsen Gesellschaft der Wissenschaften zu Leipzig, Math.—Phys. Klasse, Sitzungberichte*, 61: 297–334.
+
+[^hausdorff-1914]: –––, 1914. *Grundzüge der Mengenlehre*, Leipzig: de Gruyter. Reprinted, New York: Chelsea, 1965.
+
+[^hausdorff-1914a]: –––, 1914a. “Bemerkung über den Inhalt von Punktmengen,” *Mathematische Annalen*, 75: 428–433.
+
+[^hilbert-1926]: Hilbert D., 1926. “Über das Unendliche,” *Mathematische Annalen*, 95. Translated in J. van Heijenoort (ed.) *From Frege to Gödel: A Source Book in Mathematical Logic, 1879–1931*, Cambridge, MA: Harvard University Press, 1967, pp. 367–392.
+
+[^hodges-1979]: Hodges, W., 1979. “Krull implies Zorn,” *Journal of the London Mathematical Society*, 19: 285–7.
+
+[^howard-1998]: Howard, P. and Rubin, J. E., 1998. *Consequences of the Axiom of Choice*, American Mathematical Society Surveys and Monographs, Vol. 59.
+
+[^howard-1980]: Howard, W. A., 1980. “The formulae-as-types notion of construction,” in J. R. Hindley and J. P. Seldin (eds.), *To H. B. Curry: Essays on Combinatorial Logic. Lambda Calculus and Formalism*, New York and London: Academic Press, pp. 479–490.
+
+[^jacobs-1999]: Jacobs, B., 1999. *Categorical Logic and Type Theory*, Amsterdam: Elsevier.
+
+[^jech-1973]: Jech, T., 1973. *The Axiom of Choice*, Amsterdam: North-Holland.
+
+[^kelley-1950]: Kelley, J.L., 1950. “The Tychonoff product theorem implies the axiom of choice,” *Fundamenta Mathematicae*, 37: 75–76.
+
+[^klimovsky-1958]: Klimovsky, G., 1958. “El teorema de Zorn y la existencia de filtros a ideales maximales en los reticulados distributivos,” *Revista de la Union Matematica Argentina* , 18: 160–64.
+
+[^kuratowski-1922]: Kuratowski, K., 1922. “Une méthode d’élimination des nombres transfinis des raissonements mathématiques,” *Fundamenta Mathematicae*, 3: 76–108.
+
+[^lawvere-2003]: Lawvere, F. W. and Rosebrugh, R., 2003. *Sets for Mathematics*, Cambridge: Cambridge University Press.
+
+[^lindenbaum-1938]: Lindenbaum, A., and Mostowski, A., 1938. “Über die Unabhängigkeit des Auswahlsaxioms und einiger seiner Folgerungen,” *Comptes Rendus des Séances de la Société des Sciences et des Lettres de Varsovie*, 31: 27–32.
+
+[^maietti-2005]: Maietti, M.E., 2005. “Modular correspondence between dependent type theories and categories including pretopoi and topoi,” *Mathematical Structures in Computer Science*, 15/6: 1089–1145.
+
+[^martin-löf-1975]: Martin-Löf, P., 1975. “An Intuitionistic theory of types; predicative part,” in H. E. Rose and J. C. Shepherdson (eds.), *Logic Colloquium 73*, Amsterdam: North-Holland, pp. 73–118.
+
+[^martin-löf-1982]: –––, 1982. “Constructive mathematics and computer programming,” in L. C. Cohen, J. Los, H. Pfeiffer, and K.P. Podewski (eds.), *Logic, Methodology and Philosophy of Science VI*, Amsterdam: North-Holland, pp. 153–179.
+
+[^martin-löf-1984]: –––, 1984. *Intuitionistic Type Theory*, Naples: Bibliopolis.
+
+[^martin-löf-2006]: –––, 2006. “100 years of Zermelo’s axiom of choice: what was the problem with it?,” *The Computer Journal*, 49(3): 345–350.
+
+[^mendelson-1956]: Mendelson, E., 1956. “The independence of a weak axiom of choice,” *Journal of Symbolic Logic*, 21: 350–366.
+
+[^mendelson-1958]: –––, 1958. “The axiom of fundierung and the axiom of choice,” *Arkiv fur Mathematische Logik und Grundlagenforschung*, 4: 67–70.
+
+[^mendelson-1987]: –––, 1987. *Introduction to Mathematical Logic*, CITY: Wadsworth & Brooks, 3rd edition.
+
+[^moore-1982]: Moore, G.H., 1982. *Zermelo’s Axiom of Choice*, Berlin: Springer-Verlag.
+
+[^moore-1932]: Moore, R.L., 1932. *Foundations of Point Set Theory*, Anerican Mathematical Society Colloquium Publications, vol. 13.
+
+[^myhill-1971]: Myhill, J. and Scott, D.S., 1971. “Ordinal definability,” *Axiomatic Set Theory*. Proceedings of Symposia in Pure Mathematics, Vol. XIII, Part I. American Mathematical Society, pp. 271–8.
+
+[^post-1953]: Post, E.L., 1953. “A necessary condition for definability for transfinite von Neumann-Gödel set theory sets, with an application to the problem of the existence of a definable well-ordering of the continuum.” Preliminary Report, *Bulletin of the American Mathematical Society*, 59: 246.
+
+[^ramsey-1926]: Ramsey, F. P., 1926. “The foundations of mathematics,” *Proceedings of the London Mathematical Society*, 25: 338–84. Reprinted in *The Foundations of Mathematics and Other Essays*, D.H. Mellor, ed. London: Routledge, 2001.
+
+[^rubin-1985]: Rubin, H. and Rubin, J. E., 1985. *Equivalents of the Axiom of Choice II*, Amsterdam: North-Holland.
+
+[^rubin-1954]: Rubin, H. and Scott, D.S., 1954. “Some topological theorems equivalent to the prime ideal theorem,” *Bulletin of the American Mathematical Society*, 60: 389.
+
+[^russell-1906]: Russell, B., 1906. “On some difficulties in the theory of transfinite numbers and order types,” *Proceedings of the London Mathematical Society*, 4(2): 29–53.
+
+[^shoenfield-1955]: Shoenfield, J. R., 1955. “The independence of the axiom of choice,” *Journal of Symbolic Logic*, 20: 202.
+
+[^sikorski-1948]: Sikorski, R., 1948. “A theorem on extensions of homomorphisms,” *Annales de la Societé Polonaise de Mathématiques*, 21: 332–35.
+
+[^solovay-1970]: Solovay, R., 1970. “A model of set theory in which every set of reals is Lebesgue measurable,” *Annals of Mathematics*, 92: 1–56.
+
+[^specker-1957]: Specker, E., 1957. “Zur Axiomatik der Mengenlehre (Fundierungs- und Auswahlaxiom),” *Zeit. Math. Logik und Grund.*, 3: 173–210.
+
+[^steinitz-1910]: Steinitz, E., 1910. “Algebraische Theorie der Körper,” *Journal für die Reine und angewandte Mathematik (Crelle)*, 137: 167–309.
+
+[^stone-1936]: Stone, M.H., 1936. “The theory of representations for Boolean algebras,” *Transactions of the American Mathematical Society*, 40: 37–111.
+
+[^tait-1994]: Tait, W. W., 1994. “The law of excluded middle and the axiom of choice,” in *Mathematics and Mind*, A. George (ed.), New York: Oxford University Press, pp. 45–70.
+
+[^takeuti-1961]: Takeuti, G., 1961. “Remarks on Cantor’s Absolute,” *Journal of the Mathematical Society of Japan*, 13: 197–206.
+
+[^tarski-1948]: Tarski, A., 1948. “Axiomatic and algebraic aspects of two theorems on sums of cardinals,” *Fundamenta Mathematicae*, 35: 79–104.
+
+[^tarski-1957]: Tarski, A., and Robert L. Vaught, 1957. “Arithmetical extensions of relational systems,” *Compositio Mathematica*, 13: 81–102. [[Tarski & Vaught 1957 available online](http://www.numdam.org/article/CM_1956-1958__13__81_0.pdf)]
+
+[^teichmuller-1939]: Teichmuller, O., 1939. “Brauch der Algebraiker das Auswahlaxiom?” *Deutsches Mathematik*, 4: 567–577.
+
+[^vitali-1905]: Vitali, G., 1905. *Sul problema della misura dei gruppi di punti di una retta*, Bologna: Tip. Gamberini e Parmeggiani.
+
+[^wagon-1993]: Wagon, S., 1993.*The Banach-Tarski Paradox*, Cambridge University Press.
+
+[^zermelo-1904]: Zermelo, E., 1904. “Neuer Beweis, dass jede Menge Wohlordnung werden kann (Aus einem an Herrn Hilbert gerichteten Briefe)”, *Mathematische Annalen*, 59: 514–16. Translated in J. van Heijenoort (ed.), *From Frege to Gödel: A Source Book in Mathematical Logic, 1879–1931*, Cambridge, MA: Harvard University Press, 1967, pp. 139–141.
+
+[^zermelo-1908]: –––, 1908. Neuer Beweis für die Möglichkeit einer Wohlordnung, *Mathematische Annalen*, 65: 107–128. Translated in J. van Heijenoort (ed.), *From Frege to Gödel: A Source Book in Mathematical Logic, 1879–1931*, Cambridge, MA: Harvard University Press, 1967, pp. 183–198.
+
+[^zermelo-1908a]: –––, 1908a.“Untersuchungen uber die Grundlagen der Mengenlehre,” *Mathematische Annalen*, 65: 107–128. Translated in J. van Heijenoort (ed.), *From Frege to Gödel: A Source Book in Mathematical Logic, 1879–1931*, Cambridge, MA: Harvard University Press, 1967, pp. 199–215.
+
+[^zorn-1935]: Zorn, M., 1935. A remark on method in transfinite algebra, *Bulletin of the American Mathematical Society*, 41: 667–70.
+
+### 补充文档注记：选择公理与类型论
+
+1. 依赖类型实际上最早由 de Bruijn 及其埃因霍温大学同事于 20 世纪 60 年代末在 AUTOMATH 项目中研究。**CDTT** 已被用作多种计算装置的基础，这些装置用于验证数学理论以及计算机科学中的软件和硬件系统。
+
+2. Peter Aczel 发展了类似的、包含选择原理的构造性集合论版本。参见 Aczel 1978、1982、2005 与 Aczel & Rathjen 2001。
+
+3. 这一想法由 Curry 与 Feys 1958 提出，后由 Howard 1980 推进。作为“柯里—霍华德对应”，它在理论计算机科学中已发挥重要作用。
+
+4. 关于 DCTT 的运算与规则的完整规定，参见 Jacobs 1999 第 10 章或 Gambino & Aczel 2005。
+
+5. 参见 §4。
+
+6. 有趣的是，Ramsey 1926 也断言 *AC* 的重言式特征，但理由颇为不同。与 Zermelo 一样，Ramsey 把 *AC* 理解为断言选择函数的客观存在，并接受其为真；这种存在是外延地给出的，因而独立于描述它们的方式。但构造性数学、尤其是 **CDTT** 的内涵性质决定：没有任何东西可以完全独立于其描述而被给出。这导致对量词的强读法；正如我们已经看到的，这种读法实质上使 *AC* 成为琐屑的，因为它使构成该蕴涵的前件本质上等价于后件。值得注意的是，无论从外延观点还是从内涵观点看，*AC* 都可被视为重言式。
+
+7. 在经典集合论中，这种意义上的每个单元素集要么是空的，要么是一元集；而在直觉主义集合论中，有许多额外的“中间”集合也符合单元素集的资格。
+
