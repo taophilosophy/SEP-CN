@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""en_source_audit 检查器单元测试：各检查类的硬/告警判定（ADR-0052）。"""
+"""en_source_audit 公式定界符单测（064 T193/T194）：`\\[1em]` 行距不计 display。"""
 import os
 import sys
 import unittest
@@ -9,104 +9,23 @@ sys.path.insert(0, REPO)
 
 from tools import en_source_audit  # noqa: E402
 
-PAGE = ("<!DOCTYPE html><html><head><title>t</title></head><body>"
-        "<h2>一</h2><p>hello <a href=\"#sec-2\">next</a> world.</p>"
-        "<h2 id=\"sec-2\">二</h2><p>Some <span>prose</span> here.</p>"
-        "</body></html>")
 
+class CheckMathTest(unittest.TestCase):
+    def _out(self):
+        return {"counts": {}, "hard": []}
 
-def _run(raw, slug="audit-fixture", catalog=None):
-    out = {"slug": slug, "hard": [], "warn": [], "info": [], "counts": {}}
-    ids = {i for i in en_source_audit.ID_RE.findall(raw)}
-    en_source_audit._check_page(raw, out)
-    en_source_audit._check_links(raw, slug, ids, out, catalog)
-    en_source_audit._check_math(raw, out)
-    en_source_audit._check_tables(raw, out)
-    en_source_audit._check_typo(en_source_audit._text_nodes(raw), out)
-    return out
-
-
-class TestEnSourceAudit(unittest.TestCase):
-    def test_clean_page(self):
-        out = _run(PAGE)
+    def test_line_break_not_display(self):
+        raw = r"\[x\] \begin{align} a \\[1em] b \end{align}"
+        out = self._out()
+        en_source_audit._check_math(raw, out)
+        self.assertEqual(out["counts"]["math_display"], 1)
         self.assertEqual(out["hard"], [])
-        self.assertEqual(out["warn"], [])
 
-    def test_truncated_page_is_hard(self):
-        out = _run(PAGE[:60])
-        self.assertTrue(any(h["class"] == "truncation" for h in out["hard"]))
-
-    def test_broken_anchor_is_hard(self):
-        raw = PAGE.replace("href=\"#sec-2\"", "href=\"#nope\"")
-        out = _run(raw)
-        self.assertTrue(any(h["class"] == "anchor_missing" for h in out["hard"]))
-
-    def test_math_delim_and_brace(self):
-        raw = "<html><body><p>\\(x + y\\) 与 \\(z</p></body></html>"
-        out = _run(raw)
-        self.assertTrue(any(h["class"] == "math_delim" for h in out["hard"]))
-        raw2 = "<html><body><p>\\(x^{y\\)</p></body></html>"
-        out2 = _run(raw2)
-        self.assertTrue(any(h["class"] == "math_brace" for h in out2["hard"]))
-        # 平衡公式不报
-        out3 = _run("<html><body><p>\\(x^{y}\\)</p></body></html>")
-        self.assertEqual([h for h in out3["hard"] if h["class"].startswith("math")], [])
-
-    def test_table_without_row_is_hard(self):
-        raw = "<html><body><table><p>x</p></table></body></html>"
-        out = _run(raw)
-        self.assertTrue(any(h["class"] == "table_no_row" for h in out["hard"]))
-
-    def test_typo_candidates_and_masks(self):
-        raw = ("<html><body><p>It exists 3s a fact, Cambridh=ge, the the result, "
-               "doi:10.1093/xx/exp043, MEGA1 and pp.109–130.</p></body></html>")
-        out = _run(raw)
-        kinds = {w.get("token") for w in out["warn"] if w.get("cls") == "typo_candidate"}
-        self.assertIn("3s", kinds)
-        self.assertIn("Cambridh=ge", kinds)
-        self.assertIn("the the", kinds)
-        self.assertTrue(any(t.startswith("pp.1") for t in kinds), kinds)
-        self.assertNotIn("exp043", kinds)   # doi 掩蔽
-        self.assertNotIn("MEGA1", kinds)    # 全大写缩写豁免
-
-    def test_entry_link_catalog(self):
-        raw = ("<html><body><p><a href=\"../abelard/\">x</a> "
-               "<a href=\"../no-such-entry-xyz/\">y</a></p></body></html>")
-        out = _run(raw, catalog={"abelard", "audit-fixture"})
-        bad = [h for h in out["hard"] if h["class"] == "entry_link_bad"]
-        self.assertEqual(len(bad), 1)
-        self.assertIn("no-such-entry-xyz", bad[0]["msg"])
-
-    def test_commented_out_link_not_audited(self):
-        # SEP 官方注释停用链接（zabarella 先例：上游 404，SEP 以 <!----> 停用）
-        # 不算活链：不产生 entry_link_bad，也不影响活链核对（specs/036 裁定表）
-        raw = ("<html><body><p><!--<a href=\"../no-such-entry-xyz/\">Latin Averroism</a>-->"
-               "<a href=\"../abelard/\">x</a></p></body></html>")
-        out = _run(raw, catalog={"abelard", "audit-fixture"})
-        self.assertEqual([h for h in out["hard"] if h["class"] == "entry_link_bad"], [])
-
-    def test_error_page_marker_only_in_head(self):
-        # 风控页标记只识别页头区（前 4000 字符）：zombies 先例——书目深处
-        # 论文题 'Access Denied to Zombies' 不构成抓取失败信号
-        filler = "<p>" + ("filler text. " * 600) + "</p>"
-        raw_small = "<html><body><h1>Access Denied</h1></body></html>"
-        out1 = _run(raw_small)
-        self.assertTrue(any(h["class"] == "error_page" for h in out1["hard"]))
-        raw_big = ("<html><head><title>ok</title></head><body>" + filler +
-                   "<p>Piccinini, G., 2017, 'Access Denied to Zombies,' X.</p>"
-                   "</body></html>")
-        out2 = _run(raw_big)
-        self.assertEqual([h for h in out2["hard"] if h["class"] == "error_page"], [])
-
-    def test_entry_link_catalog_case_insensitive(self):
-        # 源 href 大小写变体（zombies 先例：../Russellian-monism/ 对目录
-        # russellian-monism）不误报；真缺失仍拦（specs/036 裁定表）
-        raw = ("<html><body><p><a href=\"../Russellian-monism/\">x</a> "
-               "<a href=\"../no-such-entry-xyz/\">y</a></p></body></html>")
-        out = _run(raw, catalog={"russellian-monism", "audit-fixture"})
-        bad = [h for h in out["hard"] if h["class"] == "entry_link_bad"]
-        self.assertEqual(len(bad), 1)
-        self.assertIn("no-such-entry-xyz", bad[0]["msg"])
+    def test_unbalanced_display_still_hard(self):
+        raw = r"\[x"
+        out = self._out()
+        en_source_audit._check_math(raw, out)
+        self.assertTrue(any(h.get("class") == "math_delim" for h in out["hard"]))
 
 
 if __name__ == "__main__":

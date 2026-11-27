@@ -2,8 +2,16 @@
   "slug": "logic-preference",
   "kind": "retranslate",
   "zh_doc": "l/logic-preference.md",
-  "state": "cleared",
-  "steps": [],
+  "state": "ex-04_checked",
+  "steps": [
+    {
+      "step": "ex-04",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-27T05:39:32Z",
+      "evidence": "T142/T193–T195 ex-04 完成：en_integrity clean；en_source_audit hard 0（修 \\\\\\\\[ 误计后；warn 5 全部定性：A 类 1、引用键 3）、check_math missing 0；行内公式 417、display 43；H2 12/H3 16、表 1/图 2、脚注定义 67；G13 无真候选、无需建清单；无勘误/补丁；证据 results/t193-ex04-machine.md、t194-ex04-human.md、t195-g13.md"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-28T05:38:07Z",
   "version_pin": {

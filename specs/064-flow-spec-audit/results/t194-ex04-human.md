@@ -8,7 +8,7 @@
 
 | 编号 | 来源 | 内容 | 定性 | 处置 |
 | ---- | ---- | ---- | ---- | ---- |
-| H1 | `en_source_audit` hard `math_delim` | `\[` 45／`\]` 43 不配对 | **false-positive** | 真实 display 定界符 43／43（`(?<!\\)\\\[`）；多出的 2 个是 `align` 内 `\\[1em]` 行距，非定界符。无需补丁 |
+| H1 | `en_source_audit` hard `math_delim` | `\[` 45／`\]` 43 不配对 | **false-positive（已修工具）** | 真实 display 定界符 43／43（`(?<!\\)\\\[`）；多出的 2 个是 `align` 内 `\\[1em]` 行距。已修 `en_source_audit` 计数与抽取，修复后 hard 0；无需补丁 |
 | W1 | `heading_skip` | h2→h4 | **false-positive** | 内容标题序列为 h2→h3→h4→h5；h2→h4 仅出现在页脚站点导航（Browse／About／Support SEP／Mirror Sites）。非正文结构问题 |
 | W2 | `typo_candidate` | `win2022` | **false-positive** | SEP 归档 URL 年份，非错字 |
 | W3–W5 | `typo_candidate` | `(2013a,b)` 三处逗号无空格 | **false-positive** | 作者-年份引用键习惯写法，非标点差错 |

@@ -1,14 +1,9 @@
 {
-  "checked_at": "2026-11-27T05:26:39Z",
+  "checked_at": "2026-11-27T05:38:51Z",
   "reports": [
     {
       "slug": "logic-preference",
-      "hard": [
-        {
-          "class": "math_delim",
-          "msg": "\\[ 45 处与 \\] 43 处不配对"
-        }
-      ],
+      "hard": [],
       "warn": [
         {
           "cls": "heading_skip",
@@ -44,11 +39,11 @@
         "entry_links": 12,
         "external_links": 11,
         "math_inline": 417,
-        "math_display": 45,
+        "math_display": 43,
         "tables": 1,
         "headings": 40
       },
-      "checked_at": "2026-11-27T05:26:39Z"
+      "checked_at": "2026-11-27T05:38:51Z"
     }
   ]
 }

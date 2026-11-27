@@ -76,7 +76,7 @@ def _text_nodes(raw):
     t = COMMENT_RE.sub(" ", t)
     t = MATH_BLOCK_RE.sub(" ", t)
     t = re.sub(r"\\\(.*?\\\)", " ", t, flags=re.S)
-    t = re.sub(r"\\\[.*?\\\]", " ", t, flags=re.S)
+    t = re.sub(r"(?<!\\)\\\[.*?(?<!\\)\\\]", " ", t, flags=re.S)
     t = TAG_RE.sub(" ", t)
     t = html.unescape(t)
     t = re.sub(r"doi:\S+", " ", t)  # DOI 后缀（exp043/jzad002 型）不作 typo 候选
@@ -286,8 +286,8 @@ def _check_images(raw, slug, out):
 def _check_math(raw, out):
     n_open_i = len(re.findall(r"\\\(", raw))
     n_close_i = len(re.findall(r"\\\)", raw))
-    n_open_d = len(re.findall(r"\\\[", raw))
-    n_close_d = len(re.findall(r"\\\]", raw))
+    n_open_d = len(re.findall(r"(?<!\\)\\\[", raw))
+    n_close_d = len(re.findall(r"(?<!\\)\\\]", raw))
     out["counts"]["math_inline"] = n_open_i
     out["counts"]["math_display"] = n_open_d
     if n_open_i != n_close_i:
@@ -296,7 +296,7 @@ def _check_math(raw, out):
     if n_open_d != n_close_d:
         out["hard"].append({"class": "math_delim", "msg":
                             "\\[ %d 处与 \\] %d 处不配对" % (n_open_d, n_close_d)})
-    for m in re.finditer(r"\\\(.*?\\\)|\\\[.*?\\\]", raw, re.S):
+    for m in re.finditer(r"\\\(.*?\\\)|(?<!\\)\\\[.*?(?<!\\)\\\]", raw, re.S):
         tex = m.group(0)
         depth, i, bad = 0, 0, False
         while i < len(tex):
