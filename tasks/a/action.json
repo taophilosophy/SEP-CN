@@ -2,7 +2,7 @@
   "slug": "action",
   "kind": "retranslate",
   "zh_doc": "zh/a/action.md",
-  "state": "ex-04_checked",
+  "state": "tr-02_checked",
   "steps": [
     {
       "step": "ex-04",
@@ -10,6 +10,13 @@
       "actor": "trae-main",
       "at": "2026-11-27T11:44:24Z",
       "evidence": "T215 ex-04 源审计完成（results/t215-review.md）：en_integrity clean 1/1；en_source_audit hard 0、warn 19；check_math 8（行内 7＋display 1）、missing 0、unbalanced 0。19 条候选逐条回源：12 条 false-positive（9 存档 URL 年份串、KpV9、sup2、Wai Wai 双名），7 条纯排版缺陷（pp. 后缺空格 5 处、文献末重复句点 2 处）已入 baseline/en-errata/en-errata.md 第十六节，只入表、不加译注、不建补丁；无 Critical/Major。14 类构件命中 10/14；脚注定义 320 键闭合、引用 381 处/唯一 239；图片/表格/代码块/LaTeX 环境均 0；display 1。G13 无需建清单。版本钉 Jan 11, 2023／Fall 2026／81716c8b…2189。"
+    },
+    {
+      "step": "tr-02",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-27T12:17:52Z",
+      "evidence": "T217 全量完成并经译后编辑（PE，results/t217-review.md）：§3–§8＋尾节＋320 脚注；230 块对应、375 脚注标记顺序一致、320 定义逐字一致；check_style/check_quotes/check_math_zh 0；check_pairs 仅 6 条原文 note 计数口径告警"
     }
   ],
   "blockers": [],
@@ -24,5 +31,19 @@
     "from": "s2.4_termchecked",
     "to": "rv-01_checked",
     "by": "ADR-0080"
+  },
+  "translation_mode": "llm-pe",
+  "project_spec": {
+    "audience": "中文哲学读者（研究者与研究生为主）",
+    "purpose": "学术阅读与引用（SEP 词条简体中文译本）",
+    "register": "现代汉语学术书面语",
+    "terminology_basis": "shu-yu-biao.md／ren-ming-biao.md／baseline/term-concepts.md",
+    "delivery": "GitBook Markdown＋VitePress 双语站",
+    "qa_level": "CY/T 266＋ISO 5060（六轴机检＋人工复核）"
+  },
+  "pe": {
+    "level": "full",
+    "system": "DeepSeek-V4.1-Flash",
+    "disclosure": "任务 evidence 与词条译后编辑记录"
   }
 }
