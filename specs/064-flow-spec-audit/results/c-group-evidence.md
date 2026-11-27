@@ -20,8 +20,8 @@
 | ---- | ---- |
 | 批次 | 5 个子代理：b1 §1.2 尾–§2.1；b2 §2.2–§2.3；b3 §2.4–§3；b4 §4–§6；b5 §7＋尾节 |
 | 合并 | 主代理合并样本＋b1–b5，补 §1.2 被跳过的 3 段（源行 34／36／38）与全部脚注定义 |
-| 全文 | `h/habermas.md` **37,643 汉字**（总字符约 109,536；含 §1–§7、参考文献、学术工具、其他网络资源、相关词条、脚注） |
-| 账本 | `tasks/h/habermas.ledger.yaml` **237 段**；source 逐段对应 yuanwen；step1／step2 双版；237／237 step2 均落文 |
+| 全文 | `h/habermas.md` **38,150 汉字**（总字符约 110,183；含 §1–§7、参考文献、学术工具、其他网络资源、相关词条、脚注） |
+| 账本 | `tasks/h/habermas.ledger.yaml` **239 段**；source 逐段对应 yuanwen；step1／step2 双版；239／239 step2 均落文；T133 复核补漏 §1.1 P4 与 §1.2 交往权力段后由 237 增至 239 |
 | 脚注 | 155 个文内标记；完整脚注定义块自 `yuanwen` 复制（254 条定义，参考文献照录） |
 | 体例 | `check_style` 0 issue；`check_quotes` 0 违例；`check_pairs` 0 issue；`check_academic --strict` 无硬错误；`check_math_zh` 0 条 |
 | 全量门禁 | `check_all` 23/23 全绿 |
