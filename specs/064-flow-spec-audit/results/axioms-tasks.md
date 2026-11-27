@@ -554,3 +554,14 @@
 | TA7–TA8 | 工作包 38；原子项 122；0 处预写门禁号／ADR 号 | 通过 |
 
 **rev89 说明**：T237 完成并勾选，勾选 79→80、未开始 81→80；§2.2–§2.3 共 56 块、123 公式、2 张推演表；账本 44→100 段；check_style／quotes／math_zh 0、terms 硬 0、academic 无硬错误、check_pairs hard 0（out_of_scope 1）。
+
+## 84 rev90 复核（T238 tr-02 批 2；计数 160）
+
+| 项 | 复算 | 结论 |
+| ---- | ---- | ---- |
+| TA1–TA3 | 160 定义、0 重复、0 悬空；16 分区和 160 | 通过 |
+| TA4–TA5 | 验收 160/160；Kahn 160/160 | 通过 |
+| TA6 状态一致 | 勾选 81（新增 T238）；容器 T138／T140／T142／T144／T154／T155／T156／T157／T158 未勾；logic-dynamic `ex-04_checked` | 通过 |
+| TA7–TA8 | 工作包 38；原子项 122；0 处预写门禁号／ADR 号 | 通过 |
+
+**rev90 说明**：T238 完成并勾选，勾选 80→81、未开始 80→79；§3 共 41 块、106 公式、4 display、2 张推演表；账本 100→141 段；check_style／quotes／math_zh 0、terms 硬 0、academic 无硬错误、check_pairs hard 0（out_of_scope 1）；勘误第二十节补 1 条格式。

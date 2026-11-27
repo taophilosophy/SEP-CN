@@ -238,3 +238,110 @@ PDL 的完全公理化，是对有效 PDL 公式集——换言之，是对其�
 对一切公式 $A$，若 sat $A$，则存在有穷模型 $M$，其大小与 $A$ 成指数关系，且 $M$ sat $A$。
 
 这意味着，在过程 (SP2) 中我们如今知道何时应停止寻找满足某公式的模型。因此，我们可以用 (SP2) 来检验一个公式是否可满足；而一旦穷尽了所有小模型，便可断定该公式不可满足。这给出一个非确定性地在指数时间（NEXPTIME）内运行的过程：猜测一个大小至多为单指数级的模型，并检验它是否满足该公式。不过，PDL 复杂性理论的关键结果，出自 Fischer 与 Ladner [1979] 以及 Pratt [1980a]。Fischer 与 Ladner [1979] 观察到 PDL 公式能高效地描述线性空间界交替图灵机的计算，从而首次确立了 (PDL-SAT) 的指数时间下界。(PDL-SAT) 的 EXPTIME 上界由 Pratt [1980a] 得到，他把语义表列法改造用于 PDL。因此，(PDL-SAT) 是 EXPTIME-完全的。（De Giacomo 与 Massacci [2000] 提出了一个实践中更高效的算法，尽管在最坏情况下仍以确定性指数时间运行。）
+
+## 3. 结构化程序设计与程序的正确性
+
+从历史上看，程序逻辑源于 20 世纪 60 年代末一些计算机科学家的工作，他们志在为程序设计语言赋予意义，并为关于程序的证明寻找严格的标准。例如，这类证明可以关乎一个程序相对于某种预期行为的正确性，也可以关乎一个程序的终止。Floyd [1967] 是一篇开创性论文，它借助 **流程图** 分析了结构化计算机程序的性质。Yanov [1959] 或 Engeler [1967] 等早期工作已经提出并研究了形式语言，程序联结词的性质可在其中得到表达。霍尔 [1969] 的形式系统是 PDL 诞生过程中的一个里程碑。它被提出来作为对 Floyd 流程图的一种严格的公理化解释。在指称这一形式系统时，我们常说霍尔逻辑、弗洛伊德—霍尔逻辑或霍尔演算。霍尔演算关心的是语句（“霍尔三元组”）的真，例如 $\{A\}\alpha\{B\}$，它建立起前提条件 $A$、程序 *α* 与后条件 $B$ 之间的联系。它表示：只要 $A$ 作为 *α* 执行的前提条件成立，那么 *α* 成功执行之后 $B$ 就作为后条件成立。
+
+几十年前如此，如今依然如此：验证一个程序，多半是通过在一批足够多样的输入上测试它来完成的。当某个输入未能得到预期输出时，就修复那个“缺陷”。若最终对每一个测试过的输入都得到了预期输出，人们便有理由相信该程序没有错误。然而，这是一种耗时的验证方法，而且它给可能失败的未测输入留下了余地。在程序已经实现并投入使用之后再发现这些错误，资源代价甚至更高。对关键系统而言，用形式方法推理程序的正确性至关重要，因为它提供了一条穷尽地证明程序没有错误的途径。
+
+### 3.1 霍尔演算
+
+要说明霍尔演算中的规则所刻画的程序原理，考察其中几条规则就足够了。（注意：这些规则的意思是，若规则线上方的全部语句——即前提——成立，则规则线下方的语句——即结论——也成立。）
+
+$$ \frac{\{A\}\alpha_1 \{B\}\quad\{B\} \alpha_2\{C\}} {\{A\} \alpha_1;\alpha_2\{C\}} \text{ (rule of composition)} $$
+
+合成规则刻画的是程序基本的顺序复合。作为前提，我们有关于两个程序 $\alpha_1$ 与 $\alpha_2$ 的部分正确性的两个假定。第一个假定是：当 $\alpha_1$ 在满足 $A$ 的状态中执行时，只要它停机，就会在满足 $B$ 的状态中结束。第二个假定是：当 $\alpha_2$ 在满足 $B$ 的状态中执行时，只要它停机，就会在满足 $C$ 的状态中结束。规则的结论说的是程序 $\alpha_1;\alpha_2$（即 $\alpha_1$ 与 $\alpha_2$ 顺序复合）的部分正确性，它由上述两个假定推出。也就是说，我们可以断定：若 $\alpha_1;\alpha_2$ 在满足 $A$ 的状态中执行，则只要它停机，就会在满足 $C$ 的状态中结束。
+
+迭代规则是一条重要的规则，因为它刻画了程序的一项本质能力：反复执行某段代码，直到某个条件不再成立。
+
+$$ \frac{\{A \land B\}\alpha\{A\}} {\{A\} \mathsf{while}~B~\mathsf{do}~\alpha \{\lnot B \land A\}} \text{ (rule of iteration)} $$
+
+最后，两条后承规则是根本性的，它们分别为涉及较弱后条件与较强前提条件的直观上清楚的推理提供形式基础。
+
+$$ \frac{\{A\}\alpha\{B\}\quad B \rightarrow C} {\{A\} \alpha \{C\}} \text{ (rule of consequence 1)} $$ $$ \frac{C\rightarrow A\quad \{A\}\alpha\{B\}} {\{C\}\alpha\{B\}} \text{ (rule of consequence 2)} $$
+
+在霍尔 [1969] 所呈现的形式系统中，我们略去了其公理图式，因为那将需要一阶语言。最后，在后来的霍尔逻辑研究中，人们也常常加入更多规则。早期综述可参见 Apt [1979]。
+
+### 3.2 霍尔演算与 PDL
+
+动态逻辑源于 Pratt 在模态逻辑形式系统中对霍尔三元组与霍尔演算的解释。借助模态词 $[\alpha]$，我们可以形式地表达：执行程序 *α* 所能到达的一切状态都满足公式 $A$。这通过写作 $[\alpha]A$ 来实现。于是，霍尔三元组 $\{A\}\alpha\{B\}$ 就径直由下述 PDL 公式刻画
+
+$A \rightarrow [\alpha]B$.
+
+此外，重要的程序构造可以很容易地通过定义性缩写引入 PDL：
+
+- $\mathsf{if}~ A ~\mathsf{then}~ \alpha ~\mathsf{else}~ \beta := ((A?;\alpha) \cup (\lnot A?;\beta))$
+- $\mathsf{while}~ A ~\mathsf{do}~ \alpha := ((A?;\alpha)^*;\lnot A?)$
+- $\mathsf{repeat}~ \alpha ~\mathsf{until}~ A := (\alpha;((\lnot A;\alpha)^*;A?))$
+- $\mathsf{abort} := 0?$
+- $\mathsf{skip} := 1?$
+
+由此可见，有了 PDL，我们似乎就具备了逻辑地证明结构化程序正确性的充分工具。但除了 PDL 与霍尔演算之间这种颇为粗略的联系之外，二者在形式上究竟如何关联，或许仍不清楚。事实上，PDL 是霍尔演算的一种推广，其意义在于：霍尔演算的所有规则都能在 PDL 的公理系统中得到证明。（严格说来，霍尔演算还包含一些需要一阶动态逻辑的扩展语言才能表述的公理。）这一点相当值得注意，因此我们将展示这些规则如何推导出来。
+
+证明从假定规则的各前提开始。然后，只使用这些假定以及 PDL 的公理与规则——不用其他任何东西——目标在于确立规则的结论在逻辑上随之成立。因此，对于合成规则，我们先假定 $\{A\}\alpha_1\{B\}$，即其 PDL 表述 $A \rightarrow [\alpha_1]B$，再假定 $\{B\}\alpha_2\{C\}$，即 $B \rightarrow [\alpha_2]C$。目标是证明 $\{A\}\alpha_1;\alpha_2\{C\}$。确切地说，我们要确立 $A \rightarrow [\alpha_1;\alpha_2]C$ 可由公式集 $\{A \rightarrow [\alpha_1]B, B \rightarrow [\alpha_2]C\}$ 进行 $\vdash$-推演。
+
+| 1. | $A \rightarrow [\alpha_1]B$ | 假设 $\{A\}\alpha_1\{B\}$ |
+| --- | --- | --- |
+| 2. | $B \rightarrow [\alpha_2]C$ | 假设 $\{B\}\alpha_2\{C\}$ |
+| 3. | $[\alpha_1]B \rightarrow [\alpha_1][\alpha_2]C$ | 由 2 用 $[\alpha_1]$ 的单调性 |
+| 4. | $A \rightarrow [\alpha_1][\alpha_2]C$ | 由 1 与 3 用命题推理 |
+| 5. | $[\alpha_1;\alpha_2]C \leftrightarrow [\alpha_1][\alpha_2]C$ | 公理图式（A1） |
+| 6. | $A \rightarrow [\alpha_1;\alpha_2]C$ | 由 4 与 5 用命题推理 |
+| — | $\{A\}\alpha_1;\alpha_2\{C\}$ |   |
+
+迭代规则的证明稍为复杂。
+
+| 1. | $A\land B \rightarrow [\alpha ]A$ | 假设 $\{A \land B\}\alpha \{A\}$ |
+| --- | --- | --- |
+| 2. | $A \rightarrow (B \rightarrow [\alpha ]A)$ | 由 1 用命题推理 |
+| 3. | $[B?][\alpha ]A \leftrightarrow (B \rightarrow [\alpha ]A)$ | 公理图式（A4） |
+| 4. | $A \rightarrow [B?][\alpha ]A$ | 由 2 与 3 用命题推理 |
+| 5. | $[B? ; \alpha ]A \leftrightarrow [B?][\alpha ]A$ | 公理图式（A1） |
+| 6. | $A \rightarrow [B?;\alpha ]A$ | 由 4 与 5 用命题推理 |
+| 7. | $A \rightarrow [(B?;\alpha )^*]A$ | 由 6 用（I） |
+| 8. | $A \rightarrow (\lnot B \rightarrow (\lnot B\land A))$ | 命题重言式 |
+| 9. | $A \rightarrow [(B?;\alpha )^*](\lnot B \rightarrow (\lnot B\land A))$ | 由 7 与 8 用 $[(B?;\alpha )^*]$ 的单调性与命题推理 |
+| 10. | $[\lnot B?](\lnot B\land A)\ \leftrightarrow\ $ $(\lnot B \rightarrow (\lnot B\land A))$ | 公理图式（A4） |
+| 11. | $A \rightarrow [(B?;\alpha )^*][\lnot B?](\lnot B\land A)$ | 由 9 与 10 用 $[(B?;\alpha )^*]$ 的单调性与命题推理 |
+| 12. | $[(B?;\alpha )^* ; \lnot B?](\lnot B\land A)\ \leftrightarrow\ $ $[(B?;\alpha )^*][\lnot B?](\lnot B\land A)$ | 公理图式（A1） |
+| 13. | $A \rightarrow [(B?;\alpha )^* ; \lnot B?](\lnot B\land A)$ | 由 12 用命题推理 |
+| — | $\{A\}\mathsf{while}~ B ~\mathsf{do}~ \alpha \{\lnot B\land A\}$ |   |
+
+在 PDL 的语境中，两条后承规则实际上是合成规则的特例。要得到第一条规则，把 $\alpha_1$ 替换为 *α*，把 $\alpha_2$ 替换为 $\mathsf{skip}$。要得到第二条规则，把 $\alpha_1$ 替换为 $\mathsf{skip}$，把 $\alpha_2$ 替换为 *α*。只需应用公理图式（A4），并注意到对一切 $A$ 与一切 *α*，$[\alpha;\mathsf{skip}]A \leftrightarrow [\alpha]A$ 与 $[\mathsf{skip};\alpha]A \leftrightarrow [\alpha]A$ 也是 $\vdash$-可推演的。
+
+### 3.3 完全正确性
+
+按霍尔本人在霍尔 [1979] 中的说法，他最初的演算只是一个起点，带有不少局限。尤其是，它只允许人们推理 **部分** 正确性。也就是说，语句 $\{A\}\alpha\{B\}$ 的真只保证：*α* 的一切执行，只要从满足 $A$ 的状态出发，就会在满足 $B$ 的状态中结束，**或者不会停机**。换言之，一个部分正确的程序可能含有不终止的执行。（事实上，没有终止执行的程序总是部分正确的。例如程序 $\mathsf{while}~ 1 ~\mathsf{do}~ \mathsf{skip}$ 就是如此。对一切公式 $A$ 与 $B$，公式 $A \rightarrow [\mathsf{while}~1 ~\mathsf{do} ~\mathsf{skip}] B$ 都是可推演的。）该演算没有为“程序终止”的证明提供任何基础。它可以被修改，以便刻画程序的 **完全** 正确性：部分正确性加上终止。这是通过修改迭代规则来实现的。我们在此不再呈现，感兴趣的读者可参见 Apt [1981]。
+
+我们首先指出，对于 **确定的** 程序，已经可以借助如下形式的公式刻画完全正确性
+
+$A \rightarrow \langle\alpha\rangle B$.
+
+表达式 $\langle\alpha\rangle B$ 的意思是：*α* 有一次执行终止于满足 $B$ 的状态。此外，若 *α* 是确定的，那么这一可能存在的终止执行就是 *α* 的唯一执行。因此，若能先证明一个程序是确定的，这一手法就足以用来证明它的完全正确性。
+
+完全正确性问题的一般解决方案存在于 PDL 的领域之中。但我们需要对它稍作扩展。Pratt 已在 Pratt [1980b] 中暗示，PDL 的表达力不足以刻画程序的无限循环。作为回应，Streett [1982] 引入了带重复的 PDL（RPDL）。它对一切程序 *α* 都含有表达式 $\Delta\alpha$，该表达式代表一个新的命题，其语义为：
+
+- $V(\Delta\alpha) = \{x:$ 存在状态的一个无穷序列 $z_0, z_1, \ldots$，使得 $z_0 = x$，且对一切 $n \geq 0, z_n R(\alpha) z_{n+1}\}$。
+
+Streett [1982] 猜想：在 PDL 的证明系统中恰好加入下述公理图式，就能为 RPDL 提供公理化。
+
+**(A6)**
+
+$\Delta\alpha \rightarrow \langle\alpha\rangle \Delta\alpha$
+
+**(A7)**
+
+$[\alpha^*](A \rightarrow \langle\alpha\rangle A) \rightarrow (A \rightarrow \Delta\alpha)$
+
+该猜想的证明由 Sakalauskaite 与 Valiev [1990] 给出。（这一猜想在组合式 PDL 变体中的一个版本，也已在 Gargov 与 Passy [1988] 中得到证明。）
+
+容易看出，在上述霍尔演算中，不终止只可能来自迭代规则。类似地，一个 PDL 程序的不终止只可能来自无界迭代的使用。表达式 $\Delta\alpha$ 表示 $\alpha^*$ 可能发散，而这正是我们需要的那种概念。现在我们可以归纳地定义一个谓词 $\infty$，使得对程序 *α*，公式 $\infty(\alpha)$ 为真恰好当 *α* 能够进入不终止的计算。
+
+$\infty(\pi) := 0$ 其中 $\pi\in\Pi_0$ $\infty(A?) := 0$ $\infty(\alpha \cup \beta) := \infty(\alpha)\ \lor \infty(\beta)$ $\infty(\alpha ; \beta) := \infty(\alpha) \lor \langle\alpha\rangle \infty(\beta)$ $\infty(\alpha^*) := \Delta\alpha \lor \langle\alpha^*\rangle \infty(\alpha)$
+
+最后，一个程序的完全正确性可以借助如下形式的公式来表达
+
+$A \rightarrow (\lnot \infty(\alpha) \land [\alpha]B)$,
+
+其字面意思是：若 $A$ 成立，则程序 *α* 不能永远运行，并且 *α* 的每一次成功执行都会在满足 $B$ 的状态中结束。
