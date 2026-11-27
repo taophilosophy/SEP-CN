@@ -70,7 +70,7 @@ Zermelo 引入 *AC* 的初衷，是要确立 Cantor 集合论的一条核心原�
 | 1924 | 在 Hausdorff 工作的基础上，Banach 与 Tarski 由 *AC* 推出他们的球体悖论分解。 |
 | 1926 | Hilbert 在其证明论中引入“超限”或“ε”公理，作为 *AC* 的一个版本。（Hilbert 1926）[^hilbert-1926]。 |
 | 1936 | Lindenbaum 与 Mostowski 推广并精化了 Fraenkel 的置换法，证明了若干弱于 *AC* 的集合论陈述的独立性。（Lindenbaum and Tarski 1938）[^lindenbaum-1938] |
-| 1935–38 | Gödel 确立了 *AC* 与集合论公理的相对相容性（Gödel 1938a, 1938b, 1939, 1940）[^gödel-1938a][^gödel-1938b][^gödel-1940]。 |
+| 1935—38 | Gödel 确立了 *AC* 与集合论公理的相对相容性（Gödel 1938a, 1938b, 1939, 1940）[^gödel-1938a][^gödel-1938b][^gödel-1940]。 |
 | 1950s | Mendelson、Shoenfield 与 Specker 各自独立地运用置换法，确立了 *AC* 各种形式相对于不含原子、但也缺少基础公理的集合论系统的独立性（Mendelson 1956, 1958, Shoenfield 1955, Specker 1957）[^mendelson-1956][^mendelson-1958][^shoenfield-1955][^specker-1957]。 |
 | 1963 | Paul Cohen 证明 *AC* 相对于集合论标准公理的独立性（Cohen 1963, 1964）[^cohen-1963][^cohen-1964]。 |
 
@@ -128,9 +128,9 @@ Gödel（1964）[^gödel-1964] 也注意到（Myhill 与 Scott 1971、Takeuti 19
 | --- | --- |
 | 1914 | Hausdorff 的 *Grundzüge der Mengenlehre*（最早的集合论与一般拓扑学著作之一）包含若干极大原理。 |
 | 1922 | Kuratowski 在避免使用超限序数时表述并运用了若干极大原理（Kuratowski 1922）[^kuratowski-1922]。 |
-| 1926–28 | Bochner 等人各自独立地引入极大原理（Bochner 1928, Moore 1932）[^bochner-1928][^moore-1932]。 |
+| 1926—28 | Bochner 等人各自独立地引入极大原理（Bochner 1928, Moore 1932）[^bochner-1928][^moore-1932]。 |
 | 1935 | Max Zorn 显然并不熟悉此前关于极大原理的各种表述，他发表了（Zorn 1935）[^zorn-1935] 自己关于该原理的定稿版本，此版本后来以他的引理（**ZL**）之名广为人知。**ZL** 最早于 1933 年在汉堡被表述出来，Chevalley 与 Artin 很快“采纳”了它。似乎正是 Artin 最先认识到 **ZL** 能够推出 *AC*，从而在集合论其余公理之上两者等价。Zorn 本人更多地把他的原理视为一条 **公理** 而非一条定理——他希望它能取代代数中超限归纳与良序的那些笨重应用，而 Noether 学派的代数学家当时已开始把这些应用视为“超越性的”手段。 |
-| 1939–40 | Teichmüller、Bourbaki 与 Tukey 各自独立地用“有限特征的性质”重新表述了 **ZL**（Bourbaki 1939, Teichmuller 1939, Tukey 1940）[^bourbaki-1939][^teichmuller-1939]。 |
+| 1939—40 | Teichmüller、Bourbaki 与 Tukey 各自独立地用“有限特征的性质”重新表述了 **ZL**（Bourbaki 1939, Teichmuller 1939, Tukey 1940）[^bourbaki-1939][^teichmuller-1939]。 |
 
 ## 4. 选择公理的数学应用
 

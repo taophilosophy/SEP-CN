@@ -2,7 +2,7 @@
   "slug": "axiom-choice",
   "kind": "retranslate",
   "zh_doc": "zh/a/axiom-choice.md",
-  "state": "tr-04_checked",
+  "state": "rv-09_checked",
   "steps": [
     {
       "step": "ex-04",
@@ -31,6 +31,69 @@
       "actor": "trae-main",
       "at": "2026-11-27T13:56:51Z",
       "evidence": "T226 tr-04 二校完成（results/t226-tr04.md）：check_prose 23→6；17 条 FIX（被动 2、长句 3、弱动词 1、去链 11），6 条数学定义句 de-chain 逐条豁免；语体：学术书面语统一，被动与翻译腔已改或豁免；check_style／quotes／math_zh／terms／academic／pairs 硬错误 0；159 块／60 标记／111 定义／148 段账本守恒"
+    },
+    {
+      "step": "rv-01",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-27T14:03:44Z",
+      "evidence": "T227 rv-01 完成：术语轴 check_terms 硬 0；体例轴 check_pairs --gate hard 0、check_style 0；勘误轴第十八节 6 条（公式定界符、游离上标、J/C/S 符号、Sikorski 年份）＋译者注释①；37 条缺译法为形态变体或补充文档术语，非硬错误"
+    },
+    {
+      "step": "rv-02",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-27T14:04:01Z",
+      "evidence": "T227 rv-02 完成：冷置回读＋密度统计（9,134 汉字／159 块／111 脚注）；正文块 149/149、标记 60/60、定义 111 逐条一致；账本 148 段 step2 与正文一致；check_terms 硬 0、check_style 0、check_academic 0、check_pairs 0"
+    },
+    {
+      "step": "rv-03",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-27T14:04:24Z",
+      "evidence": "T227 rv-03 完成（results/t227-rv03.md）：q1 候选 11，pass 10／waived 1（术语级），pending 0；cite_audit --gate 0、--check-hash 0"
+    },
+    {
+      "step": "rv-04",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-27T14:04:24Z",
+      "evidence": "T227 rv-04 完成（results/t227-rv04.md）：q2 散句 274、算子候选 9，全部 equivalent；if／no／not 等由汉语等价形式承担；logic_audit --gate 0"
+    },
+    {
+      "step": "rv-05",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-27T14:04:30Z",
+      "evidence": "T227 rv-05 完成（results/t227-rv05.md）：q3 6 条 de-chain 全部 waived（数学定义句）；G-1／G-5／G-7 与和制汉语无命中；grammar_audit --gate 0"
+    },
+    {
+      "step": "rv-06",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-27T14:04:30Z",
+      "evidence": "T227 rv-06 完成（results/t227-rv06.md）：q4 五节均 R-1、无越界；3 条‘是以’为‘是＋以’结构，false-positive；register_audit --gate 0"
+    },
+    {
+      "step": "rv-07",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-27T14:04:36Z",
+      "evidence": "T227 rv-07 完成（results/t227-rv07.md）：q5 无物理量值；8 条 M-4 为粗体编号误判 false-positive；ranges 3 条年表年份已在 q6 改一字线；measure_audit --gate 0"
+    },
+    {
+      "step": "rv-08",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-27T14:04:36Z",
+      "evidence": "T227 rv-08 完成（results/t227-rv08.md）：q6 P-13 3 条年份范围 fixed（改一字线）、P-7 2 条 waived（定义分层冒号）、P-18 1 条 false-positive；punct_audit --gate 0、check_style 0"
+    },
+    {
+      "step": "rv-09",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-27T14:04:59Z",
+      "evidence": "T227 rv-09 完成（results/t227-rv09.md）：冷置回读＋密度统计（9,134 汉字／159 块／111 脚注）；H1／pubinfo／尾序／勘误与译注合体例；60 标记、111 定义守恒；check_style／pairs／quotes／math_zh 0；terms／academic 硬 0；六轴 gate 0"
     }
   ],
   "blockers": [],
