@@ -308,5 +308,5 @@ k2(T030–T034) 并行；k1(T001–T004) → k3(T040–T043) → k4(T050–T054)
 
 **时点**：start 在该组第一个任务开工前、基点提交已推送；end 在该组出口证据提交并推送后。**未打 start 不开工，未打 end 不收口**；返工另打 `-rN-start|end`，旧 tag 不移动。T131 已完成且不属于任何组，不补 tag；T130 部分执行时，a-start 标记剩余工作开始。
 
-**当前**：`batch/064-a-start`（`6b01e803e`）、`batch/064-a-end`（`3aec11279`）、`batch/064-b-start`（`3aec11279`）、`batch/064-b-end`（`2491b52e3`）均已打并推送。
+**当前**：`batch/064-a-start`（`6b01e803e`）、`batch/064-a-end`（`3aec11279`）、`batch/064-b-start`（`3aec11279`）、`batch/064-b-end`（`2491b52e3`）、`batch/064-c-start`（`14d1d7a55`）已打并推送；`batch/064-c-end` 待打（C 组收口后）。
 

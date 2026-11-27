@@ -2,8 +2,37 @@
   "slug": "habermas",
   "kind": "retranslate",
   "zh_doc": "h/habermas.md",
-  "state": "cleared",
-  "steps": [],
+  "translation_mode": "llm-pe",
+  "project_spec": {
+    "audience": "中文哲学读者（研究者与研究生为主）",
+    "purpose": "学术阅读与引用（SEP 词条简体中文译本）",
+    "register": "现代汉语学术书面语",
+    "terminology_basis": "shu-yu-biao.md／ren-ming-biao.md／baseline/term-concepts.md",
+    "delivery": "GitBook Markdown＋VitePress 双语站",
+    "qa_level": "CY/T 266＋ISO 5060（六轴机检＋人工复核）"
+  },
+  "pe": {
+    "level": "full",
+    "system": "DeepSeek-V4.1-Flash",
+    "disclosure": "任务 evidence 与词条译后编辑记录"
+  },
+  "state": "tr-02_checked",
+  "steps": [
+    {
+      "step": "ex-04",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-27T00:49:43Z",
+      "evidence": "064 T130 ex-04 源审计人工定性完成：hard=0/warn=5；5 候选（4 误报、1 真 typo）经用户 2026-11-27 批准；证据 results/e2e-habermas.md、baseline/en-errata/en-errata.md 第十三节"
+    },
+    {
+      "step": "tr-02",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-27T00:54:37Z",
+      "evidence": "LLM 辅助初译＋full PE（译后编辑）；账本 tasks/h/habermas.ledger.yaml（16 段，source 逐段回源、step1/step2 双版）；样章 §1–§2 约 2,350 汉字；check_style 0 issue；check_terms 硬错误 0；check_pairs 尾节与两条勘误承载为样章已知缺口（T133 补齐）"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-01T10:30:03Z",
   "version_pin": {

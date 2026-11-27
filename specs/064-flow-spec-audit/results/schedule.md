@@ -10,7 +10,7 @@
 | 波次 | 内容 | 任务 | 入口 | 出口 | 状态 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | **W0 准入清理** | 修治理旧口径＋标准回写＋T130 定性；S2 卫生并行（W0b） | T168、T169、T130；T020–T024（并行） | 用户启动指令 | 三处旧口径一致；标准登记一致；5 候选逐条结论＋复核签字；S2 卫生项推进（不阻塞 G0） | **已完成**（A 组与 b 组 2026-11-27 完成；T168／T169／T130、T020–T024 完成；G0 通过；a-end／b-end 已打） |
-| **W1 第一梯队** | habermas → logic-preference → environmental-aesthetics | T132–T153 | W0 出口；T130 已勾 | 3 件均至 sg-02；E2E-1 最小集成立 | 未启动 |
+| **W1 第一梯队** | habermas → logic-preference → environmental-aesthetics | T132–T153 | W0 出口；T130 已勾 | 3 件均至 sg-02；E2E-1 最小集成立 | **进行中**（c1 T132 样章完成，待用户验收；T133 全量未启动；`batch/064-c-start` 已推） |
 | **W2 第二梯队** | 长文、公式、图表件 | T154–T157 | W1 出口 | 4 件至 sg-02 | 未启动 |
 | **W3 第三梯队** | 单项极值件 | T158–T161 | W2 出口 | 4 件至 sg-02；E2E-1 全量成立 | 未启动 |
 | **W4 汇总回填** | findings、回填 | T162、T165 | W3 出口 | findings 入 §2.7／§18.4；差异有解释 | 未启动 |
@@ -115,5 +115,5 @@
 
 **执行顺序**：`git pull --rebase`／`sync_guard pull` → 确认干净 → 打 start tag 并推送 → 执行该组 → 提交出口证据 → 打 end tag 并推送 → 过闸。
 
-**已打**：`batch/064-a-start`（`6b01e803e`）、`batch/064-a-end`（`3aec11279`）、`batch/064-b-start`（`3aec11279`）、`batch/064-b-end`（`2491b52e3`）。
+**已打**：`batch/064-a-start`（`6b01e803e`）、`batch/064-a-end`（`3aec11279`）、`batch/064-b-start`（`3aec11279`）、`batch/064-b-end`（`2491b52e3`）、`batch/064-c-start`（`14d1d7a55`）。**待打**：`batch/064-c-end`（C 组完成并收口后）。
 

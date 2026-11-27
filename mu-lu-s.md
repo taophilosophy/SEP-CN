@@ -1529,7 +1529,7 @@ outline: [1, 6]
 
 #### 第二代
 
-* [尤尔根·哈贝马斯 Jürgen Habermas (James Gordon Finlayson、Dafydd Huw Rees)](h/habermas.md)
+* [于尔根·哈贝马斯 Jürgen Habermas (James Gordon Finlayson and Dafydd Huw Rees)](h/habermas.md)
 
 ### 结构主义与精神分析
 

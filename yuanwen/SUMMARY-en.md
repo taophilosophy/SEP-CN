@@ -1101,7 +1101,7 @@
 * group rights — see rights: group
 ## H
 
-* [Jürgen Habermas (James Gordon Finlayson, Dafydd Huw Rees)](h/habermas.md)
+* [Jürgen Habermas (James Gordon Finlayson and Dafydd Huw Rees)](h/habermas.md)
 * [Haecceitism (Sam Cowling)](h/haecceitism.md)
 * haecceity — see substance
   * [Medieval Theories of Haecceity (Richard Cross)](m/medieval-haecceity.md)

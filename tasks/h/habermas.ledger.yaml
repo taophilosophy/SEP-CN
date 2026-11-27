@@ -1,0 +1,121 @@
+version: 1
+slug: habermas
+params:
+  model: "DeepSeek-V4.1-Flash"
+  temperature: 0.2
+  batch_segments: 16
+  rate_limit_s: 5
+  timeout_s: 60
+segments:
+  - id: 1
+    source: |
+      Jürgen Habermas (b. 1929, d. 2026) was one of the leading social theorists and philosophers of the post-Second World War period in Germany, Europe, and the US, a prodigiously productive journalist, and a high-profile public intellectual who was at the forefront of the liberalization of German political culture. He is often labelled a second-generation Frankfurt School theorist, though his association with the Frankfurt School is only one of a rather complex set of allegiances and influences, and can be misconstrued. This entry will begin with a summary of Habermas’s background and early and transitional works, including his influential concept of the public sphere, before moving on to discuss in detail his three major philosophical projects: his social theory, discourse theory of morality (or “discourse ethics”), and discourse theory of law and democracy. It will then more briefly address Habermas’s methodology and philosophical framework (rational reconstruction and postmetaphysical thinking), his applied political theory, focusing on issues of national identity and international law, and finally his recent work on religion.
+    step1: |
+      于尔根·哈贝马斯（Jürgen Habermas，1929 年生，2026 年卒）是第二次世界大战后德国、欧洲与美国最重要的社会理论家和哲学家之一，是一位极其多产的记者，也是一位高调的公共知识分子，站在德国政治文化自由化的前沿。他常被称为第二代法兰克福学派理论家，尽管他与法兰克福学派的联系只是其相当复杂的归属与影响之一，而且可能被误解。本词条将首先概述哈贝马斯的背景、早期著作和过渡期著作，包括他有影响的公共领域概念，然后详细讨论他的三个主要哲学项目：他的社会理论、道德话语理论（或“商谈伦理”）以及法和民主的话语理论。之后，它将更简要地讨论哈贝马斯的方法论和哲学框架（合理重构和后形而上学思想）、他的应用政治理论（聚焦于民族认同和国际法问题），最后是他晚近关于宗教的著作。
+    step2: |
+      于尔根·哈贝马斯（Jürgen Habermas，1929—2026）是第二次世界大战后德国、欧洲与美国最重要的社会理论家与哲学家之一，也是一位著述极为丰产的记者，以及一位高调介入公共事务的知识分子，始终站在德国政治文化自由化的前沿。他常被贴上第二代法兰克福学派理论家的标签，不过，他与法兰克福学派的关联只是其相当复杂的归属与影响网络中的一条线索，而且容易被误解。本词条先概述哈贝马斯的生平、早期著作与过渡期著作，包括其影响深远的公共领域概念；随后详细讨论他的三大哲学工程：社会理论、道德的话语理论（即“商谈伦理”），以及法与民主的话语理论。之后，本词条将较为简要地处理哈贝马斯的方法论与哲学框架（合理重构与后形而上学思想）、其应用政治理论——重点涉及民族认同与国际法问题——最后是他晚近关于宗教的著作。
+  - id: 2
+    source: |
+      Habermas was born in June 1929 and brought up in provincial North-Rhine Westphalia, to conservative, educated middle-class parents, who had been neither critical nor strongly supportive of the Nazi regime. In 1944 he was called up to man the defences on the western front. A little over a year later he was shaken to his core by what he learnt of the Nazi atrocities from the Nuremberg Trials, and news coverage of the Holocaust. Thus, although still in his teens, he experienced 1945 as a turning point that would shape his political and cultural outlook. As he put it frankly in an interview in 1979:
+    step1: |
+      哈贝马斯于 1929 年 6 月出生，在北莱茵-威斯特法伦的乡间由一个保守的、受过教育的中产阶级家庭抚养长大；这个家庭对纳粹政权既不批评，也不强烈支持。1944 年，他被征召去西线守卫防御。一年多以后，他从纽伦堡审判和关于大屠杀的新闻报道中得知纳粹暴行，内心受到极大震动。因此，尽管他仍处于青少年时期，他却把 1945 年视为一个转折点，这个转折点将塑造他的政治和文化视野。正如他在 1979 年的一次访谈中坦率地说：
+    step2: |
+      哈贝马斯 1929 年 6 月出生于北莱茵-威斯特法伦的乡间，成长于一个保守的、受过教育的中产家庭；这个家庭对纳粹政权既不作批评，也不给予强烈支持。1944 年，他被征召到西线守卫防御工事。一年多后，他从纽伦堡审判以及关于大屠杀的新闻报道中了解到纳粹暴行，内心受到极大震撼。因此，尽管他当时仍是个十几岁的少年，却把 1945 年视为塑造其政治与文化视野的转折点。他在 1979 年的一次访谈中坦率地说道：
+  - id: 3
+    source: |
+      > I am myself a product of “reeducation” … By this I mean that … we learnt that the bourgeois constitutional state in its French, or American, or English form is an historical achievement. (1992a: interview 3, 79)
+    step1: |
+      > 我本人就是“再教育”的产物……我的意思是说……我们认识到，法国、美国或英国形式的资产阶级宪政国家是一项历史成就。（1992a：访谈 3，79）
+    step2: |
+      > 我本人就是“再教育”的产物……我的意思是说……我们认识到，法国式、美国式或英国式的资产阶级宪政国家是一项历史成就。（1992a：访谈 3，79）
+  - id: 4
+    source: |
+      Two moments exemplify Habermas’s complex position in-between the generations of 1945 and 1968. In 1953, when Habermas was a student at Göttingen University, he published a critical essay in the *Frankfurter Allgemeine Zeitung* concerning Heidegger’s remark about “the inner truth and greatness of the Nazi movement” that Heidegger had written in his lectures on metaphysics in 1935, and then failed to retract or alter in 1953 when republishing those lectures. (1971c [1977]) In 1968, at the height of the student protests in Germany, Habermas, who had been critical of the policing that had resulted in the killing of Benno Ohnesorg at a student demonstration the year before, directly criticized the students for acting out revolutionary fantasies, and for provoking the authorities into violence. He used the phrase “left-wing fascism”, a term he later admitted was too harsh (Müller-Doohm 2016: 141)[^müller-doohm-2016]. Instead, he urged them to put the latitude granted to them by liberal democratic institutions to work in the service of a “radical reformism” (Specter 2010: 111–115)[^specter-2010].
+    step1: |
+      有两个时刻可以说明哈贝马斯在 1945 年一代与 1968 年一代之间的复杂位置。1953 年，哈贝马斯还是哥廷根大学的学生，他在《法兰克福汇报》上发表了一篇批评文章，涉及海德格尔关于“纳粹运动的内在真理与伟大”的说法；海德格尔在 1935 年的形而上学讲座中写下了这句话，后来在 1953 年重新出版这些讲座时既没有撤回，也没有修改。（1971c [1977]）1968 年，在德国学生抗议的高潮中，哈贝马斯——他曾批评前一年学生示威中导致本诺·奥内佐格死亡的警察行动——直接批评学生们是在表演革命幻想，并挑动当局使用暴力。他使用了“左翼法西斯主义”一词；后来他承认这个说法过于严厉（Müller-Doohm 2016: 141）[^müller-doohm-2016]。相反，他敦促学生们利用自由民主制度给予他们的回旋余地，为一种“激进改良主义”服务（Specter 2010: 111–115）[^specter-2010]。
+    step2: |
+      有两个时刻可以说明哈贝马斯在 1945 年一代与 1968 年一代之间的复杂位置。1953 年，哈贝马斯还是哥廷根大学的学生，他在《法兰克福汇报》（*Frankfurter Allgemeine Zeitung*）上发表了一篇批评文章，针对海德格尔关于“纳粹运动的内在真理与伟大”的说法——海德格尔曾在 1935 年的形而上学讲座中写下这句话，后来在 1953 年重新出版这些讲座时既未撤回，也未修改。（1971c [1977]）1968 年，德国学生抗议运动达到高潮。哈贝马斯此前曾批评警方的执法导致前一年一名学生在示威中被杀（本诺·奥内佐格，Benno Ohnesorg）；此时他直接批评学生们是在上演革命幻想，并刺激当局使用暴力。他使用了“左翼法西斯主义”这一说法，后来承认这个说法过于严厉（Müller-Doohm 2016: 141）[^müller-doohm-2016]。他转而敦促学生们利用自由民主制度给予他们的活动空间，服务于一种“激进改良主义”（Specter 2010: 111–115）[^specter-2010]。
+  - id: 5
+    source: |
+      Habermas studied German philosophy and literature at Bonn, and wrote his doctoral dissertation on “The Absolute and History: the Ambivalence of Schelling’s Thought”. He came to Frankfurt in 1956, where he was Theodor Adorno’s *Assistent* at the Institute for Social Research for three years. In 1959 he left for Marburg, having effectively been shouldered out by Max Horkheimer, who considered him a dangerous Marxist, and who tried to have him dismissed (Müller-Doohm 2016: 84–86; Habermas 1992a: interview 8, 218)[^müller-doohm-2016]. In Marburg, he wrote his habilitation dissertation, *The Structural Transformation of the Public Sphere*, under Wolfgang Abendroth, one of the few Marxist academic philosophers in the post-war Federal Republic. Habermas, though often deemed a member of the Frankfurt School, was, in reality, at the institute for a very brief period. Whilst there, he recalls, “Critical Theory, at Frankfurt School—there was no such thing … no coherent doctrine” (Habermas 1992a: interview 4, 98). So it is misleading to say that he was or became a “member” of the Frankfurt School. In truth, he arrived there as an outsider, and while there, briefly, ploughed his own furrow.
+    step1: |
+      哈贝马斯在波恩学习德国哲学和文学，博士论文题为《绝对者与历史：谢林思想的含混性》。他于 1956 年来到法兰克福，在那里为社会研究所的西奥多·阿多诺做了三年**助手**（Assistent）。1959 年，他前往马尔堡；实际上，他是被马克斯·霍克海默排挤出去的——霍克海默认为他是一个危险的马克思主义者，并试图解雇他（Müller-Doohm 2016: 84–86；Habermas 1992a：访谈 8，218）[^müller-doohm-2016]。在马尔堡，他在沃尔夫冈·阿本德罗特指导下完成了教授资格论文《公共领域的结构转型》（*The Structural Transformation of the Public Sphere*）；阿本德罗特是战后联邦德国为数不多的马克思主义学术哲学家之一。哈贝马斯虽然常被视为法兰克福学派成员，但实际上他在研究所待的时间很短。他回忆说，当时“在法兰克福学派那里，批判理论——根本没有这样一种东西……没有一套连贯的学说”（Habermas 1992a：访谈 4，98）。因此，说他曾经是或后来成为法兰克福学派的“成员”，是一种误导。事实上，他是作为局外人来到那里的；在短暂停留期间，他走的是自己的路。
+    step2: |
+      哈贝马斯在波恩学习德国哲学与文学，博士论文题为《绝对者与历史：谢林思想的含混性》。1956 年，他来到法兰克福，在社会研究所担任西奥多·W·阿多诺的 **助手**（Assistent），为期三年。1959 年，他前往马尔堡；实际上，他是被马克斯·霍克海默排挤出去的——霍克海默认为他是一个危险的马克思主义者，并试图解雇他（Müller-Doohm 2016: 84–86；Habermas 1992a：访谈 8，218）[^müller-doohm-2016]。在马尔堡，他在沃尔夫冈·阿本德罗特（Wolfgang Abendroth）指导下完成了教授资格论文《公共领域的结构转型》（*The Structural Transformation of the Public Sphere*）；阿本德罗特是战后联邦德国为数不多的马克思主义学术哲学家之一。哈贝马斯虽然常被视为法兰克福学派成员，但实际上他在研究所待的时间很短。他回忆说，当时“在法兰克福学派那里，批判理论——根本没有这样一种东西……没有一套连贯的学说”（Habermas 1992a：访谈 4，98）。因此，说他曾经是或后来成为法兰克福学派的“成员”，是一种误导。事实上，他是作为局外人来到那里的；在短暂停留期间，他走的是自己的路。
+  - id: 6
+    source: |
+      The public sphere is one of Habermas’s most well-known concepts, introduced in his habilitation thesis, published in 1962 as *The Structural Transformation of the Public Sphere: An Inquiry into a Category of Bourgeois Society*. Belonging to neither the state, the economy, nor the family, the public sphere is where private individuals come together to communicate about matters of general concern. It is the location of the public use of reason and the place where “public opinion” is formed. *Structural Transformation* is a reconstructed history of the rise and fall of the public sphere focused on Britain, France, and Germany from the early modern era to the mid-twentieth century. In the Middle Ages, there was a merely “representative” public sphere, in which kings and nobles displayed their status before society (1962 [1989: 7–10]). The bourgeois public sphere begins to emerge in the seventeenth and eighteenth centuries, at first in the guise of a literary public sphere. In coffee houses, salons, and literary societies, the new reading public came together to discuss novels—Habermas cites Samuel Richardson’s *Pamela* as an example (1962 [1989: 31–6, 49–50, 174]). Skills of critical reasoning first developed in the journals of the literary public sphere were subsequently applied to the political public sphere, where public affairs rather than literary texts are the objects of criticism. In this period the modern state was emerging, as political authority was gradually depersonalized and vested in more-or-less independent bureaucratic institutions, rather than the person of the monarch (1962 [1989: 17–8]). Simultaneously, the development of mercantile capitalism endowed merchants with unprecedented wealth and influence, and an ever-greater need for accurate information about market conditions. This need was met by news-sheets and gazettes, which soon turned their attention to state policy as much as commodity prices (1962 [1989: 20–2]). The bourgeois public sphere thus developed concomitantly with both the capitalist economy and the Westphalian sovereign state, and flourished during the high point of bourgeois-liberal politics in the eighteenth and nineteenth centuries.
+    step1: |
+      公共领域是哈贝马斯最著名的概念之一，它被引入他的教授资格论文，该论文于 1962 年以《公共领域的结构转型：对资产阶级社会一个范畴的探究》（*The Structural Transformation of the Public Sphere: An Inquiry into a Category of Bourgeois Society*）出版。公共领域既不属于国家，也不属于经济，也不属于家庭；它是私人个体聚在一起，就普遍关心的事务进行交流的地方。它是公开使用理性的位置，也是“公共舆论”形成的地方。《结构转型》（*Structural Transformation*）是一部重构的历史，讲述公共领域在英国、法国和德国的兴衰，时间从近代早期到 20 世纪中叶。在中世纪，只有一种“代表型”公共领域，国王和贵族在其中向社会展示他们的地位（1962 [1989: 7–10]）。资产阶级公共领域在 17 和 18 世纪开始出现，最初以文学公共领域的形式。在咖啡馆、沙龙和文学社团中，新的阅读公众聚在一起讨论小说——哈贝马斯引用塞缪尔·理查森的《帕梅拉》（*Pamela*）作为例子（1962 [1989: 31–6, 49–50, 174]）。批判推理的技能最初在文学公共领域的期刊中发展，后来被应用于政治公共领域，在那里，批评的对象是公共事务而不是文学文本。在这一时期，现代国家正在出现，政治权威逐渐被去人格化，并被赋予或多或少独立的官僚机构，而不是君主个人（1962 [1989: 17–8]）。同时，商业资本主义的发展赋予商人空前的财富和影响力，以及对市场状况准确信息越来越大的需要。这种需要由新闻纸和公报满足，它们很快把注意力转向国家政策，就像转向商品价格一样（1962 [1989: 20–2]）。因此，资产阶级公共领域与资本主义经济和威斯特伐利亚主权国家同时发展，并在 18 和 19 世纪资产阶级自由主义政治的高峰期繁荣。
+    step2: |
+      公共领域是哈贝马斯最著名的概念之一，最早见于他的教授资格论文，该书于 1962 年以《公共领域的结构转型：对资产阶级社会一个范畴的探究》（*The Structural Transformation of the Public Sphere: An Inquiry into a Category of Bourgeois Society*）为题出版。公共领域既不属于国家，也不属于经济或家庭；它是私人个体聚集在一起，就共同关心的事务进行交往的场所。它是公开运用理性的所在，也是“公共舆论”得以形成的地方。《结构转型》（*Structural Transformation*）是一部重构性的历史，考察公共领域从近代早期到 20 世纪中叶在英国、法国和德国的兴衰。中世纪只存在一种“代表型”公共领域，国王与贵族在其中向社会展示自己的身份（1962 [1989: 7–10]）。资产阶级公共领域在 17、18 世纪开始出现，最初以文学公共领域的形式存在。在咖啡馆、沙龙和文学社团中，新的阅读公众聚集起来讨论小说——哈贝马斯以塞缪尔·理查森的《帕梅拉》（*Pamela*）为例（1962 [1989: 31–6, 49–50, 174]）。批判性推理的能力最初在文学公共领域的刊物中发展起来，随后被用于政治公共领域；在那里，批评的对象是公共事务，而不是文学文本。与此同时，现代国家正在形成，政治权威逐渐被去人格化，并被赋予或多或少独立的官僚机构，而不是君主个人（1962 [1989: 17–8]）。商业资本主义的发展使商人获得了空前的财富与影响力，也使他们越来越需要关于市场状况的准确信息。新闻纸和公报满足了这一需要，它们很快就把注意力同时转向国家政策与商品价格（1962 [1989: 20–2]）。因此，资产阶级公共领域与资本主义经济和威斯特伐利亚主权国家同步发展，并在 18、19 世纪资产阶级自由主义政治的高峰期繁荣起来。
+  - id: 7
+    source: |
+      The bourgeois public sphere is constituted by an ideological separation between public and private. The state and politics are deemed “public”, whereas civil society, the market economy, and the family are deemed “private”. The public sphere, according to Habermas, mediates between these two realms (1962 [1989: 30]). Participants in the bourgeois public sphere are *private* individuals, coming together to rationally and critically discuss *public* affairs, above all the actions of governments; it is
+    step1: |
+      资产阶级公共领域由公共与私人之间的意识形态分离构成。国家和政治被认为是“公共的”，而公民社会、市场经济和家庭被认为是“私人的”。按照哈贝马斯的说法，公共领域在这两个领域之间进行中介（1962 [1989: 30]）。资产阶级公共领域的参与者是 **私人** 个体，他们聚在一起，理性和批判地讨论 **公共** 事务，首先是政府的行动；它是
+    step2: |
+      资产阶级公共领域由公共与私人之间的意识形态分离所构成。国家与政治被视为“公共的”，而公民社会、市场经济与家庭则被视为“私人的”。在哈贝马斯看来，公共领域在这两个领域之间起中介作用（1962 [1989: 30]）。资产阶级公共领域的参与者是 **私人** 个体，他们聚集在一起，理性和批判性地讨论 **公共** 事务，首先是政府的行动；它是
+  - id: 8
+    source: |
+      > a realm of private individuals assembled into a public body who as citizens transmit the needs of bourgeois society to the state, in order, ideally, to transform political into “rational” authority within the medium of this public sphere. (1964 [1974: 53])
+    step1: |
+      > 一个由私人个体组成的公共身体领域；他们作为公民，把资产阶级社会的需要传达给国家，以便理想地在公共领域这一媒介中把政治权威转化为“理性的”权威。（1964 [1974: 53]）
+    step2: |
+      > 一个由私人个体组成的公共身体领域；他们作为公民，把资产阶级社会的需要传达给国家，以便理想地在公共领域这一媒介中，把政治权威转化为“理性的”权威。（1964 [1974: 53]）
+  - id: 9
+    source: |
+      Needless to say, participants in the bourgeois public sphere were *de facto* almost all educated male property-owning members of the bourgeoisie, along with some sympathisers from the aristocracy. Habermas has acknowledged the selective membership of the bourgeois public sphere during its heyday (1992c: 425–430), although critics have charged that he does not pay sufficient attention to the way it was *constituted* by excluding propertyless workers (Negt & Kluge 1972 [2016])[^negt-1972] and, above all, women (Landes 1988)[^landes-1988]. Despite its limitations, Habermas argues that the bourgeois public sphere nevertheless embodied certain principles and ideals, never fully realized, that are vital to any flourishing democratic society. It was thus both an “ideal” and an “ideology” (1962 [1989: 112]). Since differences in social status between interlocutors were bracketed as “private” matters (1962 [1989: 36]) the public sphere was in theory universal, open to any literate person (1962 [1989: 37]). This ensured that rational argumentation was calibrated to universal standards of validity, not to the relative status of interlocutors, and could function as a cooperative search for truth and justice (1962 [1989: 54]).
+    step1: |
+      不必说，资产阶级公共领域的参与者 **事实上** 几乎全是受过教育的、拥有财产的资产阶级男性，此外还有一些贵族出身的人士同情他们。哈贝马斯承认，资产阶级公共领域在其鼎盛时期具有选择性的成员资格（1992c: 425–430）；不过，批评者指责他没有充分注意，这种公共领域正是通过排斥无产工人（Negt & Kluge 1972 [2016]）[^negt-1972]，尤其是排斥女性（Landes 1988）[^landes-1988]，才得以 **构成** 的。尽管有这些局限，哈贝马斯仍主张，资产阶级公共领域毕竟体现了某些从未完全实现的原则与理想，而这些原则与理想对于任何繁荣的民主社会都至关重要。因此，它既是“理想”，也是“意识形态”（1962 [1989: 112]）。由于对话者之间的社会地位差异被当作“私人的”事情而被括置起来（1962 [1989: 36]），公共领域在理论上具有普遍性，向任何识字者开放（1962 [1989: 37]）。这确保了理性论证以普遍的有效性标准为尺度，而不是以对话者的相对地位为尺度，并且能够作为一种合作性地寻求真理与正义的活动发挥作用（1962 [1989: 54]）。
+    step2: |
+      无须说，资产阶级公共领域的参与者 **事实上** 几乎全是受过教育的、拥有财产的资产阶级男性，此外还有一些来自贵族的同情者。哈贝马斯承认，资产阶级公共领域在其鼎盛时期具有选择性的成员资格（1992c: 425–430）；不过，批评者指责他没有充分注意，这种公共领域正是通过排斥无产工人（Negt & Kluge 1972 [2016]）[^negt-1972]，尤其是排斥女性（Landes 1988）[^landes-1988]，才得以 **构成** 的。尽管有这些局限，哈贝马斯仍主张，资产阶级公共领域毕竟体现了某些从未完全实现的原则与理想，而这些原则与理想对于任何繁荣的民主社会都至关重要。因此，它既是“理想”，也是“意识形态”（1962 [1989: 112]）。由于对话者之间的社会地位差异被当作“私人的”事情而被括置起来（1962 [1989: 36]），公共领域在理论上具有普遍性，向任何识字者开放（1962 [1989: 37]）。这确保了理性论证以普遍的有效性标准为尺度，而不是以对话者的相对地位为尺度，并且能够作为一种合作性地寻求真理与正义的活动发挥作用（1962 [1989: 54]）。
+  - id: 10
+    source: |
+      > The idea of reason, which is differentiated in the various claims to validity, is necessarily built into the way in which the species of talking animals reproduces itself. (2001a: chapter 5, 85)
+    step1: |
+      > 理性观念在种种有效性主张中分化为不同形态，它必然内嵌于会说话的动物这个物种自我再生产的方式之中。（2001a：第 5 章，85）
+    step2: |
+      > 理性观念在种种有效性主张中分化为不同形态，它必然内嵌于会说话的动物这一物种自我再生产的方式之中。（2001a：第 5 章，85）
+  - id: 11
+    source: |
+      Habermas’s mature work begins with *The Theory of Communicative Action* (1981 [1984a/1987]), the fruits of a long and difficult decade he spent at the Max Planck Institute in Starnberg (Müller-Doohm 2016: 214)[^müller-doohm-2016]. It is an ambitious and wide-ranging work, which provides a general framework within which several related research programs are arranged. It comprises:
+    step1: |
+      哈贝马斯的成熟著作始于《交往行为理论》（*The Theory of Communicative Action*，1981 [1984a/1987]），这是他在施塔恩贝格的马克斯·普朗克研究所度过漫长而艰难的十年所取得的成果（Müller-Doohm 2016: 214）[^müller-doohm-2016]。这是一部雄心勃勃、范围广阔的著作，提供了一个总体框架，若干相关研究纲领都在其中得到安排。它包括：
+    step2: |
+      哈贝马斯的成熟著作始于《交往行为理论》（*The Theory of Communicative Action*，1981 [1984a/1987]），这是他于施塔恩贝格的马克斯·普朗克研究所在漫长而艰难的十年间所取得的成果（Müller-Doohm 2016: 214）[^müller-doohm-2016]。这是一部雄心勃勃、范围广阔的著作，提供了一个总体框架，若干相关研究纲领都在其中得到安排。它包括：
+  - id: 12
+    source: |
+      1. A sketch of a unified theory of meaning and action.
+    step1: |
+      1. 一份统一的意义与行动理论的草图。
+    step2: |
+      1. 一种统一的意义与行动理论的草图。
+  - id: 13
+    source: |
+      2. A typological theory of social action.
+    step1: |
+      2. 一个社会行动的类型学理论。
+    step2: |
+      2. 一种社会行动的类型学理论。
+  - id: 14
+    source: |
+      3. A social ontology.
+    step1: |
+      3. 一个社会本体论。
+    step2: |
+      3. 一种社会本体论。
+  - id: 15
+    source: |
+      4. An outline of a critical social theory tied to (1)–(3).
+    step1: |
+      4. 一份与（1）—（3）相联系的批判社会理论纲要。
+    step2: |
+      4. 一种与（1）—（3）相关联的批判社会理论纲要。
+  - id: 16
+    source: |
+      This section will discuss these topics in turn.
+    step1: |
+      本节将依次讨论这些论题。
+    step2: |
+      本节将依次讨论这些主题。

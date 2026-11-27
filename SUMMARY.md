@@ -1123,7 +1123,7 @@
 
 ## H
 
-* [尤尔根·哈贝马斯 Jürgen Habermas (James Gordon Finlayson、Dafydd Huw Rees)](h/habermas.md)
+* [于尔根·哈贝马斯 Jürgen Habermas (James Gordon Finlayson and Dafydd Huw Rees)](h/habermas.md)
 * [此性论 Haecceitism (Sam Cowling)](h/haecceitism.md)
 * \*此性——见实体 haecceity — see substance
   * [中世纪的此性理论 Medieval Theories of Haecceity (Richard Cross)](m/medieval-haecceity.md)
