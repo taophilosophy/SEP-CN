@@ -16,7 +16,7 @@
     "system": "DeepSeek-V4.1-Flash",
     "disclosure": "任务 evidence 与词条译后编辑记录"
   },
-  "state": "sg-02_checked",
+  "state": "done",
   "steps": [
     {
       "step": "ex-04",
@@ -122,6 +122,21 @@
       "actor": "trae-main",
       "at": "2026-11-27T10:35:36Z",
       "evidence": "T153 sg-02 复审通过：§1→§2→§3→§4 逻辑链连贯；指代与跨节呼应（如画/崇高/肯定美学/生态美学）一致；引块 3 与正文对应；问题单无 Critical/Major；未改文；证据 results/t153-sg02.md；sg-03 待用户 mandate"
+    },
+    {
+      "step": "sg-03",
+      "status": "ok",
+      "actor": "user",
+      "at": "2026-11-27T10:40:20Z",
+      "evidence": "T153 sg-03 终审签字（user）：交付清单完整（正文 §1–§8、H1/pubinfo、尾节六序、脚注 369、账本 98 段、SUMMARY 链接）；version_pin cf76e176…e8257e 有效；check_all 23/23、check_academic --strict 与 check_math_zh --strict 0 硬错误；六轴 gate 0；同源盲区已按 rv-02 密度统计＋冷置回读补偿；遗留观察 3 条不阻断；证据 results/t153-sg03.md",
+      "mandate": "2026-11-27 用户指令：好的，授权 sg-03 并计算任务书执行总进度；范围：zh/e/environmental-aesthetics.md 终审"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "user",
+      "at": "2026-11-27T10:40:20Z",
+      "evidence": "sg-03 用户签字后置 done：用户 2026-11-27 授权 sg-03（范围 zh/e/environmental-aesthetics.md）；check_all 23/23；交付清单完整、version_pin 有效、六轴 gate 0；证据 results/t153-sg03.md"
     }
   ],
   "blockers": [],
