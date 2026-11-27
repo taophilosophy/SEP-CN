@@ -16,7 +16,7 @@
     "system": "DeepSeek-V4.1-Flash",
     "disclosure": "任务 evidence 与词条译后编辑记录"
   },
-  "state": "rv-09_checked",
+  "state": "sg-02_checked",
   "steps": [
     {
       "step": "ex-04",
@@ -108,6 +108,20 @@
       "actor": "trae-main",
       "at": "2026-11-27T04:50:27Z",
       "evidence": "T139 rv-09 体例终校完成：check_style／check_pairs／check_quotes 0；check_academic --strict 硬 0；check_math_zh／check_math 0；check_terms 硬 0（Müller-Doohm 沿用 T136 豁免）；H1／pubinfo／尾序／编号／勘误承载一致；未改文；F2／F3／I1／K1 转 sg 链前处置；证据 results/t139-review.md"
+    },
+    {
+      "step": "sg-01",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-27T04:54:48Z",
+      "evidence": "T191 sg-01 初审（Verity）通过：抽 §1.2／§2.2／§3.3／§4.3／§7.2 五段；可读性、术语习惯、背景提示、语体一致四维均通过；V1 引块断句（L25／L536）转 F2、V2 次属反公共领域转 rv-01；未改文；证据 results/t191-sg01.md"
+    },
+    {
+      "step": "sg-02",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-27T04:54:48Z",
+      "evidence": "T192 sg-02 复审（Coherence）通过：七节逻辑链完整；199 句代词起首抽 32 组无歧义；跨节呼应（§2 四项、§3.3 (D)/(U)、§4.3/4.4、§7.2 但书）一致；C1 第三个显著特征 Minor 观察、C2 转 F2；问题单无 Critical/Major；未改文；证据 results/t192-sg02.md"
     }
   ],
   "blockers": [],
