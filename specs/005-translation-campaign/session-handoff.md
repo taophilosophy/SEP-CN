@@ -15,7 +15,7 @@
 | 现行 `campaign.py next` 应指向 `a` 批 | 阶段机只进不退，`done` 批按 phase 跳过 |
 | 术语表 8948 行、人名表 4974 行，由独立线推进（§4），不阻塞翻译 | `check_terms.py` |
 
-> **执行闸（2026-11-26 并入 064）**：`specs/064-flow-spec-audit/results/schedule.md` 的 rev17 排程翻译站段全部未启动、**G0 未过，禁入任何翻译站段**（同文件 :40）。S16 临时布局迁移（T202–T207）已于 2026-11-27 完成，只动目录与工具链，不构成翻译站段放行。G0 通过或用户明确放行前，本卡只执行 §2“预处理”与 §4 各线，§3 的 translate 与收口不开放。
+> **执行闸（2026-11-26 并入 064）**：`specs/064-flow-spec-audit/results/schedule.md` 的 rev17 排程翻译站段全部未启动、**G0 未过，禁入任何翻译站段**（同文件 :40）。S16 临时布局迁移（T202–T208）已于 2026-11-27 完成，只动目录与工具链，不构成翻译站段放行。G0 通过或用户明确放行前，本卡只执行 §2“预处理”与 §4 各线，§3 的 translate 与收口不开放。
 
 **不要**凭本卡判断进度：一律跑 `python tools/campaign.py status` 与看 `zh/PROGRESS.md`（journal 口径，由 `tools/progress.py` 生成）。
 

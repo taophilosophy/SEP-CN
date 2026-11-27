@@ -1,6 +1,7 @@
 # 后续布局调整：yuanwen/ → html/（2026-11-27）
 
 - 用户指令：把 `yuanwen` 目录改名为 `html`，同步更新周边；至多批准 5 个滚动子代理。
+- 任务书：作为 S16 收口后追加的 **T208** 登记（125 编号、38 已验证、87 未开始）；`batch/064-migrate-end` 仍指 T207，未重打 tag。
 - 执行：主代理 `git mv yuanwen html`；3 个子代理分别更新 `rules/`＋`AGENTS`／`README`／`.vitepress/README.md`、`specs/001/005/064`＋壳仓 `README.md`、`tools/tests/**`；主代理更新 `tools/`、`baseline/`、`.vitepress/config.mts`、`prepare-gitstamps.mjs`、`rules/layout.json`、补丁池。
 - 语义：`html/` = 原始抓取 HTML（ADR-0062 冻结）；`en/` = Markdown 转换镜像；`zh/` = 中文正文与登记册。`tools/yuanwen.py` 模块名与 baseline `yuanwen` 字段保留，仅目录路径改 `html/`。
 - 数据：`baseline/entries.json` 4960 条 `files[].path` 改 `html/...`；5 个补丁的 `file`/diff 头改 `html/...` 并再生 INDEX；`baseline/mulu-map.json` 不受影响。
