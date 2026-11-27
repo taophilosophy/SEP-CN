@@ -1,6 +1,6 @@
 # 064 — 翻译全流程全要素审计、公理化、标准化与规范化任务书
 
-- 编号：specs/064-flow-spec-audit；立项日期：2026-11-26；状态：**文档审计修订中；具体任务冻结**
+- 编号：specs/064-flow-spec-audit；立项日期：2026-11-26；状态：**S16 临时布局迁移已完成（2026-11-27，T202–T207）；其余具体任务按排程待执行**
 - 承办：主会话（ADR-0034 主代理单干）
 - 上位：项目宪法（`.specify/memory/constitution.md`）、`rules/` 与其 ADR；机读事实源为 `rules/pipeline.json`（节点与判据）、`rules/naming.json`（标识）、`rules/axioms.json`（P1–P33）、`rules/standards.json`（标准登记）。specs/060–063 是关联工程卡，不凌驾于这些规则事实源
 - 合并对象：rev 1 的“节点文档承载审计”＋specs/063 的候选公理化成果＋全量审计、标准化、规范化、格式化设计
