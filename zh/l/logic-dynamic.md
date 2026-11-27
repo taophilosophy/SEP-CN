@@ -345,3 +345,96 @@ $\infty(\pi) := 0$ 其中 $\pi\in\Pi_0$ $\infty(A?) := 0$ $\infty(\alpha \cup \b
 $A \rightarrow (\lnot \infty(\alpha) \land [\alpha]B)$,
 
 其字面意思是：若 $A$ 成立，则程序 *α* 不能永远运行，并且 *α* 的每一次成功执行都会在满足 $B$ 的状态中结束。
+
+## 4. 若干变体
+
+围绕 PDL 的若干变体——它们通过对 PDL 的语法与语义加以扩展或限制而得到——在表达力的比较、可判定性、复杂性、公理化与完全性等方面的结果，构成了大量文献的主题。我们只能略述一二，并且只讨论其中少数几个变体，而把动态逻辑中原本重要的许多内容略去。
+
+### 4.1 无测试的 PDL
+
+公理图式 $[A?]B \leftrightarrow (A \rightarrow B)$ 似乎表明：对每个公式 $C$，都存在一个与之等值的无测试公式 $C'$——也就是说，存在一个无测试公式 $C'$，使得 $\models C \leftrightarrow C'$。有趣的是，这一断言并不成立。设 PDL₀ 为 PDL 限制到无测试正则程序（即不含测试的程序）所得的子系统。Berman 与 Paterson [1981] 考察了 PDL 公式 $\langle (p?;\pi)^*;\lnot p?;\pi;p?\rangle 1$，它也就是
+
+$\langle \mathsf{while}~ p~ \mathsf{do}~ \pi \rangle \langle \pi \rangle p$,
+
+并证明了不存在与它等值的 PDL₀ 公式。因此，PDL 的表达力强于 PDL₀。他们的论证实际上可以推广如下。对一切 $n \geq 0$，设 PDL_{*n*+1} 为 PDL 的这样一个子集：其中的程序只有在 $A$ 是 PDL_{*n*} 公式时才可以含有测试 $A?$。对一切 $n \geq 0$，Berman 与 Paterson 考察了由下式定义的 PDL_{*n*+1} 公式 $A_{n+1}$
+
+$\langle \mathsf{while}~ A_n~ \mathsf{do}~ \pi_n\rangle \langle \pi_n\rangle A_n$,
+
+其中 $A_0 = p$，$\pi_0 = \pi$，并证明了：对一切 $n \geq 0$，不存在与 $A_{n+1}$ 等值的 PDL_{*n*} 公式。因此，对一切 $n \geq 0$，PDL_{*n*+1} 的表达力强于 PDL_{*n*}。
+
+### 4.2 带逆的 PDL
+
+CPDL（带逆的 PDL）是在 PDL 上添加逆构造所得的扩展。这一构造自 PDL 诞生之初就已被考虑。对一切程序 *α*，令 $\alpha^{-1}$ 表示一个新程序，其语义为
+
+$xR(\alpha^{-1})y$ 当且仅当 $yR(\alpha)x$。
+
+逆构造使我们能够表述关于当前状态之前诸状态的事实，并对程序作反向推理。例如，$[\alpha^{-1}]A$ 的意思是：在执行 *α* 之前，$A$ 必定成立。我们有
+
+$\models A \rightarrow [\alpha]\langle \alpha ^{-1}\rangle A$ $\models A \rightarrow [\alpha ^{-1}]\langle \alpha \rangle A$
+
+添加逆构造并不会以任何显著方式改变 PDL 的计算性质。若把下述公理图式的每个实例
+
+**(A8)**
+
+$A \rightarrow [\alpha ]\langle \alpha^{-1}\rangle A$
+
+**(A9)**
+
+$A \rightarrow [\alpha^{-1}]\langle \alpha \rangle A$
+
+都加入 PDL 的证明系统，便得到扩展语言中一个可靠且完全的推演谓词。细节参见罗希特·帕里克 [1978]。CPDL 具有小模型性质，且 (CPDL-SAT) 是 EXPTIME-完全的。
+
+容易看出，CPDL 的表达力强于 PDL。为见这一点，考察 CPDL 公式 $\langle \pi^{-1}\rangle 1$ 以及 LTS $M = (W, R, V)$ 与 $M' = (W', R', V')$，其中 $W = \{x,y\}$，$R(\pi) = \{(x,y)\}$，$W' = \{y'\}$，$R'(\pi) = \emptyset$，$V(x) = V(y) = V'(y') = \emptyset$。既然 $M, y$ 满足 $\langle \pi^{-1}\rangle 1$，而 $M', y'$ 不满足 $\langle \pi ^{-1}\rangle 1$，并且对一切 PDL 公式 $A$ 都有：$M, y$ 满足 $A$ 当且仅当 $M', y'$ 满足 $A$，那么显然不存在与 $\langle \pi^{-1}\rangle 1$ 等值的 PDL 公式。
+
+### 4.3 带重复与循环的 PDL
+
+我们已在第 3.3 节通过引入 RPDL 展示了重复的力量。这里我们概述关于 RPDL 的更多结果，以及它与“重复程序”这一概念的其他变体之间的联系。
+
+就 RPDL 的复杂性理论而言，Streett [1982] 已经确立了 RPDL 具有有穷模型性质；确切地说，每个可满足的 RPDL 公式 *A* 都在一个规模至多为其长度三重指数的模型中可满足。一项自动机理论的论证使人们得以断定：问题 (RPDL-SAT) 可在确定三重指数时间（3-EXPTIME）内求解。于是，判定 (RPDL-SAT) 的这一上界与判定 (PDL-SAT) 的简单指数时间下界之间的间隙仍然悬而未决。这一问题与计算机科学家当时日益增长的兴趣——即确定时态逻辑的复杂性，更具体地说是确定 Kozen [1983] 所提出的（命题）模态 *μ*-演算（MMC）的复杂性——有着极大的关联，因为 RPDL 到 MMC 有一个线性膨胀的翻译。Vardi 与 Stockmeyer [1985] 给出了非确定指数时间的一个上界。Emerson 与 Jutla [1988]，以及其最终形式 Emerson 与 Jutla [1999]，则表明 (MMC-SAT) 与 (RPDL-SAT) 是 EXPTIME-完全的。若再加上 4.2 节的逆算子，便得到 CRPDL。(CRPDL-SAT) 的复杂性在数年内一直悬而未决，但也可证明它是 EXPTIME-完全的。这通过结合 Emerson 与 Jutla [1988] 与 Vardi [1985] 的技巧来实现，如 Vardi [1998] 所示。
+
+在第 3.3 节中我们定义了一个谓词 $\infty$，其中 $\infty(\alpha)$ 表示程序 *α* 可能有不终止的计算。我们把用该谓词扩充 PDL 所得的逻辑称为带 $\infty$ 谓词的 PDL（LPDL）。显然，RPDL 的表达力至少不弱于 LPDL；$\infty(\alpha)$ 在 RPDL 语言中的归纳定义就是明证。事实上 RPDL 的表达力严格强于 LPDL。这一点由戴维·哈雷尔与 Sherman [1982] 表明。可以想见，RPDL 与 LPDL 的表达力都强于 PDL。这是通过证明 RPDL 与 LPDL 的某些公式在 PDL 中没有等值表述而确立的。该证明用到了 **滤化** 技术，其设计意图是把一个 LTS 塌缩为有穷模型，同时使某些公式的真假保持不变。对 PDL 公式的某个集合 $X$，滤化就是把一个 LTS 中在 $X$ 里恰好满足相同公式的状态归入等价类。如此得到的诸状态等价类之集，就成为滤化模型的状态集，并在其上适当地构造转移关系。
+
+若取一个依赖 PDL 公式 $A$、经过仔细选择的集合 $FL(A)$（即所谓 $A$ 的子公式集的 Fischer–Ladner 闭包），则对 LTS $M$ 作滤化可得到有穷的滤化模型 $M'$，使得 $A$ 在 $M$ 中的世界 $u$ 处可满足，当且仅当它在滤化模型中包含 $u$ 的那个等价类里可满足。（参见 Fischer 与 Ladner [1979]。）
+
+现在可以考察 LTS $M=(W,R,V)$ 的滤化，其中
+
+- $W = \{(i,j) : j \text{ 与 } i \text{ 为整数}, 1 \leq j \leq i\} \cup \{ u \}$
+- $(i,j)R(\pi )(i,j-1)$，当 $1 \leq j \leq i$
+- $uR(\pi )(i,i)$，对每个 $i$
+- $V(p) = \emptyset$，对每个 $p \in \Phi_0$
+
+一句话，$M$ 中发生的情形是：从世界 $u$ 出发，有无穷多条长度不断增长的、有穷的 *π*-路径。我们既有 $M, u$ 满足 $\lnot\Delta\pi$，也有 $M, u$ 满足 $\lnot\infty(\pi^*)$。然而，对每个 PDL 公式 $A$，在借助 $FL(A)$ 对 $M$ 作滤化所得的模型中，$\Delta\pi$ 与 $\infty(\pi^*)$ 都会在 $u$ 的等价类处得到满足。的确，滤化必定会塌缩 $M$ 的某些状态并制造出若干循环。因此，不存在能表述 $\Delta\pi$ 的 PDL 公式，也不存在能表述 $\infty(\pi^*)$ 的 PDL 公式。
+
+还有其他方式可以作出“一个程序能够永远执行”这一断言。例如，Danecki [1984a] 提出了一个谓词 $\mathsf{sloop}$，用以刻画能够进入强循环的程序，即：
+
+$V(\mathsf{sloop}(\alpha)) = \{x: xR(\alpha)x\}$。
+
+我们把用公式 $\mathsf{sloop}(\alpha)$ 扩充 PDL 所得的逻辑称为带强循环谓词的 PDL（SLPDL）。RPDL 与 SLPDL 本质上是不可比较的：谓词 *Δ* 在 SLPDL 中不可定义，谓词 $\mathsf{sloop}$ 在 RPDL 中也不可定义。SLPDL 不具有有穷模型性质。例如，公式
+
+$[\pi^*](\langle\pi\rangle 1 \land \lnot\mathsf{sloop}(\pi^+))$
+
+只在无穷 LTS 中可满足。尽管如此，Danecki [1984a] 确立了 (SLPDL-SAT) 公式的判定问题在确定指数时间内可解。
+
+### 4.4 带交的 PDL
+
+还有另一种构造得到了研究：程序交。把程序交加入 PDL，便得到带交的 PDL（IPDL）。在 IPDL 中，对一切程序 *α*、*β*，表达式 $\alpha \cap \beta$ 表示一个新程序，其语义为
+
+$xR(\alpha \cap \beta )y$ 当且仅当 $xR(\alpha)y$ 且 $xR(\beta)y$。
+
+例如，$\langle \alpha \cap \beta \rangle A$ 的预期读法是：若我们在当前状态执行 *α* 与 *β*，则存在一个两个程序都能到达、且满足 $A$ 的状态。于是我们有
+
+$\models \langle \alpha \cap \beta \rangle A \rightarrow \langle \alpha \rangle A \land \langle \beta \rangle A$,
+
+但一般而言，我们有
+
+而 $\models \langle \alpha \rangle A \land \langle \beta \rangle A \rightarrow \langle \alpha \cap \beta \rangle A$ 并不成立。
+
+尽管程序交在 PDL 对人工智能与计算机科学的种种应用中（例如在并发的语境中）十分重要，带交的 PDL 的证明论与复杂性理论在若干年间一直未获研究。就 IPDL 的复杂性理论而言，一旦考察有穷模型性质，困难便出现了。事实上，构造 $\mathsf{sloop}(\alpha)$ 可以在 IPDL 中表述。在带交的命题动态逻辑中，它等价于 $\langle \alpha \cap 1?\rangle 1$。于是我们可以改造 4.3 节中 SLPDL 的公式，从而有
+
+$[\pi^*](\langle \pi \rangle 1 \land [\pi^+ \cap 1?]0)$
+
+只在无穷 LTS 中可满足。换言之，IPDL 不具有有穷模型性质。Danecki [1984b] 研究了 IPDL 的复杂性理论，并表明判定 (IPDL-SAT) 可在确定双指数时间内完成。（一个现代证明见 Göller、Lohrey 与 Lutz [2007]。）判定 (IPDL-SAT) 的这一双指数时间上界，与 Fischer 与 Ladner [1979] 为判定 (PDL-SAT) 所得的简单指数时间下界之间的复杂性间隙，二十多年间一直悬而未决。2004 年，Lange [2005] 确立了 (IPDL-SAT) 的指数空间下界。2006 年，Lange 与 Lutz [2005] 通过从指数空间界定的交替图灵机的字问题作归约，给出了无测试的 IPDL 可满足性问题的双指数时间下界的一个证明。在这一归约中，迭代构造的作用至关重要，因为按照 Massacci [2001]，无迭代且无测试的 IPDL 的可满足性问题只是 PSPACE-完全的。把逆构造加入 IPDL，便得到带交与逆的 PDL（ICPDL）。Göller、Lohrey 与 Lutz [2007] 已证明 ICPDL 的可满足性问题是 2-EXPTIME-完全的。
+
+就 IPDL 的证明论而言，一旦我们意识到：在带交的 PDL 的语言中，没有任何公理图式“对应”于程序 $\alpha \cap \beta$ 的语义，即 $xR(\alpha \cap \beta)y$ 当且仅当 $xR(\alpha)y$ 且 $xR(\beta)y$，困难便出现了。也就是说，这与例如公理图式 (A1) 与 (A2) 分别“对应”于程序 $\alpha;\beta$ 与 $\alpha \cup \beta$ 的语义的情形并不相同。由于这一原因，带交的 PDL 的公理化问题直到 Balbiani 与 Vakarelov [2003] 中发展出完全证明系统才得以解决。
+
+在 PDL 的另一个由 Peleg [1987] 提出、并经 Goldblatt [1992b] 进一步研究的变体中，表达式 $\alpha \cap \beta$ 被解释为“并行地执行 *α* 与 *β*”。在此语境中，二元关系 $R(\alpha)$ 与 $R(\beta)$ 不再是形如 $(x,y)$ 的对之集（其中 $x$ 与 $y$ 是世界），而是形如 $(x, Y)$ 的对之集（其中 $x$ 是一个世界，$Y$ 是一个世界集）。这一想法受帕里克 [1985] 的博弈逻辑启发，后者是把 PDL 解释为“程序即博弈”的一种解释。博弈逻辑提供了一个额外的程序构造，可对程序作对偶化，从而使人们能够把程序交定义为程序间非确定选择的对偶。
