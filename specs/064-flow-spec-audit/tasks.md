@@ -1,7 +1,7 @@
 # 任务清单：064 全流程全要素审计与规范化
 
 - 输入：`specs/064-flow-spec-audit/spec.md`（rev 21）、`plan.md`、`results/axioms-v3.md`、`results/axioms-tasks.md`、`results/test-coverage.md`、`results/target-workflow.md`、`results/exploration-2026-11-27.md`
-- 状态：**63 项已验证（T131、T168、T169、T130、T020–T024、T132、T133、T134、T135、T136、T137、T185、T186、T187、T188、T189、T190、T139、T191、T192、T141、T193、T194、T195、T143、T196、T197、T198、T199、T200、T201、T145、T146、T147、T148、T149、T150、T151、T152、T153、T202、T203、T204、T205、T206、T207、T208、T209、T210、T211、T212、T213、T214、T215、T216、T217、T218、T219、T220）；0 项部分执行；74 项未开始；0 项撤销**。合计 **137 个编号（全部有效）**；habermas 已 `done`；logic-preference **已 `done`**；environmental-aesthetics **已 `done`**；imprecise-probabilities **已 `done`**（T209–T214；sg-03 经用户 2026-11-27 授权签字）；W1 三件＋W2 首件全部 `done`（action 于 2026-11-27 经用户 sg-03 授权签字置 `done`）；**S16 临时布局迁移 T202–T208 已完成**；W2 T155 已拆为 T215–T220（方案 `results/t155-decomposition.md`），T215 ex-04、T216 样章、T217 全量、T218 校次、T219 rv 链、T220 sg 链全部完成，action 已 `done`；余 T156–T157 待拆站。2026-11-26 全部批准十项建议＋流程 v2；2026-11-27 全部批准探索建议书 EP-01–09；2026-11-27 迁移轨 S0＋S3–S9 共 37 项全部批准实施（R0–R7）；A／B 组与 C 组 T132–T137 已完成，其余维持“已批准、待执行”
+- 状态：**63 项已验证（T131、T168、T169、T130、T020–T024、T132、T133、T134、T135、T136、T137、T185、T186、T187、T188、T189、T190、T139、T191、T192、T141、T193、T194、T195、T143、T196、T197、T198、T199、T200、T201、T145、T146、T147、T148、T149、T150、T151、T152、T153、T202、T203、T204、T205、T206、T207、T208、T209、T210、T211、T212、T213、T214、T215、T216、T217、T218、T219、T220）；0 项部分执行；82 项未开始；0 项撤销**。合计 **145 个编号（全部有效）**；habermas 已 `done`；logic-preference **已 `done`**；environmental-aesthetics **已 `done`**；imprecise-probabilities **已 `done`**（T209–T214；sg-03 经用户 2026-11-27 授权签字）；W1 三件＋W2 首件全部 `done`（action 于 2026-11-27 经用户 sg-03 授权签字置 `done`）；**S16 临时布局迁移 T202–T208 已完成**；W2 T155 已拆为 T215–T220 并全部完成（action `done`）；T156 已拆为 T221–T228（方案 `results/t156-decomposition.md`），待执行；T157 待拆站。2026-11-26 全部批准十项建议＋流程 v2；2026-11-27 全部批准探索建议书 EP-01–09；2026-11-27 迁移轨 S0＋S3–S9 共 37 项全部批准实施（R0–R7）；A／B 组与 C 组 T132–T137 已完成，其余维持“已批准、待执行”
 - **删除记录（rev21）**：S1 登记表 7 项、S11 案 B 5 项、S-1 案 B 复核 1 项已从本书**直接删除**，不保留 `[撤销]` 行；精确清单见 spec §11 rev21／§15（本文件不再引用已删 T 号）
 - 新增落点：**T166（G4 测试）、T167（G6＋G8 ADR）、T168（G24／G25 治理）、T169（标准回写）、T170–T175（S14 学术翻译出版流程 v2）、T176–T184（S15 探索批准项 EP-01–09）**；**T168／T169 已于 2026-11-27 完成**，其余均为“已批准、待执行”
 - **执行排程**：`results/schedule.md`（W0–W7、W0b、G0–G5、11 件逐件表；探索批准项 E0–E5）是唯一排程源；本清单只定义工作项，不复制波次。**a／b 组已完成；C 组 T132–T137 完成，habermas 全链完成并 `done`；logic-preference ex-04、T143 样章、T196（§3）、T197（§4）、T198（§5）、T199（§6）、T200（§7–§8）、T201（收口）、T145（tr-03／tr-04）、T146（rv-01／rv-02／rv-09）、T147（rv-03–08 六轴）、T148（sg-01／sg-02）完成并至 `sg-02_checked`；sg-03 待用户 mandate；environmental-aesthetics T149 ex-04、T150 样章、T151 全量、T152 校次与六轴、T153 sg 链完成并 `done`；S16 临时布局迁移 T202–T208 全部完成并收口**。
@@ -85,7 +85,15 @@
 - [x] T218 [S-1] 校次链 tr-03／tr-04：一校逐节核销、二校语体与反欧化——**已完成**（2026-11-27：两个子代理分段一校，Critical 1／Major 9 全部落地、Minor 23 采纳 18；tr-04 将 check_prose 101→8，93 条 FIX 落地、8 条按表豁免（直接引文 5、机检误报 3）；结构 230 块、375 标记、320 定义守恒；check_style／quotes／math_zh／terms／academic 硬错误 0；证据 `results/t218-tr03.md`、`results/t218-tr04.md`）；状态 `tr-02_checked → tr-04_checked`——验收：账本守恒、残留外文 0、两站 `check_all` 全绿
 - [x] T219 [S-1] rv 链：rv-01 三轴→rv-02→rv-03–08 六轴→rv-09——**已完成**（2026-11-27：rv-01 术语硬 0／体例 gate 0／勘误第十七节 8 条＋译注①；rv-02 两轴比较与账本重建；q1 64 条 pass 20／waived 44、q2 304 条 equivalent、q3 9 条豁免、q4 8 节 R-1＋1 处改词、q5 量值 1 条误识别、q6 18 条 17 豁免；六轴 gate 均 0；rv-09 体例终校 0；证据 `results/t219-rv02.md`–`t219-rv09.md`）；状态 `rv-02_checked → rv-09_checked`——验收：各轴凭据落 `state/axis/`、`--gate` 0 或逐条豁免
 - [x] T220 [S-1] sg 链：sg-01／sg-02／sg-03（须用户 `--mandate`）——**已完成**（2026-11-27：sg-01 抽 5 段四维评估、sg-02 全篇逻辑链＋20 组指代＋10 处跨节；两轮均发现 §3 首段否定辖域 Critical 1，已并回单句；Major 5 已改；Minor 采纳 8／保留 4；sg-03 经用户 2026-11-27 AskUserQuestion“授权并签字”执行，交付清单完整、六轴 gate 0、check_all 23/23、320 脚注闭合；证据 `results/t220-sg01.md`、`t220-sg02.md`、`t220-sg03.md`）；状态 `sg-01_checked → sg-02_checked → sg-03_checked → done`——验收：sg-01／sg-02 无 Critical／Major；sg-03 未授权则止于 `sg-02_checked`
-- [ ] T156 [S-1] `a/axiom-choice`（530 行内公式＋8 块＋4 表）全流程——验收：公式与表无损；拆为原子任务后方可执行
+- [ ] T156 [S-1] **[工作包]** `a/axiom-choice`（517 行内公式＋16 display＋4 表）全流程——**已拆为 T221–T228**（方案 `results/t156-decomposition.md`）；本行只作容器，**不得整体勾选**；验收：公式与表无损；T221–T228 全部完成且本件 `done`
+- [ ] T221 [S-1] ex-04 源审计：`en_integrity`＋`en_source_audit`＋`check_math`；111 脚注键闭合；14 类构件复核——验收：三段式汇总、hard 0 或逐条登记、无静默跳过
+- [ ] T222 [S-1] tr-02 样章（§1，10,500 源字符，68 行内＋2 display＋1 表）——验收：公式与表无损、块数与 en 对应、术语先登记后用
+- [ ] T223 [S-1] tr-02 批 1（§2–§3，14,913 源字符，226 行内＋2 display＋1 表）——验收：§2–§3 入库、公式配对、账本守恒
+- [ ] T224 [S-1] tr-02 批 2（§4–§5，19,201 源字符，179 行内＋12 display＋1 表＋补充文档链接）——验收：§4–§5 入库、display 与表无损
+- [ ] T225 [S-1] tr-02 批 3（尾节＋111 脚注＋补充文档注记）——验收：尾节合体例、111 脚注闭合、7 条补充注记照译
+- [ ] T226 [S-1] tr-03／tr-04 校次——验收：账本守恒、残留外文 0、检查器全绿
+- [ ] T227 [S-1] rv 链：rv-01→rv-02→rv-03–08→rv-09——验收：各轴凭据落 `state/axis/`、`--gate` 0 或逐条豁免
+- [ ] T228 [S-1] sg 链：sg-01／sg-02／sg-03（sg-03 须用户 `--mandate`）——验收：sg-01／sg-02 无 Critical／Major；未授权则止于 `sg-02_checked`
 - [ ] T157 [S-1] `n/newton-principia`（36,082 汉字＋3 图）全流程——验收：图与版式；拆为原子任务后方可执行
 
 ### 第三梯队（工作包；单项极值，按轴专项启用，执行前须拆站段）
