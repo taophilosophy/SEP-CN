@@ -11,6 +11,26 @@
 
 ## A
 
+| bisimilar | — | 互模拟的 | logic-dynamic | 学界惯例（模态逻辑通行（与 bisimulation 互模拟同族））；凭证 2026-11-27 | 2026-11-27 |
+| composition | — | 复合 | logic-dynamic | 学界惯例（程序构造通行（sequential composition 顺序复合））；凭证 2026-11-27 | 2026-11-27 |
+| converse (program) | — | 逆 | logic-dynamic | 学界惯例（程序逻辑义；与 converse 逆命题（传统逻辑）分列，撞形豁免）；凭证 2026-11-27 | 2026-11-27 |
+| deterministic | — | 确定的 | logic-dynamic | 学界惯例（程序语义通行（与 non-deterministic 非确定的对举））；凭证 2026-11-27 | 2026-11-27 |
+| finite automaton | — | 有限自动机 | logic-dynamic | 学界惯例（计算机科学通行）；凭证 2026-11-27 | 2026-11-27 |
+| formula | — | 公式 | logic-dynamic | 学界惯例（数理逻辑通行）；凭证 2026-11-27 | 2026-11-27 |
+| Hoare calculus | — | 霍尔演算 | logic-dynamic | 学界惯例（程序验证通行）；凭证 2026-11-27 | 2026-11-27 |
+| intersection (program) | — | 交 | logic-dynamic | 学界惯例（程序逻辑义（intersection of programs 程序交）；与集合交同形）；凭证 2026-11-27 | 2026-11-27 |
+| iteration | — | 迭代 | logic-dynamic | 学界惯例（程序逻辑通行（unbounded iteration 无界迭代））；凭证 2026-11-27 | 2026-11-27 |
+| Kripke frame | — | 克里普克框架 | logic-dynamic | 学界惯例（模态逻辑通行（与 Kripke model 克里普克模型同族））；凭证 2026-11-27 | 2026-11-27 |
+| non-deterministic | — | 非确定的 | logic-dynamic | 学界惯例（程序逻辑通行（与 non-deterministic choice 非确定选择同族））；凭证 2026-11-27 | 2026-11-27 |
+| program | — | 程序 | logic-dynamic | 学界惯例（程序逻辑通行（PDL 两大句法范畴之一））；凭证 2026-11-27 | 2026-11-27 |
+| program construct | — | 程序构造 | logic-dynamic | 学界惯例（程序逻辑通行）；凭证 2026-11-27 | 2026-11-27 |
+| regular expression | — | 正则表达式 | logic-dynamic | 学界惯例（计算机科学通行）；凭证 2026-11-27 | 2026-11-27 |
+| regular program | — | 正则程序 | logic-dynamic | 学界惯例（程序逻辑通行（正则程序／正则表达式同族））；凭证 2026-11-27 | 2026-11-27 |
+| satisfiable | — | 可满足的 | logic-dynamic | 学界惯例（数理逻辑通行（与 satisfiability 可满足性同族））；凭证 2026-11-27 | 2026-11-27 |
+| sequence (program) | — | 顺序 | logic-dynamic | 学界惯例（程序构造义（α;β 顺序复合）；与一般“序列”分列）；凭证 2026-11-27 | 2026-11-27 |
+| state (PDL) | — | 状态 | logic-dynamic | 学界惯例（程序逻辑义；与 state (action ontology) 状态 分列，撞形豁免 2026-11-27：同形异义）；凭证 2026-11-27 | 2026-11-27 |
+| transition | — | 转移 | logic-dynamic | 学界惯例（模态逻辑与程序语义通行（与 labeled transition system 标记转移系统一致））；凭证 2026-11-27 | 2026-11-27 |
+| world (modal logic) | — | 世界 | logic-dynamic | 学界惯例（模态逻辑义；与《世界》Le Monde 分列，撞形豁免 2026-11-27：同形异义）；凭证 2026-11-27 | 2026-11-27 |
 | 键 | 原文 | 译法 | 首现（slug 或书目） | 依据 | 裁定日期 |
 | --- | --- | --- | --- | --- | --- |
 | A Discourse Concerning the Love of God | — | 《论上帝之爱》 | 语料回收（specs/058 全库提取） | 本库译名（达玛里斯·玛莎姆著，1696；语料 9 处一致）（2026-11-24 语料核对，凭证 works-batch28-2026-11-24.md） | 2026-11-24 |

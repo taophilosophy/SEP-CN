@@ -1,0 +1,442 @@
+version: 1
+slug: logic-dynamic
+params:
+  model: "DeepSeek-V4.1-Flash（Trae 主会话＋子代理分段；T236 样章）"
+  temperature: 0.2
+  batch_segments: sample
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Logics of programs are modal logics arising from the idea of associating a modality $[\alpha]$ with each computer program *α* of a programming language. The formula $[\alpha]A$ is then to be read as: $A$ is true after the execution of the program *α*. This idea comes from the line of works by Engeler [1967], Hoare [1969], Yanov [1959], and others who formulated and studied logical languages in which the properties of program connectives can be expressed. The algorithmic logic (AL) first developed by Salwicki [1970] and the dynamic logic (DL) elaborated by Pratt [1976] are proper continuations of these works. We will here concentrate on DL. The numerous papers devoted to DL and its variants as well as its many applications in program verification and data structures show that it constitutes a useful tool for studying the properties of programs. Pratt chose to depict DL on what one might call the first-order level, and it was his work that triggered Fischer and Ladner [1979] to define the propositional variant of DL a couple of years later. This article presents an introduction to PDL, the propositional variant of DL.
+    step1: |-
+      程序逻辑是模态逻辑，源于这样一个想法：为程序设计语言中的每个计算机程序 *α* 配以一个模态词 $[\alpha]$。公式 $[\alpha]A$ 于是读作：$A$ 在程序 *α* 执行之后为真。这一想法源自 Engeler [1967]、托尼·霍尔 [1969]、Yanov [1959] 等人的一系列工作，他们构建并研究了能够表达程序联结词性质的逻辑语言。Salwicki [1970] 首创的算法逻辑（AL），以及 Pratt [1976] 阐发的动态逻辑（DL），正是这些工作的真正延续。我们在此将集中于 DL。大量论文致力于 DL 及其变体，也致力于它在程序验证与数据结构中的诸多应用，这些论文表明，DL 构成了研究程序性质的一种有用工具。Pratt 选择在人们或可称为一阶的层面上刻画 DL，正是他的工作促使 Fischer 与 Ladner [1979] 在几年之后定义了 DL 的命题变体。本文是对 PDL——DL 的命题变体——的导论。
+    step2: |-
+      程序逻辑是模态逻辑，源于这样一个想法：为程序设计语言中的每个计算机程序 *α* 配以一个模态词 $[\alpha]$。公式 $[\alpha]A$ 于是读作：$A$ 在程序 *α* 执行之后为真。这一想法源自 Engeler [1967]、托尼·霍尔 [1969]、Yanov [1959] 等人的一系列工作，他们构建并研究了能够表达程序联结词性质的逻辑语言。Salwicki [1970] 首创的算法逻辑（AL），以及 Pratt [1976] 阐发的动态逻辑（DL），正是这些工作的真正延续。我们在此将集中于 DL。大量论文致力于 DL 及其变体，也致力于它在程序验证与数据结构中的诸多应用，这些论文表明，DL 构成了研究程序性质的一种有用工具。Pratt 选择在人们或可称为一阶的层面上刻画 DL，正是他的工作促使 Fischer 与 Ladner [1979] 在几年之后定义了 DL 的命题变体。本文是对 PDL——DL 的命题变体——的导论。
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. Introduction
+    step1: |-
+      ## 1. 引言
+    step2: |-
+      ## 1. 引言
+  - id: 3
+    kind: body
+    source: |-
+      Dynamic Logics (DL) are modal logics for representing the states and the events of dynamic systems. The language of DLs is both an assertion language able to express properties of computation states, and a programming language able to express properties of system transitions between these states. DLs are *logics of programs*, and permit to talk and reason about states of affairs, processes, changes, and results.
+    step1: |-
+      动态逻辑（DL）是用于表示动态系统的状态与事件的模态逻辑。DL 的语言既是一种断言语言，能够表达计算状态的性质，又是一种程序设计语言，能够表达系统在这些状态之间转移的性质。诸 DL 是 **程序逻辑**，它们使我们能够谈论并推理事态、过程、变化与结果。
+    step2: |-
+      动态逻辑（DL）是用于表示动态系统的状态与事件的模态逻辑。DL 的语言既是一种断言语言，能够表达计算状态的性质，又是一种程序设计语言，能够表达系统在这些状态之间转移的性质。诸 DL 是 **程序逻辑**，它们使我们能够谈论并推理事态、过程、变化与结果。
+  - id: 4
+    kind: body
+    source: |-
+      Pratt’s original dynamic logic of programs was a *first-order* modal logic. *Propositional Dynamic Logic* (PDL) is the propositional counterpart of it. It was presented as a logic in its own right in Fischer and Ladner [1979]. Being propositional, the language of PDL makes no use of terms, predicates, or functions. Thus in PDL, there are two syntactic categories: propositions and programs.
+    step1: |-
+      Pratt 最初关于程序的动态逻辑是一种 **一阶** 模态逻辑。**命题动态逻辑**（PDL）是它的命题对应物。它在 Fischer 与 Ladner [1979] 中作为一门独立的逻辑被提出。作为命题逻辑，PDL 的语言不使用项、谓词或函数。因此，PDL 中有两个句法范畴：命题与程序。
+    step2: |-
+      Pratt 最初关于程序的动态逻辑是一种 **一阶** 模态逻辑。**命题动态逻辑**（PDL）是它的命题对应物。它在 Fischer 与 Ladner [1979] 中作为一门独立的逻辑被提出。作为命题逻辑，PDL 的语言不使用项、谓词或函数。因此，PDL 中有两个句法范畴：命题与程序。
+  - id: 5
+    kind: body
+    source: |-
+      To give meaning to statements in PDL, we typically work with an abstract semantics in terms of Labeled Transition Systems (LTS). LTSs can be seen as a generalization of Kripke models, where transitions between worlds, or states, are “labeled” by names of *atomic* programs. A valuation indicates for every state what *propositions* are true in it. A transition labeled *π* from one state $x$ to a state $y$—noted $xR(\pi)y$, or $(x,y) \in R(\pi)$—indicates that starting in $x$, there is a possible execution of the program *π* that finishes in $y$. If the proposition $A$ is true in $y$, then the formula $\langle\pi\rangle A$ is true in $x$: i.e., in the state $x$ there is a possible execution of the program *π* that ends in a state satisfying $A$. One recognizes in $\langle\pi\rangle$ a modality reminiscent of the modality of possibility (often noted $\Diamond$) of modal logic. Unsurprisingly, there is also a corresponding notion of necessity (whose modality is often noted $\Box$). The formula $[\pi]A$ is true in the state $x$ if $A$ is true in every state reachable from $x$ by a transition labeled *π*.
+    step1: |-
+      为了赋予 PDL 中的陈述以意义，我们通常使用以标记转移系统（LTS）表述的抽象语义。LTS 可视为克里普克模型的推广，其中世界或状态之间的转移由 **原子** 程序的名称“标记”。一个赋值指明每个状态中哪些 **命题** 为真。从状态 $x$ 到状态 $y$、标记为 *π* 的转移——记作 $xR(\pi)y$，或 $(x,y) \in R(\pi)$——表示：从 $x$ 出发，程序 *π* 存在一次在 $y$ 结束的可能执行。若命题 $A$ 在 $y$ 中为真，则公式 $\langle\pi\rangle A$ 在 $x$ 中为真：也就是说，在状态 $x$ 中，程序 *π* 存在一次在满足 $A$ 的状态中结束的可能执行。人们在 $\langle\pi\rangle$ 中认出一种令人联想到模态逻辑可能性模态（常记作 $\Diamond$）的模态。不出所料，也有相应的必然性概念（其模态常记作 $\Box$）。若 $A$ 在从 $x$ 经标记为 *π* 的转移可达的每个状态中都为真，则公式 $[\pi]A$ 在状态 $x$ 中为真。
+    step2: |-
+      为了赋予 PDL 中的陈述以意义，我们通常使用以标记转移系统（LTS）表述的抽象语义。LTS 可视为克里普克模型的推广，其中世界或状态之间的转移由 **原子** 程序的名称“标记”。一个赋值指明每个状态中哪些 **命题** 为真。从状态 $x$ 到状态 $y$、标记为 *π* 的转移——记作 $xR(\pi)y$，或 $(x,y) \in R(\pi)$——表示：从 $x$ 出发，程序 *π* 存在一次在 $y$ 结束的可能执行。若命题 $A$ 在 $y$ 中为真，则公式 $\langle\pi\rangle A$ 在 $x$ 中为真：也就是说，在状态 $x$ 中，程序 *π* 存在一次在满足 $A$ 的状态中结束的可能执行。人们在 $\langle\pi\rangle$ 中认出一种令人联想到模态逻辑可能性模态（常记作 $\Diamond$）的模态。不出所料，也有相应的必然性概念（其模态常记作 $\Box$）。若 $A$ 在从 $x$ 经标记为 *π* 的转移可达的每个状态中都为真，则公式 $[\pi]A$ 在状态 $x$ 中为真。
+  - id: 6
+    kind: body
+    source: |-
+      The possible executions of complex programs can be next defined compositionally. For instance, a program “first *α*, then *β*” is a complex program, more specifically a *sequence*. A possible execution can be represented in an LTS by composing a two-step transition—a transition which can be signified by $R(\alpha;\beta)$—between the states $x$ and $y$: there is a possible execution in the state $x$ of the program *α* that finishes in a state $z$ and there is a possible execution in $z$ of the program *β* that finishes in the state $y$. If the proposition $A$ is true in $y$, then the formula $\langle \alpha;\beta\rangle A$ is be true in the state $x$. The programs *α* and *β* could be complex program themselves. Still more programs can be expressed with more constructs that we will present in due time.
+    step1: |-
+      复合程序的可能执行随后可以按组合方式加以定义。例如，程序“先 *α*，后 *β*”是一个复合程序，更确切地说是一个 **顺序**。一次可能执行可在 LTS 中表示为状态 $x$ 与 $y$ 之间的两步转移——该转移可记作 $R(\alpha;\beta)$：在状态 $x$ 中程序 *α* 存在一次在状态 $z$ 结束的可能执行，而在 $z$ 中程序 *β* 存在一次在状态 $y$ 结束的可能执行。若命题 $A$ 在 $y$ 中为真，则公式 $\langle \alpha;\beta\rangle A$ 在状态 $x$ 中为真。程序 *α* 与 *β* 本身也可以是复合程序。我们将在适当时候用更多构造表达更多的程序。
+    step2: |-
+      复合程序的可能执行随后可以按组合方式加以定义。例如，程序“先 *α*，后 *β*”是一个复合程序，更确切地说是一个 **顺序**。一次可能执行可在 LTS 中表示为状态 $x$ 与 $y$ 之间的两步转移——该转移可记作 $R(\alpha;\beta)$：在状态 $x$ 中程序 *α* 存在一次在状态 $z$ 结束的可能执行，而在 $z$ 中程序 *β* 存在一次在状态 $y$ 结束的可能执行。若命题 $A$ 在 $y$ 中为真，则公式 $\langle \alpha;\beta\rangle A$ 在状态 $x$ 中为真。程序 *α* 与 *β* 本身也可以是复合程序。我们将在适当时候用更多构造表达更多的程序。
+  - id: 7
+    kind: body
+    source: |-
+      A program is then seen in an extensional way: it is a binary relation between pairs of states of an LTS. Precisely, it is the set of pairs of the form $(x,y)$ such that the program can be executed in the state $x$ and can lead to the state $y$. On the other hand, a proposition is a statement about a state; it is either true or false in a state. A proposition can thus also be seen in an extensional way: the set of states of the LTS where it is true.
+    step1: |-
+      于是，程序以一种外延的方式被看待：它是 LTS 的状态对之间的一个二元关系。确切地说，它是形如 $(x,y)$ 的状态对的集合，使得该程序可在状态 $x$ 中执行并导向状态 $y$。另一方面，命题是关于一个状态的陈述；它在一个状态中或真或假。因此，命题也可以按外延方式看待：它是 LTS 中该命题为真的那些状态的集合。
+    step2: |-
+      于是，程序以一种外延的方式被看待：它是 LTS 的状态对之间的一个二元关系。确切地说，它是形如 $(x,y)$ 的状态对的集合，使得该程序可在状态 $x$ 中执行并导向状态 $y$。另一方面，命题是关于一个状态的陈述；它在一个状态中或真或假。因此，命题也可以按外延方式看待：它是 LTS 中该命题为真的那些状态的集合。
+  - id: 8
+    kind: body
+    source: |-
+      With the acronym PDL, we refer here precisely to the propositional dynamic logic with the following program constructs: sequence, non-deterministic choice, unbounded iteration, and test. We present it in section 2, together with some properties and fundamental results. In particular, we will address its axiomatization and its decidability.
+    step1: |-
+      我们在此用缩写 PDL 确切地指具有以下程序构造的命题动态逻辑：顺序、非确定选择、无界迭代与测试。我们在第 2 节呈现它，并给出一些性质与基本结果。特别地，我们将讨论它的公理化与可判定性。
+    step2: |-
+      我们在此用缩写 PDL 确切地指具有以下程序构造的命题动态逻辑：顺序、非确定选择、无界迭代与测试。我们在第 2 节呈现它，并给出一些性质与基本结果。特别地，我们将讨论它的公理化与可判定性。
+  - id: 9
+    kind: body
+    source: |-
+      The Hoare calculus from Hoare [1969] is a landmark for logics of programs. It concerns the truth of statements of the form $\{A\}\alpha\{B\}$—meaning that with the precondition $A$ the program *α* always has $B$ as a post-condition—and is defined axiomatically. It comes from a want of rigorous methods to reason about the properties of programs, and thus giving to the activity of programming a certain place in the realm of science. Burstall [1974] saw the analogy between modal logics and reasoning about programs. But the actual work on it started with Pratt [1976] after it was suggested to him by some of the students of a course he was giving, specifically about logics of programs. PDL comes from Pratt’s interpretation of Hoare’s calculus in the formalism of modal logic. An introduction to the genesis of PDL can be found in Pratt [1980b]. The Hoare-triple $\{A\}\alpha\{B\}$ is captured by the PDL formula $A \to [\alpha]B$ meaning literally that if $A$ is true, then every successfully terminating execution of *α* will end with $B$ being true. With this connection realized, it is a routine to prove the initial rules of Hoare’s calculus using exclusively the axiomatization of PDL. This is something we will do in detail in section 3 which concentrates on the reasoning about the correctness of structured programs.
+    step1: |-
+      出自霍尔 [1969] 的霍尔演算是程序逻辑的一个里程碑。它关涉形如 $\{A\}\alpha\{B\}$ 的陈述的真——意思是：以前提条件 $A$ 开始，程序 *α* 总是以 $B$ 为后条件——并以公理化方式定义。它源于一种对严格方法的需要：用这些方法推理程序的性质，从而在科学领域中给编程活动以一席之地。Burstall [1974] 看到了模态逻辑与程序推理之间的类比。但实际工作始于 Pratt [1976]：当时他正在讲授一门关于程序逻辑的课程，一些学生向他提出了这一想法。PDL 源于 Pratt 用模态逻辑形式系统对霍尔演算的解释。关于 PDL 起源的导论可参见 Pratt [1980b]。霍尔三元组 $\{A\}\alpha\{B\}$ 由 PDL 公式 $A \to [\alpha]B$ 捕捉，字面意思是：若 $A$ 为真，则 *α* 的每一次成功终止的执行都将以 $B$ 为真告终。一旦实现了这一联系，仅用 PDL 的公理化来证明霍尔演算的初始规则便是例行公事。我们将在第 3 节详细做这件事，该节集中于推理结构化程序的正确性。
+    step2: |-
+      出自霍尔 [1969] 的霍尔演算是程序逻辑的一个里程碑。它关涉形如 $\{A\}\alpha\{B\}$ 的陈述的真——意思是：以前提条件 $A$ 开始，程序 *α* 总是以 $B$ 为后条件——并以公理化方式定义。它源于一种对严格方法的需要：用这些方法推理程序的性质，从而在科学领域中给编程活动以一席之地。Burstall [1974] 看到了模态逻辑与程序推理之间的类比。但实际工作始于 Pratt [1976]：当时他正在讲授一门关于程序逻辑的课程，一些学生向他提出了这一想法。PDL 源于 Pratt 用模态逻辑形式系统对霍尔演算的解释。关于 PDL 起源的导论可参见 Pratt [1980b]。霍尔三元组 $\{A\}\alpha\{B\}$ 由 PDL 公式 $A \to [\alpha]B$ 捕捉，字面意思是：若 $A$ 为真，则 *α* 的每一次成功终止的执行都将以 $B$ 为真告终。一旦实现了这一联系，仅用 PDL 的公理化来证明霍尔演算的初始规则便是例行公事。我们将在第 3 节详细做这件事，该节集中于推理结构化程序的正确性。
+  - id: 10
+    kind: body
+    source: |-
+      Additional topics related to PDL include results concerning comparative power of expression, decidability, complexity, and completeness of a number of interesting variants obtained by extending or restricting PDL in various ways. Since its inception, many variants of PDL have received attention. These variants may consider deterministic programs, restricted tests, non-regular programs, programs as automata, complementation and intersection of programs, converse and infinite computations, etc. We will present some of them in section 4, providing some pointers regarding their relative expressivity, their axiomatizations, and their computational complexity.
+    step1: |-
+      与 PDL 相关的其他主题包括：关于若干有趣变体的比较表达力、可判定性、复杂度与完全性的结果，这些变体通过以各种方式扩展或限制 PDL 而得到。自 PDL 诞生以来，许多变体受到关注。这些变体可能考虑确定的程序、受限的测试、非正则程序、作为自动机的程序、程序的补与交、逆与无限计算，等等。我们将在第 4 节呈现其中一些，并提供关于其相对表达力、公理化与计算复杂度的若干指引。
+    step2: |-
+      与 PDL 相关的其他主题包括：关于若干有趣变体的比较表达力、可判定性、复杂度与完全性的结果，这些变体通过以各种方式扩展或限制 PDL 而得到。自 PDL 诞生以来，许多变体受到关注。这些变体可能考虑确定的程序、受限的测试、非正则程序、作为自动机的程序、程序的补与交、逆与无限计算，等等。我们将在第 4 节呈现其中一些，并提供关于其相对表达力、公理化与计算复杂度的若干指引。
+  - id: 11
+    kind: body
+    source: |-
+      We conclude in section 5.
+    step1: |-
+      我们在第 5 节作结。
+    step2: |-
+      我们在第 5 节作结。
+  - id: 12
+    kind: body
+    source: |-
+      ## 2. Definitions and fundamental results
+    step1: |-
+      ## 2. 定义与基本结果
+    step2: |-
+      ## 2. 定义与基本结果
+  - id: 13
+    kind: body
+    source: |-
+      We present the syntax and semantics of PDL in section 2.1. The proof theory of PDL is presented in section 2.2 with axiomatizations and pointers to the literature on completeness. We address the problem of decidability and complexity in section 2.3.
+    step1: |-
+      我们在 §2.1 呈现 PDL 的句法与语义。PDL 的证明论在 §2.2 呈现，并给出公理化与完全性文献指引。我们在 §2.3 讨论可判定性与复杂度问题。
+    step2: |-
+      我们在 §2.1 呈现 PDL 的句法与语义。PDL 的证明论在 §2.2 呈现，并给出公理化与完全性文献指引。我们在 §2.3 讨论可判定性与复杂度问题。
+  - id: 14
+    kind: body
+    source: |-
+      ### 2.1 Syntax and semantics
+    step1: |-
+      ### 2.1 句法与语义
+    step2: |-
+      ### 2.1 句法与语义
+  - id: 15
+    kind: body
+    source: |-
+      Propositional dynamic logic (PDL) is designed for representing and reasoning about propositional properties of programs. Its syntax is based upon two sets of symbols: a countable set $\Phi_0$ of atomic formulas and a countable set $\Pi_0$ of atomic programs. Complex formulas and complex programs over this base are defined as follows.
+    step1: |-
+      命题动态逻辑（PDL）旨在表示并推理程序的命题性质。其语法建立在两组符号之上：原子公式的可数集 $\Phi_0$ 与原子程序的可数集 $\Pi_0$。在此基础上的复合公式与复合程序定义如下。
+    step2: |-
+      命题动态逻辑（PDL）旨在表示并推理程序的命题性质。其语法建立在两组符号之上：原子公式的可数集 $\Phi_0$ 与原子程序的可数集 $\Pi_0$。在此基础上的复合公式与复合程序定义如下。
+  - id: 16
+    kind: body
+    source: |-
+      - Every atomic formula is a formula.
+      - $0$ (“false”) is a formula.
+      - If $A$ is a formula then $\lnot A$ (“not $A$”) is a formula.
+      - If $A$ and $B$ are formulas then $(A\lor B)$ (“$A$ or $B$”) is a formula.
+      - If *α* is a program and *A* is a formula then $[\alpha]A$ (“every execution of *α* from the present state leads to a state where $A$ is true”) is a formula.
+      - Every atomic program is a program.
+      - If *α* and *β* are programs then $(\alpha;\beta)$ (“do *α* followed by *β*”) is a program.
+      - If *α* and *β* are programs then $(\alpha\cup\beta)$ (“do *α* or *β*, non-deterministically”) is a program.
+      - If *α* is a program then $\alpha^*$ (“repeat *α* a finite, but non-deterministically determined, number of times”) is a program.
+      - If $A$ is a formula then $A?$ (“proceed if $A$ is true, else fail”) is a program.
+    step1: |-
+      - 每个原子公式都是公式。
+      - $0$（“假”）是公式。
+      - 若 $A$ 是公式，则 $\lnot A$（“非 $A$”）是公式。
+      - 若 $A$ 与 $B$ 是公式，则 $(A\lor B)$（“$A$ 或 $B$”）是公式。
+      - 若 *α* 是程序且 *A* 是公式，则 $[\alpha]A$（“从当前状态出发的 *α* 的每次执行都导致 $A$ 为真的状态”）是公式。
+      - 每个原子程序都是程序。
+      - 若 *α* 与 *β* 是程序，则 $(\alpha;\beta)$（“先做 *α*，再做 *β*”）是程序。
+      - 若 *α* 与 *β* 是程序，则 $(\alpha\cup\beta)$（“非确定地做 *α* 或 *β*”）是程序。
+      - 若 *α* 是程序，则 $\alpha^*$（“重复 *α* 有限但非确定地确定的次数”）是程序。
+      - 若 $A$ 是公式，则 $A?$（“若 $A$ 为真则继续，否则失败”）是程序。
+    step2: |-
+      - 每个原子公式都是公式。
+      - $0$（“假”）是公式。
+      - 若 $A$ 是公式，则 $\lnot A$（“非 $A$”）是公式。
+      - 若 $A$ 与 $B$ 是公式，则 $(A\lor B)$（“$A$ 或 $B$”）是公式。
+      - 若 *α* 是程序且 *A* 是公式，则 $[\alpha]A$（“从当前状态出发的 *α* 的每次执行都导致 $A$ 为真的状态”）是公式。
+      - 每个原子程序都是程序。
+      - 若 *α* 与 *β* 是程序，则 $(\alpha;\beta)$（“先做 *α*，再做 *β*”）是程序。
+      - 若 *α* 与 *β* 是程序，则 $(\alpha\cup\beta)$（“非确定地做 *α* 或 *β*”）是程序。
+      - 若 *α* 是程序，则 $\alpha^*$（“重复 *α* 有限但非确定地确定的次数”）是程序。
+      - 若 $A$ 是公式，则 $A?$（“若 $A$ 为真则继续，否则失败”）是程序。
+  - id: 17
+    kind: body
+    source: |-
+      The other Boolean connectives $1$, $\land$, $\to$, and $\leftrightarrow$ are used as abbreviations in the standard way. In addition, we abbreviate $\lnot[\alpha]\lnot A$ to $\langle\alpha\rangle A$ (“some execution of *α* from the present state leads to a state where $A$ is true”) as in modal logic. We write $\alpha^n$ for $\alpha;\ldots ;\alpha$ with $n$ occurrences of *α*. More formally:
+    step1: |-
+      其余布尔联结词 $1$、$\land$、$\to$ 与 $\leftrightarrow$ 按标准方式用作缩写。此外，如同模态逻辑，我们把 $\lnot[\alpha]\lnot A$ 缩写为 $\langle\alpha\rangle A$（“从当前状态出发的 *α* 的某次执行导致 $A$ 为真的状态”）。我们写 $\alpha^n$ 表示 $\alpha;\ldots ;\alpha$，其中 *α* 出现 $n$ 次。更形式地说：
+    step2: |-
+      其余布尔联结词 $1$、$\land$、$\to$ 与 $\leftrightarrow$ 按标准方式用作缩写。此外，如同模态逻辑，我们把 $\lnot[\alpha]\lnot A$ 缩写为 $\langle\alpha\rangle A$（“从当前状态出发的 *α* 的某次执行导致 $A$ 为真的状态”）。我们写 $\alpha^n$ 表示 $\alpha;\ldots ;\alpha$，其中 *α* 出现 $n$ 次。更形式地说：
+  - id: 18
+    kind: body
+    source: |-
+      - $\alpha^0 := 1?$
+      - $\alpha^{n+1} := \alpha;\alpha^n$
+    step1: |-
+      - $\alpha^0 := 1?$
+      - $\alpha^{n+1} := \alpha;\alpha^n$
+    step2: |-
+      - $\alpha^0 := 1?$
+      - $\alpha^{n+1} := \alpha;\alpha^n$
+  - id: 19
+    kind: body
+    source: |-
+      Also:
+    step1: |-
+      又有：
+    step2: |-
+      又有：
+  - id: 20
+    kind: body
+    source: |-
+      - $\alpha^+ := \alpha;\alpha^*$
+    step1: |-
+      - $\alpha^+ := \alpha;\alpha^*$
+    step2: |-
+      - $\alpha^+ := \alpha;\alpha^*$
+  - id: 21
+    kind: body
+    source: |-
+      is often useful to represent an iteration that is unbounded but occurs at least once. Finally, we adopt the standard rules for omission of parentheses.
+    step1: |-
+      常用于表示无界但至少发生一次的迭代。最后，我们采用省略括号的标准规则。
+    step2: |-
+      常用于表示无界但至少发生一次的迭代。最后，我们采用省略括号的标准规则。
+  - id: 22
+    kind: body
+    source: |-
+      Formulas can be used to describe the properties that hold after the successful execution of a program. For example, the formula $[\alpha\cup\beta]A$ means that whenever program *α* or *β* is successfully executed, a state is reached where $A$ holds, whereas the formula $\langle (\alpha;\beta)^*\rangle A$ means that there is a sequence of alternating executions of *α* and *β* such that a state is reached where $A$ holds. Semantically speaking, formulas are interpreted by sets of states and programs are interpreted by binary relations over states in a transition system. More precisely, the meaning of PDL formulas and programs is interpreted over Labeled Transition Systems (LTS) $M = (W,R,V)$ where $W$ is a nonempty set of worlds or states, $R$ is a mapping from the set $\Pi_0$ of atomic programs into binary relations on $W$ and $V$ is a mapping from the set $\Phi_0$ of atomic formulas into subsets of $W$.
+    step1: |-
+      公式可用于描述程序成功执行之后成立的种种性质。例如，公式 $[\alpha\cup\beta]A$ 意味着：每当程序 *α* 或 *β* 成功执行，都会到达 $A$ 成立的状态；而公式 $\langle (\alpha;\beta)^*\rangle A$ 意味着：存在 *α* 与 *β* 交替执行的一个序列，使得到达 $A$ 成立的状态。从语义上说，公式由状态集解释，程序由转移系统中状态上的二元关系解释。更确切地说，PDL 公式与程序的意义是在标记转移系统（LTS）$M = (W,R,V)$ 上解释的，其中 $W$ 是非空的世界或状态集，$R$ 是从原子程序集 $\Pi_0$ 到 $W$ 上二元关系的映射，$V$ 是从原子公式集 $\Phi_0$ 到 $W$ 的子集的映射。
+    step2: |-
+      公式可用于描述程序成功执行之后成立的种种性质。例如，公式 $[\alpha\cup\beta]A$ 意味着：每当程序 *α* 或 *β* 成功执行，都会到达 $A$ 成立的状态；而公式 $\langle (\alpha;\beta)^*\rangle A$ 意味着：存在 *α* 与 *β* 交替执行的一个序列，使得到达 $A$ 成立的状态。从语义上说，公式由状态集解释，程序由转移系统中状态上的二元关系解释。更确切地说，PDL 公式与程序的意义是在标记转移系统（LTS）$M = (W,R,V)$ 上解释的，其中 $W$ 是非空的世界或状态集，$R$ 是从原子程序集 $\Pi_0$ 到 $W$ 上二元关系的映射，$V$ 是从原子公式集 $\Phi_0$ 到 $W$ 的子集的映射。
+  - id: 23
+    kind: body
+    source: |-
+      Informally, the mapping $R$ assigns to each atomic program $\pi\in\Pi_0$ some binary relation $R(\pi)$ on $W$ with the intended meaning that $xR(\pi)y$ iff there exists an execution of *π* from $x$ that leads to $y$, whereas the mapping $V$ assigns to each atomic formula $p\in\Phi_0$ some subset $V(p)$ of $W$ with the intended meaning that $x \in V(p)$ iff $p$ is true in the state $x$. Given our readings of $0$, $\lnot A$, $A\lor B$, $[\alpha]A$, $\alpha;\beta$, $\alpha\cup\beta$, $\alpha^*$ and $A?$, it is clear that $R$ and $V$ must be extended inductively as follows to supply the intended meanings for the complex programs and formulas:
+    step1: |-
+      直观地说，映射 $R$ 给每个原子程序 $\pi\in\Pi_0$ 指派 $W$ 上的某个二元关系 $R(\pi)$，其意图是：$xR(\pi)y$ 当且仅当存在 *π* 从 $x$ 出发、导向 $y$ 的一次执行；而映射 $V$ 给每个原子公式 $p\in\Phi_0$ 指派 $W$ 的某个子集 $V(p)$，其意图是：$x \in V(p)$ 当且仅当 $p$ 在状态 $x$ 中为真。鉴于我们对 $0$、$\lnot A$、$A\lor B$、$[\alpha]A$、$\alpha;\beta$、$\alpha\cup\beta$、$\alpha^*$ 与 $A?$ 的读法，显然 $R$ 与 $V$ 必须按如下方式归纳扩展，以为复合程序与公式提供预期意义：
+    step2: |-
+      直观地说，映射 $R$ 给每个原子程序 $\pi\in\Pi_0$ 指派 $W$ 上的某个二元关系 $R(\pi)$，其意图是：$xR(\pi)y$ 当且仅当存在 *π* 从 $x$ 出发、导向 $y$ 的一次执行；而映射 $V$ 给每个原子公式 $p\in\Phi_0$ 指派 $W$ 的某个子集 $V(p)$，其意图是：$x \in V(p)$ 当且仅当 $p$ 在状态 $x$ 中为真。鉴于我们对 $0$、$\lnot A$、$A\lor B$、$[\alpha]A$、$\alpha;\beta$、$\alpha\cup\beta$、$\alpha^*$ 与 $A?$ 的读法，显然 $R$ 与 $V$ 必须按如下方式归纳扩展，以为复合程序与公式提供预期意义：
+  - id: 24
+    kind: body
+    source: |-
+      - $xR(\alpha;\beta)y$ iff there exists a world $z$ such that $xR(\alpha)z$ and $zR(\beta)y$
+      - $xR(\alpha\cup\beta)y$ iff $xR(\alpha)y$ or $xR(\beta)y$
+      - $xR(\alpha^*)y$ iff there exists a non-negative integer $n$ and there exists a sequence of states $z_0, \ldots, z_n$ such that $z_0 = x$, $z_n = y$ and for all $k = 1 \ldots n$, $z_{k-1}R(\alpha)z_k$
+      - $xR(A?)y$ iff $x = y$ and $y \in V(A)$
+      - $V(0) = \emptyset$
+      - $V(\lnot A) = W \setminus V(A)$
+      - $V((A\lor B) = V(A) \cup V(B)$
+      - $V([\alpha]A) = \{x \mid \text{for all worlds } y, \text{ if } xR(\alpha)y \text{ then } y \in V(A)\}$
+    step1: |-
+      - $xR(\alpha;\beta)y$ 当且仅当存在世界 $z$，使得 $xR(\alpha)z$ 且 $zR(\beta)y$
+      - $xR(\alpha\cup\beta)y$ 当且仅当 $xR(\alpha)y$ 或 $xR(\beta)y$
+      - $xR(\alpha^*)y$ 当且仅当存在非负整数 $n$，且存在状态序列 $z_0, \ldots, z_n$，使得 $z_0 = x$、$z_n = y$，并且对所有 $k = 1 \ldots n$ 都有 $z_{k-1}R(\alpha)z_k$
+      - $xR(A?)y$ 当且仅当 $x = y$ 且 $y \in V(A)$
+      - $V(0) = \emptyset$
+      - $V(\lnot A) = W \setminus V(A)$
+      - $V((A\lor B) = V(A) \cup V(B)$
+      - $V([\alpha]A) = \{x \mid \text{对所有世界 } y，\text{若 } xR(\alpha)y \text{ 则 } y \in V(A)\}$
+    step2: |-
+      - $xR(\alpha;\beta)y$ 当且仅当存在世界 $z$，使得 $xR(\alpha)z$ 且 $zR(\beta)y$
+      - $xR(\alpha\cup\beta)y$ 当且仅当 $xR(\alpha)y$ 或 $xR(\beta)y$
+      - $xR(\alpha^*)y$ 当且仅当存在非负整数 $n$，且存在状态序列 $z_0, \ldots, z_n$，使得 $z_0 = x$、$z_n = y$，并且对所有 $k = 1 \ldots n$ 都有 $z_{k-1}R(\alpha)z_k$
+      - $xR(A?)y$ 当且仅当 $x = y$ 且 $y \in V(A)$
+      - $V(0) = \emptyset$
+      - $V(\lnot A) = W \setminus V(A)$
+      - $V((A\lor B) = V(A) \cup V(B)$
+      - $V([\alpha]A) = \{x \mid \text{对所有世界 } y，\text{若 } xR(\alpha)y \text{ 则 } y \in V(A)\}$
+  - id: 25
+    kind: body
+    source: |-
+      If $x \in V(A)$ then we say that $A$ is satisfied at state $x$ in $M$, or $\ldquo M, x$ sat $A\rdquo$.
+    step1: |-
+      若 $x \in V(A)$，则称 $A$ 在 $M$ 中的状态 $x$ 处被满足，或记作 $M, x$ sat $A$。
+    step2: |-
+      若 $x \in V(A)$，则称 $A$ 在 $M$ 中的状态 $x$ 处被满足，或记作 $M, x$ sat $A$。
+  - id: 26
+    kind: body
+    source: |-
+      ![Model M = (W,R,V) as specified in the paragraph below](../assets/logic-dynamic/model1.png)
+    step1: |-
+      ![图 1：如下文所述的模型 M = (W,R,V)](../../assets/logic-dynamic/model1.png)
+    step2: |-
+      ![图 1：如下文所述的模型 M = (W,R,V)](../../assets/logic-dynamic/model1.png)
+  - id: 27
+    kind: body
+    source: |-
+      ![Model M' = (W',R',V') as specified in the paragraph below](../assets/logic-dynamic/model2.png)
+    step1: |-
+      ![图 2：如下文所述的模型 M' = (W',R',V')](../../assets/logic-dynamic/model2.png)
+    step2: |-
+      ![图 2：如下文所述的模型 M' = (W',R',V')](../../assets/logic-dynamic/model2.png)
+  - id: 28
+    kind: body
+    source: |-
+      Two Labeled Transition Systems: $M = (W,R,V)$ (left) and $M' = (W',R',V')$ (right)
+    step1: |-
+      两个标记转移系统：$M = (W,R,V)$（左）与 $M' = (W',R',V')$（右）
+    step2: |-
+      两个标记转移系统：$M = (W,R,V)$（左）与 $M' = (W',R',V')$（右）
+  - id: 29
+    kind: body
+    source: |-
+      Call $M$ the LTS depicted above on the left and $M'$ the LTS depicted on the right. Defined formally, we have $M = (W, R, V)$ with $W = \{x_1,x_2\}$, $R(\pi_1) = \{(x_1,x_1)\}$, $R(\pi_2) = \{(x_1,x_2)\}$, $V(p) = \{x_1\}$, $V(q) = \{x_2\}$, and we have $M' = (W',R',V')$ with $W' = \{y_1, y_2, y_3, y_4\}$, $R'(\pi_1) = \{(y_1, y_2), (y_2, y_2)\}$, $R'(\pi_2) = \{(y_1, y_3), (y_2, y_4)\}$, $V'(p) = \{y_1, y_2\}$, $V'(q) = \{y_3, y_4\}$. We have for instance:
+    step1: |-
+      称上图中左侧的标记转移系统为 $M$，右侧的标记转移系统为 $M'$。形式地定义，我们有 $M = (W, R, V)$，其中 $W = \{x_1,x_2\}$、$R(\pi_1) = \{(x_1,x_1)\}$、$R(\pi_2) = \{(x_1,x_2)\}$、$V(p) = \{x_1\}$、$V(q) = \{x_2\}$；并且我们有 $M' = (W',R',V')$，其中 $W' = \{y_1, y_2, y_3, y_4\}$、$R'(\pi_1) = \{(y_1, y_2), (y_2, y_2)\}$、$R'(\pi_2) = \{(y_1, y_3), (y_2, y_4)\}$、$V'(p) = \{y_1, y_2\}$、$V'(q) = \{y_3, y_4\}$。例如，我们有：
+    step2: |-
+      称上图中左侧的标记转移系统为 $M$，右侧的标记转移系统为 $M'$。形式地定义，我们有 $M = (W, R, V)$，其中 $W = \{x_1,x_2\}$、$R(\pi_1) = \{(x_1,x_1)\}$、$R(\pi_2) = \{(x_1,x_2)\}$、$V(p) = \{x_1\}$、$V(q) = \{x_2\}$；并且我们有 $M' = (W',R',V')$，其中 $W' = \{y_1, y_2, y_3, y_4\}$、$R'(\pi_1) = \{(y_1, y_2), (y_2, y_2)\}$、$R'(\pi_2) = \{(y_1, y_3), (y_2, y_4)\}$、$V'(p) = \{y_1, y_2\}$、$V'(q) = \{y_3, y_4\}$。例如，我们有：
+  - id: 30
+    kind: body
+    source: |-
+      - $M,x_1$ sat $p$
+      - $M,x_2$ sat $q$
+      - $M,x_1$ sat $\langle \pi_1 \rangle p \land \langle \pi_2 \rangle q$
+      - $M,x_1$ sat $[\pi_1]p \land [\pi^*_1]p$
+      - $M',y_1$ sat $\langle \pi^*_1;\pi_2\rangle q$
+      - $M',y_2$ sat $[\pi^*_1] p$
+      - $M',y_1$ sat $[\pi_1 \cup \pi_2] (p \lor q)$
+      - $M',y_3$ sat $[\pi_1 \cup \pi_2] 0$
+    step1: |-
+      - $M,x_1$ sat $p$
+      - $M,x_2$ sat $q$
+      - $M,x_1$ sat $\langle \pi_1 \rangle p \land \langle \pi_2 \rangle q$
+      - $M,x_1$ sat $[\pi_1]p \land [\pi^*_1]p$
+      - $M',y_1$ sat $\langle \pi^*_1;\pi_2\rangle q$
+      - $M',y_2$ sat $[\pi^*_1] p$
+      - $M',y_1$ sat $[\pi_1 \cup \pi_2] (p \lor q)$
+      - $M',y_3$ sat $[\pi_1 \cup \pi_2] 0$
+    step2: |-
+      - $M,x_1$ sat $p$
+      - $M,x_2$ sat $q$
+      - $M,x_1$ sat $\langle \pi_1 \rangle p \land \langle \pi_2 \rangle q$
+      - $M,x_1$ sat $[\pi_1]p \land [\pi^*_1]p$
+      - $M',y_1$ sat $\langle \pi^*_1;\pi_2\rangle q$
+      - $M',y_2$ sat $[\pi^*_1] p$
+      - $M',y_1$ sat $[\pi_1 \cup \pi_2] (p \lor q)$
+      - $M',y_3$ sat $[\pi_1 \cup \pi_2] 0$
+  - id: 31
+    kind: body
+    source: |-
+      Now consider a formula $A$. We say that $A$ is valid in $M$ or that $M$ is a model of $A$, or “$M \models A$”, iff for all worlds $x$, $x \in V(A)$. $A$ is said to be valid, or “$\models A$”, iff for all models $M$, $M \models A$. We say that $A$ is satisfiable in $M$ or that $M$ satisfies $A$, or “$M$ sat $A$”, iff there exists a world $x$ such that $x \in V(A)$. $A$ is said to be satisfiable, or “sat $A$”, iff there exists a model $M$ such that $M$ sat $A$. It is notably the case that,
+    step1: |-
+      现在考虑一个公式 $A$。若对所有世界 $x$ 都有 $x \in V(A)$，则称 $A$ 在 $M$ 中有效，或称 $M$ 是 $A$ 的模型，或记作“$M \models A$”。若对所有模型 $M$ 都有 $M \models A$，则称 $A$ 有效，或记作“$\models A$”。若存在世界 $x$ 使得 $x \in V(A)$，则称 $A$ 在 $M$ 中可满足，或称 $M$ 满足 $A$，或记作“$M$ sat $A$”。若存在模型 $M$ 使得 $M$ sat $A$，则称 $A$ 可满足，或记作“sat $A$”。特别地，有：
+    step2: |-
+      现在考虑一个公式 $A$。若对所有世界 $x$ 都有 $x \in V(A)$，则称 $A$ 在 $M$ 中有效，或称 $M$ 是 $A$ 的模型，或记作“$M \models A$”。若对所有模型 $M$ 都有 $M \models A$，则称 $A$ 有效，或记作“$\models A$”。若存在世界 $x$ 使得 $x \in V(A)$，则称 $A$ 在 $M$ 中可满足，或称 $M$ 满足 $A$，或记作“$M$ sat $A$”。若存在模型 $M$ 使得 $M$ sat $A$，则称 $A$ 可满足，或记作“sat $A$”。特别地，有：
+  - id: 32
+    kind: body
+    source: |-
+      sat $A$ iff not $\models \lnot A$ $\models A$ iff not sat $\lnot A$
+    step1: |-
+      sat $A$ iff not $\models \lnot A$ $\models A$ iff not sat $\lnot A$
+    step2: |-
+      sat $A$ iff not $\models \lnot A$ $\models A$ iff not sat $\lnot A$
+  - id: 33
+    kind: body
+    source: |-
+      Some remarkable formulas of PDL are valid. (The reader may try to prove them formally, or at least start convincing themselves on the few examples displayed above.)
+    step1: |-
+      PDL 中有一些值得注意的公式是有效的。（读者可尝试形式地证明它们，或至少以上面展示的几个例子开始说服自己。）
+    step2: |-
+      PDL 中有一些值得注意的公式是有效的。（读者可尝试形式地证明它们，或至少以上面展示的几个例子开始说服自己。）
+  - id: 34
+    kind: body
+    source: |-
+      $\models [\alpha ; \beta]A \leftrightarrow [\alpha][\beta]A$ $\models [\alpha \cup \beta]A \leftrightarrow [\alpha]A \land [\beta]A$ $\models [\alpha^*]A \leftrightarrow A \land [\alpha][\alpha^*]A$ $[A?]B \leftrightarrow (A \rightarrow B)$
+    step1: |-
+      $\models [\alpha ; \beta]A \leftrightarrow [\alpha][\beta]A$ $\models [\alpha \cup \beta]A \leftrightarrow [\alpha]A \land [\beta]A$ $\models [\alpha^*]A \leftrightarrow A \land [\alpha][\alpha^*]A$ $[A?]B \leftrightarrow (A \rightarrow B)$
+    step2: |-
+      $\models [\alpha ; \beta]A \leftrightarrow [\alpha][\beta]A$ $\models [\alpha \cup \beta]A \leftrightarrow [\alpha]A \land [\beta]A$ $\models [\alpha^*]A \leftrightarrow A \land [\alpha][\alpha^*]A$ $[A?]B \leftrightarrow (A \rightarrow B)$
+  - id: 35
+    kind: body
+    source: |-
+      Equivalently, we can write them under their dual form.
+    step1: |-
+      等价地，我们也可以把它们写成对偶形式。
+    step2: |-
+      等价地，我们也可以把它们写成对偶形式。
+  - id: 36
+    kind: body
+    source: |-
+      $\langle\alpha ; \beta\rangle A \leftrightarrow \langle\alpha\rangle\langle\beta\rangle A$ $\langle\alpha \cup \beta\rangle A \leftrightarrow \langle\alpha\rangle A \lor \langle\beta\rangle A$ $\langle\alpha^*\rangle A \leftrightarrow A \lor \langle\alpha\rangle \langle\alpha^*\rangle A$ $\langle A?\rangle B \leftrightarrow A \land B$
+    step1: |-
+      $\langle\alpha ; \beta\rangle A \leftrightarrow \langle\alpha\rangle\langle\beta\rangle A$ $\langle\alpha \cup \beta\rangle A \leftrightarrow \langle\alpha\rangle A \lor \langle\beta\rangle A$ $\langle\alpha^*\rangle A \leftrightarrow A \lor \langle\alpha\rangle \langle\alpha^*\rangle A$ $\langle A?\rangle B \leftrightarrow A \land B$
+    step2: |-
+      $\langle\alpha ; \beta\rangle A \leftrightarrow \langle\alpha\rangle\langle\beta\rangle A$ $\langle\alpha \cup \beta\rangle A \leftrightarrow \langle\alpha\rangle A \lor \langle\beta\rangle A$ $\langle\alpha^*\rangle A \leftrightarrow A \lor \langle\alpha\rangle \langle\alpha^*\rangle A$ $\langle A?\rangle B \leftrightarrow A \land B$
+  - id: 37
+    kind: body
+    source: |-
+      One interesting notion concerns the information, expressed with PDL formulas, that is contained in an LTS. The behavior of a system described as an LTS is indeed often slightly hidden in its form. For instance, on simple inspection, it is easy to convince oneself that the two LTSs depicted above have the same behavior, and satisfy the same PDL formulas. To finish this section on syntax and semantics we give the theoretical foundation of these claims.
+    step1: |-
+      有一个有趣的概念涉及标记转移系统所包含的、可用 PDL 公式表达的信息。以 LTS 描述的系统，其行为确实常常稍许隐藏在其形式之中。例如，只需简单查看，就很容易说服自己：上面描绘的两个 LTS 具有相同的行为，并满足相同的 PDL 公式。为结束这一节关于句法与语义的讨论，我们给出这些主张的理论基础。
+    step2: |-
+      有一个有趣的概念涉及标记转移系统所包含的、可用 PDL 公式表达的信息。以 LTS 描述的系统，其行为确实常常稍许隐藏在其形式之中。例如，只需简单查看，就很容易说服自己：上面描绘的两个 LTS 具有相同的行为，并满足相同的 PDL 公式。为结束这一节关于句法与语义的讨论，我们给出这些主张的理论基础。
+  - id: 38
+    kind: body
+    source: |-
+      Given two LTSs, one may ask whether they satisfy the same formulas. The notion of bisimulation has become the standard measure for equivalence of Kripke models and Labeled Transition Systems. A *bisimulation* between the LTSs $M = (W,R,V)$ and $M' = (W',R',V')$ is a binary relation $Z$ between their set of states such that for all worlds $x$ in $W$ and for all worlds $x'$ in $W'$, if $xZx'$ then,
+    step1: |-
+      给定两个 LTS，人们可以追问它们是否满足相同的公式。互模拟这一概念已成为克里普克模型与标记转移系统之等价性的标准量度。LTS $M = (W,R,V)$ 与 $M' = (W',R',V')$ 之间的 **互模拟** 是它们状态集之间的一个二元关系 $Z$，使得对 $W$ 中的所有世界 $x$ 与 $W'$ 中的所有世界 $x'$，若 $xZx'$，则：
+    step2: |-
+      给定两个 LTS，人们可以追问它们是否满足相同的公式。互模拟这一概念已成为克里普克模型与标记转移系统之等价性的标准量度。LTS $M = (W,R,V)$ 与 $M' = (W',R',V')$ 之间的 **互模拟** 是它们状态集之间的一个二元关系 $Z$，使得对 $W$ 中的所有世界 $x$ 与 $W'$ 中的所有世界 $x'$，若 $xZx'$，则：
+  - id: 39
+    kind: body
+    source: |-
+      - for all atomic formulas $p\in \Phi_0$, we have $x\in V(p)$ iff $x' \in V'(p)$,
+      - for all atomic programs $\pi \in \Pi_0$ and for all worlds $y \in W$, we have that if $x R(\pi)y$ then there exists a world $y' \in W'$ such that $yZy'$ and $x' R'(\pi)y'$,
+      - for all atomic programs $\pi \in \Pi_0$ and for all worlds $y' \in W'$, we have that if $x' R'(\pi)y'$ then there exists a world $y \in W$ such that $yZy'$ and $x R(\pi)y$.
+    step1: |-
+      - 对所有原子公式 $p\in \Phi_0$，有 $x\in V(p)$ 当且仅当 $x' \in V'(p)$；
+      - 对所有原子程序 $\pi \in \Pi_0$ 与所有世界 $y \in W$，若 $x R(\pi)y$，则存在世界 $y' \in W'$，使得 $yZy'$ 且 $x' R'(\pi)y'$；
+      - 对所有原子程序 $\pi \in \Pi_0$ 与所有世界 $y' \in W'$，若 $x' R'(\pi)y'$，则存在世界 $y \in W$，使得 $yZy'$ 且 $x R(\pi)y$。
+    step2: |-
+      - 对所有原子公式 $p\in \Phi_0$，有 $x\in V(p)$ 当且仅当 $x' \in V'(p)$；
+      - 对所有原子程序 $\pi \in \Pi_0$ 与所有世界 $y \in W$，若 $x R(\pi)y$，则存在世界 $y' \in W'$，使得 $yZy'$ 且 $x' R'(\pi)y'$；
+      - 对所有原子程序 $\pi \in \Pi_0$ 与所有世界 $y' \in W'$，若 $x' R'(\pi)y'$，则存在世界 $y \in W$，使得 $yZy'$ 且 $x R(\pi)y$。
+  - id: 40
+    kind: body
+    source: |-
+      We say that two LTSs are *bisimilar* when there exists a bisimulation between them.
+    step1: |-
+      若两个 LTS 之间存在互模拟，则称它们是 **互模拟的**。
+    step2: |-
+      若两个 LTS 之间存在互模拟，则称它们是 **互模拟的**。
+  - id: 41
+    kind: body
+    source: |-
+      It is the case that in two bisimilar LTSs $M = (W,R,V)$ and $M' = (W',R',V')$, for all worlds $x$ in $W$ and for all worlds $x'$ in $W'$, if $xZx'$ then for all PDL formulas $A$, $x \in V(A)$ iff $x' \in V'(A)$. Thus when two LTSs are bisimilar under the definition of bisimulation above, it is the case that, if $xZx'$ then
+    step1: |-
+      事实是：在两个互模拟的 LTS $M = (W,R,V)$ 与 $M' = (W',R',V')$ 中，对 $W$ 中的所有世界 $x$ 与 $W'$ 中的所有世界 $x'$，若 $xZx'$，则对所有 PDL 公式 $A$，有 $x \in V(A)$ 当且仅当 $x' \in V'(A)$。因此，当两个 LTS 按上述互模拟定义互模拟时，若 $xZx'$，则：
+    step2: |-
+      事实是：在两个互模拟的 LTS $M = (W,R,V)$ 与 $M' = (W',R',V')$ 中，对 $W$ 中的所有世界 $x$ 与 $W'$ 中的所有世界 $x'$，若 $xZx'$，则对所有 PDL 公式 $A$，有 $x \in V(A)$ 当且仅当 $x' \in V'(A)$。因此，当两个 LTS 按上述互模拟定义互模拟时，若 $xZx'$，则：
+  - id: 42
+    kind: body
+    source: |-
+      - for all programs *α* and for all worlds $y \in W$, we have that if $x R(\alpha)y$ then there exists a world $y' \in W'$ such that $yZy'$ and $x' R'(\alpha)y'$,
+      - for all programs *α* and for all worlds $y' \in W'$, we have that if $x' R'(\alpha)y'$ then there exists a world $y \in W$ such that $yZy'$ and $x R(\alpha)y$.
+    step1: |-
+      - 对所有程序 *α* 与所有世界 $y \in W$，若 $x R(\alpha)y$，则存在世界 $y' \in W'$，使得 $yZy'$ 且 $x' R'(\alpha)y'$；
+      - 对所有程序 *α* 与所有世界 $y' \in W'$，若 $x' R'(\alpha)y'$，则存在世界 $y \in W$，使得 $yZy'$ 且 $x R(\alpha)y$。
+    step2: |-
+      - 对所有程序 *α* 与所有世界 $y \in W$，若 $x R(\alpha)y$，则存在世界 $y' \in W'$，使得 $yZy'$ 且 $x' R'(\alpha)y'$；
+      - 对所有程序 *α* 与所有世界 $y' \in W'$，若 $x' R'(\alpha)y'$，则存在世界 $y \in W$，使得 $yZy'$ 且 $x R(\alpha)y$。
+  - id: 43
+    kind: body
+    source: |-
+      Hence one can simply compare the behaviors of two LTSs by inspecting solely the atomic programs and safely extrapolate on the comparative behavior of these LTSs even for complex programs. We say that the program constructs of PDL are *safe for bisimulation*. See Van Benthem [1998] for precise characterizations of program constructs that are safe for bisimulation.
+    step1: |-
+      因此，人们只需考察原子程序，就能比较两个 LTS 的行为，并可靠地推断这些 LTS 即便在复合程序上的比较行为。我们称 PDL 的程序构造 **对互模拟安全**。关于对互模拟安全的程序构造的精确刻画，见 Van Benthem [1998]。
+    step2: |-
+      因此，人们只需考察原子程序，就能比较两个 LTS 的行为，并可靠地推断这些 LTS 即便在复合程序上的比较行为。我们称 PDL 的程序构造 **对互模拟安全**。关于对互模拟安全的程序构造的精确刻画，见 Van Benthem [1998]。
+  - id: 44
+    kind: body
+    source: |-
+      It is readily seen that the two instances of LTSs above are bisimilar. A bisimulation $Z$ between the two models $M$ and $M'$ depicted in the figures above can be given as: $Z = \{(x_1,y_1), (x_1,y_2), (x_2, y_3), (x_2, y_4)\}$. The states $x_1$ and $y_1$ satisfy exactly the same PDL formulas. So do the states $x_1$ and $y_2$, etc.
+    step1: |-
+      容易看出，上面两个 LTS 实例是互模拟的。上面两张图所示的模型 $M$ 与 $M'$ 之间的一个互模拟 $Z$ 可给出为：$Z = \{(x_1,y_1), (x_1,y_2), (x_2, y_3), (x_2, y_4)\}$。状态 $x_1$ 与 $y_1$ 满足完全相同的 PDL 公式。状态 $x_1$ 与 $y_2$ 也是如此，依此类推。
+    step2: |-
+      容易看出，上面两个 LTS 实例是互模拟的。上面两张图所示的模型 $M$ 与 $M'$ 之间的一个互模拟 $Z$ 可给出为：$Z = \{(x_1,y_1), (x_1,y_2), (x_2, y_3), (x_2, y_4)\}$。状态 $x_1$ 与 $y_1$ 满足完全相同的 PDL 公式。状态 $x_1$ 与 $y_2$ 也是如此，依此类推。
