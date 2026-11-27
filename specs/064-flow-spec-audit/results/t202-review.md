@@ -5,7 +5,7 @@
 - 本仓起始 commit：`df3dce234b2fed79903eb304939ab7cda4674ab8`
 - 壳仓起始 commit：`571b16267a0d99bcfacf4138fa1b2facbb1de885`（本地 `docs/` 为目录联接，壳仓 `git status` 显示 `M docs` 属预期）
 - 起始工作区：除本卡文档外干净；`check_all.py` 23/23 全绿（2026-11-27）。
-- 待迁清单：`en/` 1875 个一级目录（HTML 源）、`yuanwen/` 28 个一级目录（Markdown 镜像＋`assets`）、根级 31 个目录（27 字母／数字＋4 中文目录）、`SUMMARY.md` 2787 行。
+- 待迁清单：`en/` 1875 个一级目录（HTML 源，现 `html/`）、`yuanwen/` 28 个一级目录（Markdown 镜像＋`assets`，现 `en/`）、根级 31 个目录（27 字母／数字＋4 中文目录）、`SUMMARY.md` 2787 行。
 - 回退方式：
   1. 单步：`git restore --staged --worktree .`（未提交时）或 `git checkout -- <path>`；
   2. 整体：`git reset --hard df3dce234b2fed79903eb304939ab7cda4674ab8`，再 `git clean -fd` 清除未跟踪文件；

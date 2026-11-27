@@ -83,7 +83,7 @@ def zh_path(slug):
 
 
 def en_path(slug):
-    p = os.path.join(ax.ROOT, "yuanwen", slug[0], slug + ".md")
+    p = os.path.join(ax.ROOT, "en", slug[0], slug + ".md")
     return p if os.path.exists(p) else None
 
 

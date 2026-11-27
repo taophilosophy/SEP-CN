@@ -6,7 +6,7 @@
       字节码缓存、构建产物（node_modules、.vitepress/cache|dist、.astro、.turbo、dist、coverage）、
       系统与编辑器杂物（.DS_Store、Thumbs.db、desktop.ini、*~、*.swp、*.tmp、*.bak、*.log）
       一律不得入库。可入库的事实源：baseline/、.github/sep-baseline/、PROGRESS.md（生成但受控）、
-      en/ 与 yuanwen/（原始物与转换镜像，ADR-0027 起入库）。
+      en/ 与 html/（转换镜像与原始物，ADR-0027 起入库）。
 规则二（根目录白名单，ADR-0023/0067）: 根目录只允许 `rules/layout.json` 登记的条目（工具链配置、顶层叙事文档、
       A–Z 词条目录、结构目录、包管理文件）。白名单由该 JSON 生成，本文件不持副本。
       跟踪清单与工作区（含被忽略物）双向核对——

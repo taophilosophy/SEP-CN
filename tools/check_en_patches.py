@@ -12,7 +12,7 @@ C2 准入谓词（唯一实现在 tools/en_patch_lib.py）：一条 find→repla
 当且仅当下列至少其一成立
   (a) 空白差：去掉全部空白后 find ≡ replace（例 `Einstein1949b`→`Einstein 1949b`）
   (b) 标记差：剥除标签与注释后 find ≡ replace（例 补 `</div>`、`-->`）
-二者皆不成立 ⇒ 改动落在字母数字或词序 ⇒ 文字层，禁入池、禁改 yuanwen。
+二者皆不成立 ⇒ 改动落在字母数字或词序 ⇒ 文字层，禁入池、禁改 html。
 `--strict` 时谓词不符即退出码 1；默认只报不拦（存量池体检用）。
 
 独立校验：默认对每条补丁跑 `git apply --check`（只读预演，不写 en/），
@@ -80,7 +80,7 @@ def probe_key(find, replace):
 
 def public_hits(keys, en_root=None):
     """跨件公共性：{key: {slug,...}}，只统计含该 key 的 en/<slug>/index.html。"""
-    root = en_root or repo_path('yuanwen')
+    root = en_root or repo_path('html')
     out = {k: set() for k in keys if k}
     if not out:
         return out

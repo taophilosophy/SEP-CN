@@ -244,12 +244,12 @@ def main(argv=None):
     args = ap.parse_args(argv)
 
     if args.latest and not args.fetched:
-        snaps = sorted(n for n in os.listdir(repo_path("yuanwen", "_catalog"))
+        snaps = sorted(n for n in os.listdir(repo_path("html", "_catalog"))
                        if n.endswith("-contents.html"))
         if not snaps:
-            print(json.dumps({"error": "yuanwen/_catalog 无快照"}, ensure_ascii=False))
+            print(json.dumps({"error": "html/_catalog 无快照"}, ensure_ascii=False))
             return 2
-        fetched = repo_path("yuanwen", "_catalog", snaps[-1])
+        fetched = repo_path("html", "_catalog", snaps[-1])
     elif args.fetched:
         fetched = args.fetched if os.path.isabs(args.fetched) else repo_path(args.fetched)
     else:

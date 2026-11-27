@@ -2,7 +2,7 @@
 """存量文件名迁移执行器：拼音 → SEP slug（FR-021，用户 2026-10-27 全量批准）。
 
 【已废弃 2026-10-27】ADR-0007/0008 重建后，旧拼音目录已删除、全部条目为
-根级 <slug>.md / yuanwen/<slug>.md 单文件（tools/rebuild_dir.py 完成）；
+根级 <slug>.md / en/<slug>.md 单文件（tools/rebuild_dir.py 完成）；
 本脚本针对的 letter/pinyin 布局已不存在，仅留档，勿再执行。
 
 阶段：

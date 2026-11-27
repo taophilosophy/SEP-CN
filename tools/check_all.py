@@ -53,7 +53,7 @@ GATES = [
     ("哲学学术规范", "academic", "tools/check_academic.py"),
     ("公式体例总检", "mathzh", "tools/check_math_zh.py --strict"),
     ("原始物分歧账", "divergence", "tools/divergence.py verify"),
-    ("转换保真（yuanwen≡基线）", "fidelity", "tools/check_yuanwen_fidelity.py --gate"),
+    ("转换保真（en≡html 基线）", "fidelity", "tools/check_yuanwen_fidelity.py --gate"),
     ("英文镜像完整性（引用闭包/游离件/补丁命中）", "en-integrity", "tools/en_integrity.py --all --out state/en-integrity-full.json"),
     ("补丁池合法性（命中/准入/INDEX/公共性）", "en-patches", "tools/check_en_patches.py --strict"),
     ("中文体例归一（s2.4 三轴结构面）", "style", "tools/check_pairs.py --gate --all"),

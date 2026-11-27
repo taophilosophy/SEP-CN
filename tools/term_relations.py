@@ -74,7 +74,7 @@ def nonstub_docs():
 
 def load_en(doc):
     slug = os.path.basename(doc)[:-3]
-    en_path = os.path.join(ROOT, 'yuanwen', doc.split('/')[0], slug + '.md')
+    en_path = os.path.join(ROOT, 'en', doc.split('/')[0], slug + '.md')
     if not os.path.exists(en_path):
         return ''
     text = open(en_path, encoding='utf-8', errors='replace').read()

@@ -14,7 +14,7 @@ Usage: python tools/compose_from_ledger.py <slug> [--write]
 
 Reads ledger segments in id order, joins step2 with blank lines into the body.
 Prepends H1 (from SUMMARY.md entry line) + version line (from baseline/entries.json pubinfo).
-Then copies the tail sections from yuanwen/h/<slug>.md that come AFTER the last ledger
+Then copies the tail sections from en/h/<slug>.md that come AFTER the last ledger
 segment's source (footnotes, references, tools, other resources, related entries, acknowledgments),
 translating Chinese-literature references per ADR-0011 (best-effort: leaves them, flagged for human).
 

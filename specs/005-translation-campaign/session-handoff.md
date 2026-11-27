@@ -60,7 +60,7 @@ python tools/campaign.py claim <批次> --session <你的会话名>
 | 线 | 范围 | 目录 | 交接要点 |
 | --- | --- | --- | --- |
 | 人名表 | 籍属/生卒补捞、译法归一、撞形处置 | `specs/013-person-attribution/` | 缺项已判终态者按 `check_terms` 终态口径，不反复回填 |
-| EN 模板审计 | B3.1/B3.2 残差收敛期（第 51 批，2026-11-26；残差 81 件待分族） | `specs/053-en-template-audit/` | `yuanwen/` 绝对冻结（ADR-0062），改动只走补丁池与勘误表；入口 `execution-log/2026-11-26.md` |
+| EN 模板审计 | B3.1/B3.2 残差收敛期（第 51 批，2026-11-26；残差 81 件待分族） | `specs/053-en-template-audit/` | `html/` 绝对冻结（ADR-0062），改动只走补丁池与勘误表；入口 `execution-log/2026-11-26.md` |
 | 术语 | 全库二次提取、审定库配对、候选池裁定 | `specs/058-term-full-reextraction/`、`tasks/term-pool.json` | 池是库存不是欠账，按词条取用 |
 | 流程审计 | 流程规格逐件核对与排程 | `specs/064-flow-spec-audit/` | rev17 排程见 `results/schedule.md`，全部未启动；G0 为翻译开工闸（§0） |
 

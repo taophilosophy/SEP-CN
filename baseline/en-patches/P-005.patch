@@ -2,14 +2,14 @@
 # 行锚定：find/replace 取整行并带上下文；命中计数必须等于 expect，失配即该件转换硬失败。
 # id: P-005
 # slug: augustine
-# file: yuanwen/augustine/index.html
+# file: html/augustine/index.html
 # expect: 1
 # category: 格式层（结构错位）
 # origin: upstream-typo
 # source: en-errata.md §十二 格式层
 # created: 2026-11-26
---- a/yuanwen/augustine/index.html
-+++ b/yuanwen/augustine/index.html
+--- a/html/augustine/index.html
++++ b/html/augustine/index.html
 @@ -2791,3 +2791,3 @@
  
 -<h4>Spanish</h4> </li>

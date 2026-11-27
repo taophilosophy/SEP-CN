@@ -6,7 +6,7 @@
 | ---- | ---- |
 | `fetch.py` / `fetch_catalog.py` / `fetch_entry.py` | SEP 抓取（正文、目录、词条包；退避重试与失败显式化；2026-11-18 起无最小请求间隔，ADR-0069）。`fetch_catalog.py --snapshot-only`＝只落 `en/_catalog` 快照不写账（CI 巡检用）；`--reparse`／`--reparse-snap`＝离线重解析建账 |
 | `fetch_all.py` | 全量抓取+原文镜像驱动器（并发路数 A=16 / B=64（默认），不设节拍；`--resume` 断点续跑；逐条留痕 `script/fetch-all-log.jsonl`） |
-| `extract_text.py` / `parser.py` / `yuanwen.py` | 原始 HTML → 提取文本（`en/`、`yuanwen/`，ADR-0027 起入库，随抓取批提交）；数学保真（2026-10-27 裁定）：跨块公式保护、公式内部原样保留，仅定界符统一 `$`/`$$`、空白折叠、表格内竖线一律以 `&#124;` 保义 |
+| `extract_text.py` / `parser.py` / `yuanwen.py` | 原始 HTML → 提取文本（`en/`、`html/`，ADR-0027 起入库，随抓取批提交）；数学保真（2026-10-27 裁定）：跨块公式保护、公式内部原样保留，仅定界符统一 `$`/`$$`、空白折叠、表格内竖线一律以 `&#124;` 保义 |
 | `baseline_audit.py` | 基线清单审计（哈希、版本钉一致性）；双账感知（ADR-0046）：已登记分歧且账目相符者计入 `divergent_registered` 不作 `hash_fail` |
 | `divergence.py` | 原始物分歧账门禁（ADR-0045）：`verify` 三账一致（台账原始钉 ↔ 现文件 ↔ 登记；未登记的静默改 `en/` 即退出码 1，CI 经 check_all 覆盖）；`--deep` 加核 `base_commit` 的 git blob（本地，需完整历史）；`register`/`carry`（三方合并逆向补丁随迁，冲突退出码 3 转人工，`--merged` 复跑，随迁即归档新上游快照并前移钉）/`unregister`/`patch`/`list` |
 | `drift_scan.py` | 全量回源 sha 核对（ADR-0045 跟进项，一次性豁免令 2026-11-15）：1872 词条 live index.html 对原始钉只读审计；64路×10s 已验证并发配置，逐请求留痕、429/5xx 退避不变；报告落盘 specs/001 results/drift-scan-<ts>.json；不进 CI（批量任务按需跑） |
@@ -22,11 +22,11 @@
 | `punct_audit.py` | rv-08 标点（ADR-0079）：GB/T 15834 十七种标点机检子集（条款映射 `tools/data/punct-rules.json`）；`--init` 写 `state/axis/<slug>.punct.json` |
 | `qchain.py` | 六轴编排器（ADR-0079）：依次跑 rv-03–rv-08 出工单 `state/axis/qchain-latest.json`；只编排不裁判 |
 | `check_render_artifacts.py` | 渲染产物残留物扫描（ADR-0019）：对构建产物 HTML 做文本级检查——裸 `**`（星内空格粗体永不渲染）、字面 `[^`（脚注配对失效）、`](`链接残留、数学哨兵 `@@M`；代码块/预排块内字面量豁免。分期转硬门禁（`raw[^` 待镜像脚注修复后纳入） |
-| `check_images.py` | 图片引用检查（rules/01 图片三条硬性要求）：悬空引用、大小写不符（Windows 不敏感/CI 404）、外部地址、`assets/` 未引用资产；`/...` 站点绝对路径单列**告警**（非本仓相对引用，多来自抄录的上游 HTML，不入硬门）；跳过代码块与行内代码，`yuanwen/` 缺位（CI）时跳过镜像引用；报告写 `state/image-report.md`（本地）或 `image-report.md`（CI 开 issue 用），无问题即清除旧报告，默认退出码 0；`--gate` 时悬空/大小写/外链任一 >0 退出 1（check_all 与 CI 门禁用） |
+| `check_images.py` | 图片引用检查（rules/01 图片三条硬性要求）：悬空引用、大小写不符（Windows 不敏感/CI 404）、外部地址、`assets/` 未引用资产；`/...` 站点绝对路径单列**告警**（非本仓相对引用，多来自抄录的上游 HTML，不入硬门）；跳过代码块与行内代码，`html/` 缺位（CI）时跳过镜像引用；报告写 `state/image-report.md`（本地）或 `image-report.md`（CI 开 issue 用），无问题即清除旧报告，默认退出码 0；`--gate` 时悬空/大小写/外链任一 >0 退出 1（check_all 与 CI 门禁用） |
 | `check_summary.py` | SUMMARY.md 结构审计（条目解析、缺失文件、孤儿文件、命名、重复）＋ H1 一致性硬门禁（SUMMARY 条目文字 ↔ 文件 H1，ADR-0024）＋ 别名行英文完整标题硬门禁（`alias fragment`，ADR-0024）；硬错误退出码 1；`--headers` 只查标题（CI 用），`--sync-headers` 按 SUMMARY 同步 H1（本地用，写回后跑残差门） |
 | `check_mulu_s.py` | 分类目录 ↔ SUMMARY 对应性检测（坏链、覆盖缺口、标题不一致、重复收录、空节——2026-11-22 增：整子树无条目的标题为硬错误，specs/055 空壳骨架教训）；坏链/路径错/标题不一致/空节为硬错误，退出码 1 |
 | `rebuild_catalog.py` / `check_catalog_network.py` | 目录域装配器＋四向重放门（specs/054）：`--build` 产骨架账＋噪声池（A5 四类准入，建池冻结）；重放＝账⊕规则⊕池，`--check` sha256 对钉存快照（B3.2 全等）；`--gate`＝G1 装配等值（两时点）/G2 en-SUMMARY 重放/G3 mu-lu 重放（＋文字跟随）/G4 目录↔SUMMARY 对账；禁写回 `en/_catalog/`（oracle 只读） |
-| `check_junk.py` | 垃圾/产物入库门禁（ADR-0003 + ADR-0023 + ADR-0027）：缓存、构建产物、系统杂物命中即退出码 1（`en/`、`yuanwen/` 已入库，不再判违规）；根目录白名单对跟踪清单与工作区双向核对，根级散件无论是否入库一律红灯 |
+| `check_junk.py` | 垃圾/产物入库门禁（ADR-0003 + ADR-0023 + ADR-0027）：缓存、构建产物、系统杂物命中即退出码 1（`en/`、`html/` 已入库，不再判违规）；根目录白名单对跟踪清单与工作区双向核对，根级散件无论是否入库一律红灯 |
 | `catalog_drift.py` | 上游目录四方漂移巡检（specs/054 运营化，`catalog-drift.yml` 调用）：上游 contents.html ↔ catalog 账／SUMMARY／mu-lu-s，报增删、改名、作者变、别名变与两向覆盖缺口；`--assembly` 加做 B3.2 装配核验（残差超 A5 四类即格式层漂移）；`--latest` 取最新快照；只报告，退出码 1＝有漂移 |
 | `detect_updates.py` | 上游变更检测（specs/001 T020-21 契约）：`new.html` 的 NEW/REVISED（默认 90 天窗；`sep.xml` 已失效记 `feed=unavailable`）＋ `archinfo.cgi` 版次核对 → 队列（new→retranslate／revised→update）；`--verify-web` 抓 index.html 核内容钉剔除假阳性（列表标改、实际与钉一致）；`synced_skipped`（`fetched_at` ≥ 事件日）与 `verified_same` 两栏解释被剔原因；`--no-write` 仅抑制默认 `baseline/queue.json` |
 | `check_tables_images.py` | 表格与图片预检（ADR-0037，**告警级**，不进 CI）：表块结构（缺分隔行、列数不一致）、单元格全角空格与多空格填充、表内未译英文散文候选、学术工具节表形态、图片 alt 非中文、引用基座违规与解析失败；`--yuanwen` 扫镜像结构项、`--corpus` 出并集清单；默认退出码 0，`--gate` 时基座违规/解析失败升硬（图片项与 `check_images.py --gate` 重叠处以后者入闸为准） |
@@ -51,7 +51,7 @@
 | `check_layout.py` | 目录布局一致性门禁（ADR-0067）：`rules/layout.json` 为唯一事实源，L1 根⊆声明／L2 `rules/01` 表≡源（双向）／L3 容器有索引或写明理由的 `index_exempt`／L4 specs 容器 schema（必需 `spec.md`、禁 `tmp/`、规格根禁 JSON、`execution-log` 两形态不并存）；只读，`--json` 出机读 |
 | `spec_index.py` | 生成 `specs/README.md` 索引（ADR-0067，生成物不手改）；`--check` 只校验一致性（CI 可用） |
 | `indep_review.py` | 形态横向清账扫描器（ADR-0047，rv-09 前置独立步骤，**告警级**，不进 CI）：六类判据 `bib-heading-form`（参考文献节名正典，W7）、`pubinfo-form`（出版信息行形态＋与 en 源有无一致，W8）、`bib-subsection`（文献分类子标题丢失）、`style`（check_style 全则，O1）、`quote-adjacent`（引号↔西文邻接，O2，脚注键/链接/转写撇号已遮蔽）、`pairs`（ADR-0046 七则）；默认只扫已译集合，`--letter` 分字头、`--class` 单类、`--all-files` 含存根、`--classes` 列判据 |
-| `clean.py` | 本地垃圾清理器：默认／`--check` 只读列出目标（有垃圾退 0）；`--check --strict` 仅在保护件缺失或目标越界时退 1；`--go` 删除未跟踪缓存与临时文件（不触碰跟踪文件，跳过 .git/node_modules/en/yuanwen/baseline/script 等保护目录）；已入 `check_all` 的 clean 门禁 |
+| `clean.py` | 本地垃圾清理器：默认／`--check` 只读列出目标（有垃圾退 0）；`--check --strict` 仅在保护件缺失或目标越界时退 1；`--go` 删除未跟踪缓存与临时文件（不触碰跟踪文件，跳过 .git/node_modules/en/html/baseline/script 等保护目录）；已入 `check_all` 的 clean 门禁 |
 | `progress.py` | 生成 `PROGRESS.md` 进度汇总（自动生成，不手改）；含二维账与“账实不符”行（引用 `check_taskfile_invariant`） |
 | `check_taskfile_invariant.py` | 任务账本↔译文一致性（specs/051，2026-11-19 起**严格档入 CI**）：I1 `cleared` ⟹ 译文仅 H1；I2 有正文 ⟹ journal 至少一个 `pass`；另列 `zh-doc-missing`／`maintenance-doc-missing` |
 | `mandatory_backfill.py` | 强制集回补（specs/052/ADR-0075）：按现行判据重算 ex-04/rv-01/rv-02，记 pass/fail；状态不迁移，fail 即停 |
@@ -62,7 +62,7 @@
 | `term_coverage.py` / `term_relations.py` | 术语落地全覆盖核验与三表关系审计（specs/008 常态流程；只报告不修改，告警走 rules/03 三出口） |
 | `term_flow.py` | 术语落册统一流水线（rowspec 驱动幂等落册，specs/008） |
 | `registry_azsort.py` | 登记册 A–Z 分节重排（行序守恒门＋幂等，specs/033 消费方） |
-| `gen_en_summary.py` | 生成 GitBook 英文空间 TOC `yuanwen/SUMMARY-en.md`（ADR-0056，生成物不手改）；`--check` 只校验（已并入 `check_catalog_network.py` 的 G2 门） |
+| `gen_en_summary.py` | 生成 GitBook 英文空间 TOC `en/SUMMARY-en.md`（ADR-0056，生成物不手改）；`--check` 只校验（已并入 `check_catalog_network.py` 的 G2 门） |
 | `en_patch_lib.py` | 补丁池唯一解析实现（目录正本三律＋C2 准入谓词＋`origin` 出处二分类，ADR-0062/0063/0085；消费方＝yuanwen.py/check_en_patches.py） |
 | `common.py` | 管线共享库（UTF-8 读写＋写后读回核验、SHA-256、SUMMARY 三级 zh_doc 匹配；非 CLI） |
 | `compose_from_ledger.py` | 【已废弃留档】旧布局（tasks/h/）账本拼装器（specs/040 F-25） |

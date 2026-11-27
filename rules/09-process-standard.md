@@ -19,14 +19,14 @@
 
 | 阶段 | 角色 | 输入信息项 | 验证门禁 | 输出信息项 |
 | ---- | ---- | ---- | ---- | ---- |
-| P0 入库 intake | 管线会话 | catalog 漂移报告、baseline 登记 | fetch_audit 闭包、check_summary | baseline、yuanwen/、en/、骨架任务 |
-| P0.5 源审计 ex-04 | 校者/管线会话 | yuanwen/ 包、en/、分歧账与 errata 册 | en_integrity＋en_source_audit 硬错误拦（ADR-0052） | HTML 本体核查记录、镜像轴保真记录、勘误/登记处置 |
+| P0 入库 intake | 管线会话 | catalog 漂移报告、baseline 登记 | fetch_audit 闭包、check_summary | baseline、html/、en/、骨架任务 |
+| P0.5 源审计 ex-04 | 校者/管线会话 | html/ 包、en/、分歧账与 errata 册 | en_integrity＋en_source_audit 硬错误拦（ADR-0052） | HTML 本体核查记录、镜像轴保真记录、勘误/登记处置 |
 | P1 初译 tr-02 | 译者 | 英文源、登记册摘录、账本模板 | 守恒校验（残余≠0 禁写回） | 译文、ledger（step1/step2）、任务 steps |
 | P2 一校 tr-03 | 译者/校者 | 英文源、账本 step1 | 残留外文碎片 0 | 对照记录（锚点/diff） |
 | P3 二校 tr-04 | 译者/校者 | 译文、反欧化条款 | check_prose 告警清零或豁免留痕 | 修改 diff、语体结论 |
 | P4 术语校 rv-01 | 译者/校者 | 两登记册 | check_terms --docs 硬错误拦 | 登记册对照核验记录（ADR-0043） |
-| P5 审计 rv-02 | 校者（宜非译者） | yuanwen/、en/、译文 | check_math_zh 默认档＋check_style（O1）＋独立性机检 | 三向比对记录、密度统计、增项处置 |
-| P5.5 形态清账（rv-09 前置独立步骤） | 校者/管线会话 | 已译集合、yuanwen/ 正典形态 | `indep_review.py --scan` 该字头该类残余 0 或全登记豁免（告警级，不进 CI） | scan JSON、裁定表、manifest（ADR-0047） |
+| P5 审计 rv-02 | 校者（宜非译者） | html/、en/、译文 | check_math_zh 默认档＋check_style（O1）＋独立性机检 | 三向比对记录、密度统计、增项处置 |
+| P5.5 形态清账（rv-09 前置独立步骤） | 校者/管线会话 | 已译集合、html/ 正典形态 | `indep_review.py --scan` 该字头该类残余 0 或全登记豁免（告警级，不进 CI） | scan JSON、裁定表、manifest（ADR-0047） |
 | P6 三校 rv-09 | 译者/校者 | 译文、ADR-0041 规范清单 | check_academic --strict＋check_math_zh --strict＋check_style 0 issue＋markdownlint | 体例处置记录、规范基线筛查结论 |
 | P7 三审 sg-01–sg-03 | 评审线 | 前六阶段全部输出 | check_academic --strict、CI、独立性机检、sg-03 须用户指定终审会话（ADR-0054） | 自审/复核/验收签字、问题单 |
 | P8 收尾 done | 评审线/治理线 | sg-03 凭证 | CI 全绿 | 归档任务、PROGRESS |

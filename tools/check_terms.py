@@ -34,7 +34,7 @@
     目录（ADR-0009 目录命名）；「语料回收（…）」「首现（…）」「—」等非 slug 标注不判。
     清单落 specs/013 results/person-dangling-first.txt。
   - 术语首现悬空 = 告警（2026-11-26，同口径）：术语登记册「首现」列的裸 slug、
-    `<letter>/<slug>`、`<slug>.supplement`（落 yuanwen/<base>/supplement.html）与括注里的
+    `<letter>/<slug>`、`<slug>.supplement`（落 html/<base>/supplement.html）与括注里的
     ASCII 词条名逐条校验；散文标注不判。清单落 specs/058 results/term-dangling-first.txt。
 退出码: 0 无硬错误；1 有冲突或自洽违例（--docs 模式仅告警，恒 0；--check-ledger 违例 1）；
         2 参数错误（如 --ledger 未配 --docs）。
@@ -192,11 +192,11 @@ FIRST_SLUG_RE = re.compile(r'^(?=.*[a-z])[A-Za-z0-9][A-Za-z0-9_.-]*$')
 def person_dangling_first(rows2):
     """人名表「首现」列的词条引用是否落地；同时报非规范的路径形（告警）。
 
-    首现列允许三类值：裸 slug（yuanwen/<slug>/ 存在）、`<letter>/<slug>` 路径形（ADR-0009
+    首现列允许三类值：裸 slug（html/<slug>/ 存在）、`<letter>/<slug>` 路径形（ADR-0009
     的目录形，可解但非规范，应归一为裸 slug）、散文标注（语料回收（…）、SUMMARY 定名
     （…）、—）；以「；」分段逐段判。返回 (悬空, 非规范形)，元素为
     (term, 列值, 行号, 归一后的 slug)。判据与 ADR-0009 的目录命名同源：只认 ASCII 词条名。"""
-    en_dir = os.path.join(ROOT, 'yuanwen')
+    en_dir = os.path.join(ROOT, 'html')
     bad, informal = [], []
     for (term, _orig, _trans, _nation, _years, fs, _basis, _date, lineno) in rows2:
         for part in re.split(r'[；;]', fs or ''):
@@ -240,11 +240,11 @@ def _first_targets(fs):
 
 
 def _first_exists(ref):
-    """`X.supplement` 落在 yuanwen/X/supplement.html；其余按 yuanwen/<slug>/ 目录判。"""
+    """`X.supplement` 落在 html/X/supplement.html；其余按 html/<slug>/ 目录判。"""
     m = re.match(r'^(.+)\.supplement$', ref)
     if m:
-        return os.path.exists(os.path.join(ROOT, 'yuanwen', m.group(1), 'supplement.html'))
-    return os.path.isdir(os.path.join(ROOT, 'yuanwen', ref))
+        return os.path.exists(os.path.join(ROOT, 'html', m.group(1), 'supplement.html'))
+    return os.path.isdir(os.path.join(ROOT, 'html', ref))
 
 
 def term_dangling_first(rows):

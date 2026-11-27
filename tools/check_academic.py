@@ -63,7 +63,7 @@ EN_TITLE_RE = re.compile(r"(?:“[A-Z][^”]{10,}”|\*[A-Z][^*]{10,}\*)")
 
 EXCLUDE_DIRS = {
     '.git', '.github', '.vitepress', '.specify', '.zcode', 'node_modules',
-    'en', 'yuanwen', 'pending', 'public', 'script', 'tools', 'rules', 'specs',
+    'en', 'html', 'pending', 'public', 'script', 'tools', 'rules', 'specs',
     'tasks', 'baseline', 'state', 'assets',
     'qian-yan', 'fang-fa-lun', 'jian-yi-shu', 'guan-yu',
 }
@@ -482,7 +482,7 @@ def check_one_doc(fp, root, by_zh_doc, records, hard, warns, stats, task_states=
     # 补充材料豁免（specs/007 审阅实证）：`<slug>.<x>.md` 形态的补充文件按模板
     # 不设独立参考文献/学术工具节（主词条承载），亦无独立 baseline 记录
     stem = os.path.basename(rel)[:-3] if rel.endswith('.md') else ''
-    is_supp = '.' in stem and not rel.startswith(('en/', 'yuanwen/'))
+    is_supp = '.' in stem and not rel.startswith(('en/', 'html/'))
     rec = resolve_record(rel, by_zh_doc, records, warns)
     pubinfo = check_doc(rel, ne, warns, is_supp=is_supp, defer_tail=in_flight)
     if is_supp:
@@ -495,7 +495,7 @@ def check_one_doc(fp, root, by_zh_doc, records, hard, warns, stats, task_states=
     cross_refs = set()
     en_available = False
     slug = os.path.basename(rel)[:-3] if rel.endswith('.md') else ''
-    en_dir = os.path.join(root, 'yuanwen', slug)
+    en_dir = os.path.join(root, 'html', slug)
     if slug and os.path.isdir(en_dir):
         en_available = True
         for fn in os.listdir(en_dir):

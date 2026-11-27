@@ -581,7 +581,7 @@
       "desc": "管线与治理脚本"
     },
     {
-      "path": "yuanwen",
+      "path": "html",
       "domain": "evidence",
       "role": "source",
       "naming": "slug",
@@ -594,7 +594,7 @@
       ],
       "index": null,
       "tracked": true,
-      "desc": "原始抓取 HTML（上游字节事实）",
+      "desc": "原始抓取 HTML（上游字节事实；ADR-0062 冻结）",
       "index_exempt": true
     },
     {

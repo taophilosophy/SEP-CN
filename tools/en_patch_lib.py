@@ -14,7 +14,7 @@
   上下文行（' ' 前缀）不参与应用，供 `git apply --check` 独立校验。
 
 准入谓词（C2）：去空白后 find≡replace（空白差）或剥标签后 find≡replace（标记差）；
-二者皆不成立即文字层，禁入池、禁改 yuanwen（转全局勘误表＋中文译注）。
+二者皆不成立即文字层，禁入池、禁改 html（转全局勘误表＋中文译注）。
 """
 import json
 import os

@@ -61,7 +61,7 @@ json ok
 | `batch/064-a-end` | 待打；A 三任务已完成，G0 条件满足，本文件提交后打 |
 | G0 | **条件满足**：T168／T169／T130 全部完成；b 组可并行启动 |
 | 全量门禁 | 22/22 全绿（组 A 改动后） |
-| 未改动 | `en/`、`yuanwen/`、译文、`tasks/*.json` 未改；`baseline/en-errata/` 按用户批准新增第十三节 |
+| 未改动 | `en/`、`html/`、译文、`tasks/*.json` 未改；`baseline/en-errata/` 按用户批准新增第十三节 |
 
 ## 5 残留与后续
 

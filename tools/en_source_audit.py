@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""yuanwen/<slug>/index.html 本体格式与内容审计（ADR-0052 s0_source_checked 前置环节）。
+"""html/<slug>/index.html 本体格式与内容审计（ADR-0052 s0_source_checked 前置环节）。
 
 零信任前置的 HTML-first 核查：翻译动笔之前先确认源 HTML 本身格式与内容无恙。
 与 en_integrity.py（包完整性/引用闭包）互补，本工具查内容与结构正确性：
@@ -63,9 +63,9 @@ CACHE_PATH = None  # 惰性初始化：state/link_cache.json
 
 
 def _load_html(slug):
-    p = repo_path("yuanwen", slug, "index.html")
+    p = repo_path("html", slug, "index.html")
     if not os.path.exists(p):
-        raise FileNotFoundError("yuanwen/%s/index.html 不存在（先 fetch_entry）" % slug)
+        raise FileNotFoundError("html/%s/index.html 不存在（先 fetch_entry）" % slug)
     with open(p, encoding="utf-8", errors="replace") as f:
         return f.read()
 
@@ -200,7 +200,7 @@ def _check_links(raw, slug, ids, out, catalog):
         if scope == "entry":
             slug2, sub = _entry_target(target or "")
             if sub:
-                if not os.path.exists(repo_path("yuanwen", slug, sub)):
+                if not os.path.exists(repo_path("html", slug, sub)):
                     out["hard"].append({"class": "asset_missing",
                                         "msg": "包内链接目标缺失: %s" % href})
                 continue
@@ -275,7 +275,7 @@ def _check_images(raw, slug, out):
             continue
         scope, target, _ = _classify(m.group(1), slug)
         if scope == "entry" and target and "/" not in target.rstrip("/"):
-            if not os.path.exists(repo_path("yuanwen", slug, target)):
+            if not os.path.exists(repo_path("html", slug, target)):
                 out["hard"].append({"class": "asset_missing",
                                     "msg": "图片不在包内: %s" % m.group(1)})
         if "alt=" not in tag_s:
@@ -398,7 +398,7 @@ def main(argv=None):
     ap.add_argument("--net-refresh", action="store_true", help="忽略缓存重检")
     args = ap.parse_args(argv if argv is not None else sys.argv[1:])
     if args.all:
-        endir = repo_path("yuanwen")
+        endir = repo_path("html")
         slugs = sorted(d for d in os.listdir(endir)
                        if os.path.exists(os.path.join(endir, d, "index.html")))
     elif args.slugs:

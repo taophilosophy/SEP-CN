@@ -248,14 +248,14 @@ def g1():
             (None, None, None, None, "latest"),
             (OLD_SNAP, _split_slashes(OLD_ACCOUNT), _split_slashes(OLD_SKEL),
              _split_slashes(OLD_RESID), "20261027")):
-        snaps = sorted(n for n in os.listdir(repo_path("yuanwen", "_catalog"))
+        snaps = sorted(n for n in os.listdir(repo_path("html", "_catalog"))
                        if n.endswith("-contents.html"))
         snap_name = snap or snaps[-1]
         if snap and snap not in snaps:
             res.append({"tag": tag, "ok": False, "error": "快照不存在: %s" % snap})
             ok = False
             continue
-        entry = R.compute(repo_path("yuanwen", "_catalog", snap_name), acc, skel, resid)
+        entry = R.compute(repo_path("html", "_catalog", snap_name), acc, skel, resid)
         entry["tag"] = tag
         entry["ok"] = bool(entry.get("equal"))
         res.append(entry)

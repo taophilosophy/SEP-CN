@@ -42,7 +42,7 @@ def declared_paths(layout):
     """声明集合：entries 的 path。
 
     letter_dirs 自 2026-11-27 起位于 zh/ 下，不再展开为根级单字符目录；
-    根级只认 entries（zh、en、yuanwen 等）。
+    根级只认 entries（zh、en、html 等）。
     """
     return {e["path"].split("/")[0] for e in layout["entries"]}
 

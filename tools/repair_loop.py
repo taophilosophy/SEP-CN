@@ -24,7 +24,7 @@ from tools.common import (  # noqa: E402
     read_text, repo_path, write_json_verified, write_text_verified)
 
 SKIP_DIRS = {'.git', '.gitbook', '.github', '.vitepress', 'node_modules', 'baseline',
-             'en', 'specs', 'tasks', 'yuanwen', 'script', '__pycache__', 'public',
+             'en', 'specs', 'tasks', 'html', 'script', '__pycache__', 'public',
              'pending', 'guan-yu', 'qian-yan'}
 LINK_RE = re.compile(r'\]\(([^)]+\.md)\)')
 
@@ -32,7 +32,7 @@ LINK_RE = re.compile(r'\]\(([^)]+\.md)\)')
 def is_entry_area(rel):
     first = rel.split('/')[0]
     return first not in ('qian-yan', 'guan-yu', 'mu-lu-s.md', 'README.md') and \
-        not rel.startswith(('baseline/', 'specs/', 'tasks/', 'yuanwen/', 'en/'))
+        not rel.startswith(('baseline/', 'specs/', 'tasks/', 'html/', 'en/'))
 
 
 def census():

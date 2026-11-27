@@ -59,13 +59,13 @@ class PairsNormalization(unittest.TestCase):
         tmp = tempfile.mkdtemp()
         try:
             letter = os.path.join(tmp, "x")
-            os.makedirs(os.path.join(tmp, "yuanwen", "x"))
+            os.makedirs(os.path.join(tmp, "html", "x"))
             os.makedirs(letter)
             slug = "a-foo"
             zh_p = os.path.join(letter, slug + ".md")
             with open(zh_p, "w", encoding="utf-8") as f:
                 f.write(zh)
-            with open(os.path.join(tmp, "yuanwen", "x", slug + ".md"), "w",
+            with open(os.path.join(tmp, "html", "x", slug + ".md"), "w",
                       encoding="utf-8") as f:
                 f.write(yw)
             issues = []

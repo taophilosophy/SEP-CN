@@ -2,7 +2,7 @@
 
 - 日期：2026-11-27
 - 依据：`tasks.md` T142（工作包）、`rules/04` 状态机、`rules/05` 检查器地图、T130 口径
-- 条目：`l/logic-preference`（当前 `cleared` 存根；源文 `yuanwen/l/logic-preference.md` 约 91 KB；362 处行内公式）
+- 条目：`l/logic-preference`（当前 `cleared` 存根；源文 `en/l/logic-preference.md` 约 91 KB；362 处行内公式）
 - 原则：T142 只作容器，**不得整体勾选**；ex-04 拆成机检面、人工定性、G13 清单三个原子任务；从下一可用 T 号顺序分配（本次 T193–T195）
 
 ## 一、T142 的三个原子任务

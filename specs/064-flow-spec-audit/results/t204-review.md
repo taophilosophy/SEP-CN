@@ -7,4 +7,5 @@
 - 工具：`register_lib.term_path/person_path`、`progress.py` 输出 `zh/PROGRESS.md`、`check_mulu_s`、`check_terms`、`check_term_concepts`、`check_doc_size`、`check_junk`、`check_layout`、`summary_sync`、`check_catalog_network`（mu-lu 重放映射）全部改 zh 布局。
 - 任务：`tasks/**/*.json` 的 `zh_doc` 全部改 `zh/<letter>/<slug>.md`；登记册维护任务改 `zh/shu-yu-biao.md` 等。
 - 壳仓：`README.md` 增内容布局说明；`deploy.yml` 路径不变（`docs/README.md` 仍为首页）。
+- 后续（2026-11-27）：按用户指令把原始 HTML 目录 `yuanwen/` 再改名 `html/`，工具、baseline、补丁池、站点与文档同步；见 `html-rename-2026-11-27.md`。
 - 验收：`check_layout` L1–L4 全绿；`check_mulu_s` 坏链 0；`check_taskfile_invariant` 0 违例。

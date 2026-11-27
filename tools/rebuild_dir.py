@@ -2,7 +2,7 @@
 """上游同构重建工具（ADR-0007 立项；现役面仅 check，specs/040 F-26 澄清）。
 
 现行词条目录形态为 ADR-0009 的 <letter>/<slug>.md 单文件（中文）与
-yuanwen/<letter>/<slug>.md（英文）镜像。本工具各子命令现状：
+en/<letter>/<slug>.md（英文）镜像。本工具各子命令现状：
 
 * check        —— 现役：SUMMARY 链接解析与 yuanwen 镜像覆盖核验（0 断链 0 缺镜像，
                   2026-11-17 实测 1872 件通过；rules/06「结构改动 done」引用的就是它）；
@@ -357,8 +357,8 @@ def cmd_toletters():
             continue
         mv(fn, letter_of(stem) + "/" + fn, fn in tracked)
 
-    # 2) 英文侧 yuanwen：<slug>.md / <slug>.<x>.md → <letter>/<...>
-    yw = os.path.join(ROOT, "yuanwen")
+    # 2) 英文侧 en：<slug>.md / <slug>.<x>.md → <letter>/<...>
+    yw = os.path.join(ROOT, "en")
     for fn in sorted(os.listdir(yw)) if os.path.isdir(yw) else []:
         stem, ext = os.path.splitext(fn)
         if ext != ".md" or fn == "SUMMARY.md":
@@ -366,10 +366,10 @@ def cmd_toletters():
         base = stem.split(".", 1)[0]
         if not re.fullmatch(r"[A-Za-z0-9][A-Za-z0-9.\-]*", base):
             continue
-        mv("yuanwen/" + fn, "yuanwen/" + letter_of(base) + "/" + fn, ("yuanwen/" + fn) in tracked)
+        mv("en/" + fn, "en/" + letter_of(base) + "/" + fn, ("en/" + fn) in tracked)
 
     # 3) SUMMARY/mu-lu-s：](<slug>.md) → ](<letter>/<slug>.md)
-    for name in ("SUMMARY.md", "mu-lu-s.md"):
+    for name in ("zh/SUMMARY.md", "zh/mu-lu-s.md"):
         txt = open(os.path.join(ROOT, name), encoding="utf-8").read()
 
         def repl(m):
@@ -389,7 +389,7 @@ def cmd_toletters():
 
 
 def tracked_files():
-    st = subprocess.run(["git", "ls-files", "yuanwen/"], cwd=ROOT, capture_output=True, text=True)
+    st = subprocess.run(["git", "ls-files", "en/"], cwd=ROOT, capture_output=True, text=True)
     return set(l.strip() for l in st.stdout.splitlines() if l.strip())
 
 
@@ -414,7 +414,7 @@ def cmd_flatten():
     # 1) 中文侧：根级 <slug>/index.md → <slug>.md（jian-yi-shu 为叙事拆分目录，不动）
     for d in sorted(os.listdir(ROOT)):
         dd = os.path.join(ROOT, d)
-        if not os.path.isdir(dd) or d in ("yuanwen", "jian-yi-shu", "progress"):
+        if not os.path.isdir(dd) or d in ("en", "html", "jian-yi-shu", "progress"):
             continue
         idx = os.path.join(dd, "index.md")
         if os.path.isfile(idx) and re.fullmatch(r"[A-Za-z0-9][A-Za-z0-9.\-]*", d):
@@ -423,7 +423,7 @@ def cmd_flatten():
             os.rmdir(dd)
 
     # 2) 英文侧 yuanwen：<slug>/index.md → <slug>.md；<slug>/<x>.md → <slug>.<x>.md；图片 → assets/<slug>/
-    yw = os.path.join(ROOT, "yuanwen")
+    yw = os.path.join(ROOT, "en")
     for d in sorted(os.listdir(yw)) if os.path.isdir(yw) else []:
         dd = os.path.join(yw, d)
         if not os.path.isdir(dd) or d in ("assets",):
@@ -437,12 +437,12 @@ def cmd_flatten():
                 adir = os.path.join(yw, "assets", d)
                 os.makedirs(adir, exist_ok=True)
                 rel = "assets/" + d + "/" + fn
-            mv("yuanwen/" + d + "/" + fn, os.path.join(yw, *rel.split("/")), ("yuanwen/" + d + "/" + fn) in tracked)
+            mv("en/" + d + "/" + fn, os.path.join(yw, *rel.split("/")), ("en/" + d + "/" + fn) in tracked)
         if os.path.isdir(dd) and not os.listdir(dd):
             os.rmdir(dd)
 
     # 3) SUMMARY/mu-lu-s：](<slug>/index.md) → ](<slug>.md)
-    for name in ("SUMMARY.md", "mu-lu-s.md"):
+    for name in ("zh/SUMMARY.md", "zh/mu-lu-s.md"):
         txt = open(os.path.join(ROOT, name), encoding="utf-8").read()
         new, n = re.subn(r"\]\(([^)]+?)/index\.md\)", r"](\1.md)", txt)
         if n:
@@ -453,7 +453,7 @@ def cmd_flatten():
 
 def cmd_check():
     bad = 0
-    for name in ("SUMMARY.md", "mu-lu-s.md"):
+    for name in ("zh/SUMMARY.md", "zh/mu-lu-s.md"):
         for i, m, raw in parse_lines(os.path.join(ROOT, name)):
             if not m:
                 continue
@@ -463,9 +463,9 @@ def cmd_check():
                 bad += 1
     main, _, _ = load_snapshot()
     missing = [s for s in main
-               if not os.path.isfile(os.path.join(ROOT, s[0].lower(), s + ".md"))
-               or not os.path.isfile(os.path.join(ROOT, "yuanwen", s[0].lower(), s + ".md"))]
-    print("broken links=%d ; snapshot entries without yuanwen mirror=%d / %d"
+               if not os.path.isfile(os.path.join(ROOT, "zh", s[0].lower(), s + ".md"))
+               or not os.path.isfile(os.path.join(ROOT, "en", s[0].lower(), s + ".md"))]
+    print("broken links=%d ; snapshot entries without en mirror=%d / %d"
           % (bad, len(missing), len(main)))
     for s in missing[:10]:
         print("  ", s)

@@ -9,7 +9,7 @@
     zh_doc、created_at、state_migrated 等非过程字段。
   * `state/axis/*` 六轴工单 → 删除（旧译文的工作产物；重译时由 `--init` 重建，
     留着会让门禁对着不存在的正文误判）。
-不在此范围：`en/`、`yuanwen/`、`baseline/`（源钉与登记）、`tasks` 的版本钉。
+不在此范围：`en/`、`html/`、`baseline/`（源钉与登记）、`tasks` 的版本钉。
 
 配套：`rules/epoch.json` 与 `tools/epoch_lib.py` 一并撤除（历史既已为空，纪元
 过滤器失去对象）；ADR-0081 由 ADR-0082 取代。

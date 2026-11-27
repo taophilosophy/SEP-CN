@@ -174,7 +174,7 @@ def build_account(snap_path, out_path):
     """从快照产临时账（A3 跨时点装配用；不写 baseline/）。"""
     text = open(snap_path, "rb").read().decode("utf-8")
     full = parser.parse_catalog_full(text)
-    doc = {"fetched_at": None, "source": "yuanwen/_catalog/" + os.path.basename(snap_path),
+    doc = {"fetched_at": None, "source": "html/_catalog/" + os.path.basename(snap_path),
            "items": sorted(full["items"], key=lambda x: x["slug"]),
            "alias_rows": sorted(full["alias_rows"], key=lambda x: x["doc_order"]),
            "cluster_mothers": sorted(full["cluster_mothers"], key=lambda x: x["doc_order"])}
@@ -266,16 +266,16 @@ def main(argv=None):
     ap.add_argument("--residual", default=None, help="--check 残差池相对路径（跨时点）")
     args = ap.parse_args(argv)
 
-    snaps = sorted(n for n in os.listdir(repo_path("yuanwen", "_catalog"))
+    snaps = sorted(n for n in os.listdir(repo_path("html", "_catalog"))
                    if n.endswith("-contents.html"))
     if not snaps:
-        print(json.dumps({"error": "yuanwen/_catalog 无快照"}, ensure_ascii=False))
+        print(json.dumps({"error": "html/_catalog 无快照"}, ensure_ascii=False))
         return 1
     snap_name = args.snap if args.snap else snaps[-1]
     if args.snap and args.snap not in snaps:
         print(json.dumps({"error": "快照不存在: %s" % args.snap}, ensure_ascii=False))
         return 2
-    snap_path = repo_path("yuanwen", "_catalog", snap_name)
+    snap_path = repo_path("html", "_catalog", snap_name)
 
     if args.build:
         return build(snap_path, args.skeleton_out, args.residual_out)

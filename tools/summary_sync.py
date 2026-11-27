@@ -2,7 +2,7 @@
 """SUMMARY / mu-lu-s 目录同步（FR-021/022/023，用户 2026-10-27 三条裁定）。
 
 政策：
-- 词条为根级 <slug>.md 单文件（ADR-0008 词条文件化，英文侧 yuanwen/<slug>.md 镜像），
+- 词条为根级 <slug>.md 单文件（ADR-0008 词条文件化，英文侧 en/<slug>.md 镜像），
   文件名与 SEP slug 一致，Windows 不兼容字符换下划线；拼音文件名已随重建淘汰；
 - 上游 slug 变更 → 中文文件名同步改；上游删除词条 → stub 一并删除；
 - mu-lu-s 仅保留去重结果、按分类组织；归类与节内次序为编辑判断，工具不自动归类。
@@ -41,7 +41,7 @@ def _upstream_doc_order():
     """上游 contents.html 最新快照中真条目（alias_of=None）的文档顺序。"""
     import glob
     from tools import parser as _parser
-    snaps = sorted(glob.glob(repo_path('yuanwen', '_catalog', '*-contents.html')))
+    snaps = sorted(glob.glob(repo_path('html', '_catalog', '*-contents.html')))
     if not snaps:
         return []
     p = _parser._CatalogHTMLParser()
@@ -257,7 +257,7 @@ def apply_remove(slug, yes=False):
     refs = []
     for root, dirs, files in os.walk(repo_path('.')):
         dirs[:] = [d for d in dirs if d not in ('.git', '.gitbook', 'node_modules',
-                                                'en', 'script', 'yuanwen', '__pycache__')]
+                                                'en', 'script', 'html', '__pycache__')]
         for f in files:
             if f.endswith('.md'):
                 fp = os.path.join(root, f)

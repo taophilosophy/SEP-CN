@@ -38,7 +38,7 @@ T130 批准的两条 `habermas` 勘误（`des Ritus”,,`、`Theory on Empitical
 
 ## 3 H1／目录同步
 
-`ren-ming-biao.md` 登记形为 **于尔根·哈贝马斯**；已统一 `SUMMARY.md`、`mu-lu-s.md`、`baseline/mulu-map.json`、H1 与 `yuanwen/SUMMARY-en.md`。
+`ren-ming-biao.md` 登记形为 **于尔根·哈贝马斯**；已统一 `SUMMARY.md`、`mu-lu-s.md`、`baseline/mulu-map.json`、H1 与 `en/SUMMARY-en.md`。
 
 ## 4 状态与下一步
 
@@ -50,4 +50,4 @@ T130 批准的两条 `habermas` 勘误（`des Ritus”,,`、`Theory on Empitical
 | T139–T141 | 未启动 |
 | c2／c3 | 未启动 |
 | `batch/064-c-end` | 待打（C 组 22 步全部收口后） |
-| 未改 | `en/`、`yuanwen/` 原文、其他词条译文 |
+| 未改 | `en/`、`html/` 原文、其他词条译文 |

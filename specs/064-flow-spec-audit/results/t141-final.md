@@ -8,7 +8,7 @@
 
 ### F2 引块承载形态（已解决）
 
-- 在 28 个中文引块前各补同源英文引块（取自 `yuanwen/`，未改一字），中文译文保留为独立引块段；形成“英文引文段＋中文译文段”的双段引块。
+- 在 28 个中文引块前各补同源英文引块（取自 `en/`，未改一字），中文译文保留为独立引块段；形成“英文引文段＋中文译文段”的双段引块。
 - 中文引文文字未改；引用页码保留在英中两段（重复但各自自足）。
 - q1 重锁：195 条（56 引块＋139 行内；pass 67、waived 128、pending 0）；`--gate`／`--check-hash` 0。
 - 下游重挂：q2 907 句（236 equivalent／671 trivial，0 pending）；q3 140 条（139 waived＋1 false-positive）；q4 7 节 R-1（8 条 false-positive）；q5 0 量值条目、176 处范围（M-6 false-positive）；q6 174 条（170 P-13 waived＋4 P-7 false-positive），0 pending。

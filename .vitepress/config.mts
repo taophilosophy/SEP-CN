@@ -337,7 +337,7 @@ const pendingSupplementPages = [
 // shardExclude：这里只描述“哪些文件不是站点页面”，与分片无关，故分片模式的死链
 // 判定可以直接复用它扫全仓（见 collectSitePages）。
 const siteExclude = [
-  'yuanwen/**',
+  'html/**',
   'specs/**',
   '.specify/**',
   'tools/**',
@@ -770,7 +770,7 @@ export default defineConfig({
           '**/.git/**',
           '**/.vitepress/dist/**',
           '**/.vitepress/cache-build/**',
-          '**/yuanwen/**',
+          '**/html/**',
           '**/tools/**',
           '**/state/**',
           '**/tasks/**',

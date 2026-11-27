@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""yuanwen/ 镜像逐词条完整性深度复核（specs/001 fetch-completeness-analysis 建议 2，2026-10-27）。
+"""html/ 镜像逐词条完整性深度复核（specs/001 fetch-completeness-analysis 建议 2，2026-10-27）。
 
 fetch_audit.py 只校验「目录内裸文件名」引用；本工具做全量离线深检（零网络）：
   1. 页面真实性：index.html 存在、SEP 页特征、错误页/风控页标记、</html> 截断、
@@ -142,7 +142,7 @@ def audit_dir(root, slug, registered, inbound=frozenset(), default_absent=frozen
     res = {"slug": slug}
     hard = 0
     if not os.path.isdir(d):
-        return {"slug": slug, "error": "yuanwen/%s 不存在" % slug}, 1
+        return {"slug": slug, "error": "html/%s 不存在" % slug}, 1
     listing = os.listdir(d)
     subdirs = sorted(x for x in listing if os.path.isdir(os.path.join(d, x)))
     files = sorted(x for x in listing if os.path.isfile(os.path.join(d, x)))
@@ -345,7 +345,7 @@ def main(argv=None):
     reg = {}
     for r in base["entries"]:
         names = {f["path"].split("/", 2)[2] for f in r.get("files", [])
-                 if f["path"].startswith("yuanwen/%s/" % r["slug"])}
+                 if f["path"].startswith("html/%s/" % r["slug"])}
         reg[r["slug"]] = names
     if args.slugs:
         slugs = args.slugs
@@ -355,7 +355,7 @@ def main(argv=None):
         print(json.dumps({"error": "用法: en_integrity.py <slug>... | --all"}))
         return 2
 
-    root = repo_path("yuanwen")
+    root = repo_path("html")
     inbound = inbound_map(root, slugs)
     # fetch_audit 凭证中的缺省件（上游 404 显式登记）不判缺件
     default_reg = {}

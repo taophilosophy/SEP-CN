@@ -2,14 +2,14 @@
 # 行锚定：find/replace 取整行并带上下文；命中计数必须等于 expect，失配即该件转换硬失败。
 # id: P-003
 # slug: yorck
-# file: yuanwen/yorck/index.html
+# file: html/yorck/index.html
 # expect: 1
 # category: 格式层（空格）
 # origin: upstream-typo
 # source: en-errata.md §九 格式层
 # created: 2026-11-16
---- a/yuanwen/yorck/index.html
-+++ b/yuanwen/yorck/index.html
+--- a/html/yorck/index.html
++++ b/html/yorck/index.html
 @@ -1358,3 +1358,3 @@
  <em>Hermeneutical Heidegger</em>, Evanston: Northwestern University
 -Press, pp.23&ndash;69.</li>

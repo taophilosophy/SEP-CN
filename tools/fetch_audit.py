@@ -46,7 +46,7 @@ def referenced_assets(slug):
     词条包资产（页面/图片/词条自有 js/css/媒体如 russell 的 .au/.qt/.wav）；
     ../../js/ 等站点框架为路径引用，由 "/" 过滤排除。
     """
-    d = repo_path("yuanwen", slug)
+    d = repo_path("html", slug)
     refs = set()
     for fn in sorted(os.listdir(d)):
         if not fn.endswith(".html"):
@@ -70,9 +70,9 @@ def referenced_assets(slug):
 
 
 def audit_slug(slug, fix=False):
-    d = repo_path("yuanwen", slug)
+    d = repo_path("html", slug)
     if not os.path.isdir(d):
-        return {"slug": slug, "error": "yuanwen/%s 不存在" % slug}, 2
+        return {"slug": slug, "error": "html/%s 不存在" % slug}, 2
     refs = referenced_assets(slug)
     missing = sorted(r for r in refs if not os.path.isfile(os.path.join(d, r)))
     default, fetchable, fixed = [], [], []

@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""逐篇遍历 yuanwen/ 全库提取术语/人名候选（specs/008-terminology-campaign US-1）。
+"""逐篇遍历 en/ 全库提取术语/人名候选（specs/008-terminology-campaign US-1）。
 
 用法:
   python tools/term_harvest.py                # 全库遍历（按字母分批缓存，可中断续跑）
@@ -34,7 +34,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 if ROOT not in sys.path:
     sys.path.insert(0, ROOT)  # 脚本直跑时保证 from tools import 可用
 from tools.register_lib import norm_key, norm_key_quote, person_path, term_path  # noqa: E402
-CORPUS = os.path.join(ROOT, 'yuanwen')
+CORPUS = os.path.join(ROOT, 'en')
 POOL = os.path.join(ROOT, 'tasks', 'term-pool.json')
 CACHE = os.path.join(ROOT, 'specs', '008-terminology-campaign', 'results',
                      'harvest-cache')
@@ -602,7 +602,7 @@ def main(argv=None):
     pool['meta'] = {
         'generated_at': __import__('datetime').date.today().isoformat(),
         'script': 'tools/term_harvest.py',
-        'corpus': 'yuanwen/ 全库镜像',
+        'corpus': 'html/ 全库镜像',
         'scope': letter or 'all',
         'files_processed': total,
         'candidates': len(pool['candidates']),

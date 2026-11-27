@@ -150,7 +150,7 @@ def load_json(path):
 
 
 def ensure_dirs():
-    for d in ("zh", "en", "yuanwen", "yuanwen/_catalog", "baseline", "baseline/changes",
+    for d in ("zh", "en", "html", "html/_catalog", "baseline", "baseline/changes",
               "tasks", "script"):
         os.makedirs(repo_path(d), exist_ok=True)
 

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""yuanwen→en 转换保真校验（ADR-0063 不变量 I2/I3；只读判官）
+"""html→en 转换保真校验（ADR-0063 不变量 I2/I3；只读判官）
 
 用法:
   python tools/check_yuanwen_fidelity.py [--slug X] [--letter a] [--limit N] [--gate]
@@ -140,12 +140,12 @@ def check_pins(slug, relpath, baseline):
             issues.append({"slug": slug, "rule": "md-hand-edited",
                            "detail": "md sha256 %s ≠ 登记 %s（产物被手改或未重转即改字）"
                                      % (got[:12], yw["sha256"][:12])})
-    src_path = repo_path("yuanwen", slug, "index.html")
+    src_path = repo_path("html", slug, "index.html")
     if os.path.exists(src_path) and yw.get("source_sha256"):
         got = sha256_file(src_path)
         if got != yw["source_sha256"]:
             issues.append({"slug": slug, "rule": "source-drift",
-                           "detail": "yuanwen index.html sha256 %s ≠ 登记 %s（源变未重转）"
+                           "detail": "html index.html sha256 %s ≠ 登记 %s（源变未重转）"
                                      % (got[:12], yw["source_sha256"][:12])})
     return issues
 
@@ -206,7 +206,7 @@ def html_text(slug, apply_patches=False):
     后解析）同源；默认 False 保持 fidelity 门禁原行为不变。notes.html 补丁另议
     （当前池仅有 index.html 缺空格补丁）。
     """
-    base = repo_path("yuanwen", slug)
+    base = repo_path("html", slug)
     idx = os.path.join(base, "index.html")
     if not os.path.exists(idx):
         return None

@@ -48,7 +48,7 @@ def load_en(doc):
     """英文源：中文词条路径 → yuanwen 镜像；References 尾部裁剪。"""
     slug = os.path.basename(doc)[:-3]
     letter = doc.split('/')[0]
-    en_path = os.path.join(ROOT, 'yuanwen', letter, slug + '.md')
+    en_path = os.path.join(ROOT, 'en', letter, slug + '.md')
     if not os.path.exists(en_path):
         return ''
     text = open(en_path, encoding='utf-8', errors='replace').read()

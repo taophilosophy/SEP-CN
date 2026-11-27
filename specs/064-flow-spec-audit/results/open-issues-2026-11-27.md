@@ -5,7 +5,7 @@
 - 漂移：`moral-epistemology-a-priori` 作者 `Michael DePaul and Amelia Hicks` → `Elijah Chudnoff`；目录四方其余无差异。
 - 处置：
   - `python tools/fetch_catalog.py`：快照 `20261127T013538Z-contents.html`，entries 1873／aliases 652。
-  - 同步 `SUMMARY.md`、`mu-lu-s.md`、`baseline/mulu-map.json`、`m/moral-epistemology-a-priori.md` H1、`yuanwen/SUMMARY-en.md`。
+  - 同步 `SUMMARY.md`、`mu-lu-s.md`、`baseline/mulu-map.json`、`m/moral-epistemology-a-priori.md` H1、`en/SUMMARY-en.md`。
   - `sync_official_snapshot.py --write`：作者变更 1，main 1873／alias 652。
   - `rebuild_catalog.py --build` → `--check`：sha `0a92b8e272ef653f61b8bf85739f282630ef0ae0feac591c7300fe64b76bf45f` 全等；residual 194。
   - `check_catalog_network.py --gate`：G1–G5 全绿。

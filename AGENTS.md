@@ -41,15 +41,15 @@
 | 约束 | 要点 | 权威 |
 | ---- | ---- | ---- |
 | 知难行易 | 先明确方向与验收判据，再选手段；工具与文档篇幅都不是完成证据 | `rules/08-intent-first.md`、宪法 VII |
-| 零信任 | 既有中文译文不作底稿或修改依据；可疑处回 `en/`、`yuanwen/` 核对；成品可回溯到英文源版本钉（pubinfo、存档版名、SHA-256） | 宪法、ADR-0027 |
+| 零信任 | 既有中文译文不作底稿或修改依据；可疑处回 `en/`、`html/` 核对；成品可回溯到英文源版本钉（pubinfo、存档版名、SHA-256） | 宪法、ADR-0027 |
 | 主代理单干 | 禁止调用子代理（`Agent`、`Task` 及 workflow 扇出）；唯一例外是用户当轮显式批准并写明范围 | ADR-0034 |
 | 单一事实源 | 结构 `zh/SUMMARY.md`、术语 `zh/shu-yu-biao.md`、人名 `zh/ren-ming-biao.md`、版本 `baseline/`、任务 `tasks/`；不一致时修弱势方 | ADR-0012、ADR-0036 |
 | 流程先行 | 动笔前先建任务；先登记术语后使用；每步留 `evidence` | `rules/04`、`rules/03` |
 | 提交纪律 | 小步提交、中文一行信息、只提交相关文件、直接提交 main；**提交即推**（自动 push；推前 fetch，落后先 pull --rebase；禁 force）；收工核对 `git log origin/main..main` 为空 | `rules/06`、ADR-0026、ADR-0059 |
 | 抓取失败显式化 | 4xx／5xx／超时退避重试并记录最终状态，禁止静默跳过；不设最小请求间隔（ADR-0069） | `rules/05` |
 | 抓取完整性 | 词条包内被引用资产必须齐备；`tools/fetch_audit.py` 闭包迭代至不动点，缺件自动补抓 | `tools/fetch_audit.py` |
-| 更新流程 | `fetch_catalog` 检测漂移，`compare.py` 产出变更文件，建账置空待译（done 件 `reopen --clear`、在途件 `reopen --upstream-sync`、无账件 `create --from`；证据 `changes:` 开头；ADR-0050/0051/0068），置空后全量重译走 retranslate 链；**`yuanwen/` 原始 HTML 绝对冻结（ADR-0062）**——与原始钉逐字节一致，文字与格式层一律不改；文字缺陷入全局勘误表（`baseline/en-errata/en-errata.md`，ADR-0076）并在中文译文加译注，格式问题走 `baseline/en-patches/` 补丁池（一补丁一文件，转换层应用，命中计数硬校验）；`en/` 是 `yuanwen/` 的 Markdown 转换镜像（忠实转换，上游错字照录）；`en/` 与钉不一致未登记即门禁红（ADR-0045） | `specs/001-sep-sync-pipeline/contracts/cli.md`、`rules/adr/0062-*.md` |
-| 结构形态 | 词条 `zh/<letter>/<slug>.md`，别名链目标；集群占位母行为无链接分组行（不指向文件）；`en/<letter>/<slug>.md` 为 `yuanwen/` HTML 的逐字符镜像 | `rules/01`、ADR-0009、ADR-0057 |
+| 更新流程 | `fetch_catalog` 检测漂移，`compare.py` 产出变更文件，建账置空待译（done 件 `reopen --clear`、在途件 `reopen --upstream-sync`、无账件 `create --from`；证据 `changes:` 开头；ADR-0050/0051/0068），置空后全量重译走 retranslate 链；**`html/` 原始 HTML 绝对冻结（ADR-0062）**——与原始钉逐字节一致，文字与格式层一律不改；文字缺陷入全局勘误表（`baseline/en-errata/en-errata.md`，ADR-0076）并在中文译文加译注，格式问题走 `baseline/en-patches/` 补丁池（一补丁一文件，转换层应用，命中计数硬校验）；`en/` 是 `html/` 的 Markdown 转换镜像（忠实转换，上游错字照录）；`en/` 与钉不一致未登记即门禁红（ADR-0045） | `specs/001-sep-sync-pipeline/contracts/cli.md`、`rules/adr/0062-*.md` |
+| 结构形态 | 词条 `zh/<letter>/<slug>.md`，别名链目标；集群占位母行为无链接分组行（不指向文件）；`en/<letter>/<slug>.md` 为 `html/` 原文的逐字符镜像 | `rules/01`、ADR-0009、ADR-0057 |
 | 单体文件 | 叙事、规则、规格类 md 超 1000 行或 100 KB 必须按文件夹拆分（登记册与生成物豁免） | ADR-0004、`check_doc_size.py` |
 | 根目录白名单 | 根层只放白名单条目；散件归 `script/`（本地）、`state/`（运行态）或 `specs/<NNN>-*/` 的 `bin`、`results` 子目录；新增根级条目走 ADR | ADR-0023、`check_junk.py` |
 | 批量改写 | 写回前置门（残余不为 0 禁止写回）、幂等、逐行身份追踪、改写前强制基线还原；**把译法套进正文不属于批量改写** | `rules/05` |

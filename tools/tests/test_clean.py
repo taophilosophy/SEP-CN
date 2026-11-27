@@ -37,13 +37,13 @@ class CollectTest(unittest.TestCase):
         self.tmp = tempfile.TemporaryDirectory()
         self.root = self.tmp.name
         os.makedirs(os.path.join(self.root, "en"))
-        os.makedirs(os.path.join(self.root, "yuanwen"))
+        os.makedirs(os.path.join(self.root, "html"))
         os.makedirs(os.path.join(self.root, "baseline"))
         os.makedirs(os.path.join(self.root, "state"))
         os.makedirs(os.path.join(self.root, "tools", "__pycache__"))
         os.makedirs(os.path.join(self.root, "target"))
         os.makedirs(os.path.join(self.root, ".vitepress", "cache"))
-        for rel in ("en/index.html", "yuanwen/x.md", "baseline/pin.json",
+        for rel in ("en/index.html", "html/x.md", "baseline/pin.json",
                     "zh/SUMMARY.md", "keep.txt"):
             path = os.path.join(self.root, rel)
             os.makedirs(os.path.dirname(path), exist_ok=True)
@@ -56,7 +56,7 @@ class CollectTest(unittest.TestCase):
         self.tmp.cleanup()
 
     def test_collect_prunes_junk_dirs_and_keeps_tracked(self):
-        tracked = {"en/index.html", "yuanwen/x.md", "baseline/pin.json",
+        tracked = {"en/index.html", "html/x.md", "baseline/pin.json",
                    "zh/SUMMARY.md", "keep.txt"}
         with mock.patch.object(clean, "ROOT", self.root):
             targets = clean.collect(tracked)
@@ -72,7 +72,7 @@ class CollectTest(unittest.TestCase):
         self.assertEqual(kinds["state/a.tmp"], "file")
 
     def test_delete_removes_only_targets(self):
-        tracked = {"en/index.html", "yuanwen/x.md", "baseline/pin.json",
+        tracked = {"en/index.html", "html/x.md", "baseline/pin.json",
                    "zh/SUMMARY.md", "keep.txt"}
         with mock.patch.object(clean, "ROOT", self.root):
             targets = clean.collect(tracked)
@@ -96,7 +96,7 @@ class MainContractTest(unittest.TestCase):
     def setUp(self):
         self.tmp = tempfile.TemporaryDirectory()
         self.root = self.tmp.name
-        for rel in ("en/x", "yuanwen/x", "baseline/x", "zh/SUMMARY.md"):
+        for rel in ("en/x", "html/x", "baseline/x", "zh/SUMMARY.md"):
             path = os.path.join(self.root, rel)
             os.makedirs(os.path.dirname(path), exist_ok=True)
             open(path, "w", encoding="utf-8").close()

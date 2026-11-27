@@ -27,7 +27,7 @@ class NormalizeCellTest(unittest.TestCase):
         self.assertEqual(normalize_table_cell("| `<letter>/`（a…z） | x |"), {"<letter>"})
 
     def test_nested_path_takes_head(self):
-        self.assertEqual(normalize_table_cell("| `yuanwen/assets/<slug>/` | x |"), {"yuanwen"})
+        self.assertEqual(normalize_table_cell("| `html/assets/<slug>/` | x |"), {"html"})
 
 
 class DeclaredPathsTest(unittest.TestCase):
@@ -39,7 +39,7 @@ class DeclaredPathsTest(unittest.TestCase):
 
     def test_known_entries(self):
         declared = declared_paths(LAYOUT)
-        for p in ("rules", "specs", "en", "yuanwen", "zh", ".github", "AGENTS.md"):
+        for p in ("rules", "specs", "en", "html", "zh", ".github", "AGENTS.md"):
             self.assertIn(p, declared)
 
 

@@ -23,7 +23,7 @@ RULE_LIMIT_LINES = 300
 RULE_LIMIT_BYTES = 30 * 1024
 RULE_FILES = re.compile(r"^rules/0[1-9][^/]*\.md$")
 
-# 扫描根：根级散页 + 叙事/规则/规格/指南目录；词条本体目录（a–z、集群目录、en/、yuanwen/）不扫
+# 扫描根：根级散页 + 叙事/规则/规格/指南目录；词条本体目录（zh/、en/、html/）不扫
 SCAN_DIRS = ("rules", "specs", "qian-yan", "guan-yu", "fang-fa-lun", "jian-yi-shu", ".specify")
 
 # 豁免：单一事实源登记册（工具按单文件解析，拆分须先走 spec 改解析器）与工具生成物

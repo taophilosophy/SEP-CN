@@ -9,7 +9,7 @@
 
 口径：
   * 只扫 md（跳过代码块与行内代码里的字面量，如文档示例 `<img src="imageN.jpg">`）；
-  * `yuanwen/**` ADR-0027 起入库：目录在场即照常解析镜像引用；仅当克隆缺该目录（稀疏检出）时跳过并计数（ADR-0010 镜像桥）；
+  * `html/**` ADR-0027 起入库：目录在场即照常解析镜像引用；仅当克隆缺该目录（稀疏检出）时跳过并计数（ADR-0010 镜像桥）；
   * 只报告，不改内容；默认退出码 0（问题经报告落地，CI 由 check-images 工作流开 issue）；
   * `--gate`：悬空／大小写／外链任一 >0 退出 1（`tools/check_all.py` 门禁用；未引用资产仍只告警）。
 
@@ -32,7 +32,7 @@ except (AttributeError, ValueError, OSError):
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 SKIP_DIRS = {'.git', '.gitbook', 'node_modules', 'script', 'state', '.zcode',
-             '.vitepress', 'public', 'dist', 'en', 'yuanwen'}
+             '.vitepress', 'public', 'dist', 'en', 'html'}
 MD_IMG = re.compile(r'!\[(?:[^\[\]]|\[[^\[\]]*\])*\]\(\s*([^)\s]+)')
 HTML_IMG = re.compile(r'<img[^>]*\bsrc=["\']([^"\']+)["\']', re.I)
 # 图片文件作为链接目标（如 `[![](small.gif)](large.gif)` 的点击放大）；
@@ -135,7 +135,7 @@ def scan(root):
             rel_target = os.path.relpath(target, root).replace(os.sep, '/')
             if rel_target.startswith('en/assets/') \
                     and not os.path.isdir(os.path.join(root, 'en', 'assets')):
-                continue  # 镜像资产未随仓（CI 检出只有 yuanwen 的少量跟踪文件），跳过
+                continue  # 镜像资产未随仓（CI 检出只有 en 的少量跟踪文件），跳过
             hit = case_hit(target)
             if hit:
                 case_bad.append((rel, ref, os.path.relpath(hit, root).replace(os.sep, '/')))

@@ -1,14 +1,14 @@
 # -*- coding: utf-8 -*-
-r"""原文 Markdown 镜像生成器（yuanwen/）——用户 2026-10-27 裁定。
+r"""原文 Markdown 镜像生成器（html/ → en/）——用户 2026-10-27 裁定。
 
-把 en/<slug>/index.html（不可变原始抓取物）确定性转换为 yuanwen/<letter>/<slug>.md：
-- 结构与中文仓库逐字符镜像（ADR-0009 A–Z 字母目录）：yuanwen/<letter>/<slug>.md，letter=slug 首字符
-- 抓取的原始 HTML 一律存 en/<slug>/（不可变原始物，ADR-0027 起入库）；yuanwen/ 只存转换后的 md 镜像
+把 html/<slug>/index.html（不可变原始抓取物）确定性转换为 en/<letter>/<slug>.md：
+- 结构与中文仓库逐字符镜像（ADR-0009 A–Z 字母目录）：en/<letter>/<slug>.md，letter=slug 首字符
+- 抓取的原始 HTML 一律存 html/<slug>/（不可变原始物，ADR-0027 起入库）；en/ 只存转换后的 md 镜像
 - 脚注：正文 <sup>[<a href="notes.html#n">n</a>]</sup> → [^note-n]；notes.html → 文末脚注定义
   （定义名取注段自身锚点 id，即 <div id="note-N"> 的 N——旧实现取回链目标
   index.html#ref-N，与正文引用 notes.html#note-N 错位，D14）
-- 补充材料：en/<slug>/<x>.html → yuanwen/<letter>/<slug>.<x>.md（点号命名），正文内相对互链
-- 图片：本地化为 yuanwen/assets/<slug>/（上游同名 imageN.jpg，用户 2026-10-27 裁定复制而非外链），
+- 补充材料：html/<slug>/<x>.html → en/<letter>/<slug>.<x>.md（点号命名），正文内相对互链
+- 图片：本地化为 en/assets/<slug>/（上游同名 imageN.jpg，用户 2026-10-27 裁定复制而非外链），
   正文 <img> 一律接线为 ![](../assets/<slug>/<文件名>)——md 位于 <letter>/ 子目录，
   相对引用须跨一级（ADR-0010 修正根级时代的 assets/ 写法，D15）
 - 参考文献转引用注释：文内 (Author year, page) 引用组后追加 [^key]；文献节改为脚注定义；
@@ -1668,7 +1668,7 @@ def _load_en_patches():
 
 
 def apply_en_patches(slug, html, filename='index.html'):
-    """格式层补丁应用（ADR-0062/0063）：en/ 本体零改动，格式修正只在转换层生效。
+    """格式层补丁应用（ADR-0062/0063）：html/ 本体零改动，格式修正只在转换层生效。
 
     行锚定：find 为整行；命中计数必须等于 expect，上下文行须在 html 中出现；
     不符抛 PatchMismatch（该件转换硬失败，防上游漂移静默失配）。
@@ -1684,13 +1684,13 @@ def apply_en_patches(slug, html, filename='index.html'):
         n = html.count(p['find'])
         if n != p['expect']:
             raise PatchMismatch(
-                '%s 补丁 %s 命中 %d 次，expect %d（上游漂移？先核对 en/ 与 %s）'
+                '%s 补丁 %s 命中 %d 次，expect %d（上游漂移？先核对 html/ 与 %s）'
                 % (slug, p.get('id', '?'), n, p['expect'],
                    p.get('patch_file', 'baseline/en-patches/')))
         for ctx in p.get('context', []):
             if ctx and ctx not in html:
                 raise PatchMismatch(
-                    '%s 补丁 %s 上下文失配（%s；上游漂移？先核对 en/ 与 %s）'
+                    '%s 补丁 %s 上下文失配（%s；上游漂移？先核对 html/ 与 %s）'
                     % (slug, p.get('id', '?'), ctx[:40],
                        p.get('patch_file', 'baseline/en-patches/')))
         html = html.replace(p['find'], p['replace'])
@@ -1698,7 +1698,7 @@ def apply_en_patches(slug, html, filename='index.html'):
 
 
 def convert_entry(slug):
-    src_dir = repo_path('yuanwen', slug)
+    src_dir = repo_path('html', slug)
     idx_path = os.path.join(src_dir, 'index.html')
     if not os.path.exists(idx_path):
         return {'slug': slug, 'error': 'no local snapshot（先 fetch_entry）'}

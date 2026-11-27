@@ -1,6 +1,6 @@
 # 临时布局迁移方案（S16，2026-11-27 用户裁定）
 
-- 目标：`en/` 与 `yuanwen/` 互换目录名；根目录词条目录归入新建 `zh/`；同步更新工具链、日志、记忆、文档、任务书、specs、`.vitepress` 与壳仓 `taophilosophy.github.io`。
+- 目标：`en/` 与 `html/` 互换目录名；根目录词条目录归入新建 `zh/`；同步更新工具链、日志、记忆、文档、任务书、specs、`.vitepress` 与壳仓 `taophilosophy.github.io`。
 - 用户裁定：① 先双写验证（不直接删旧）；② 迁入范围含 `a–z`、`1`、`fang-fa-lun`、`guan-yu`、`jian-yi-shu`、`qian-yan`；③ 历史文本一并改写；④ `SUMMARY.md` 随词条目录迁入 `zh/`；⑤ 站点接受新 URL 前缀 `/zh/…`、`/en/…`（不保留旧 URL，旧外链失效为已知代价）；⑥ `.vitepress` 与壳仓一并修改。
 - 性质：**临时阶段**，S16；T202–T207；开始／结束各打 `batch/064-migrate-start|end`。
 
@@ -8,7 +8,7 @@
 
 | 旧路径 | 新路径 | 说明 |
 | ---- | ---- | ---- |
-| `en/<slug>/…`（HTML 源） | `yuanwen/<slug>/…` | 目录名互换：`yuanwen` 承接 HTML |
+| `en/<slug>/…`（HTML 源） | `html/<slug>/…` | 目录名互换：`html` 承接原始 HTML（2026-11-27 由 `yuanwen` 更名） |
 | `yuanwen/<letter>/<slug>.md`（镜像） | `en/<letter>/<slug>.md` | 目录名互换：`en` 承接 Markdown 镜像 |
 | `yuanwen/SUMMARY.md`、`SUMMARY-en.md`、`.gitbook.yaml`、`assets/` | `en/` 同名 | 英文空间配置与导航随目录互换进入 `en/` |
 | `<letter>/<slug>.md`、`1/**` | `zh/<letter>/<slug>.md`、`zh/1/**` | 词条正文归入 `zh/` |
@@ -28,9 +28,9 @@
 ## 2 双写与回退
 
 1. **T202 起点登记**：按用户 2026-11-27 裁定**不设备份目录**，以 Git 历史为唯一回退；记录起始 commit、`git status` 与待迁目录清单，回退方式为 `git restore`／`git reset --hard <起始 commit>`。
-2. **T203 双写**：以旧 `yuanwen/` 生成新 `en/`，以旧 `en/` 生成新 `yuanwen/`；复制 `SUMMARY.md` 为 `zh/SUMMARY.md`；旧目录由 Git 跟踪，可随时回退。
+2. **T203 双写**：以旧 `html/` 生成新 `en/`，以旧 `en/` 生成新 `html/`；复制 `SUMMARY.md` 为 `zh/SUMMARY.md`；旧目录由 Git 跟踪，可随时回退。
 3. **T204 归集**：移动 27 个字母目录＋4 个中文目录到 `zh/`；改写 `zh/SUMMARY.md` 与根级说明页链接；同步 `rules/layout.json`、扫描器与任务 JSON。
-4. **T206 验证**：全量门禁、单测、`zh`／`en`／`yuanwen` 三路径抽样、VitePress 分片构建与壳仓构建；不过即用 Git 回退到起始 commit。
+4. **T206 验证**：全量门禁、单测、`zh`／`en`／`html` 三路径抽样、VitePress 分片构建与壳仓构建；不过即用 Git 回退到起始 commit。
 5. **T207 收口**：确认无误后提交并推送本仓与壳仓；打 `batch/064-migrate-end`。
 
 ## 3 工具链与关联者
@@ -39,9 +39,9 @@
 
 | 文件 | 必改点 |
 | ---- | ---- |
-| `config.mts` | 分片 `shardExclude`：`${l}/**`→`zh/${l}/**`、`yuanwen/${l}/**`→`en/${l}/**`；非字母目录与根级页面同步；`parseSummary` 改读 `zh/SUMMARY.md`、`en/SUMMARY.md` 并把 href 归一为仓库根相对路径；配对正则改 `^en/.+\.md$`；字母桶 `seg` 改取 `zh/` 后第一段；`zhSidebarByLetter`／`dirSidebars` 键改 `/zh/…/`；英文侧栏与 `i18nRouting` 键改 `/en/`；`siteExclude` 改 `yuanwen/**` 并排除 `en/SUMMARY.md`、`en/SUMMARY-en.md`；`locales` 键 `yuanwen`→`en`；`watch.ignored` 改 `**/yuanwen/**`；导航与 `catLink` 改 `/zh/mu-lu-s`、`/zh/shu-yu-biao`、`/zh/qian-yan/ci-hui-biao` |
+| `config.mts` | 分片 `shardExclude`：`${l}/**`→`zh/${l}/**`、`html/${l}/**`→`en/${l}/**`；非字母目录与根级页面同步；`parseSummary` 改读 `zh/SUMMARY.md`、`en/SUMMARY.md` 并把 href 归一为仓库根相对路径；配对正则改 `^en/.+\.md$`；字母桶 `seg` 改取 `zh/` 后第一段；`zhSidebarByLetter`／`dirSidebars` 键改 `/zh/…/`；英文侧栏与 `i18nRouting` 键改 `/en/`；`siteExclude` 改 `html/**` 并排除 `en/SUMMARY.md`、`en/SUMMARY-en.md`；`locales` 键 `yuanwen`→`en`；`watch.ignored` 改 `**/html/**`；导航与 `catLink` 改 `/zh/mu-lu-s`、`/zh/shu-yu-biao`、`/zh/qian-yan/ci-hui-biao` |
 | `theme/components/VersionPin.vue` | 镜像判定 `relativePath.startsWith('yuanwen/')`→`startsWith('en/')` |
-| `prepare-gitstamps.mjs` | 排除目录 `'en/'`→`'yuanwen/'`；`en/`、`zh/` 作为站点页面保留 |
+| `prepare-gitstamps.mjs` | 排除目录 `'en/'`→`'html/'`；`en/`、`zh/` 作为站点页面保留 |
 | `.vitepress/README.md` | 分片、srcExclude、双语配对、反向入口等全部路径示例改新布局 |
 | `config.build-check.mts`、`merge-shards.mjs`、`math-plugin.mjs` | 无硬编码布局路径，T206 复核即可 |
 | `theme/components/BilingualCompare.vue`、`bili-paragraph.ts` | 只消费 frontmatter `enPath`／`zhPath`；`zhPath` 注入值改 `/zh/…`，组件逻辑不变 |
@@ -53,7 +53,7 @@
 - `tools/`：`repo_path("en"|"yuanwen")` 语义反转；字母目录扫描改 `zh/`；`axis_lib`、`fetch_entry`、`yuanwen.py`、`check_*`、`clean.py`、`progress.py`、`summary_sync.py`、`rebuild_dir.py`、`gen_en_summary.py` 全部核对。
 - `SUMMARY.md`：改为 `zh/SUMMARY.md`；词条链接去 `zh/` 前缀（相对自身），根级页面链接补 `../`。
 - 登记册与根级中文文档：`zh/mu-lu-s.md`、`zh/shu-yu-biao.md`、`zh/ren-ming-biao.md`、`zh/PROGRESS.md`、`zh/RELEASE-NOTES.md`；`register_lib.term_path/person_path`、`progress.py` 输出、`check_mulu_s`／`check_terms`／`check_term_concepts`／`check_doc_size` 同步。
-- `rules/layout.json`：`letter_dirs.path` 改 `zh/<letter>`；新增 `zh` 根条目并登记 `en`／`yuanwen` 新语义；`check_summary`／`check_layout`／`check_junk` 同步。
+- `rules/layout.json`：`letter_dirs.path` 改 `zh/<letter>`；新增 `zh` 根条目并登记 `en`／`html` 新语义；`check_summary`／`check_layout`／`check_junk` 同步。
 - `tasks/**/*.json`：`zh_doc` 全部改 `zh/<letter>/<slug>.md`；账本 `source` 文本不变。
 - `journal/`、`specs/`、`rules/`、`README.md`、`AGENTS.md`、`.vitepress/README.md`、项目记忆：旧路径与 `en`／`yuanwen` 语义一并改写；生成“旧→新”映射表，保留可审计性；不重写 Git 历史。
 
@@ -62,7 +62,7 @@
 | 文件 | 处理 |
 | ---- | ---- |
 | `.github/workflows/deploy.yml` | 不改路径：`cp docs/README.md docs/index.md` 仍成立，分片名 `ad/ek/lp/qz` 与环境变量不变；T206 复核确认 |
-| `README.md` | 更新布局说明：`zh/` 中文正文、`en/` 英文镜像、`yuanwen/` HTML 源；说明站点 URL 新前缀；构建命令不变 |
+| `README.md` | 更新布局说明：`zh/` 中文正文、`en/` 英文镜像、`html/` 原始 HTML；说明站点 URL 新前缀；构建命令不变 |
 | `package.json`、`.gitmodules`、本地 `docs` 目录联接 | 不变 |
 | 提交 | 壳仓单独提交并推送（只含 README 等壳侧改动；`docs` 指针随本仓推送后由 CI 定时拉取） |
 | 构建验证 | `bun run build` 全量或四片 `SEP_SHARD=… bun run docs:build`＋`merge-shards`；记录耗时与结果 |
@@ -81,7 +81,7 @@
 - VitePress 分片构建（至少 `ad`，最好四片）通过；`/zh/…` 与 `/en/…` 页面存在；死链检查 0；`git-stamps` 覆盖 `zh/`、`en/`。
 - 壳仓 `bun run build` 通过；`deploy.yml` 无需改路径；壳仓 README 与新布局一致。
 - GitBook：根 `.gitbook.yaml` 的 `zh/SUMMARY.md` 可解析；`en/.gitbook.yaml` 的 `SUMMARY-en.md` 可解析。
-- 抽样 11 件：`zh/<letter>/<slug>.md`、`en/<letter>/<slug>.md`、`yuanwen/<slug>/index.html` 三路径均可解析。
+- 抽样 11 件：`zh/<letter>/<slug>.md`、`en/<letter>/<slug>.md`、`html/<slug>/index.html` 三路径均可解析。
 - 历史文本中不再出现旧路径（映射表与归档说明除外）。
 
 ## 5 风险与边界
@@ -89,7 +89,7 @@
 - **URL 前缀变更**：旧 `/a/…`、`/yuanwen/a/…` 外链失效；用户已接受，跳转另批处理。
 - **根级相对链接**：中文词条移入 `zh/` 后，指向 `../README.md` 等根级文件的链接需改 `../../`；VitePress 死链检查会硬拦。
 - **GitBook 中文空间**：`root: ./` 不变，`summary: zh/SUMMARY.md` 已就位；`zh/SUMMARY.md` 内根级链接用 `../`。
-- **英文空间**：`yuanwen/.gitbook.yaml` 随目录互换进入 `en/`，HTML 侧不得残留同名配置；T202/T206 各查一次。
+- **英文空间**：`en/.gitbook.yaml` 随目录互换就位，HTML 侧不得残留同名配置；T202/T206 各查一次。
 - **硬编码路径最多**：先跑只读门禁再改任务 JSON；任何一步失败用 `git restore`／`git reset --hard <起始 commit>` 回退（用户裁定不设备份目录）。
 - **壳仓独立版本库**：`docs/` 本地为目录联接，壳仓提交只含壳侧文件；CI 用真实子模块，需本仓推送后再验证站点。
 - **VitePress 路由与相对路径**：本次不做 `rewrites`，接受 `/zh/`、`/en/` 前缀；`transformPageData` 注入的 `enPath`／`zhPath` 必须用新前缀。

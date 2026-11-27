@@ -35,7 +35,7 @@
   - `des Ritus”,, translated as`（①双逗号）
   - `Theory on Empitical Research`（①拼写）
 - 两条均位于**参考文献脚注**，中文正文不翻译书目条目，`中文承载` 已登记为“照录区，无需译注（参考文献条目照录；中文正文不复制）”。
-- `check_pairs` 的 `errata-apply` 为 0；`en/` 零改动，`yuanwen/` 照录。
+- `check_pairs` 的 `errata-apply` 为 0；`en/` 零改动，`html/` 照录。
 
 ## 4 结论
 

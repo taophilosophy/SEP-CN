@@ -60,7 +60,7 @@ class PatchReverseTest(unittest.TestCase):
         for slug, plist in sorted(self.patches.items()):
             for fname, group in sorted(_group_by_file(plist).items()):
                 with self.subTest(slug=slug, file=fname):
-                    path = repo_path("yuanwen", slug, fname)
+                    path = repo_path("html", slug, fname)
                     self.assertTrue(os.path.exists(path), "yuanwen 原件缺失：%s/%s"
                                     % (slug, fname))
                     html0 = io.open(path, encoding="utf-8").read()
@@ -83,7 +83,7 @@ class PatchReverseTest(unittest.TestCase):
         for slug, plist in sorted(self.patches.items()):
             for fname, group in sorted(_group_by_file(plist).items()):
                 with self.subTest(slug=slug, file=fname):
-                    path = repo_path("yuanwen", slug, fname)
+                    path = repo_path("html", slug, fname)
                     html0 = io.open(path, encoding="utf-8").read()
                     self.assertEqual(_apply(group, html0),
                                      yuanwen.apply_en_patches(slug, html0, fname))
@@ -96,7 +96,7 @@ class PatchReverseTest(unittest.TestCase):
                 if not others:
                     continue
                 with self.subTest(slug=slug, file=fname):
-                    path = repo_path("yuanwen", slug, fname)
+                    path = repo_path("html", slug, fname)
                     if not os.path.exists(path):
                         continue
                     html0 = io.open(path, encoding="utf-8").read()

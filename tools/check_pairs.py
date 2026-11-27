@@ -34,7 +34,7 @@
 
 豁免: 围栏代码块、行内代码、数学定界符、表格行（结构项除外）；桩件（无二级标题或
       <2KB）、带点补充材料子文档（`<slug>.<part>.md`）不适用体例轴。
-对照文件推导: zh/<letter>/<slug>.md → yuanwen/<slug>/index.html、en/<letter>/<slug>.md。
+对照文件推导: zh/<letter>/<slug>.md → html/<slug>/index.html、en/<letter>/<slug>.md。
 退出码: 0 无问题（告警级）；1 有 issue（仅 --strict）；1 且仅体例轴四则命中（--gate）。
 """
 import json
@@ -456,7 +456,7 @@ def check_authoryear(path, lineno, line, issues, defs, en_text=None):
 
 def check_counts(path, slug, zh_text, issues, tol_head=2, tol_bib=2):
     en_p = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(path))),
-                        "yuanwen", slug, "index.html")
+                        "html", slug, "index.html")
     yw_p = os.path.join(os.path.dirname(path), "..", "..", "en",
                         os.path.basename(os.path.dirname(path)), slug + ".md")
     en = read_text(en_p) if os.path.exists(en_p) else None
@@ -492,7 +492,7 @@ def check_file(path):
     slug = os.path.splitext(os.path.basename(path))[0]
     defs, dup = extract_bib_defs(text)
     en_p = os.path.join(os.path.dirname(os.path.dirname(base_dir)),
-                        "yuanwen", slug, "index.html")
+                        "html", slug, "index.html")
     en_text = read_text(en_p) if os.path.exists(en_p) else None
     yw_p = os.path.join(os.path.dirname(os.path.dirname(base_dir)), "en",
                         os.path.basename(base_dir), slug + ".md")

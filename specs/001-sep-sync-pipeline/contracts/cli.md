@@ -129,9 +129,9 @@
 用法: python tools/yuanwen.py <slug>... | --all-baselined [--summary]
 输出: {"converted": [{slug, md, cite_markers, cite_defs, supplements, notes}],
        "failures": [...], "summary_links_rewritten": N}
-行为: en/<slug>/index.html（不可变快照）→ yuanwen/<slug>/index.md 确定性转换
-      （ADR-0007 上游同构：yuanwen/<slug>/ 与中文侧、上游 entries/<slug>/ 逐字符镜像）；
-      脚注/补充材料（yuanwen/<slug>/<x>.md）/图片（yuanwen/<slug>/ 上游同名）镜像；
+行为: html/<slug>/index.html（不可变快照）→ en/<letter>/<slug>.md 确定性转换
+      （ADR-0007 上游同构：html/<slug>/ 与中文侧、上游 entries/<slug>/ 逐字符镜像）；
+      脚注/补充材料（en/<letter>/<slug>.<x>.md）/图片（上游同名，随镜像入 en/）；
       参考文献转引用注释（[^key]）；
       --summary 重建 en/SUMMARY.md（两侧相对路径逐字符一致，直接拷贝）；
       转换登记（md 哈希+源哈希）写入 baseline/entries.json。
@@ -193,7 +193,7 @@
 | 英文镜像深度复核 | `en_integrity.py` | 只读审计，不补抓不落盘 en/ 以外文件；逐词条凭证 JSON（specs/001-sep-sync-pipeline/en-integrity-full.json）；游离件、大小写错名、截断页为硬发现 |
 | 变更检测→比较 | `fetch_catalog.py` → `compare.py` | compare 对有变更条目产出持久变更文件 specs/001-sep-sync-pipeline/compare/<slug>.json，作 update 任务 changes: 证据 |
 | en/ 冻结、上游真变与核验 | `divergence.py`（register / carry / unregister / verify / patch / list）；补丁池 `baseline/en-patches/`（一补丁一文件 `<id>.patch`＋`INDEX.json` 生成物）＋`tools/check_en_patches.py` | **ADR-0062**：`en/` 与原始钉逐字节一致，文字层与格式层变动一律禁止；文字缺陷入全局勘误表（`baseline/en-errata/en-errata.md`，ADR-0076）＋中文译注，格式问题入补丁池由转换层应用（`find/replace/expect` 命中计数硬校验）。分歧账（ADR-0045）只用于**上游真变**：`carry <path> --new <快照>` 三方合并自动随迁（hunk 相交退出码 3 转人工，`--merged` 复跑；解决件=纯上游则自动注销留 tombstone），随迁即归档新上游快照（results/upstream-snapshots/）并前移原始钉；未登记静默改动由 verify 门禁红灯 |
-| 补丁池离线校验 | `tools/check_en_patches.py` | 逐条校验补丁在当前 `yuanwen/` 上的命中计数等于 `expect`（上游漂移→失配即报）；转换层（`tools/yuanwen.py`）同源校验，失配即该件转换硬失败 |
+| 补丁池离线校验 | `tools/check_en_patches.py` | 逐条校验补丁在当前 `html/` 上的命中计数等于 `expect`（上游漂移→失配即报）；转换层（`tools/yuanwen.py`）同源校验，失配即该件转换硬失败 |
 | 全量回源 sha 核对 | `drift_scan.py` | 只读审计：1872 词条 live index.html 对原始钉核对（并发豁免配置 64路×10s，留痕 http-log）；报告落盘 results/drift-scan-<ts>.json；真漂移清单供 compare.py/update 任务消费；不写 en/ 不动台账 |
 | 任务状态机 | `task_ops.py` | s0 挂 en_integrity＋en_source_audit（ADR-0052）；s3/r3 挂 check_academic --strict＋check_math_zh --strict；r3 须 --mandate 用户指定终审会话（ADR-0054，缺失即拒）；s24 挂 check_terms＋check_pairs --gate＋check_style（ADR-0063 双轴）、s25 挂 check_math_zh（默认档）＋check_style（specs/028 O1，ADR-0040/0043）；update 任务 s0/s1/s2/s24/s25 证据必须 changes: 开头；进 s3 前历史须有 s0 记录；revert-state 受控回退（合法前驱由 ORDER 单一事实源推导，specs/040） |
 | 登记册解析/折叠原语 | `register_lib.py`（specs/033） | 两登记册键折叠（A/B/C 三口径）、行解析与 A–Z 分节的唯一实现；check_terms/registry_azsort/term_* 为消费方，禁本地副本；口径增删须走 specs/033 §4.5 并全消费方复验 |

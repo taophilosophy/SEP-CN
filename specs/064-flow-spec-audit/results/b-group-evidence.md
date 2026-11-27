@@ -17,7 +17,7 @@
 | `--go` | 删除未跟踪垃圾（目录整体删除，不触碰跟踪文件） | 0；删除失败 1 |
 | `--go`＋`--check/--strict` | 用法错误 | 2 |
 
-- 保护件：`en/`、`yuanwen/`、`baseline/`、`SUMMARY.md`；`baseline/` 同时加入遍历跳过集。
+- 保护件：`en/`、`html/`、`baseline/`、`SUMMARY.md`；`baseline/` 同时加入遍历跳过集。
 - 不消费登记表（G23 未建表）。
 - 修复旧实现“垃圾目录被剪枝但非空目录删不掉”的缺陷：垃圾目录整体作为目标，`--go` 用 `shutil.rmtree` 删除；若目录含跟踪文件则跳过。
 - 单测：`python -m unittest tools.tests.test_clean -v` → **8/8 OK**（覆盖 `*.tmp` 默认 0、strict 保护件缺失退 1、`--go --check` 用法错误 2）。
@@ -37,7 +37,7 @@
 | 项 | 结论 |
 | ---- | ---- |
 | 预期命中 | 硬失败 0；本地常态垃圾 91 项仅报告，不改变退出码 |
-| 本地／CI 同档 | strict 只看保护件 `en/`、`yuanwen/`、`baseline/`、`SUMMARY.md`，本地与 CI 检出均有；垃圾数量差异不影响退出码 |
+| 本地／CI 同档 | strict 只看保护件 `en/`、`html/`、`baseline/`、`SUMMARY.md`，本地与 CI 检出均有；垃圾数量差异不影响退出码 |
 | 接入 | `tools/check_all.py` GATES 增 `("缓存与临时物", "clean", "tools/clean.py --check --strict")`，位于 junk 之后 |
 | 编号 | 以 `--list-gates` 实际输出为准：新增 key `clean`；`check_all` 现 **23 项**（22 GATES＋管线单元测试） |
 | 幂等 | 只读；`--strict` 不删除任何文件 |
@@ -63,4 +63,4 @@
 | B 组闸门 | 无独立闸；B 组出口＝五项完成＋23/23 门禁 |
 | `batch/064-b-end` | 已打（`2491b52e3`） |
 | 未执行 | 未在仓库上跑 `clean.py --go`；91 项本地垃圾仍保留，待用户另行授权清理 |
-| 未改 | `en/`、`yuanwen/`、译文、`tasks/*.json`、`baseline/` |
+| 未改 | `en/`、`html/`、译文、`tasks/*.json`、`baseline/` |

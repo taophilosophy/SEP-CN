@@ -14,8 +14,8 @@
                         （rules/01、ADR-0037；客观违例）；
   7. img-resolve     —— 图片引用解析不到本地文件（客观）。
 
---yuanwen：扫 yuanwen/ 镜像，只查 table-cols 与 img-resolve（镜像保持源样，
-不套 zh 体例）；镜像引用 `../assets/<slug>/…` 相对 yuanwen/<letter>/ 解析。
+--yuanwen：扫 en/ 镜像，只查 table-cols 与 img-resolve（镜像保持源样，
+不套 zh 体例）；镜像引用 `../assets/<slug>/…` 相对 en/<letter>/ 解析。
 --corpus <file>：写出全部表格/图片词条并集清单（020 台账初始化数据）。
 
 口径：
@@ -187,7 +187,7 @@ def iter_zh():
 
 
 def iter_yuanwen():
-    yw = os.path.join(ROOT, 'yuanwen')
+    yw = os.path.join(ROOT, 'en')
     for letter in sorted(os.listdir(yw)):
         d = os.path.join(yw, letter)
         if os.path.isdir(d):

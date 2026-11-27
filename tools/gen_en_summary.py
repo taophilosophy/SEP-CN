@@ -102,7 +102,7 @@ def build(summary_path=SUMMARY, groups=True, base=None):
                     skipped.append((href, title, "占位行标题无英文部分"))
                 continue
             if href.startswith("../") or href.startswith("/"):
-                skipped.append((href, title, "目标不在 yuanwen/ 内"))
+                skipped.append((href, title, "目标不在 en/ 内"))
                 continue
             if not os.path.exists(os.path.join(base, href)):
                 skipped.append((href, title, "en/ 中无此文件"))
@@ -136,11 +136,11 @@ def build(summary_path=SUMMARY, groups=True, base=None):
 
 
 def main(argv=None):
-    ap = argparse.ArgumentParser(description="生成英文空间目录 yuanwen/SUMMARY-en.md")
+    ap = argparse.ArgumentParser(description="生成英文空间目录 en/SUMMARY-en.md")
     ap.add_argument("--check", action="store_true", help="只校验，不写回")
     ap.add_argument("--verbose", action="store_true", help="打印逐条跳过原因")
     ap.add_argument("--summary", default=SUMMARY, help="源目录文件（默认仓库根 SUMMARY.md）")
-    ap.add_argument("--out", default=TARGET, help="输出文件（默认 yuanwen/SUMMARY-en.md）")
+    ap.add_argument("--out", default=TARGET, help="输出文件（默认 en/SUMMARY-en.md）")
     ap.add_argument("--no-groups", action="store_true",
                     help="省略母词条分组行（ADR-0057 回退方案：GitBook 若拒收无链接项则用此形态）")
     args = ap.parse_args(argv)

@@ -6,7 +6,7 @@
 在三个受跟踪文件里积出 536 处直角引号而门禁全绿。本具把该条按全库扫描补上。
 
 范围：`git ls-files '*.md'` 全量，剔除
-  * en/、yuanwen/  —— 英文原始抓取与镜像（源语言文本，非我方译文）；
+  * en/、html/  —— 英文转换镜像与原始抓取（源语言文本，非我方译文）；
   * specs/         —— 历史执行记录（既成事实存档，改则失真）；
   * .zcode/        —— 工具状态目录；
   * node_modules/  —— 依赖；
@@ -33,7 +33,7 @@ BAD = {'\u300c': 'U+300C 「', '\u300d': 'U+300D 」',
        '\u300e': 'U+300E 『', '\u300f': 'U+300F 』'}
 # 合并/储藏冲突标记：行首七连符号（`=======` 是 setext 标题下划线，不查）
 MARKERS = ('<<<<<<< ', '>>>>>>> ', '||||||| ')
-EXCLUDE_PREFIX = ('en/', 'yuanwen/', 'specs/', '.zcode/', 'node_modules/')
+EXCLUDE_PREFIX = ('en/', 'html/', 'specs/', '.zcode/', 'node_modules/')
 ALLOW_FILES = {
     # 日文书名「切れ」の構造：日文正字法，改成弯引号即失真（ADR-0011）
     'j/japanese-aesthetics.md',

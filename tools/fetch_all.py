@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""全量抓取+原文镜像驱动器（用户 2026-10-27 指令：把所有原文按目录抓取到 yuanwen/）。
+"""全量抓取+原文镜像驱动器（用户 2026-10-27 指令：把所有原文按目录抓取到 html/）。
 
 对 baseline/catalog.json 中全部非别名词条（alias_of 为空）执行：
   fetch_entry.fetch_one（并发）→ upsert_baseline → yuanwen.convert_entry

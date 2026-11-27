@@ -56,7 +56,7 @@ class ScanTest(unittest.TestCase):
     def test_excluded_prefix_skipped(self):
         rels = [self.write('specs/s/exec.md', DIRTY),
                 self.write('en/a/page.md', DIRTY),
-                self.write('yuanwen/a/page.md', DIRTY),
+                self.write('html/a/page.md', DIRTY),
                 self.write('a/real.md', DIRTY)]
         hits, allowed = scan(self.root, rels)
         self.assertEqual({h[0] for h in hits}, {'a/real.md'})
