@@ -600,6 +600,48 @@ $$\begin{align*} \text{若 } &o_1 = \{X_1 = a_1, X_2 = b_1, X_3 = c_1\} \text{ �
 
 通过只刻画相关的条件偏好，CP 网避免了枚举所有可能结果之偏好所带来的组合爆炸。CP 网在 AI 驱动的决策中已展现出重要价值，应用于推荐系统与产品配置等领域。它们在计算机科学与人工智能领域引起了相当多的关注，Allen（2015）[^allen-2015] 以及 Cai、Zhan 与 Jiang（2023）等较新工作即体现了这一点。
 
+## 7. 跨研究领域的偏好
+
+### 7.1 偏好与条件逻辑
+
+众所周知，自 1960 年代末与 1970 年代初以来，偏好逻辑 $p\geq^{\forall\exists}q$ 与条件逻辑之间一直存在紧密关系（Lewis 1973）[^lewis-1973]，因为其中一些系统可以相互定义。
+
+例如，如果我偏好鱼胜过肉，偏好肉胜过素食，而我在一家只供应牛排或沙拉的牛排馆，那么在该语境中，我偏好牛排。此类关于偏好与事实的推理把偏好推理与条件推理联系起来。
+
+在可能世界语义学中，这可以从条件逻辑的模型同时也是偏好结构这一事实得到解释。然而，这些偏好逻辑是作为 1960 年代末与 1970 年代初条件逻辑与道义逻辑的对应物发展起来的，与哈勒登和冯·赖特在此前十年发展的偏好逻辑颇为不同。
+
+若我们用 $\varphi\Rightarrow \psi$ 表示条件句“如果 *φ* 那么 *ψ*”，则在适当条件下，我们可以定义：*φ* 优于 *ψ*，当且仅当 $\varphi\lor \psi$ 蕴含 *φ* 而非 *ψ*：
+
+$$\varphi\geq^{\forall\exists} \psi :=\neg ((\varphi\lor \psi)\Rightarrow \neg \varphi).$$
+
+于是我们也有：条件句“如果 *φ* 那么 *ψ*”定义为 $\varphi\land \psi$ 优于 $\varphi\land \neg \psi$：
+
+$$\varphi\Rightarrow \psi := (\psi\land \varphi)>^{\forall\exists}(\neg \psi\land \varphi).$$
+
+由于自然语言中条件句的频繁使用，条件逻辑更受欢迎。我们可以说，一些偏好逻辑在文献中以条件逻辑之名流传，另一些则以道义逻辑之名流传。然而，这一结果并不推出偏好逻辑与条件逻辑是同一回事。一般而言，条件句与比较句之间的关系只得到部分理解（Makinson 1993）[^makinson-1993]。
+
+### 7.2 偏好与道义逻辑
+
+传统道义逻辑常用可能世界语义学解释义务与允许等概念，其中世界按理想性由偏好关系排序。道义公式在当前世界的语境中根据其与这些理想世界的可达性来评价：一个行动是义务性的，当且仅当它出现在从当前世界可达的所有最受偏好的世界中。较佳世界与最佳世界之间的复杂关系已由 Parent（2014）[^parent-2014] 以及 Grossi、Van der Hoek 与 Kuijer（2022）广泛考察。这种排序反映了直观的道义原则，但难以处理冲突与困境，因为单一排序可能无法充分刻画多重且可能不相容的命令。
+
+Makinson（1999）[^makinson-1999] 强调规范（无真值的命令）与道义命题（关于义务或允许、可为真或为假的陈述）之间的区分。他认为这一区分在当代道义逻辑中被忽视，并呼吁把道义逻辑“重构”为以明确命令而非抽象真值条件为基础的系统。在其 2012 年的著作中，Horty 作出了显著贡献：他提出一个理解行动背后理由的框架，以缺省逻辑作为基础结构。他阐明多重理由如何相互作用——相互支持、压倒或冲突——从而决定个体应当做什么。
+
+这些对理由的关注促成了道义逻辑中基于命令的语义学的发展，它相对于明确的命令集来定义道义算子。标准道义系统（例如一元系统与二元系统）已被调整以适应这一模型，并扩展出处理命令之间优先冲突与困境的机制。道义逻辑也采用了双层结构。值得注意的工作包括 Hansen（2008, 2014）[^hansen-2008][^hansen-2014]、Van Benthem、Grossi 与 Liu（2014）以及 Benzmüller、Parent 与 Van der Torre（2020）。
+
+### 7.3 决策论与博弈论中的偏好
+
+在决策论与博弈论中，“偏好”与“偏好关系”概念被用来建模选择，通常带有行为解释。偏好关系的形式性质及其通过效用函数的表征已在文献中得到广泛研究，其中一些甚至早于偏好逻辑。本词条主要强调对偏好的定性进路，后者关注偏好关系的形式性质。相比之下，定量进路通常依赖效用函数以数值方式表征偏好。不确定性下的决策通常用期望值框架建模，该框架把行动者的信念（表示为概率）与效用结合起来以刻画偏好。批判性研究重新审视了偏好理论的基础。例如，Hausman（2012）[^hausman-2012] 区分了作为选择、福利与价值的偏好概念，并提出效用函数能否充分刻画福祉的问题——尤其当定性因素塑造个体偏好时。Fu（2020）提出一种新进路，整合定性与定量方法，以更准确地反映现实决策的复杂性。为把本词条与决策论联系起来，考虑第 4 节所呈现的更丰富双层结构所产生的基于理由偏好的数值化、定量化表征至关重要。
+
+### 7.4 社会选择理论中的偏好
+
+在社会选择理论中，核心问题是如何把个体偏好聚合为连贯的群体偏好。该领域一个著名结果是 Arrow（1951）[^arrow-1951] 的不可能性定理，它表明在满足某些合意条件的前提下构造公平聚合规则的局限。后续研究探索了替代假定，产生了新结果。例如，Andréka、Ryan 与 Schobbens（2002）用图表示选项的替代排序，作为聚合个体偏好的一种方法。List（2022）[^list-2022]（在社会选择理论词条中）对该主题提供了有用综述。在社会环境中，个体偏好往往并不完全独立，而受同伴观点影响。作为一个共同体，思考社会偏好如何随时间演变、稳定偏好能否出现，是颇有意思的问题。Seligman、Liu 与 Girard（2011）以及 Liang 与 Seligman（2011）[^seligman-2011][^seligman-2011-2] 讨论了该主题的逻辑研究。这一研究领域需要探索共同体结构、个体偏好的更新机制以及定义社会偏好的方法。相关洞见可借鉴社会信念方面的研究，如 Shi（2021）[^shi-2021][^shi-2021-2]。演化博弈论也研究了类似问题，特别是所谓社会偏好的“间接演化进路”。例如，Bowles 与 Gintis（2011）考察利他、公平与合作等亲社会偏好如何演化并达到稳定。
+
+## 8. 结论
+
+偏好逻辑为理解行动者如何比较情境并作出决策提供了一个多用途框架。本词条综述了该领域的关键发展，追溯其从句法与算法进路到语义框架的演变。它还着重介绍了关于双层结构的最新研究——这些结构源于内在偏好与外在偏好的区分，强调理由在塑造偏好中的作用。
+
+对偏好改变的研究以及 **其他条件不变** 偏好的概念，突显了偏好逻辑的动态与实践面向，尤其是在决策语境中。这些框架将继续作为应对未来挑战、推进该领域研究的基础。
+
 ## 脚注
 
 [^halldén-1957]: Halldén, Sören, 1957, *On the Logic of “Better”* (Library of Theoria 2), Lund: C.W.K. Gleerup.
@@ -667,3 +709,23 @@ $$\begin{align*} \text{若 } &o_1 = \{X_1 = a_1, X_2 = b_1, X_3 = c_1\} \text{ �
 [^wilson-2004]: Wilson, Nic, 2004, “Extending CP-Nets with Stronger Conditional Preference Statements”, in *Proceedings of the 19th National Conference on Artificial Intelligence (AAAI’04)*, Deborah L. McGuinness and George Ferguson (eds), San Jose, CA: AAAI Press, 735–741. [[Wilson 2004 available online](https://aaai.org/papers/00735-AAAI04-116-extending-cp-nets-with-stronger-conditional-preference-statements/)]
 
 [^allen-2015]: Allen, Thomas E., 2015, “CP-Nets: From Theory to Practice”, in *Algorithmic Decision Theory* (Lecture Notes in Computer Science 9346), Toby Walsh (ed.), Cham: Springer, 555–560.
+
+[^parent-2014]: Parent, Xavier, 2014, “Maximality vs. Optimality in Dyadic Deontic Logic”, *Journal of Philosophical Logic*, 43(6): 1101–1128. doi:10.1007/s10992-013-9308-0
+
+[^makinson-1999]: –––, 1999, “On a Fundamental Problem of Deontic Logic”, in *Norms, Logics and Information Systems. New Studies on Deontic Logic and Computer Science*, Paul McNamara and Henry Prakken (eds), Amsterdam: IOS Press, 29–53.
+
+[^hansen-2014]: –––, 2014, “Reasoning about Permission and Obligation”, in *David Makinson on Classical Methods for Non-Classical Problems* (Outstanding Contributions to Logic 5), Sven Ove Hansson and David Makinson (eds), Dordrecht: Springer, 255–280. doi:10.1007/978-94-007-7759-0_14
+
+[^hausman-2012]: Hausman, Daniel M., 2012, *Preference, Value, Choice, and Welfare*, Cambridge/New York: Cambridge University Press. doi:10.1017/cbo9781139058537
+
+[^arrow-1951]: Arrow, Kenneth J., 1951, *Social Choice and Individual Values* (Yale University. Cowles Foundation for Research in Economics 12), New York: John Wiley & Sons.
+
+[^list-2022]: List, Christian, 2022, “Social Choice Theory”, in *The Stanford Encyclopedia of Philosophy* (Winter 2022), Edward N. Zalta and Uri Nodelman (eds), URL = <[https://plato.stanford.edu/archives/win2022/entries/social-choice/](https://plato.stanford.edu/archives/win2022/entries/social-choice/)>. First published 2013.
+
+[^seligman-2011]: Seligman, Jeremy and Patrick Girard, 2011, “Flexibility in Ceteris Paribus Reasoning”, *The Australasian Journal of Logic*, 10: 67–99. doi:10.26686/ajl.v10i0.1826
+
+[^seligman-2011-2]: Seligman, Jeremy, Fenrong Liu, and Patrick Girard, 2011, “Logic in the Community”, in *Logic and Its Applications: Fourth Indian Conference (ICLA 2011)* (Lecture Notes in Computer Science 6521), Mohua Banerjee and Anil Seth (eds.), Berlin/Heidelberg: Springer, 178–188. doi:10.1007/978-3-642-18026-2_15
+
+[^shi-2021]: Shi, Chenwei, 2021, “Collective Opinion as Tendency Towards Consensus”, *Journal of Philosophical Logic*, 50(3): 593–613. doi:10.1007/s10992-020-09579-0
+
+[^shi-2021-2]: Shi, Chenwei and Yang Sun, 2021, “Logic of Convex Order”, *Studia Logica*, 109(5): 1019–1047. doi:10.1007/s11225-020-09940-z
