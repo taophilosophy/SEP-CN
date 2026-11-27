@@ -1769,7 +1769,7 @@
 * [Moral Dilemmas (Terrance McConnell)](m/moral-dilemmas.md)
 * [Moral Disagreement (Folke Tersman)](d/disagreement-moral.md)
 * [Moral Epistemology (Richmond Campbell)](m/moral-epistemology.md)
-  * [A Priorism in Moral Epistemology (Michael DePaul, Amelia Hicks)](m/moral-epistemology-a-priori.md)
+  * [A Priorism in Moral Epistemology (Elijah Chudnoff)](m/moral-epistemology-a-priori.md)
 * moral generalism — see Moral Particularism and Moral Generalism
 * [Intuitionism in Ethics (Matthew S. Bedke)](i/intuitionism-ethics.md)
 * morality

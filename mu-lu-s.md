@@ -3419,7 +3419,7 @@ outline: [1, 6]
 #### 道德认识论与直觉
 
 * [道德认识论 Moral Epistemology (Richmond Campbell)](m/moral-epistemology.md)
-* [道德认识论中的先验主义 A Priorism in Moral Epistemology (Michael DePaul、Amelia Hicks)](m/moral-epistemology-a-priori.md)
+* [道德认识论中的先验主义 A Priorism in Moral Epistemology (Elijah Chudnoff)](m/moral-epistemology-a-priori.md)
 * [道德直觉主义 Intuitionism in Ethics (Matthew S. Bedke)](i/intuitionism-ethics.md)
 
 #### 分歧与特殊主义

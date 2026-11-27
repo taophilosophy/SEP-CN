@@ -1796,7 +1796,7 @@
 * [道德困境 Moral Dilemmas (Terrance McConnell)](m/moral-dilemmas.md)
 * [道德分歧 Moral Disagreement (Folke Tersman)](d/disagreement-moral.md)
 * [道德认识论 Moral Epistemology (Richmond Campbell)](m/moral-epistemology.md)
-  * [道德认识论中的先验主义 A Priorism in Moral Epistemology (Michael DePaul、Amelia Hicks)](m/moral-epistemology-a-priori.md)
+  * [道德认识论中的先验主义 A Priorism in Moral Epistemology (Elijah Chudnoff)](m/moral-epistemology-a-priori.md)
 * \*道德普遍主义——见道德普遍主义：道德特殊主义与道德普遍主义 moral generalism — see Moral Particularism and Moral Generalism
 * [道德直觉主义 Intuitionism in Ethics (Matthew S. Bedke)](i/intuitionism-ethics.md)
 * \*道德 morality
