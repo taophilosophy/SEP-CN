@@ -1,7 +1,7 @@
 # 任务清单：064 全流程全要素审计与规范化
 
 - 输入：`specs/064-flow-spec-audit/spec.md`（rev 21）、`plan.md`、`results/axioms-v3.md`、`results/axioms-tasks.md`、`results/test-coverage.md`、`results/target-workflow.md`、`results/exploration-2026-11-27.md`
-- 状态：**50 项已验证（T131、T168、T169、T130、T020–T024、T132、T133、T134、T135、T136、T137、T185、T186、T187、T188、T189、T190、T139、T191、T192、T141、T193、T194、T195、T143、T196、T197、T198、T199、T200、T201、T145、T146、T147、T148、T149、T150、T151、T152、T202、T203、T204、T205、T206、T207、T208）；0 项部分执行；75 项未开始；0 项撤销**。合计 **125 个编号（全部有效）**；habermas 已 `done`；logic-preference **已 `done`**；environmental-aesthetics `rv-09_checked`（T149–T152 完成，T153 sg 链未启动）；**S16 临时布局迁移 T202–T208 已完成**。2026-11-26 全部批准十项建议＋流程 v2；2026-11-27 全部批准探索建议书 EP-01–09；2026-11-27 迁移轨 S0＋S3–S9 共 37 项全部批准实施（R0–R7）；A／B 组与 C 组 T132–T137 已完成，其余维持“已批准、待执行”
+- 状态：**50 项已验证（T131、T168、T169、T130、T020–T024、T132、T133、T134、T135、T136、T137、T185、T186、T187、T188、T189、T190、T139、T191、T192、T141、T193、T194、T195、T143、T196、T197、T198、T199、T200、T201、T145、T146、T147、T148、T149、T150、T151、T152、T202、T203、T204、T205、T206、T207、T208）；0 项部分执行；75 项未开始；0 项撤销**。合计 **125 个编号（全部有效）**；habermas 已 `done`；logic-preference **已 `done`**；environmental-aesthetics `sg-02_checked`（T149–T152 完成，T153 sg-01／sg-02 完成；sg-03 待用户 mandate）；**S16 临时布局迁移 T202–T208 已完成**。2026-11-26 全部批准十项建议＋流程 v2；2026-11-27 全部批准探索建议书 EP-01–09；2026-11-27 迁移轨 S0＋S3–S9 共 37 项全部批准实施（R0–R7）；A／B 组与 C 组 T132–T137 已完成，其余维持“已批准、待执行”
 - **删除记录（rev21）**：S1 登记表 7 项、S11 案 B 5 项、S-1 案 B 复核 1 项已从本书**直接删除**，不保留 `[撤销]` 行；精确清单见 spec §11 rev21／§15（本文件不再引用已删 T 号）
 - 新增落点：**T166（G4 测试）、T167（G6＋G8 ADR）、T168（G24／G25 治理）、T169（标准回写）、T170–T175（S14 学术翻译出版流程 v2）、T176–T184（S15 探索批准项 EP-01–09）**；**T168／T169 已于 2026-11-27 完成**，其余均为“已批准、待执行”
 - **执行排程**：`results/schedule.md`（W0–W7、W0b、G0–G5、11 件逐件表；探索批准项 E0–E5）是唯一排程源；本清单只定义工作项，不复制波次。**a／b 组已完成；C 组 T132–T137 完成，habermas 全链完成并 `done`；logic-preference ex-04、T143 样章、T196（§3）、T197（§4）、T198（§5）、T199（§6）、T200（§7–§8）、T201（收口）、T145（tr-03／tr-04）、T146（rv-01／rv-02／rv-09）、T147（rv-03–08 六轴）、T148（sg-01／sg-02）完成并至 `sg-02_checked`；sg-03 待用户 mandate；environmental-aesthetics T149 ex-04、T150 样章、T151 全量、T152 校次与六轴完成并至 `rv-09_checked`；S16 临时布局迁移 T202–T208 全部完成并收口**。
@@ -67,7 +67,7 @@
 - [x] T150 [S-1] tr-02 样章（§1–§2）——**已完成**（2026-11-27：`zh/e/environmental-aesthetics.md` §1–§2＋导论入库，480 行／8,125 汉字；193 个不同脚注键全部闭合、443 处标记；无公式；check_style／check_quotes／check_math_zh 0、check_terms 硬 0、check_academic 在途无硬错误；check_pairs 仅样章范围缺口；证据 `results/t150-review.md`）；验收：文献键位与脚注配对
 - [x] T151 [S-1] tr-02 全量——**已完成**（2026-11-27：全文 961 行／15,007 汉字；96 正文块与 en 96 块一致；369 条脚注定义、489 处标记（341 键）；尾节四件套＋致谢；账本 98 段（96 body＋2 oir）守恒；check_pairs 0 issue、check_style／check_quotes／check_math_zh 0、check_terms 硬 0、check_academic --strict 无硬错误、check_all 23/23；证据 `results/t151-review.md`）；验收：全文入库
 - [x] T152 [S-1] 校次链与 rv 链（重点 q1 引文）——**已完成**（2026-11-27：tr-03 98 段守恒、tr-04 `check_prose` 19→2（2 豁免）；rv-01 六组术语按册统一、22 人名 D5 豁免；rv-02 密度与冷置回读；rv-03 引文 18 候选（pass 9／waived 9）；rv-04 380 句、候选 15 全 equivalent；rv-05 语法 2 豁免；rv-06 4 节 R-1；rv-07 计量 0；rv-08 标点 3 条处置；rv-09 体例终校通过；状态至 `rv-09_checked`；证据 `results/t152-tr03/tr04/rv01–rv09.md`）；验收：引文 hash 锁定
-- [ ] T153 [S-1] sg 链——验收：同 T141；分节点执行
+- [ ] T153 [S-1] sg 链——**部分完成（sg-01／sg-02）**（2026-11-27：sg-01 初审四维通过、无 Critical／Major（`results/t153-sg01.md`）；sg-02 复审逻辑链与跨节呼应一致、无 Critical／Major（`results/t153-sg02.md`）；状态至 `sg-02_checked`；sg-03 终审须用户显式 `--mandate`）；验收：同 T141；分节点执行
 
 ### 第二梯队（工作包；核心 3 件至 sg-02 后启用，执行前须拆站段）
 

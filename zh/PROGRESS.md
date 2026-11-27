@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md（结构）、baseline/entries.json（基线）、journal/（进度事实）、tasks/（仅调度侧阻塞）。 -->
 
-生成时间：2026-11-27 10:34（UTC）
+生成时间：2026-11-27 10:35（UTC）
 
 ## 总览
 
@@ -50,8 +50,8 @@
 |rv-07|3|
 |rv-08|3|
 |rv-09|3|
-|sg-01|2|
-|sg-02|2|
+|sg-01|3|
+|sg-02|3|
 |sg-03|2|
 |tr-01|0|
 |tr-02|3|
@@ -94,4 +94,4 @@
 
 |slug|已过节点数|已过节点|
 |---|---|---|
-|environmental-aesthetics|13|ex-04 rv-01 rv-02 rv-03 rv-04 rv-05 rv-06 rv-07 rv-08 rv-09 tr-02 tr-03 tr-04|
+|environmental-aesthetics|15|ex-04 rv-01 rv-02 rv-03 rv-04 rv-05 rv-06 rv-07 rv-08 rv-09 sg-01 sg-02 tr-02 tr-03 tr-04|
