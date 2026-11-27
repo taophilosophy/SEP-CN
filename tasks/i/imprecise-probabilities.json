@@ -2,8 +2,16 @@
   "slug": "imprecise-probabilities",
   "kind": "retranslate",
   "zh_doc": "zh/i/imprecise-probabilities.md",
-  "state": "cleared",
-  "steps": [],
+  "state": "ex-04_checked",
+  "steps": [
+    {
+      "step": "ex-04",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-27T10:59:27Z",
+      "evidence": "ex-04 源审计完成（results/t209-review.md）：en_integrity clean 1/1；en_source_audit hard 0、warn 10；check_math 370（display 4＋行内 366）、missing 0、unbalanced 6。16 条候选逐条回源，全部 false-positive（存档 URL 7、数学占位 1、标题相邻 1、年份后缀 1、美元数字启发式 6），无 Critical/Major，不建勘误与补丁。14 类构件复核命中 12/14（无嵌套列表、无代码块）；脚注定义 189 条键闭合、引用 179 处、唯一键 137；图 2 资产在位；表 1 五行四列；LaTeX 环境 1。G13 无需建清单。版本钉 Feb 19, 2019／Spring 2019／ae9016a1…0767。"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-01T10:29:58Z",
   "version_pin": {

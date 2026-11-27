@@ -25,10 +25,10 @@
 
 | 件 | 梯队 | 任务 | 关键验收 | 状态 |
 | ---- | ---- | ---- | ---- | ---- |
-| `h/habermas` | 一 | T130、T132–T141 | 5 候选定性；22 节点行；公式与引文样本 | 未启动 |
-| `l/logic-preference` | 一 | T142–T148 | 417 处行内公式无损（实测；原 362 为旧口径） | 未启动 |
-| `e/environmental-aesthetics` | 一 | T149–T153 | 369 条文献键位与脚注配对 | 未启动 |
-| `i/imprecise-probabilities` | 二 | T154 | 14 类构件无丢失 | 未启动 |
+| `h/habermas` | 一 | T130、T132–T141 | 5 候选定性；22 节点行；公式与引文样本 | 已完成（`done`） |
+| `l/logic-preference` | 一 | T142–T148 | 417 处行内公式无损（实测；原 362 为旧口径） | 已完成（`done`） |
+| `e/environmental-aesthetics` | 一 | T149–T153 | 369 条文献键位与脚注配对 | 已完成（`done`） |
+| `i/imprecise-probabilities` | 二 | T154（T209–T214） | 14 类构件无丢失（命中 12/14） | 进行中（T209 完成，`ex-04_checked`） |
 | `a/action` | 二 | T155 | 长文＋引文双密集口径 | 未启动 |
 | `a/axiom-choice` | 二 | T156 | 530 行内公式＋8 块＋4 表无损 | 未启动 |
 | `n/newton-principia` | 二 | T157 | 36,082 汉字＋3 图版式 | 未启动 |
