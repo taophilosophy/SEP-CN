@@ -16,7 +16,7 @@
     "system": "DeepSeek-V4.1-Flash",
     "disclosure": "任务 evidence 与词条译后编辑记录"
   },
-  "state": "rv-01_checked",
+  "state": "rv-02_checked",
   "steps": [
     {
       "step": "ex-04",
@@ -52,6 +52,13 @@
       "actor": "trae-main",
       "at": "2026-11-27T03:17:19Z",
       "evidence": "T136 三轴完成：术语轴登记 civil society (Habermas)=公民社会、legitimacy (Habermas)=合法性并统一正文；check_terms 硬错误 0（Müller-Doohm 引用组豁免）；体例轴 check_pairs/check_style 0 issue；勘误轴两条照录区一致；证据 results/t136-review.md"
+    },
+    {
+      "step": "rv-02",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-27T03:29:41Z",
+      "evidence": "T137 rv-02 两轴完成：239 段守恒；scan markers 156/156、defs 254/254、tail 0；密度（破折号 47、一个 72）与语体冷读留痕；check_pairs/check_style/check_academic --strict/check_math_zh 0；单会话盲区按全局密度＋冷读补偿；证据 results/t137-review.md"
     }
   ],
   "blockers": [],
