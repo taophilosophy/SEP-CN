@@ -68,9 +68,9 @@ segments:
     source: |-
       In AI systems where decisions must be made, preferences often need to be represented concisely. One central notion in this context is *ceteris paribus* preference, which enables reasoning about preferences such as “*A* is preferable to *B*, all else being equal”. This concept has been studied extensively in logic and also forms the basis for frameworks like CP-nets (conditional preference networks) in the computer science literature. CP-nets is a well-known visual language that balances expressive power with computational efficiency. Accordingly, this entry devotes significant attention to *ceteris paribus* preferences.
     step1: |-
-      在必须作出决策的 AI 系统中，偏好往往需要被简洁地表征。此语境下的一个核心概念是 **其他条件不变** 偏好，它使如下推理成为可能：“*A* 比 *B* 更可取，其余条件相同”。这一概念已在逻辑学中得到广泛研究，也构成计算机科学文献中 CP-nets（条件偏好网络）等框架的基础。CP-nets 是一种著名的可视化语言，在表达力与计算效率之间取得平衡。因此，本词条对 **其他条件不变** 偏好给予相当多的关注。
+      在必须决策的 AI 系统中，偏好往往需要被简洁地表征。此语境下的一个核心概念是 **其他条件不变** 偏好，它使如下推理成为可能：“*A* 比 *B* 更可取，其余条件相同”。这一概念已在逻辑学中得到广泛研究，也构成计算机科学文献中 CP-nets（条件偏好网络）等框架的基础。CP-nets 是一种著名的可视化语言，在表达力与计算效率之间取得平衡。因此，本词条对 **其他条件不变** 偏好给予相当多的关注。
     step2: |-
-      在必须作出决策的 AI 系统中，偏好往往需要被简洁地表征。此语境下的一个核心概念是 **其他条件不变** 偏好，它使如下推理成为可能：“*A* 比 *B* 更可取，其余条件相同”。这一概念已在逻辑学中得到广泛研究，也构成计算机科学文献中 CP-nets（条件偏好网络）等框架的基础。CP-nets 是一种著名的可视化语言，在表达力与计算效率之间取得平衡。因此，本词条对 **其他条件不变** 偏好给予相当多的关注。
+      在必须决策的 AI 系统中，偏好往往需要被简洁地表征。此语境下的一个核心概念是 **其他条件不变** 偏好，它使如下推理成为可能：“*A* 比 *B* 更可取，其余条件相同”。这一概念已在逻辑学中得到广泛研究，也构成计算机科学文献中 CP-nets（条件偏好网络）等框架的基础。CP-nets 是一种著名的可视化语言，在表达力与计算效率之间取得平衡。因此，本词条对 **其他条件不变** 偏好给予相当多的关注。
   - id: 9
     kind: body
     source: |-
@@ -343,9 +343,9 @@ segments:
     source: |-
       The second point of reference is *The Logic of Preference* by von Wright (1963)[^wright-1963]. In this book, von Wright distinguishes between three groups of concepts related to preferences while also noting that there are no sharp divisions between them. The relevant concept grouping is: deontological concepts (right, duty, command, prohibition), axiological concepts (good, evil, betterness), and anthropological concepts (need, want, decision, choice). These notions are explored in deontic logic and decision theory, and they intersect with preference logic. The connection will be discussed in Section 7. Von Wright also makes key distinctions that are relevant to the later development of preference logic:
     step1: |-
-      第二个参照点是冯·赖特（1963）[^wright-1963] 的《偏好逻辑》。在该书中，冯·赖特区分了三组与偏好相关的概念，同时指出它们之间并无截然分界。相关的概念分组是：道义概念（正当、义务、命令、禁令）、价值论概念（善、恶、更好），以及人类学概念（需要、想要、决定、选择）。这些概念在道义逻辑与决策理论中得到探讨，并与偏好逻辑相交；其联系将在第 7 节讨论。冯·赖特还作出若干对偏好逻辑后续发展至关重要的区分：
+      第二个参照点是冯·赖特（1963）[^wright-1963] 的《偏好逻辑》。在该书中，冯·赖特区分了三组与偏好相关的概念，同时指出它们之间并无截然分界。相关的概念分组是：道义概念（正当、义务、命令、禁令）、价值论概念（善、恶、更好），以及人类学概念（需要、想要、决定、选择）。这些概念在道义逻辑与决策理论中得到探讨，并与偏好逻辑相交；其联系将在第 7 节讨论。冯·赖特还提出若干对偏好逻辑后续发展至关重要的区分：
     step2: |-
-      第二个参照点是冯·赖特（1963）[^wright-1963] 的《偏好逻辑》。在该书中，冯·赖特区分了三组与偏好相关的概念，同时指出它们之间并无截然分界。相关的概念分组是：道义概念（正当、义务、命令、禁令）、价值论概念（善、恶、更好），以及人类学概念（需要、想要、决定、选择）。这些概念在道义逻辑与决策理论中得到探讨，并与偏好逻辑相交；其联系将在第 7 节讨论。冯·赖特还作出若干对偏好逻辑后续发展至关重要的区分：
+      第二个参照点是冯·赖特（1963）[^wright-1963] 的《偏好逻辑》。在该书中，冯·赖特区分了三组与偏好相关的概念，同时指出它们之间并无截然分界。相关的概念分组是：道义概念（正当、义务、命令、禁令）、价值论概念（善、恶、更好），以及人类学概念（需要、想要、决定、选择）。这些概念在道义逻辑与决策理论中得到探讨，并与偏好逻辑相交；其联系将在第 7 节讨论。冯·赖特还提出若干对偏好逻辑后续发展至关重要的区分：
   - id: 43
     kind: body
     source: |-
@@ -1174,9 +1174,9 @@ segments:
     source: |-
       An *extrinsic preference* arises when one option is preferred over another because it is regarded as better in a specific respect. For example, in von Wright’s example, one person prefers claret over hock because it is beneficial for her health. Here, the preference for claret is extrinsic since it is based on an objective judgment about health benefits. Extrinsic preferences are thus tied to some underlying rationales, often involving external factors like health, practicalities, or expert advice.
     step1: |-
-      **外在偏好** 出现在一个选项因在特定方面被认为更好而胜过另一选项之时。例如，在冯·赖特的例子中，某人偏好红葡萄酒胜过白葡萄酒，因为前者有益于她的健康。这里对红葡萄酒的偏好是外在的，因为它基于关于健康益处的客观判断。外在偏好因此与某种底层理据相联系，往往涉及健康、实际考虑或专家建议等外部因素。
+      **外在偏好** 出现在一个选项因在特定方面被认为更好而胜过另一选项之时。例如，在冯·赖特的例子中，某人偏好红葡萄酒胜过白葡萄酒，因为前者有益于她的健康。这里，对红葡萄酒的偏好属外在偏好，因为它基于对健康益处的客观判断。外在偏好因此与某种底层理据相联系，往往涉及健康、实际考虑或专家建议等外部因素。
     step2: |-
-      **外在偏好** 出现在一个选项因在特定方面被认为更好而胜过另一选项之时。例如，在冯·赖特的例子中，某人偏好红葡萄酒胜过白葡萄酒，因为前者有益于她的健康。这里对红葡萄酒的偏好是外在的，因为它基于关于健康益处的客观判断。外在偏好因此与某种底层理据相联系，往往涉及健康、实际考虑或专家建议等外部因素。
+      **外在偏好** 出现在一个选项因在特定方面被认为更好而胜过另一选项之时。例如，在冯·赖特的例子中，某人偏好红葡萄酒胜过白葡萄酒，因为前者有益于她的健康。这里，对红葡萄酒的偏好属外在偏好，因为它基于对健康益处的客观判断。外在偏好因此与某种底层理据相联系，往往涉及健康、实际考虑或专家建议等外部因素。
   - id: 139
     kind: body
     source: |-
@@ -1222,9 +1222,9 @@ segments:
     source: |-
       A two-layer structure consists of a priority base and preferences. A *priority base* is a set of properties ranked according to an agent’s considerations. Consider the example of Alice, who is deciding which house to buy. She evaluates each house based on three criteria—cost, quality, and neighborhood—in that order of importance. For Alice, the cost of a house is good if it fits her budget; otherwise, it is bad. Her decision is thus guided by whether the house meets her prioritized criteria and the relative importance of those criteria.
     step1: |-
-      双层结构由优先基与偏好组成。**优先基** 是一组按行动者考量排序的属性。考虑爱丽丝决定买哪栋房子的例子。她按成本、质量、邻里环境这一重要性顺序，用三项标准评价每栋房子。对爱丽丝来说，一栋房子的成本若符合她的预算就是好的，否则就是坏的。因此，她的决定由房子是否满足其优先标准以及这些标准的相对重要性引导。
+      双层结构由优先基与偏好组成。**优先基** 是一组按行动者考量排序的属性。考虑爱丽丝决定买哪栋房子的例子。她按成本、质量、邻里环境这一重要性顺序，用三项标准评价每栋房子。对爱丽丝来说，房子的成本若符合其预算即为好，否则为坏。因此，她的决定由房子是否满足其优先标准以及这些标准的相对重要性引导。
     step2: |-
-      双层结构由优先基与偏好组成。**优先基** 是一组按行动者考量排序的属性。考虑爱丽丝决定买哪栋房子的例子。她按成本、质量、邻里环境这一重要性顺序，用三项标准评价每栋房子。对爱丽丝来说，一栋房子的成本若符合她的预算就是好的，否则就是坏的。因此，她的决定由房子是否满足其优先标准以及这些标准的相对重要性引导。
+      双层结构由优先基与偏好组成。**优先基** 是一组按行动者考量排序的属性。考虑爱丽丝决定买哪栋房子的例子。她按成本、质量、邻里环境这一重要性顺序，用三项标准评价每栋房子。对爱丽丝来说，房子的成本若符合其预算即为好，否则为坏。因此，她的决定由房子是否满足其优先标准以及这些标准的相对重要性引导。
   - id: 145
     kind: body
     source: |-
@@ -1503,9 +1503,9 @@ segments:
     source: |-
       This logic framework enables structured reasoning that incorporates specific reasons behind preferences, allowing for a nuanced representation of choices grounded in real-life decision-making contexts.
     step1: |-
-      这一逻辑框架使结构化推理得以纳入偏好背后的具体理由，从而在现实决策语境中对选择作出细致表征。
+      这一逻辑框架使结构化推理能够纳入偏好背后的具体理由，从而在现实决策语境中细致地表征选择。
     step2: |-
-      这一逻辑框架使结构化推理得以纳入偏好背后的具体理由，从而在现实决策语境中对选择作出细致表征。
+      这一逻辑框架使结构化推理能够纳入偏好背后的具体理由，从而在现实决策语境中细致地表征选择。
   - id: 179
     kind: body
     source: |-
@@ -1720,9 +1720,9 @@ segments:
     source: |-
       Learning that the sushi was made with old fish changes my belief, which then reverses my initial preference. Here, preference change is a consequence of belief change, making belief change the key element to model.
     step1: |-
-      得知寿司用不新鲜的鱼制作改变了我的信念，进而逆转了我最初的偏好。在这里，偏好改变是信念改变的结果，因此信念改变成为建模的关键要素。
+      得知这寿司用不新鲜的鱼做成后，我改变了信念，偏好也随之逆转。在这里，偏好改变是信念改变的结果，因此信念改变成为建模的关键要素。
     step2: |-
-      得知寿司用不新鲜的鱼制作改变了我的信念，进而逆转了我最初的偏好。在这里，偏好改变是信念改变的结果，因此信念改变成为建模的关键要素。
+      得知这寿司用不新鲜的鱼做成后，我改变了信念，偏好也随之逆转。在这里，偏好改变是信念改变的结果，因此信念改变成为建模的关键要素。
   - id: 205
     kind: body
     source: |-
@@ -2030,9 +2030,9 @@ segments:
     source: |-
       *Ceteris paribus* preference refers to a way of expressing preferences under the condition of “all else being equal”. It allows agents to state that one option is preferred over another while assuming that all other relevant factors remain constant. In AI systems for decision-making, a CP-net is a graphical model used to represent conditional preferences. It relies on the principle that comparisons between options are made under the assumption that other factors are unchanged, which aligns closely with the concept of *ceteris paribus*.
     step1: |-
-      **其他条件不变** 偏好指在“其余条件相同”的条件下表达偏好的一种方式。它使行动者能够断言某一选项优于另一选项，同时假定其他所有相关因素保持不变。在用于决策的 AI 系统中，CP 网是一种用于表征条件偏好的图模型。它依赖如下原则：选项之间的比较是在其他因素不变的假定下作出的，这与 **其他条件不变** 概念高度契合。
+      **其他条件不变** 偏好指在“其余条件相同”的条件下表达偏好的一种方式。它使行动者能够断言某一选项优于另一选项，同时假定其他所有相关因素保持不变。在用于决策的 AI 系统中，CP 网是一种用于表征条件偏好的图模型。它依赖这一原则：比较选项时假定其他因素不变，这与 **其他条件不变** 概念高度契合。
     step2: |-
-      **其他条件不变** 偏好指在“其余条件相同”的条件下表达偏好的一种方式。它使行动者能够断言某一选项优于另一选项，同时假定其他所有相关因素保持不变。在用于决策的 AI 系统中，CP 网是一种用于表征条件偏好的图模型。它依赖如下原则：选项之间的比较是在其他因素不变的假定下作出的，这与 **其他条件不变** 概念高度契合。
+      **其他条件不变** 偏好指在“其余条件相同”的条件下表达偏好的一种方式。它使行动者能够断言某一选项优于另一选项，同时假定其他所有相关因素保持不变。在用于决策的 AI 系统中，CP 网是一种用于表征条件偏好的图模型。它依赖这一原则：比较选项时假定其他因素不变，这与 **其他条件不变** 概念高度契合。
   - id: 243
     kind: body
     source: |-
@@ -2460,17 +2460,17 @@ segments:
     source: |-
       Makinson (1999)[^makinson-1999] emphasized the distinction between norms (imperatives without truth values) and deontic propositions (statements about obligations or permissions that can be true or false). He argued that this distinction has been overlooked in contemporary deontic logic and called for a “reconstruction” of deontic logic as a system grounded in explicit imperatives rather than abstract truth conditions. In his 2012 book, Horty made a notable contribution when he proposed a framework for understanding the reasons behind actions which employed default logic as its foundational structure. He elucidated how multiple reasons interact—supporting, overriding, or conflicting with one another—to determine what individuals ought to do.
     step1: |-
-      Makinson（1999）[^makinson-1999] 强调规范（无真值的命令）与道义命题（关于义务或允许、可为真或为假的陈述）之间的区分。他认为这一区分在当代道义逻辑中被忽视，并呼吁把道义逻辑“重构”为以明确命令而非抽象真值条件为基础的系统。在其 2012 年的著作中，Horty 作出了显著贡献：他提出一个理解行动背后理由的框架，以缺省逻辑作为基础结构。他阐明多重理由如何相互作用——相互支持、压倒或冲突——从而决定个体应当做什么。
+      Makinson（1999）[^makinson-1999] 强调规范（无真值的命令）与道义命题（关于义务或允许、可为真或为假的陈述）之间的区分。他认为这一区分在当代道义逻辑中被忽视，并呼吁把道义逻辑“重构”为以明确命令而非抽象真值条件为基础的系统。在其 2012 年的著作中，Horty 的贡献尤为显著：他提出一个理解行动背后理由的框架，以缺省逻辑作为基础结构。他阐明多重理由如何相互作用——相互支持、压倒或冲突——从而决定个体应当做什么。
     step2: |-
-      Makinson（1999）[^makinson-1999] 强调规范（无真值的命令）与道义命题（关于义务或允许、可为真或为假的陈述）之间的区分。他认为这一区分在当代道义逻辑中被忽视，并呼吁把道义逻辑“重构”为以明确命令而非抽象真值条件为基础的系统。在其 2012 年的著作中，Horty 作出了显著贡献：他提出一个理解行动背后理由的框架，以缺省逻辑作为基础结构。他阐明多重理由如何相互作用——相互支持、压倒或冲突——从而决定个体应当做什么。
+      Makinson（1999）[^makinson-1999] 强调规范（无真值的命令）与道义命题（关于义务或允许、可为真或为假的陈述）之间的区分。他认为这一区分在当代道义逻辑中被忽视，并呼吁把道义逻辑“重构”为以明确命令而非抽象真值条件为基础的系统。在其 2012 年的著作中，Horty 的贡献尤为显著：他提出一个理解行动背后理由的框架，以缺省逻辑作为基础结构。他阐明多重理由如何相互作用——相互支持、压倒或冲突——从而决定个体应当做什么。
   - id: 293
     kind: body
     source: |-
       These concerns with reasons led to the development of imperative-based semantics in deontic logic, which defines deontic operators in relation to explicit sets of imperatives. Standard deontic systems (e.g., monadic and dyadic systems) have been adapted to fit this model, with extensions for handling priority conflicts and dilemmas between imperatives. A two-layer structure has also been adopted for deontic logic. Notable works include those of Hansen (2008, 2014)[^hansen-2008][^hansen-2014]; Van Benthem, Grossi, and Liu (2014); and Benzmüller, Parent, and Van der Torre (2020).
     step1: |-
-      这些对理由的关注促成了道义逻辑中基于命令的语义学的发展，它相对于明确的命令集来定义道义算子。标准道义系统（例如一元系统与二元系统）已被调整以适应这一模型，并扩展出处理命令之间优先冲突与困境的机制。道义逻辑也采用了双层结构。值得注意的工作包括 Hansen（2008, 2014）[^hansen-2008][^hansen-2014]、Van Benthem、Grossi 与 Liu（2014）以及 Benzmüller、Parent 与 Van der Torre（2020）。
+      这些对理由的关注促成了一种基于命令的语义学在道义逻辑中兴起，它相对于明确的命令集来定义道义算子。标准道义系统（例如一元系统与二元系统）已被调整以适应这一模型，并扩展出处理命令之间优先冲突与困境的机制。道义逻辑也采用了双层结构。值得注意的工作包括 Hansen（2008, 2014）[^hansen-2008][^hansen-2014]、Van Benthem、Grossi 与 Liu（2014）以及 Benzmüller、Parent 与 Van der Torre（2020）。
     step2: |-
-      这些对理由的关注促成了道义逻辑中基于命令的语义学的发展，它相对于明确的命令集来定义道义算子。标准道义系统（例如一元系统与二元系统）已被调整以适应这一模型，并扩展出处理命令之间优先冲突与困境的机制。道义逻辑也采用了双层结构。值得注意的工作包括 Hansen（2008, 2014）[^hansen-2008][^hansen-2014]、Van Benthem、Grossi 与 Liu（2014）以及 Benzmüller、Parent 与 Van der Torre（2020）。
+      这些对理由的关注促成了一种基于命令的语义学在道义逻辑中兴起，它相对于明确的命令集来定义道义算子。标准道义系统（例如一元系统与二元系统）已被调整以适应这一模型，并扩展出处理命令之间优先冲突与困境的机制。道义逻辑也采用了双层结构。值得注意的工作包括 Hansen（2008, 2014）[^hansen-2008][^hansen-2014]、Van Benthem、Grossi 与 Liu（2014）以及 Benzmüller、Parent 与 Van der Torre（2020）。
   - id: 294
     kind: body
     source: |-
@@ -2484,9 +2484,9 @@ segments:
     source: |-
       In decision theory and game theory, the notions of “preference” and “preference relation” are used to model choices, often with a behavioral interpretation. The formal properties of preference relations and their representation through utility functions have been studied extensively in the literature, some of which even predates preference logic. This entry primarily emphasizes the qualitative approach to preferences, which focuses on the formal properties of preference relations. By contrast, the quantitative approach typically relies on utility functions to represent preferences numerically. Decision-making under uncertainty is commonly modeled using an expected value framework, which combines the agent’s beliefs (expressed as probabilities) with utilities to capture preferences. Critical research has reexamined the foundations of preference theory. For example, Hausman (2012)[^hausman-2012] distinguishes between notions of preference as choice, welfare, and value, raising questions about whether utility functions can adequately capture well-being—especially when qualitative factors shape individual preferences. Fu (2020) proposes a novel approach that integrates both qualitative and quantitative methods to more accurately reflect the complexities of real-world decision-making. To connect this entry with decision theory, it is crucial to consider the numerical, quantitative representations of reason-based preferences derived from the richer two-layer structures presented in Section 4.
     step1: |-
-      在决策论与博弈论中，“偏好”与“偏好关系”概念被用来建模选择，通常带有行为解释。偏好关系的形式性质及其通过效用函数的表征已在文献中得到广泛研究，其中一些甚至早于偏好逻辑。本词条主要强调对偏好的定性进路，后者关注偏好关系的形式性质。相比之下，定量进路通常依赖效用函数以数值方式表征偏好。不确定性下的决策通常用期望值框架建模，该框架把行动者的信念（表示为概率）与效用结合起来以刻画偏好。批判性研究重新审视了偏好理论的基础。例如，Hausman（2012）[^hausman-2012] 区分了作为选择、福利与价值的偏好概念，并提出效用函数能否充分刻画福祉的问题——尤其当定性因素塑造个体偏好时。Fu（2020）提出一种新进路，整合定性与定量方法，以更准确地反映现实决策的复杂性。为把本词条与决策论联系起来，考虑第 4 节所呈现的更丰富双层结构所产生的基于理由偏好的数值化、定量化表征至关重要。
+      在决策论与博弈论中，“偏好”与“偏好关系”概念被用来建模选择，通常带有行为解释。偏好关系的形式性质及其通过效用函数的表征已在文献中得到广泛研究，其中一些甚至早于偏好逻辑。本词条主要强调对偏好的定性进路，后者关注偏好关系的形式性质。相比之下，定量进路通常依赖效用函数以数值方式表征偏好。不确定性下的决策通常用期望值框架建模，该框架把行动者的信念（表示为概率）与效用结合起来以刻画偏好。批判性研究重新审视了偏好理论的基础。例如，Hausman（2012）[^hausman-2012] 区分了作为选择、福利与价值的偏好概念，并提出效用函数能否充分刻画福祉的问题——尤其当定性因素塑造个体偏好时。Fu（2020）提出一种新进路，整合定性与定量方法，以更准确地反映现实决策的复杂性。为把本词条与决策论联系起来，必须考虑第 4 节更丰富的双层结构如何以数值化、定量化方式表征基于理由的偏好。
     step2: |-
-      在决策论与博弈论中，“偏好”与“偏好关系”概念被用来建模选择，通常带有行为解释。偏好关系的形式性质及其通过效用函数的表征已在文献中得到广泛研究，其中一些甚至早于偏好逻辑。本词条主要强调对偏好的定性进路，后者关注偏好关系的形式性质。相比之下，定量进路通常依赖效用函数以数值方式表征偏好。不确定性下的决策通常用期望值框架建模，该框架把行动者的信念（表示为概率）与效用结合起来以刻画偏好。批判性研究重新审视了偏好理论的基础。例如，Hausman（2012）[^hausman-2012] 区分了作为选择、福利与价值的偏好概念，并提出效用函数能否充分刻画福祉的问题——尤其当定性因素塑造个体偏好时。Fu（2020）提出一种新进路，整合定性与定量方法，以更准确地反映现实决策的复杂性。为把本词条与决策论联系起来，考虑第 4 节所呈现的更丰富双层结构所产生的基于理由偏好的数值化、定量化表征至关重要。
+      在决策论与博弈论中，“偏好”与“偏好关系”概念被用来建模选择，通常带有行为解释。偏好关系的形式性质及其通过效用函数的表征已在文献中得到广泛研究，其中一些甚至早于偏好逻辑。本词条主要强调对偏好的定性进路，后者关注偏好关系的形式性质。相比之下，定量进路通常依赖效用函数以数值方式表征偏好。不确定性下的决策通常用期望值框架建模，该框架把行动者的信念（表示为概率）与效用结合起来以刻画偏好。批判性研究重新审视了偏好理论的基础。例如，Hausman（2012）[^hausman-2012] 区分了作为选择、福利与价值的偏好概念，并提出效用函数能否充分刻画福祉的问题——尤其当定性因素塑造个体偏好时。Fu（2020）提出一种新进路，整合定性与定量方法，以更准确地反映现实决策的复杂性。为把本词条与决策论联系起来，必须考虑第 4 节更丰富的双层结构如何以数值化、定量化方式表征基于理由的偏好。
   - id: 296
     kind: body
     source: |-
@@ -2500,9 +2500,9 @@ segments:
     source: |-
       In social choice theory, the core issue is how to aggregate individual preferences into a coherent group preference. One well-known result in this area is Arrow’s (1951)[^arrow-1951] impossibility theorem, which demonstrates the limitations of creating a fair aggregation rule that meets certain desirable conditions. Further research has explored alternative assumptions, leading to new results. For instance, Andréka, Ryan, and Schobbens (2002) use graphs to represent alternative orderings of options as a method for aggregating individual preferences. List (2022)[^list-2022] (in the entry on social choice theory) provides a useful survey on this topic. In social settings, individual preferences are often not fully independent and are influenced by the views of peers. As a community, it is intriguing to consider how social preferences evolve over time and whether stable preferences can emerge. Seligman, Liu, and Girard (2011) and Liang and Seligman (2011)[^seligman-2011][^seligman-2011-2] discuss logic research on this topic. This area of study requires an exploration of community structures, mechanisms for updating individual preferences, and methods for defining social preferences. Related insights can be drawn from works on social belief, such as that of Shi (2021)[^shi-2021][^shi-2021-2]. A similar issue is investigated in evolutionary game theory, particularly in the so-called “indirect evolutionary approach” to social preference. For example, Bowles and Gintis (2011) explore how prosocial preferences such as altruism, fairness and cooperation can evolve and achieve stability.
     step1: |-
-      在社会选择理论中，核心问题是如何把个体偏好聚合为连贯的群体偏好。该领域一个著名结果是 Arrow（1951）[^arrow-1951] 的不可能性定理，它表明在满足某些合意条件的前提下构造公平聚合规则的局限。后续研究探索了替代假定，产生了新结果。例如，Andréka、Ryan 与 Schobbens（2002）用图表示选项的替代排序，作为聚合个体偏好的一种方法。List（2022）[^list-2022]（在社会选择理论词条中）对该主题提供了有用综述。在社会环境中，个体偏好往往并不完全独立，而受同伴观点影响。作为一个共同体，思考社会偏好如何随时间演变、稳定偏好能否出现，是颇有意思的问题。Seligman、Liu 与 Girard（2011）以及 Liang 与 Seligman（2011）[^seligman-2011][^seligman-2011-2] 讨论了该主题的逻辑研究。这一研究领域需要探索共同体结构、个体偏好的更新机制以及定义社会偏好的方法。相关洞见可借鉴社会信念方面的研究，如 Shi（2021）[^shi-2021][^shi-2021-2]。演化博弈论也研究了类似问题，特别是所谓社会偏好的“间接演化进路”。例如，Bowles 与 Gintis（2011）考察利他、公平与合作等亲社会偏好如何演化并达到稳定。
+      在社会选择理论中，核心问题是如何把个体偏好聚合为连贯的群体偏好。该领域一个著名结果是 Arrow（1951）[^arrow-1951] 的不可能性定理，它表明在满足某些合意条件的前提下构造公平聚合规则的局限。后续研究探索了替代假定，产生了新结果。例如，Andréka、Ryan 与 Schobbens（2002）用图表示选项的替代排序，作为聚合个体偏好的一种方法。List（2022）[^list-2022]（在社会选择理论词条中）对该主题提供了有用综述。在社会环境中，个体偏好往往并不完全独立，而受同伴观点影响。从共同体层面看，社会偏好如何随时间演变、稳定偏好能否出现，是颇有意思的问题。Seligman、Liu 与 Girard（2011）以及 Liang 与 Seligman（2011）[^seligman-2011][^seligman-2011-2] 讨论了该主题的逻辑研究。这一研究领域需要探索共同体结构、个体偏好的更新机制以及定义社会偏好的方法。相关洞见可借鉴社会信念方面的研究，如 Shi（2021）[^shi-2021][^shi-2021-2]。演化博弈论也研究了类似问题，特别是所谓社会偏好的“间接演化进路”。例如，Bowles 与 Gintis（2011）考察利他、公平与合作等亲社会偏好如何演化并达到稳定。
     step2: |-
-      在社会选择理论中，核心问题是如何把个体偏好聚合为连贯的群体偏好。该领域一个著名结果是 Arrow（1951）[^arrow-1951] 的不可能性定理，它表明在满足某些合意条件的前提下构造公平聚合规则的局限。后续研究探索了替代假定，产生了新结果。例如，Andréka、Ryan 与 Schobbens（2002）用图表示选项的替代排序，作为聚合个体偏好的一种方法。List（2022）[^list-2022]（在社会选择理论词条中）对该主题提供了有用综述。在社会环境中，个体偏好往往并不完全独立，而受同伴观点影响。作为一个共同体，思考社会偏好如何随时间演变、稳定偏好能否出现，是颇有意思的问题。Seligman、Liu 与 Girard（2011）以及 Liang 与 Seligman（2011）[^seligman-2011][^seligman-2011-2] 讨论了该主题的逻辑研究。这一研究领域需要探索共同体结构、个体偏好的更新机制以及定义社会偏好的方法。相关洞见可借鉴社会信念方面的研究，如 Shi（2021）[^shi-2021][^shi-2021-2]。演化博弈论也研究了类似问题，特别是所谓社会偏好的“间接演化进路”。例如，Bowles 与 Gintis（2011）考察利他、公平与合作等亲社会偏好如何演化并达到稳定。
+      在社会选择理论中，核心问题是如何把个体偏好聚合为连贯的群体偏好。该领域一个著名结果是 Arrow（1951）[^arrow-1951] 的不可能性定理，它表明在满足某些合意条件的前提下构造公平聚合规则的局限。后续研究探索了替代假定，产生了新结果。例如，Andréka、Ryan 与 Schobbens（2002）用图表示选项的替代排序，作为聚合个体偏好的一种方法。List（2022）[^list-2022]（在社会选择理论词条中）对该主题提供了有用综述。在社会环境中，个体偏好往往并不完全独立，而受同伴观点影响。从共同体层面看，社会偏好如何随时间演变、稳定偏好能否出现，是颇有意思的问题。Seligman、Liu 与 Girard（2011）以及 Liang 与 Seligman（2011）[^seligman-2011][^seligman-2011-2] 讨论了该主题的逻辑研究。这一研究领域需要探索共同体结构、个体偏好的更新机制以及定义社会偏好的方法。相关洞见可借鉴社会信念方面的研究，如 Shi（2021）[^shi-2021][^shi-2021-2]。演化博弈论也研究了类似问题，特别是所谓社会偏好的“间接演化进路”。例如，Bowles 与 Gintis（2011）考察利他、公平与合作等亲社会偏好如何演化并达到稳定。
   - id: 298
     kind: body
     source: |-
@@ -2516,9 +2516,9 @@ segments:
     source: |-
       Preference logic provides a versatile framework for understanding how agents compare situations and make decisions. This entry has reviewed key developments in the field, tracing its evolution from syntactic and algorithmic approaches to semantic frameworks. It has also highlighted recent research on two-layer structures, which stem from the distinction between intrinsic and extrinsic preferences, emphasizing the role of reasons in shaping preferences.
     step1: |-
-      偏好逻辑为理解行动者如何比较情境并作出决策提供了一个多用途框架。本词条综述了该领域的关键发展，追溯其从句法与算法进路到语义框架的演变。它还着重介绍了关于双层结构的最新研究——这些结构源于内在偏好与外在偏好的区分，强调理由在塑造偏好中的作用。
+      偏好逻辑为理解行动者如何比较情境并决策提供了一个多用途框架。本词条综述了该领域的关键发展，追溯其从句法与算法进路到语义框架的演变。它还着重介绍了关于双层结构的最新研究——这些结构源于内在偏好与外在偏好的区分，强调理由在塑造偏好中的作用。
     step2: |-
-      偏好逻辑为理解行动者如何比较情境并作出决策提供了一个多用途框架。本词条综述了该领域的关键发展，追溯其从句法与算法进路到语义框架的演变。它还着重介绍了关于双层结构的最新研究——这些结构源于内在偏好与外在偏好的区分，强调理由在塑造偏好中的作用。
+      偏好逻辑为理解行动者如何比较情境并决策提供了一个多用途框架。本词条综述了该领域的关键发展，追溯其从句法与算法进路到语义框架的演变。它还着重介绍了关于双层结构的最新研究——这些结构源于内在偏好与外在偏好的区分，强调理由在塑造偏好中的作用。
   - id: 300
     kind: body
     source: |-

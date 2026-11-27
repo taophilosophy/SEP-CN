@@ -16,7 +16,7 @@
     "system": "DeepSeek-V4.1-Flash",
     "disclosure": "任务 evidence 与词条译后编辑记录"
   },
-  "state": "tr-02_checked",
+  "state": "tr-04_checked",
   "steps": [
     {
       "step": "ex-04",
@@ -31,6 +31,20 @@
       "actor": "trae-main",
       "at": "2026-11-27T09:30:17Z",
       "evidence": "064 T196–T200 全量重译＋full PE（译后编辑）：§1–§8、尾节四件套、脚注 67 条入库；账本 tasks/l/logic-preference.ledger.yaml 301 段（300 body＋1 oir），step2 与 zh 正文 300/300 块一致；公式 display 41/41、行内 320/319（4 处宏展开、5 处括号宏、2 处 TeX 引号、1 处释义 φ，差异全登记）；check_all 23/23；证据 results/t196-review.md–t200-review.md、t201-review.md"
+    },
+    {
+      "step": "tr-03",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-27T09:37:02Z",
+      "evidence": "T145 tr-03 一校完成：账本 301 段守恒（300 body 与正文 300 块一一对应、step2 落文）；check_pairs/check_style/check_quotes 0、check_math_zh 0 硬错误、check_terms 硬 0、check_academic --strict 无硬错误、check_all 23/23；残留外文碎片 0；逐节锚点无硬错误；术语混形与 §6 严格子关系符号疑误挂 T146 rv-01；证据 results/t145-tr03.md"
+    },
+    {
+      "step": "tr-04",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-27T09:38:30Z",
+      "evidence": "T145 tr-04 二校完成：check_prose 12→0（12 处逐条改写，无豁免）；check_style/check_quotes/check_pairs 0、check_math_zh 0 硬错误、check_academic --strict 无硬错误、check_all 23/23；改写后账本重建 301 段（300 body＋1 oir），step2 与正文 300/300 块一致；证据 results/t145-tr04.md"
     }
   ],
   "blockers": [],
