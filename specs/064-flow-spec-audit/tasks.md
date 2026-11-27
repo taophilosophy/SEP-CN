@@ -29,7 +29,7 @@
 - [x] T135 [S-1] tr-04 二校（语体、反欧化）——**已完成**（2026-11-27；`check_prose` 153→139，13 处改写、139 条逐条豁免留痕；`check_style` 0 issue；证据 `results/t135-review.md`）；验收：`check_prose` 告警清零或逐条豁免
 - [x] T136 [S-1] rv-01 术语与勘误（术语轴＋体例轴＋勘误轴）——**已完成**（2026-11-27；新增 civil society (Habermas)=公民社会、legitimacy (Habermas)=合法性；正文统一；check_terms 硬 0；check_pairs/check_style 0；勘误两条照录区一致；证据 `results/t136-review.md`）；验收：三段 evidence
 - [x] T137 [S-1] rv-02 全局一致性（两轴比较校对）——**已完成**（2026-11-27；239 段守恒；脚注 156/156、定义 254/254；密度与语体留痕；`check_pairs`/`check_style`/`check_academic --strict` 0；证据 `results/t137-review.md`）；验收：两轴记录＋机检输出
-- [ ] T138 [S-1] **[工作包]** rv-03–08 六轴（q1→q6 顺序固定）——执行前按轴拆六个原子任务；验收：各轴凭证落 `state/axis/`
+- [ ] T138 [S-1] **[工作包]** rv-03–08 六轴（q1→q6 顺序固定）——**已出拆解方案**（`results/t138-decomposition.md`）；执行前按下一可用 T 号入册为六个原子任务；验收：各轴凭证落 `state/axis/`
 - [ ] T139 [S-1] rv-09 体例终校——验收：`check_style` 0 issue
 - [ ] T140 [S-1] **[工作包]** sg-01／sg-02（初审＋复审）——执行前按节点拆两项；验收：自审与复核记录
 - [ ] T141 [S-1] sg-03 终审（需用户显式指定 `--mandate`）——验收：CI 全绿＋签字；不得因试金石批准自动执行
