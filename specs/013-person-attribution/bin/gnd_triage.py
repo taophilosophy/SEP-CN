@@ -292,8 +292,10 @@ def main():
         f.write('键\t籍属\t生卒/鼎盛年\t联网查证权威源（GND lobid，2026-11-26 查）\t本地来源页（en/，行号）\t判定与备注\n')
         for key, detail, reason in auto:
             kv = dict(seg.split('=', 1) for seg in detail.split('; ') if '=' in seg)
-            # 只写公开 GND 规范档的年份（完整生日不落盘）；该查询按公开数据误报，抑制。
-            f.write('%s\t%s\t%s\tGND %s｜%s\t\t%s\n'  # lgtm[py/clear-text-storage-sensitive-data]
+            # 只写公开 GND 规范档的年份（完整生日不落盘）。CodeQL
+            # py/clear-text-storage-sensitive-data 将公开 dateOfBirth 误判为 private；
+            # 2026-11-27 按 false positive 关闭，不以加密/哈希处理公开规范档。
+            f.write('%s\t%s\t%s\tGND %s｜%s\t\t%s\n'
                     % (key, kv['coa'], kv['birth'] + '–' + kv['death'], kv['gnd'],
                        kv['name'], reason))
     with io.open(SHORT, 'w', encoding='utf-8', newline='\n') as f:
