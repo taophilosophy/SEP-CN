@@ -115,7 +115,7 @@
 | action at a distance | — | 超距作用 | newton | 物理学通行；凭证 2026-11-08；审定名词库（termonline-all·自然辩证法名词 03.399，2024，物理学哲学）作“超距作用”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b1-2026-11-24.tsv） | 2026-11-08 |
 | action individuation | — | 行动个体化 | 首现（action） | 学界通行（行动哲学；戴维森行动个体化论题）；凭证 2026-11-27（results/t216-review.md） | 2026-11-27 |
 | action model | — | 行动模型 | 语料回收（specs/058 全库提取） | 学界通行译名（动态认知逻辑；西南大学逻辑与智能研究中心《西南大学—卑尔根大学逻辑工作坊》综述（2024-03-27/28）述 Galimullin 报告“结合公开宣告逻辑与行动模型”，与 BMS action model 相应；审定库无对口命中，2026-11-24） | 2026-11-24 |
-| action proper | — | 严格意义上的行动 | 首现（action） | 学界惯例（action proper 与广义行动对举）；凭证 2026-11-27（results/t217-review.md） | 2026-11-27 |
+| action proper | — | 本义行动（praxis 语境；一般语境作“严格意义上的行动”） | 首现（action） | 学界惯例（action proper 与广义行动对举；本词条与 praxis 同指，取“本义行动”）；凭证 2026-11-27（results/t217-review.md） | 2026-11-27 |
 | action quantum | — | 量子作用（亦作“作用量子”） | bohr-correspondence 首译 | 审定作“量子作用”（quantum of action，物理学名词 06.0375；英文为异序形，2026-11-26 索引复核） | 2026-11-26 |
 | action theory | — | 行动理论 | anscombe 首现 | 学界惯例（行动哲学核心分支）；凭证 2026-11-12 | 2026-11-12 |
 | action-centred commitment | — | 以行动为中心的承诺 | faith | 学界通行（McKaughan 2016 术语）；凭证 2026-11-11 | 2026-11-11 |
@@ -407,7 +407,7 @@
 | Anti-essentialism | — | 反本质主义 | 语料回收（specs/050 候选池） | 条目语境研判（哲学通行反本质主义（与 essentialism=本质主义 同族）；对照库“反本质论”留亦作）；海峡两岸名词对照库（termonline-all·地理学，2026-11-18 JWT 直连凭证，作“反本质论”） | 2026-11-26 |
 | anti-intellectualism | — | 反理智主义 | knowledge-how | 与册内 intellectualism“理智主义”对举（Ryle 谱系）；凭证 2026-11-10 | 2026-11-10 |
 | anti-irrationalism | — | 反非理性主义 | lvov-warsaw | Ajdukiewicz 术语直译；凭证 2026-11-09 | 2026-11-09 |
-| anti-luminosity | — | 反透明性 | 首现（action） | 威廉姆森知识论术语通行；学界惯例；凭证 2026-11-27（results/t217-review.md） | 2026-11-27 |
+| anti-luminosity | — | 反明见性 | 首现（action） | 威廉姆森知识论术语通行（与 transparency 透明性区分）；学界惯例；凭证 2026-11-27（results/t217-review.md） | 2026-11-27 |
 | anti-monism | — | 反一元论 | qm-relational | Dorato 2016 用语；词面直译；凭证 2026-11-11 | 2026-11-11 |
 | anti-realism / antirealism | — | 反实在论（antirealism 异形） | 语料回收（全目录）；语料回收 | A 档裁定（008 池裁定 2026-10-28）；学界通行译名；2026-11-13 重复行合并（旧键 `antirealism`） | 2026-11-13 |
 | anti-reductionism | — | 反还原论 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·自然辩证法·科学哲学·一般科学哲学·意义标准，2026-11-18 JWT 直连凭证） | 2026-11-19 |

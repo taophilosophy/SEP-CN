@@ -2,7 +2,7 @@
   "slug": "action",
   "kind": "retranslate",
   "zh_doc": "zh/a/action.md",
-  "state": "tr-02_checked",
+  "state": "tr-04_checked",
   "steps": [
     {
       "step": "ex-04",
@@ -17,6 +17,20 @@
       "actor": "trae-main",
       "at": "2026-11-27T12:17:52Z",
       "evidence": "T217 全量完成并经译后编辑（PE，results/t217-review.md）：§3–§8＋尾节＋320 脚注；230 块对应、375 脚注标记顺序一致、320 定义逐字一致；check_style/check_quotes/check_math_zh 0；check_pairs 仅 6 条原文 note 计数口径告警"
+    },
+    {
+      "step": "tr-03",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-27T12:44:18Z",
+      "evidence": "T218 tr-03 一校完成（results/t218-tr03.md）：两个子代理分段对照，Critical 1／Major 9 全部落地（§7.2 酒吧例、反明见性、殊相、人名、抽水统一、praxis 统一、insofar as、规范理由）；Minor 23 采纳 18；残留外文 0；结构 230 块、375 标记、320 定义守恒；check_style/quotes/math_zh/terms/academic 硬错误 0"
+    },
+    {
+      "step": "tr-04",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-27T12:44:23Z",
+      "evidence": "T218 tr-04 二校完成（results/t218-tr04.md）：check_prose 101→8；93 条 FIX 落地（73 个段落块），8 条按表豁免（直接引文 5、机检误报 3）；check_style/quotes/math_zh/terms/academic 硬错误 0；结构 230 块、375 标记、320 定义守恒"
     }
   ],
   "blockers": [],
