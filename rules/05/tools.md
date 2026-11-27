@@ -51,7 +51,7 @@
 | `check_layout.py` | 目录布局一致性门禁（ADR-0067）：`rules/layout.json` 为唯一事实源，L1 根⊆声明／L2 `rules/01` 表≡源（双向）／L3 容器有索引或写明理由的 `index_exempt`／L4 specs 容器 schema（必需 `spec.md`、禁 `tmp/`、规格根禁 JSON、`execution-log` 两形态不并存）；只读，`--json` 出机读 |
 | `spec_index.py` | 生成 `specs/README.md` 索引（ADR-0067，生成物不手改）；`--check` 只校验一致性（CI 可用） |
 | `indep_review.py` | 形态横向清账扫描器（ADR-0047，rv-09 前置独立步骤，**告警级**，不进 CI）：六类判据 `bib-heading-form`（参考文献节名正典，W7）、`pubinfo-form`（出版信息行形态＋与 en 源有无一致，W8）、`bib-subsection`（文献分类子标题丢失）、`style`（check_style 全则，O1）、`quote-adjacent`（引号↔西文邻接，O2，脚注键/链接/转写撇号已遮蔽）、`pairs`（ADR-0046 七则）；默认只扫已译集合，`--letter` 分字头、`--class` 单类、`--all-files` 含存根、`--classes` 列判据 |
-| `clean.py` | 本地垃圾清理器：默认试运行，`--go` 删除未跟踪缓存与临时文件（不触碰跟踪文件与 en/ 原始物） |
+| `clean.py` | 本地垃圾清理器：默认／`--check` 只读列出目标（有垃圾退 0）；`--check --strict` 仅在保护件缺失或目标越界时退 1；`--go` 删除未跟踪缓存与临时文件（不触碰跟踪文件，跳过 .git/node_modules/en/yuanwen/baseline/script 等保护目录）；已入 `check_all` 的 clean 门禁 |
 | `progress.py` | 生成 `PROGRESS.md` 进度汇总（自动生成，不手改）；含二维账与“账实不符”行（引用 `check_taskfile_invariant`） |
 | `check_taskfile_invariant.py` | 任务账本↔译文一致性（specs/051，2026-11-19 起**严格档入 CI**）：I1 `cleared` ⟹ 译文仅 H1；I2 有正文 ⟹ journal 至少一个 `pass`；另列 `zh-doc-missing`／`maintenance-doc-missing` |
 | `mandatory_backfill.py` | 强制集回补（specs/052/ADR-0075）：按现行判据重算 ex-04/rv-01/rv-02，记 pass/fail；状态不迁移，fail 即停 |

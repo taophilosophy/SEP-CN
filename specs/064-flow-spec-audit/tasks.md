@@ -1,10 +1,10 @@
 # 任务清单：064 全流程全要素审计与规范化
 
 - 输入：`specs/064-flow-spec-audit/spec.md`（rev 21）、`plan.md`、`results/axioms-v3.md`、`results/axioms-tasks.md`、`results/test-coverage.md`、`results/target-workflow.md`、`results/exploration-2026-11-27.md`
-- 状态：**4 项已验证（T131、T168、T169、T130）；0 项部分执行；97 项未开始；0 项撤销**。合计 **101 个编号（全部有效）**。2026-11-26 全部批准十项建议＋流程 v2；2026-11-27 全部批准探索建议书 EP-01–09；2026-11-27 迁移轨 S0＋S3–S9 共 37 项全部批准实施（R0–R7）；T168／T169／T130 已于 2026-11-27 完成，其余维持“已批准、待执行”
+- 状态：**9 项已验证（T131、T168、T169、T130、T020–T024）；0 项部分执行；92 项未开始；0 项撤销**。合计 **101 个编号（全部有效）**。2026-11-26 全部批准十项建议＋流程 v2；2026-11-27 全部批准探索建议书 EP-01–09；2026-11-27 迁移轨 S0＋S3–S9 共 37 项全部批准实施（R0–R7）；T168／T169／T130 与 S2 五项已于 2026-11-27 完成，其余维持“已批准、待执行”
 - **删除记录（rev21）**：S1 登记表 7 项、S11 案 B 5 项、S-1 案 B 复核 1 项已从本书**直接删除**，不保留 `[撤销]` 行；精确清单见 spec §11 rev21／§15（本文件不再引用已删 T 号）
 - 新增落点：**T166（G4 测试）、T167（G6＋G8 ADR）、T168（G24／G25 治理）、T169（标准回写）、T170–T175（S14 学术翻译出版流程 v2）、T176–T184（S15 探索批准项 EP-01–09）**；**T168／T169 已于 2026-11-27 完成**，其余均为“已批准、待执行”
-- **执行排程**：`results/schedule.md`（W0–W7、W0b、G0–G5、11 件逐件表；探索批准项 E0–E5）是唯一排程源；本清单只定义工作项，不复制波次。**a 组已启动（T168／T169 完成，T130 待签字）；其余波次未启动**。
+- **执行排程**：`results/schedule.md`（W0–W7、W0b、G0–G5、11 件逐件表；探索批准项 E0–E5）是唯一排程源；本清单只定义工作项，不复制波次。**a 组与 b 组已完成；其余波次未启动**。
 - **组界 tag**：a–k 每组开始／结束各打一枚 `batch/064-<组>-start|end`；规则见 `results/schedule.md` §8。未打 start 不开工，未打 end 不收口；tag 不替代 evidence。
 - 形式约束：`results/axioms-tasks.md` 的 TA1–TA8／TH1–TH8 是本清单的结构验收面；任何修改须复跑其中的只读检查（编号、分区、验收、依赖、状态、工作包分层）
 - **编号纪律**：本文件的 `S-1／S0–S15`（S1、S11 已删除，实际 15 个分区）是**任务分区**；spec §8 与 plan §7 的路线包写作 `WP-*`。`WP-S1`（标准回写）不是登记表契约
@@ -83,11 +83,11 @@
 
 > 登记表部分已随 G23 裁定撤销；本节只保留 `clean --check`、缓存扫描、`.gitignore` 与 CI 步骤评估，不建第二本账。
 
-- [ ] T020 [S2] 扩展 `tools/clean.py` 契约：`--check` 默认 0；`--strict` 仅对保护件缺失／越界风险退 1；**不消费登记表（G23 不建）**——验收：干净树 0，注入 `*.tmp` 默认仍 0 并报告；`--strict` 对受保护缺失退 1。
-- [ ] T021 [S2] 扫描面扩至 `target/`、`.ruff_cache`、`.mypy_cache`、`.pytest_cache`、`.vitepress/cache|dist`——验收：各目录占位文件均被识别且分类正确。
-- [ ] T022 [S2] 评估 `check_all.py` GATES 增“缓存与临时物”——验收：先给预期命中量级与本地／CI 同档证明；编号由 `--list-gates` 实际输出决定，不预写 22。
-- [ ] T023 [P] [S2] `.gitignore` 审计补齐（`target/`、`__pycache__/`、`*.pyc`、`.vitepress/cache`、`.vitepress/dist`）——验收：`git status` 不出现这些路径。
-- [ ] T024 [P] [S2] 评估 `checks.yml` 是否需独立 `clean --check` 步骤；若 GATES 已覆盖则不重复——验收：不手写重复矩阵；工作流变更同步 rules/05。
+- [x] T020 [S2] 扩展 `tools/clean.py` 契约：`--check` 默认 0；`--strict` 仅对保护件缺失／越界风险退 1；**不消费登记表（G23 不建）**——**已完成**（2026-11-27；`tools/tests/test_clean.py` 8/8；证据 `results/b-group-evidence.md`）。
+- [x] T021 [S2] 扫描面扩至 `target/`、`.ruff_cache`、`.mypy_cache`、`.pytest_cache`、`.vitepress/cache|dist`——**已完成**（2026-11-27；占位目录实测 91→97 项识别；另纳入 `.screenshots/`）。
+- [x] T022 [S2] 评估 `check_all.py` GATES 增“缓存与临时物”——**已完成（接入）**（2026-11-27；key `clean`；`--list-gates` 现 23 项；硬命中 0）。
+- [x] T023 [P] [S2] `.gitignore` 审计补齐（`target/`、`__pycache__/`、`*.pyc`、`.vitepress/cache`、`.vitepress/dist`）——**已完成**（2026-11-27；另补 `/.screenshots/`；`git check-ignore` 全命中）。
+- [x] T024 [P] [S2] 评估 `checks.yml` 是否需独立 `clean --check` 步骤；若 GATES 已覆盖则不重复——**已完成**（2026-11-27；矩阵自动跟随，不新增步骤；rules/05 已同步）。
 
 ## 阶段 S3 Python 现代化（受控变更，非零风险）
 

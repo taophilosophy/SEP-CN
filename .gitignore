@@ -173,6 +173,7 @@ __pycache__/
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/
+target/
 .vitepress/cache/
 .vitepress/dist/
 .DS_Store
@@ -182,6 +183,9 @@ desktop.ini
 *.swp
 *.tmp
 *.bak
+
+# 本地截图/浏览器工具临时目录（会话缓存，不入库）
+/.screenshots/
 
 # 原始抓取物已入库（ADR-0027，2026-11-09）——保留本节仅作沿革注记，不再忽略 /en/
 

@@ -1,28 +1,36 @@
 # -*- coding: utf-8 -*-
 """本地垃圾清理器（ADR-0003）：删除工作区中未跟踪的缓存与临时文件。
 
-用法: python tools/clean.py            # 试运行：仅列出将删除的目标
-      python tools/clean.py --go      # 实际删除
+用法:
+  python tools/clean.py                    # 试运行：列出将删除的目标，退出 0
+  python tools/clean.py --check            # 只读检查：列出目标，退出 0（有垃圾也不拦）
+  python tools/clean.py --check --strict   # 只读检查：保护件缺失/越界风险退 1
+  python tools/clean.py --go               # 实际删除未跟踪垃圾
+
 安全边界:
   - 只删未跟踪的杂物（对照 git ls-files，跟踪文件绝不触碰）；
-  - 跳过 .git/、node_modules/（体积大但可重建，删除需重装，不属垃圾）、
-    en/（原始抓取物，受宪法 II 保护）、script/（个人草稿区，自行管理）、
-    .specify/ 与 .zcode/（工具脚手架）；
-  - .pyc 等；VitePress 构建产物；系统与编辑器杂物。
-退出码: 0 成功（含试运行）。
+  - 跳过 .git/、node_modules/、en/、yuanwen/、baseline/、script/、.specify/、.zcode/；
+  - 垃圾目录整体作为目标（target/、__pycache__、pytest/mypy/ruff 缓存、
+    .vitepress/cache|dist），不逐个枚举其内部文件；
+  - 保护件（en/、yuanwen/、baseline/、SUMMARY.md）缺失或目标越界时，--strict 退 1。
+
+退出码: 0 成功/只读正常；1 --strict 发现保护件缺失或越界风险；2 用法错误。
 """
-import io
+import argparse
 import os
+import shutil
 import subprocess
 import sys
 
 sys.stdout.reconfigure(encoding='utf-8')
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-SKIP_DIRS = {'.git', 'node_modules', 'en', 'yuanwen', 'script', '.specify', '.zcode'}
-JUNK_DIRS = {'__pycache__', '.pytest_cache', '.mypy_cache', '.ruff_cache'}
-JUNK_DIR_PREFIXES = (os.path.join('.vitepress', 'cache') + os.sep,
-                     os.path.join('.vitepress', 'dist') + os.sep)
+SKIP_DIRS = {'.git', 'node_modules', 'en', 'yuanwen', 'baseline', 'script',
+             '.specify', '.zcode'}
+PROTECTED_PATHS = ('en', 'yuanwen', 'baseline', 'SUMMARY.md')
+JUNK_DIRS = {'__pycache__', '.pytest_cache', '.mypy_cache', '.ruff_cache',
+             'target', '.screenshots'}
+JUNK_DIR_PREFIXES = ('.vitepress/cache', '.vitepress/dist')
 JUNK_FILES = {'.DS_Store', 'Thumbs.db', 'desktop.ini'}
 JUNK_SUFFIXES = ('.pyc', '.pyo', '.tmp', '.bak', '.swp', '.log')
 
@@ -33,59 +41,131 @@ def tracked_set():
     return {p.decode('utf-8') for p in out.split(b'\0') if p}
 
 
-def is_junk(rel, name):
-    if name in JUNK_DIRS:
-        return True
+def posix(rel):
+    return rel.replace(os.sep, '/')
+
+
+def under(rel, prefixes):
+    rel = posix(rel)
+    return any(rel == p or rel.startswith(p + '/') for p in prefixes)
+
+
+def is_junk_file(rel, name):
     if name in JUNK_FILES:
         return True
     if name.endswith(JUNK_SUFFIXES):
         return True
-    if rel.replace(os.sep, '/').startswith(tuple(p.replace(os.sep, '/') for p in JUNK_DIR_PREFIXES)):
+    return under(rel, JUNK_DIR_PREFIXES)
+
+
+def is_junk_dir(rel, name):
+    if name in JUNK_DIRS:
         return True
-    return False
+    return under(rel, JUNK_DIR_PREFIXES)
 
 
-def main():
-    go = '--go' in sys.argv
-    tracked = tracked_set()
+def has_tracked_under(rel, tracked):
+    prefix = posix(rel) + '/'
+    return any(t.startswith(prefix) for t in tracked)
+
+
+def collect(tracked):
+    """返回 [(full, rel, kind)]，kind=dir|file；不进入垃圾目录内部。"""
     targets = []
     for dirpath, dirnames, filenames in os.walk(ROOT):
         rel_dir = os.path.relpath(dirpath, ROOT)
         top = rel_dir.split(os.sep)[0] if rel_dir != '.' else ''
-        if top in SKIP_DIRS or rel_dir == '.' and False:
+        if top in SKIP_DIRS:
             dirnames[:] = []
             continue
-        dirnames[:] = [d for d in dirnames
-                       if d not in SKIP_DIRS and d not in JUNK_DIRS
-                       and os.path.join(rel_dir, d).replace(os.sep, '/') not in
-                       tuple(p.rstrip(os.sep) for p in JUNK_DIR_PREFIXES)]
+
+        keep = []
+        for d in dirnames:
+            rel = d if rel_dir == '.' else os.path.join(rel_dir, d)
+            if d in SKIP_DIRS:
+                continue
+            if is_junk_dir(rel, d):
+                if not has_tracked_under(rel, tracked):
+                    targets.append((os.path.join(dirpath, d), posix(rel), 'dir'))
+                continue
+            keep.append(d)
+        dirnames[:] = keep
+
         for fn in filenames:
             full = os.path.join(dirpath, fn)
-            rel = os.path.relpath(full, ROOT).replace(os.sep, '/')
+            rel = posix(os.path.relpath(full, ROOT))
             if rel in tracked:
                 continue
-            if is_junk(rel, fn):
-                targets.append(full)
+            if is_junk_file(rel, fn):
+                targets.append((full, rel, 'file'))
 
-    if not targets:
-        print('未发现本地垃圾。')
-        return 0
-    size = sum(os.path.getsize(t) for t in targets if os.path.isfile(t))
-    print('%s %d 项目标（约 %.1f KB）：%s' %
-          ('删除' if go else '将删除（试运行，加 --go 执行）', len(targets),
-           size / 1024, ', '.join(os.path.relpath(t, ROOT) for t in targets[:15]) +
-           ('…' if len(targets) > 15 else '')))
-    if go:
-        for t in targets:
-            if os.path.isdir(t):
-                os.rmdir(t) if not os.listdir(t) else None
+    targets.sort(key=lambda x: x[1])
+    return targets
+
+
+def protected_issues(targets):
+    issues = []
+    for p in PROTECTED_PATHS:
+        if not os.path.exists(os.path.join(ROOT, p)):
+            issues.append('保护件缺失：%s' % p)
+    for _, rel, _ in targets:
+        if under(rel, PROTECTED_PATHS):
+            issues.append('越界目标：%s' % rel)
+    return issues
+
+
+def delete(targets):
+    failures = []
+    for full, rel, kind in targets:
+        try:
+            if kind == 'dir':
+                shutil.rmtree(full)
             else:
-                os.remove(t)
-        # 自底向上清掉空掉的缓存目录
-        for dirpath, dirnames, filenames in os.walk(ROOT):
-            if os.path.basename(dirpath) in JUNK_DIRS and not os.listdir(dirpath):
-                os.rmdir(dirpath)
-        print('已清理。')
+                os.remove(full)
+        except OSError as e:
+            failures.append('%s：%s' % (rel, e))
+    return failures
+
+
+def main(argv=None):
+    parser = argparse.ArgumentParser(
+        description='清理未跟踪缓存与临时文件（ADR-0003）')
+    parser.add_argument('--check', action='store_true',
+                        help='只读检查，发现垃圾也退 0')
+    parser.add_argument('--strict', action='store_true',
+                        help='只读检查；保护件缺失或目标越界退 1')
+    parser.add_argument('--go', action='store_true', help='实际删除')
+    args = parser.parse_args(argv)
+
+    if args.go and (args.check or args.strict):
+        parser.error('--go 不能与 --check/--strict 同用')
+
+    tracked = tracked_set()
+    targets = collect(tracked)
+    if targets:
+        label = '删除' if args.go else '只读检查：发现'
+        print('%s %d 项目标：%s' % (
+            label, len(targets),
+            ', '.join(rel for _, rel, _ in targets[:15]) +
+            ('…' if len(targets) > 15 else '')))
+    else:
+        print('未发现本地垃圾。')
+
+    if args.strict:
+        issues = protected_issues(targets)
+        if issues:
+            for issue in issues:
+                print(issue)
+            return 1
+
+    if args.go:
+        failures = delete(targets)
+        if failures:
+            for failure in failures:
+                print('删除失败：%s' % failure)
+            return 1
+        if targets:
+            print('已清理。')
     return 0
 
 
