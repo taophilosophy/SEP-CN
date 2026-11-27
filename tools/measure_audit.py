@@ -85,15 +85,21 @@ def classify(sym):
     return sym, None
 
 
-def scan(path):
-    text = ax.read_doc(path)
-    slug = ax.slug_of(path)
+def scan_text(text, slug):
+    """扫描一篇正文；只把白名单单位（含错形/复数）当作量值，引用键 1992a 等不计。"""
     items, issues = [], []
     masked = ax.protect(text)
     for m in NUM_UNIT.finditer(masked):
         val, sym = m.group(1), m.group(2)
-        line_no = text.count("\n", 0, m.start()) + 1
+        if re.fullmatch(r"\d{4}", val) and re.fullmatch(r"[a-z]", sym):
+            continue  # 引用键：1992a／1971c
+        plural = sym.endswith("s") and sym[:-1] in UNITS
         norm, prob = classify(sym)
+        if plural:
+            norm, prob = sym[:-1], "M-1"
+        if sym not in UNITS and sym not in BAD_FORM and not plural:
+            continue  # 未登记符号（5G／3D／COVID 等）不按量值处理
+        line_no = text.count("\n", 0, m.start()) + 1
         if prob:
             issues.append({"rule": prob, "line": line_no,
                            "detail": "%s%s → %s" % (val, sym, norm),
@@ -107,7 +113,8 @@ def scan(path):
         q = UNITS.get(norm)
         items.append({"id": "m-%s-%03d" % (slug, len(items) + 1), "loc": "L%d" % line_no,
                       "value": val, "unit": norm, "quantity": q or "",
-                      "verdict": "pending", "note": ""})
+                      "canonical": val if norm in NO_SPACE_OK else val + " " + norm,
+                      "verdict": "pending", "reviewer": "", "note": ""})
     for m in BAD_M2.finditer(masked):
         line_no = text.count("\n", 0, m.start()) + 1
         issues.append({"rule": "M-4", "line": line_no, "detail": m.group(0) + "（应上标）",
@@ -130,8 +137,14 @@ def scan(path):
             issues.append({"rule": "M-5", "line": 0,
                            "detail": "同量多单位 %s：%s" % (q, "／".join(sorted(us))),
                            "verdict": "pending"})
-    return slug, {"schema": "measure-manifest/v1", "slug": slug,
-                  "items": items, "ranges": ranges, "issues": issues}
+    return {"schema": "measure-manifest/v1", "slug": slug,
+            "items": items, "ranges": ranges, "issues": issues}
+
+
+def scan(path):
+    text = ax.read_doc(path)
+    slug = ax.slug_of(path)
+    return slug, scan_text(text, slug)
 
 
 def report_path(slug):
