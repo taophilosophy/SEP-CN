@@ -2,7 +2,7 @@
   "slug": "newton-principia",
   "kind": "retranslate",
   "zh_doc": "zh/n/newton-principia.md",
-  "state": "ex-04_checked",
+  "state": "tr-02_checked",
   "steps": [
     {
       "step": "ex-04",
@@ -10,6 +10,13 @@
       "actor": "trae-main",
       "at": "2026-11-27T18:31:20Z",
       "evidence": "T229 ex-04 源审计完成（results/t229-review.md）：en_integrity clean 1/1、hard 0；en_source_audit hard 0、warn 3（heading_skip 为页面模板 h4、orphan_note 为 notes.html 数字锚点口径、pp. 31-70.. 为 D 类真候选）；check_math 0 公式；96 脚注定义（59 编号注 59/59 闭合＋37 书目键，其中 35 条按设计无文内引用）；3 图与文件哈希同基线，fetch_audit complete 缺件 0；版本钉 Winter 2024／Dec 20, 2007 一致；勘误第十九节 1 条"
+    },
+    {
+      "step": "tr-02",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-27T18:51:20Z",
+      "evidence": "T231 tr-02 全量完成（results/t231-review.md），五批逐段译后编辑（PE）：导论＋§1–§10＋尾节＋96 脚注定义（59 编号注译、37 书目键照录）；255 段账本；35,900 汉字（目标 36,082）；全件 255 块与 en 一一对应；3 图、23 引块、62 note 引用；check_style／quotes／math_zh 0、check_pairs hard 0／out_of_scope 0、terms 硬 0、academic 无硬错误；勘误第十九节 5 条"
     }
   ],
   "blockers": [],
@@ -24,5 +31,19 @@
     "from": "s2.4_termchecked",
     "to": "rv-01_checked",
     "by": "ADR-0080"
+  },
+  "translation_mode": "llm-pe",
+  "project_spec": {
+    "audience": "中文哲学读者（研究者与研究生为主）",
+    "purpose": "学术阅读与引用（SEP 词条简体中文译本）",
+    "register": "现代汉语学术书面语",
+    "terminology_basis": "shu-yu-biao.md／ren-ming-biao.md／baseline/term-concepts.md",
+    "delivery": "GitBook Markdown＋VitePress 双语站",
+    "qa_level": "CY/T 266＋ISO 5060（六轴机检＋人工复核）"
+  },
+  "pe": {
+    "level": "full",
+    "system": "DeepSeek-V4.1-Flash",
+    "disclosure": "任务 evidence 与词条译后编辑记录"
   }
 }

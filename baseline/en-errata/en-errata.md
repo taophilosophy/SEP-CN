@@ -687,3 +687,7 @@
 | slug | 位置 | 上游原文 | 缺陷定性 | 参考读法 | 中文承载 | 凭证 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | newton-principia | 文献 smith-2002（en L522） | `pp. 31-70..` | ①纯排版重复句点 | `pp. 31-70.` | 纯排版，无需译注 | 条目末重复句点（2026-11-27 核对） |
+| newton-principia | §2（en L36） | `guest it to be Elliptical` | ①排印手误 | `guessed it to be Elliptical` | 纯排版，无需译注 | 上下文为 guess 的过去式（2026-11-27 核对） |
+| newton-principia | 脚注 note-3（en L350） | `maris nostril` | ①排印手误（拉丁文） | `maris nostri` | 纯排版，无需译注 | 拉丁文所有格应为 nostri（2026-11-27 核对） |
+| newton-principia | 脚注 note-9（en L362） | `Rudolphime Tables` | ①排印手误 | `Rudolphine Tables` | 纯排版，无需译注 | 同条他处作 Rudolphine（2026-11-27 核对） |
+| newton-principia | 脚注 note-26（en L396） | `35, 2986` | ①排印手误（年份） | `35, 1986` | 纯排版，无需译注 | 上下文为 1986 年卷期（2026-11-27 核对） |

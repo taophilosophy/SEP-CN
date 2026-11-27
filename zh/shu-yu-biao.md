@@ -2904,6 +2904,7 @@
 | finitary | — | 有穷的 | hilbert-program 首译 | 学界惯例；数学基础通行（与 finitism 有穷主义、infinite 无穷对举；沿册内“有穷模型性质”先例）；凭证 2026-11-11 | 2026-11-11 |
 | finitary standpoint | — | 有穷立场 | hilbert-program 首译 | 照文直译（Hilbert 的 finiter Standpunkt）；凭证 2026-11-11 | 2026-11-11 |
 | finite character | — | 有限特征 | 首现（axiom-choice） | 集合论通行（properties of finite character）；凭证 2026-11-27（results/t223-review.md） | 2026-11-27 |
+| finite-difference method | — | 有限差分法 | newton-principia | 学界惯例（数学与天文学史通行（牛顿彗星轨道计算））；凭证 2026-11-27 | 2026-11-27 |
 | finite differentiation | — | 有限分立 | digital-art 首译 | 学界惯例；古德曼记法理论通行（differentiated 分立与 dense 稠密对举）；凭证 2026-11-10 | 2026-11-10 |
 | finite model property | — | 有穷模型性质 | logic-dynamic | 学界惯例；模型论通行译法；凭证 2026-11-10 | 2026-11-09 |
 | finitism | — | 有穷主义（亦作“有限主义”） | 首现（intuitionism） | 审定名词库（termonline-all·自然辩证法名词，2026-11-11 浏览器通道凭证）；与 strict finitism“严格有穷论”配套 | 2026-11-11 |
@@ -4453,6 +4454,7 @@
 | limiting concept | — | 限制性概念 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | limiting reduction | — | 极限还原 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | Lindenbaum–Tarski algebra | — | 林登鲍姆–塔尔斯基代数 | 首现（boolalg-math） | 学界惯例（数理逻辑通行译名） | 2026-11-01 |
+| line of apsides | — | 拱线 | newton-principia | 学界惯例（天体力学通行（与 line of nodes 交点线同族））；凭证 2026-11-27 | 2026-11-27 |
 | line of nodes | — | 交点线 | newton-principia | 天文学通行；凭证 2026-11-11；海峡两岸名词对照库（termonline-all·测绘学名词，2009；非审定公布库）作“交点线”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b7-2026-11-24.tsv） | 2026-11-25 |
 | line segment | — | 线段 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·数学·几何学·拓扑学·欧几里得几何学，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | linear affine logic | — | 线性仿射逻辑 | logic-linear | 学界惯例；通行译法；凭证 2026-11-10 | 2026-11-09 |
@@ -5381,6 +5383,7 @@
 | new mechanists | — | 新机械论者 | cancer | 学界通行（科学哲学，new mechanists）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | newly sighted | — | 新近复明者 | 语料回收（molyneux-problem 首译） | 本词条首译裁定（复明=视力恢复，与 congenitally blind 先天性盲对举）；凭证 2026-11-06 | 2026-11-06 |
 | Newspeak | — | 新话 | 语料回收（lakatos 首译） | 《一九八四》通行译法；凭证 2026-11-06；审定名词库（termonline-all·新闻学与传播学名词 12.037，2022）作“新话”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b8-2026-11-24.tsv） | 2026-11-06 |
+| Newtonian fluid | — | 牛顿流体 | newton-principia | 学界惯例（流体力学通行（黏滞性与速度梯度成正比））；凭证 2026-11-27 | 2026-11-27 |
 | Newtonian mechanics | — | 牛顿力学 | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22） | 2026-11-22 |
 | Newtonian Studies | — | 《牛顿研究》 | 语料回收（specs/058 全库提取） | 权威译本（商务印书馆“汉译世界学术名著丛书”1000 种书目（2024-09-24）·哲学第 292 号 载此书名；2026-11-24 查，凭证 works-batch10-2026-11-24.md）；柯瓦雷 | 2026-11-24 |
 | Newtonianism | — | 牛顿主义 | newton | 学界惯例；科学史通行；凭证 2026-11-08 | 2026-11-08 |
@@ -5911,6 +5914,7 @@
 | perfect being theology | — | 完满存在神学 | omniscience | 学界通行译名（perfect being theology）；凭证 2026-11-09 | 2026-11-09 |
 | perfect cosmological principle | — | 完美宇宙学原理 | cosmology-30s 首译 | Bondi 术语（与 cosmological principle 宇宙学原理配对；稳恒态理论基础）；凭证 2026-11-09 | 2026-11-09 |
 | perfect duplicate | — | 完全复制 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
+| perfect fluid | — | 理想流体 | newton-principia | 学界惯例（流体力学通行（无黏滞性））；凭证 2026-11-27 | 2026-11-27 |
 | perfect goodness | — | 完美善 | omniscience | 学界通行译名（与 omnipotence/omniscience 并列为三大神圣属性）；凭证 2026-11-09 | 2026-11-09 |
 | perfect number | — | 完全数（亦作“完满数”） | peirce-benjamin | 数论通行译名；凭证 2026-11-09；2026-11-15 补亦作（审定形） | 2026-11-15 |
 | perfect recall | — | 完美记忆 | 语料回收（specs/058 全库提取） | 审定名词库（termonline-all，凭证 2026-11-23） | 2026-11-23 |
@@ -7064,6 +7068,7 @@
 | right to life | — | 生命权 | 首译（stem-cells） | 学界惯例（生命伦理学通行）；凭证 2026-11-09 | 2026-11-09 |
 | rightness | — | 正当性（行为正当） | oakeshott 首译 | 学界惯例（与 validity 效力对举）；凭证 2026-11-07；撞形豁免 2026-11-26：同形异义（政治哲学 legitimacy 与行为正当 rightness），不合并 | 2026-11-26 |
 | rights-based moral theory | — | 权利论道德理论 | risk | 学界惯例（与义务论、后果论并列）；凭证 2026-11-09 | 2026-11-09 |
+| rigid body | — | 刚体 | newton-principia | 学界惯例（力学通行（d'Alembert 刚体运动分析））；凭证 2026-11-27 | 2026-11-27 |
 | rigid designation | — | 严格指示（亦作“严格指示词”） | 语料回收（形而上学／语言哲学族扫描 2026-11-25） | 学界惯例；语言哲学与模态形而上学通行（克里普克；语料“严格指示”4 次）；凭证 2026-11-25 | 2026-11-25 |
 | rigidity | — | 刚性（模态语境） | 语料回收（形而上学／语言哲学族扫描 2026-11-25） | 同上（rigidity of designators；语料 25 次）；凭证 2026-11-25 | 2026-11-25 |
 | Rigor | — | 严谨性 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库不一致（termonline-all 凭证 2026-11-13）| 2026-11-13 |
