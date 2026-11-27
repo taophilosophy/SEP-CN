@@ -1125,6 +1125,7 @@
 | civil rights | — | 公民权利 | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22） | 2026-11-22 |
 | Civil Rights Movement | — | 民权运动 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·世界历史·近现代美国、加拿大、欧洲·美国，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | civil society | — | 市民社会 | hegel-social-political | 学界惯例；黑格尔政治哲学通行汉译（bürgerliche Gesellschaft） | 2026-11-10 |
+| civil society (Habermas) | — | 公民社会 | habermas | 哈贝马斯 Zivilgesellschaft，与黑格尔 bürgerliche Gesellschaft（市民社会）分列；童世骏译本语境用“公民社会”；凭证：中研院《後國族時代的民主與法律》PDF（2026-11-27 查） | 2026-11-27 |
 | civilizing mission | — | 文明使命 | colonialism | 学界通行译名（mission civilisatrice 引介文献）；凭证 2026-11-07 | 2026-11-07 |
 | civitas | civitas | 拉丁原文保留（国家） | oakeshott 首译 | 体例：拉丁术语保留原词并随文释义；凭证 2026-11-07 | 2026-11-07 |
 | cladistics | — | 分支系统学 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -4330,6 +4331,7 @@
 | legality | — | 合法性 | 语料回收（specs/050 候选池） | 条目语境研判（法哲学通行合法性（legality/legitimacy 对偶）；审定“合法律性”非通行形）；审定名词库（termonline-all·社会学名词·分支社会学·法律社会学，2026-11-18 JWT 直连凭证，审定作“合法律性”） | 2026-11-19 |
 | legislative intent | — | 立法意图 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | legitimacy | — | 正当性（政治哲学；与 legality 合法性分列） | 语料回收（伦理学族扫描 2026-11-25） | 学界惯例；政治哲学通行（语料 144 次）；凭证 2026-11-25 | 2026-11-25 |
+| legitimacy (Habermas) | — | 合法性 | habermas | 哈贝马斯 Legitimität；童世骏译《在事实与规范之间》用“合法性”，与 Legalität（合法律性）对举；凭证：澎湃新闻 8779384／8779386（2026-11-27 查） | 2026-11-27 |
 | legitimate authority | — | 合法权威 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·管理科学技术·公共管理·基本概念，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | Lehrfreiheit | Lehrfreiheit | 教学自由 | 语料回收（academic-freedom） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29；2026-11-26 界面复核改判：审定作“教学自由”（freedom of teaching，教育学名词）） | 2026-11-26 |
 | Leib | Leib | 活的身体 | existentialism；phenomenology | 学界通行（现象学 Leib 与 Körper 躯体相对；本册定“活的身体”一形）；凭证 2026-11-11；FLAG 裁定 2026-11-21（联网凭证）：用语列删人名引用（contract-law:1042 Leib 2015），取 existentialism:592 与 phenomenology:1540 “活的身体”义；译法维持 | 2026-11-21 |
