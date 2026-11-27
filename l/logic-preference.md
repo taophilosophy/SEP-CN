@@ -290,6 +290,103 @@ $$\mathcal{M}, w \models \varphi \geq \psi \text{ 当且仅当 } \begin{cases} (
 
 其中 $⟦\varphi⟧_w$ 表示满足 *φ* 的 *w*-可达世界集合。Egli-Milner 序传统上用于指称语义等领域；Shi 与 Sun（2021）把它扩展到偏好逻辑，为全预序导出的“凸序”建立了完全公理系统。
 
+## 4. 基于理由的偏好
+
+过去二十年，基于理由的偏好逻辑研究一直是本节综述的若干研究工作的主要焦点。
+
+### 4.1 内在偏好与外在偏好
+
+基于理由的偏好概念源于冯·赖特（1963）[^wright-1963] 提出的著名区分：内在偏好与外在偏好。这一区分取决于偏好是否有明确的理由或证成作为基础。
+
+**外在偏好** 出现在一个选项因在特定方面被认为更好而胜过另一选项之时。例如，在冯·赖特的例子中，某人偏好红葡萄酒胜过白葡萄酒，因为前者有益于她的健康。这里对红葡萄酒的偏好是外在的，因为它基于关于健康益处的客观判断。外在偏好因此与某种底层理据相联系，往往涉及健康、实际考虑或专家建议等外部因素。
+
+相反，**内在偏好** 是纯粹基于个人喜好的偏好，不需要任何明确的理由或证成。例如，某人可能偏好红葡萄酒胜过白葡萄酒，仅仅因为她喜欢那种味道。这种偏好是内在的，因为它完全由主观享受驱动，不涉及任何外部理据。
+
+在外在偏好的形式模型中，通常采用 **双层结构** 来同时处理理由基础与偏好。
+
+### 4.2 双层结构
+
+#### 4.2.1 优先性与偏好
+
+在选项之间作决定的语境中，优先性概念被引入（Liu 2008, 2010; De Jongh & Liu 2009）[^liu-2008][^liu-2010]。优先性表示按个人考量排序的重要属性，这些属性反过来决定选择之间的偏好。
+
+双层结构由优先基与偏好组成。**优先基** 是一组按行动者考量排序的属性。考虑爱丽丝决定买哪栋房子的例子。她按成本、质量、邻里环境这一重要性顺序，用三项标准评价每栋房子。对爱丽丝来说，一栋房子的成本若符合她的预算就是好的，否则就是坏的。因此，她的决定由房子是否满足其优先标准以及这些标准的相对重要性引导。
+
+为形式化这一点，使用一阶逻辑，常量 $d_0,$ $d_1,$…，变量 $x_0,$ $x_1,$…，以及谓词 $P,$ $Q,$ $P_0,$ $P_1,$…。为简便起见，这一设置假定有限域、一元谓词以及简单的、通常无量词的公式。
+
+形式上，优先基是一个有序公式序列，写作
+
+$$C_1(x) \gg C_2(x) \gg \dots \gg C_n(x) \quad (n \in \mathbb{N}),$$
+
+其中每个 $C_m(x)$ ($1 \leq m \leq n$) 是恰好含一个自由变项 *x* 的公式。较早的优先性被认为按词典序比较晚的优先性更重要，从而形成偏好序。例如，$C_1 \land \neg C_2 \land \dots \land \neg C_m$ 偏好于 $\neg C_1 \land C_2 \land \dots \land C_m$。
+
+为说明这一点，爱丽丝的优先基可能形如
+
+$$C(x) \gg Q(x) \gg N(x),$$
+
+其中 $C(x)$、$Q(x)$、$N(x)$ 分别表示 *x* 价格低（成本）、质量高、邻里环境好。给定两栋房子 $d_1$ 与 $d_2$，其属性为 $C(d_1),$ $C(d_2),$ $\neg Q(d_1),$ $\neg Q(d_2),$ $N(d_1)$ 与 $\neg N(d_2)$，按照这一优先基，爱丽丝会偏好 $d_1$ 胜过 $d_2$。
+
+双层结构中的线性序优先性也可推广到偏序优先图（允许某些优先性不可比较），甚至推广到无序属性集（Kratzer 1981; Liu 2011b）[^kratzer-1981][^liu-2011b]。
+
+在道义逻辑中，双层结构（优先性建立偏好或义务序）也得到广泛承认，尤其是在优先处理命令的系统中（见 Hansen 2008 与 Van Benthem, Grossi, & Liu 2010 的工作）[^hansen-2008][^liu-2010][^van-2010]；第 7 节将讨论。
+
+##### 信念作为理由
+
+上述从优先基定义偏好的方法，预设了关于一个备选项是否具有基中属性的完全信息。在信息不完全的情形下，信念起关键作用，行动者的偏好依赖于信念。这种情形需要引入 $BC(x),$ $\neg BC(x),$ 或 $B\neg C(x),$ 等公式，其中 $C_m$ 表示优先性。这一进路使复杂方面得以考虑，例如判定优先基中的某些属性是否适用，或更根本地，基于信念形成优先基。处理此类不确定性需要把信念语言与偏好语言结合起来；关于不确定性下定义偏好的各种程序，见 Liu（2011b）[^liu-2011b] 的工作。在此设置中，关于备选项是否具有某项优先性的信念，充当偏好的理由。
+
+#### 4.2.2 显著属性与偏好
+
+理性选择理论通常假定行动者具有固定偏好，却不解释这些偏好的起源。Dietrich 与 List（2013a,b）开始填补这一空白。他们提出一个建模偏好形成与变化的框架，主张偏好基于备选项的“动机显著”属性，而不是备选项本身。这一进路使偏好可以是基于理由的，并随不同属性变得显著而演变。
+
+为形式化这一点：行动者对备选项的偏好序取决于这些备选项在给定状态中具有动机显著性的属性。
+
+设 *X* 是备选项集合。设 *P* 是所有可能属性的集合，一个备选项可能具有其中某些属性。动机状态 $M \subseteq P$ 包含行动者在给定语境中认为显著的一切属性。
+
+偏好由 *X* 上的二元关系 $\succeq_M$ 定义，其中 $x \succeq_M y$ 表示在状态 *M* 中备选项 *x* 弱偏好于 *y*。
+
+为处理不同动机状态下的偏好变化，Dietrich 与 List（2013a,b）在 **属性组合** 上引入 **权衡关系** $\geq$：
+
+- 每个备选项 *x* 都可由其具有的属性集 $S_x$ 描述。
+- 对任意两个属性集，$S_x \geq S_y$ 表示 $S_x$ 中的属性偏好于 $S_y$ 中的属性。
+- 因此，权衡关系充当稳定的底层结构，支撑行动者在不同动机状态下的偏好序。
+
+形式上，若 *x* 与 *y* 是备选项，则行动者在状态 *M* 中的偏好 $x \succeq_M y$ 可表示如下：
+
+$$x \succeq_M y \iff S_x \geq S_y,$$
+
+其中 $S_x = \{ P \in M : x \text{ has } P \}$，$S_y = \{ P \in M : y \text{ has } P \}$。这一关系确保行动者在任何动机状态 *M* 中的偏好都反映其对跨语境属性组合的稳定评价。
+
+Dietrich 与 List（2013a,b）的工作通过对照 **结构合理性** 与 **实质合理性** 来探讨合理性：结构合理性关注偏好的内部一致性（如传统经济学），实质合理性评价偏好的内容或价值。形式合理性要求逻辑连贯，例如若 *A* 偏好于 *B*、*B* 偏好于 *C*，则 *A* 偏好于 *C*。实质合理性则把自毁或有害的偏好视为“非理性”，即使它们前后一致，因为它评价偏好的价值，而不只是其连贯性。关于这些哲学问题的早期讨论见 Pettit（2002）[^pettit-2002]。
+
+#### 4.2.3 理由与偏好
+
+Osherson 与 Weinstein（2012）提出一种偏好逻辑，其中偏好不是任意或仅仅一致的，而是基于可识别的理由。该框架引入模态联结词，使支持某一结果的理由得以形式表达，从而为建模各种理由如何结合并塑造行动者偏好提供途径。
+
+在决定是否安装火灾报警器时，一个人可能把安全与成本视为支持或反对该行动的不同理由。在此例中，偏好安装火灾报警器高度重视提高安全性，因此这一偏好基于“安全理由”。若经济拮据，成本可能成为反对安装报警器的理由。
+
+每一理由（如安全或成本）都可用 **效用尺度** 量化，表示基于特定标准每个选择好多少或差多少。形式上，“效用函数” *u* 定义为映射
+
+$$u: W \times S \rightarrow \mathbb{R}$$
+
+其中 *W* 是可能世界集合，*S* 是安全、成本等效用尺度的索引集。
+
+为评价是否安装火灾报警器之类的选择，模型使用 **选取函数** *s* 找出与真实世界最接近的备选世界，以供比较。例如，它比较：
+
+- 世界 $w_1$：安装了火灾报警器（更安全的世界）；
+- 世界 $w_2$：未安装火灾报警器（当前、较不安全的世界）。
+
+形式上，**选取函数** $s(w, A)$ 根据与当前世界 *w* 的相似性，从集合 *A* 中选出一个代表世界：
+
+$$s(w, A) = \text{closest world in } A \text{ to } w.$$
+
+最后，偏好关系可用模态表达式形式定义。例如，$p \succ_1 \neg p$ 成立，当且仅当出于安全理由，安装报警器（由 *p* 表示）胜过不安装，记作安全效用尺度 $u_1$。若同时考虑 $u_2$（成本），偏好关系可结合 $u_1$ 与 $u_2$，从而把握平衡安全与成本的整体观点。
+
+这一逻辑框架使结构化推理得以纳入偏好背后的具体理由，从而在现实决策语境中对选择作出细致表征。
+
+Osherson 与 Weinstein 探讨可判定性问题以及模型子类的各种条件。
+
+双层结构已成为建模有理由偏好的标准进路，并在各领域有潜在应用。近期一例是源于底层因果考量的偏好——见 Xie 与 Yan（2024）的相关工作。类似地，Chen、Shi 与 Wang（2024）把偏好与依赖整合进合作博弈，为纳什均衡、帕累托最优与沙普利核心等概念提供统一视角。
+
 ## 脚注
 
 [^halldén-1957]: Halldén, Sören, 1957, *On the Logic of “Better”* (Library of Theoria 2), Lund: C.W.K. Gleerup.
@@ -325,3 +422,17 @@ $$\mathcal{M}, w \models \varphi \geq \psi \text{ 当且仅当 } \begin{cases} (
 [^spohn-1988]: Spohn, Wolfgang, 1988, “Ordinal Conditional Functions: A Dynamic Theory of Epistemic States”, in *Causation in Decision, Belief Change, and Statistics*, William L. Harper and Brian Skyrms (eds), Dordrecht: Kluwer, 105–134. doi:10.1007/978-94-009-2865-7_6
 
 [^halpern-1997]: Halpern, Joseph Y., 1997, “Defining Relative Likelihood in Partially-Ordered Preferential Structures”, *Journal of Artificial Intelligence Research*, 7: 1–24. doi:10.1613/jair.391
+
+[^liu-2008]: Liu, Fenrong, 2008, *Changing for the Better: Preference Dynamics and Agent Diversity*, Ph.D. thesis, ILLC, University of Amsterdam.
+
+[^liu-2010]: –––, 2010, “Von Wright’s ‘The Logic of Preference’ Revisited”, *Synthese*, 175(1): 69–88. doi:10.1007/s11229-009-9530-z
+
+[^kratzer-1981]: Kratzer, Angelika, 1981, “Partition and Revision: The Semantics of Counterfactuals”, *Journal of Philosophical Logic*, 10(2): 201–216. doi:10.1007/bf00248849
+
+[^liu-2011b]: –––, 2011b, *Reasoning about Preference Dynamics* (Synthese Library 354), Berlin: Springerd. doi:10.1007/978-94-007-1344-4
+
+[^hansen-2008]: Hansen, Jörg, 2008, *Imperatives and Deontic Logic*, Ph.D. dissertation, Konstanz, Germany: University of Konstanz.
+
+[^van-2010]: Van Benthem, Johan, Davide Grossi, and Fenrong Liu, 2010, “Deontics = Betterness + Priority”, in *Deontic Logic in Computer Science: 10th International Conference (DEON 2010)* (Lecture Notes in Computer Science 6181), Guido Governatori and Giovanni Sartor (eds), Berlin/Heidelberg: Springer, 50–65. doi:10.1007/978-3-642-14183-6_6
+
+[^pettit-2002]: Pettit, Philip, 2002, *Rules, Reasons, and Norms: Selected Essays*, Oxford/New York: Oxford University Press. doi:10.1093/0199251878.001.0001
