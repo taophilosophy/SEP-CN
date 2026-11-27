@@ -642,6 +642,25 @@ Makinson（1999）[^makinson-1999] 强调规范（无真值的命令）与道义
 
 对偏好改变的研究以及 **其他条件不变** 偏好的概念，突显了偏好逻辑的动态与实践面向，尤其是在决策语境中。这些框架将继续作为应对未来挑战、推进该领域研究的基础。
 
+## 参考文献
+
+> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=logic-preference)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/logic-preference/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=logic-preference&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/logic-preference/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+[请与作者联系提供建议。]
+
+## 相关词条
+
+动态认知逻辑 | 模态逻辑 | 信念修正的逻辑 | 偏好 | 社会选择理论
+
 ## 脚注
 
 [^halldén-1957]: Halldén, Sören, 1957, *On the Logic of “Better”* (Library of Theoria 2), Lund: C.W.K. Gleerup.
@@ -729,3 +748,51 @@ Makinson（1999）[^makinson-1999] 强调规范（无真值的命令）与道义
 [^shi-2021]: Shi, Chenwei, 2021, “Collective Opinion as Tendency Towards Consensus”, *Journal of Philosophical Logic*, 50(3): 593–613. doi:10.1007/s10992-020-09579-0
 
 [^shi-2021-2]: Shi, Chenwei and Yang Sun, 2021, “Logic of Convex Order”, *Studia Logica*, 109(5): 1019–1047. doi:10.1007/s11225-020-09940-z
+
+[^andréka-2002]: Andréka, Hajnal, Michael Ryan, and Philippe-Yves Schobbens, 2002, “Operators and Laws for Combining Preferential Relations”, *Journal of Logic and Computation*, 12(1): 13–53. doi:10.1093/logcom/12.1.13
+
+[^benzmüller-2020]: Benzmüller, Christoph, Xavier Parent, and Leendert W. N. van der Torre, 2020, “Designing Normative Theories for Ethical and Legal Reasoning: LogiKEy Framework, Methodology, and Tool Support”, *Artificial Intelligence*, 287: 103348. doi:10.1016/J.ARTINT.2020.103348
+
+[^boutilier-2004]: Boutilier, Craig, Ronen I. Brafman, Carmel Domshlak, Holger H. Hoos, and David Poole, 2004, “CP-Nets: A Tool for Representing and Reasoning with Conditional Ceteris Paribus Preference Statements”, *Journal of Artificial Intelligence Research*, 21: 135–191. doi:10.1613/jair.1234
+
+[^bowles-2011]: Bowles, Samuel and Herbert Gintis, 2011, *A Cooperative Species: Human Reciprocity and Its Evolution*, Princeton/Oxford: Princeton University Press.
+
+[^cai-2023]: Cai, Jianlong, Jieyu Zhan, and Yuncheng Jiang, 2023, “CP-Nets-Based User Preference Learning in Automated Negotiation through Completion and Correction”, *Knowledge and Information Systems*, 65(9): 3567–3590. doi:10.1007/s10115-023-01872-z
+
+[^chen-2024]: Chen, Qian, Chenwei Shi, and Yiyan Wang, 2024, “Reasoning about Dependence, Preference and Coalitional Power”, *Journal of Philosophical Logic*, 53(1): 99–130. doi:10.1007/s10992-023-09727-2
+
+[^chisholm-1966]: Chisholm, Roderick M. and Ernest Sosa, 1966, “On the Logic of ‘Intrinsically Better’”, *American Philosophical Quarterly*, 3(3): 244–249.
+
+[^christoff-2022]: Christoff, Zoé, Norbert Gratzl, and Olivier Roy, 2022, “Priority Merge and Intersection Modalities”, *The Review of Symbolic Logic*, 15(1): 165–196. doi:10.1017/s1755020321000058
+
+[^de-2009]: De Jongh, Dick and Fenrong Liu, 2009, “Preference, Priorities and Belief”, in Grüne-Yanoff and Hansson 2009: 85–107. doi:10.1007/978-90-481-2593-7_4
+
+[^dietrich-2013a]: Dietrich, Franz and Christian List, 2013a, “A Reason-Based Theory of Rational Choice”, *Noûs*, 47(1): 104–134. doi:10.1111/j.1468-0068.2011.00840.x [[Dietrich and List 2013a preprint available online](https://eprints.lse.ac.uk/46930/)]
+
+[^dietrich-2013b]: –––, 2013b, “Where Do Preferences Come From?”, *International Journal of Game Theory*, 42(3): 613–637. doi:10.1007/s00182-012-0333-y
+
+[^doyle-1994]: Doyle, Jon and Michael P. Wellman, 1994, “Representing Preferences as *Ceteris Paribus* Comparatives”, in *Papers from the 1994 AAAI Spring Symposium: Decision-Theoretic Planning* (AAAI Technical Report, SS-94-06), Association for the Advancement of Artificial Intelligence, 69–75.
+
+[^fu-2020]: Fu, Xiaoxuan, 2020, “Preference Lifting under Uncertainty”, Ph.D. thesis, Department of Philosophy, Tsinghua University.
+
+[^goldsmith-2008]: Goldsmith, Judy, Jérôme Lang, Miroslaw Truszczynski, and Nic Wilson, 2008, “The Computational Complexity of Dominance and Consistency in CP-Nets”, *Journal of Artificial Intelligence Research*, 33: 403–432. doi:10.1613/JAIR.2627
+
+[^grossi-2022]: Grossi, Davide, Wiebe van der Hoek, and Louwe B. Kuijer, 2022, “Reasoning about General Preference Relations”, *Artificial Intelligence*, 313: 103793. doi:10.1016/j.artint.2022.103793
+
+[^grüne-yanoff-2009]: Grüne-Yanoff, Till and Sven Ove Hansson (eds), 2009, *Preference Change: Approaches from Philosophy, Economics and Psychology* (Theory and Decision Library. Series A, Philosophy and Methodology of the Social Sciences, 42), Dordrecht/London: Springer. doi:10.1007/978-90-481-2593-7
+
+[^horty-2012]: Horty, John Francis, 2012, *Reasons as Defaults*, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199744077.001.0001
+
+[^liang-2011]: Liang Zhen and Jeremy Seligman, 2011, “A Logical Model of the Dynamics of Peer Pressure”, *Electronic Notes in Theoretical Computer Science*, 278: 275–288. doi:10.1016/j.entcs.2011.10.021
+
+[^osherson-2012]: Osherson, Daniel and Scott Weinstein, 2012, “Preference Based on Reasons”, *The Review of Symbolic Logic*, 5(1): 122–147. doi:10.1017/s1755020311000244
+
+[^van-2014]: Van Benthem, Johan, Davide Grossi, and Fenrong Liu, 2014, “Priority Structures in Deontic Logic”, *Theoria*, 80(2): 116–152. doi:10.1111/theo.12028
+
+[^van-2007]: Van Benthem, Johan and Fenrong Liu, 2007, “Dynamic Logic of Preference Upgrade”, *Journal of Applied Non-Classical Logics*, 17(2): 157–182. doi:10.3166/jancl.17.157-182
+
+[^van-1974]: Van Dalen, Dirk, 1974, “Variants of Rescher’s Semantics for Preference Logic and Some Completeness Theorems”, *Studia Logica*, 33(2): 163–181. doi:10.1007/BF02120492
+
+[^van-1973]: Van Fraassen, Bas C., 1973, “Values and the Heart’s Command”, *The Journal of Philosophy*, 70(1): 5–19. doi:10.2307/2024762
+
+[^xie-2024]: Xie, Kaibo and Jialiang Yan, 2024, “A Logic for Desire Based on Causal Inference”, *Journal of Logic and Computation*, 34(2): 352–371. doi:10.1093/logcom/exac060

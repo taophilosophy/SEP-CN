@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md（结构）、baseline/entries.json（基线）、journal/（进度事实）、tasks/（仅调度侧阻塞）。 -->
 
-生成时间：2026-11-27 07:24（UTC）
+生成时间：2026-11-27 09:32（UTC）
 
 ## 总览
 
@@ -54,7 +54,7 @@
 |sg-02|1|
 |sg-03|1|
 |tr-01|0|
-|tr-02|1|
+|tr-02|2|
 |tr-03|1|
 |tr-04|1|
 |tr-05|0|
@@ -94,4 +94,4 @@
 
 |slug|已过节点数|已过节点|
 |---|---|---|
-|logic-preference|1|ex-04|
+|logic-preference|2|ex-04 tr-02|

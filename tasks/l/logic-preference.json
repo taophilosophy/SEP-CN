@@ -2,7 +2,21 @@
   "slug": "logic-preference",
   "kind": "retranslate",
   "zh_doc": "zh/l/logic-preference.md",
-  "state": "ex-04_checked",
+  "translation_mode": "llm-pe",
+  "project_spec": {
+    "audience": "中文哲学读者（研究者与研究生为主）",
+    "purpose": "学术阅读与引用（SEP 词条简体中文译本）",
+    "register": "现代汉语学术书面语",
+    "terminology_basis": "shu-yu-biao.md／ren-ming-biao.md／baseline/term-concepts.md",
+    "delivery": "GitBook Markdown＋VitePress 双语站",
+    "qa_level": "CY/T 266＋ISO 5060（六轴机检＋人工复核）"
+  },
+  "pe": {
+    "level": "full",
+    "system": "DeepSeek-V4.1-Flash",
+    "disclosure": "任务 evidence 与词条译后编辑记录"
+  },
+  "state": "tr-02_checked",
   "steps": [
     {
       "step": "ex-04",
@@ -10,6 +24,13 @@
       "actor": "trae-main",
       "at": "2026-11-27T05:39:32Z",
       "evidence": "T142/T193–T195 ex-04 完成：en_integrity clean；en_source_audit hard 0（修 \\\\\\\\[ 误计后；warn 5 全部定性：A 类 1、引用键 3）、check_math missing 0；行内公式 417、display 43；H2 12/H3 16、表 1/图 2、脚注定义 67；G13 无真候选、无需建清单；无勘误/补丁；证据 results/t193-ex04-machine.md、t194-ex04-human.md、t195-g13.md"
+    },
+    {
+      "step": "tr-02",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-27T09:30:17Z",
+      "evidence": "064 T196–T200 全量重译＋full PE（译后编辑）：§1–§8、尾节四件套、脚注 67 条入库；账本 tasks/l/logic-preference.ledger.yaml 301 段（300 body＋1 oir），step2 与 zh 正文 300/300 块一致；公式 display 41/41、行内 320/319（4 处宏展开、5 处括号宏、2 处 TeX 引号、1 处释义 φ，差异全登记）；check_all 23/23；证据 results/t196-review.md–t200-review.md、t201-review.md"
     }
   ],
   "blockers": [],
