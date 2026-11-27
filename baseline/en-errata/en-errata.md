@@ -665,3 +665,11 @@
 | action | §5.3（en L328） | `paralized` | ①排印手误 | `paralyzed` | 纯排版，无需译注 | 中文作“瘫痪”，不涉英文拼写（2026-11-27 核对） |
 | action | §5.3（en L336） | `pursued.The` | ①纯排版空隙 | `pursued. The` | 纯排版，无需译注 | 句号后缺空格（2026-11-27 核对） |
 | action | §8（en L436） | `Santos 2020;)` | ①纯排版标点 | `Santos 2020)` | 纯排版，无需译注 | 括注内多余分号（2026-11-27 核对） |
+
+## 十八、2026-11-27 T223 axiom-choice 新发现
+
+**来源**：`specs/064-flow-spec-audit/results/t223-review.md`；`html/` 冻结不改，`en/a/axiom-choice.md` 忠实照录。
+
+| slug | 位置 | 上游原文 | 缺陷定性 | 参考读法 | 中文承载 | 凭证 |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| axiom-choice | §2 第 4 段（en L86） | `$\{a_{1}, \ldots, a_{n}, b_{1},\ldots,b_{n}\} with each pair \{a_{i}, b_{i}\} \in P$.` | 格式（公式定界符错位：英文短语被包入数学） | `$\{a_{1}, \ldots, a_{n}, b_{1},\ldots,b_{n}\}$ with each pair $\{a_{i}, b_{i}\} \in P$` | 译文按正确读法拆为两个公式（纯排版，无需译注） | 英文短语 “with each pair” 不应在数学模式内；拆后语义完整（2026-11-27 核对） |
