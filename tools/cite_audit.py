@@ -50,31 +50,82 @@ def is_quote_level(inner):
     return len(inner) >= 12 and len(inner.split()) >= 3
 
 
+def blockquote_spans(text):
+    """引块候选：[(起始行, 结束行, 块内文字)]。
+
+    跳过版本行（pubinfo）、照录说明行与引用信息表；这些 `>` 行不是直引。
+    """
+    spans, cur, start = [], [], None
+    lines = text.splitlines()
+    for i, line in enumerate(lines, 1):
+        if line.lstrip().startswith(">"):
+            if start is None:
+                start = i
+            cur.append(line)
+        elif cur:
+            spans.append((start, i - 1, cur))
+            cur, start = [], None
+    if cur:
+        spans.append((start, len(lines), cur))
+    out = []
+    for s, e, raw in spans:
+        inner = "\n".join(re.sub(r"^\s*>\s?", "", x) for x in raw).strip()
+        if not inner:
+            continue
+        if "首次发表于" in inner or "First published" in inner:
+            continue
+        if inner.startswith("|") or "How to cite this entry" in inner:
+            continue
+        if "原文参考文献已转为脚注引用" in inner:
+            continue
+        out.append((s, e, inner))
+    return out
+
+
+def _item(slug, line_no, form, inner):
+    qlang = ax.lang_of(inner)
+    return {
+        "id": "",
+        "loc": "L%d" % line_no,
+        "form": form,
+        "quote_lang": ax.bcp47(qlang),
+        "origin_lang": "unknown",
+        "original": "—",
+        "original_status": "unavailable",
+        "english": inner if qlang in ("none", "unclassified-latin") else "—",
+        "english_source": "self" if qlang in ("none", "unclassified-latin") else "—",
+        "register_system": "—",
+        "anchor": "",
+        "hash": sha16(inner),
+        "verdict": "pending",
+        "reviewer": "",
+    }
+
+
+def build_items(text, slug):
+    """直引清单条目：引块＋引块外的行内弯引号；按行号排序并连续编号。"""
+    items, covered = [], set()
+    for s, e, inner in blockquote_spans(text):
+        covered.update(range(s, e + 1))
+        if is_quote_level(inner):
+            items.append((s, _item(slug, s, "block", inner)))
+    for line_no, _start, inner in ax.quotes(text):
+        if line_no in covered or not is_quote_level(inner):
+            continue
+        items.append((line_no, _item(slug, line_no, "inline", inner)))
+    items.sort(key=lambda x: x[0])
+    out = []
+    for i, (_line, it) in enumerate(items, 1):
+        it["id"] = "c-%s-%03d" % (slug, i)
+        out.append(it)
+    return out
+
+
 def scan(path):
     text = ax.read_doc(path)
     slug = ax.slug_of(path)
-    items = []
-    for i, (line_no, start, inner) in enumerate(ax.quotes(text), 1):
-        if not is_quote_level(inner):
-            continue
-        qlang = ax.lang_of(inner)
-        items.append({
-            "id": "c-%s-%03d" % (slug, i),
-            "loc": "L%d" % line_no,
-            "form": "block" if line_no and text.splitlines()[line_no - 1].lstrip().startswith(">") else "inline",
-            "quote_lang": ax.bcp47(qlang),
-            "origin_lang": "unknown",
-            "original": "—",
-            "original_status": "unavailable",
-            "english": inner if qlang in ("none", "unclassified-latin") else "—",
-            "english_source": "self" if qlang in ("none", "unclassified-latin") else "—",
-            "register_system": "—",
-            "anchor": "",
-            "hash": sha16(inner),
-            "verdict": "pending",
-            "reviewer": "",
-        })
-    return slug, items
+    return slug, build_items(text, slug)
+
 
 
 def manifest_path(slug):
