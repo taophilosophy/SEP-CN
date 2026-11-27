@@ -2,7 +2,7 @@
   "slug": "logic-dynamic",
   "kind": "retranslate",
   "zh_doc": "zh/l/logic-dynamic.md",
-  "state": "tr-02_checked",
+  "state": "tr-04_checked",
   "steps": [
     {
       "step": "ex-04",
@@ -17,6 +17,20 @@
       "actor": "trae-main",
       "at": "2026-11-27T20:47:51Z",
       "evidence": "T240 tr-02 全量完成（results/t240-review.md）：逐段译后编辑（PE），573 行／9,702 汉字、251 块／251 段账本、602 行内公式、4 display 对、55 脚注定义、2 图；check_style/quotes/math_zh 0 硬错误，check_pairs hard_in_scope 0／out_of_scope 0，check_terms 硬 0，check_academic 无硬错误"
+    },
+    {
+      "step": "tr-03",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-27T21:29:50Z",
+      "evidence": "T241 一校（results/t241-tr03.md）：逐节对照 en 全篇（§1–§5、尾节、55 脚注）；Critical 0／Major 1（“对合的分配性”误译已改为“关于合取 ∧ 的分配性”）／Minor 6（上游括号误植入勘误、iff 与规则标签英改中、引用名统一等）；残留外文 0（书目与记号除外）；check_style/quotes/math_zh/terms 硬 0、academic 无硬错误、check_pairs hard 0／out_of_scope 0；账本 251 段守恒"
+    },
+    {
+      "step": "tr-04",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-27T21:30:12Z",
+      "evidence": "T241 二校（results/t241-tr04.md）：check_prose 13 条全部改写落地，13→0（无豁免；weak-verb 2、de-chain 8、long-sentence 3）；语体结论：现代汉语学术书面语、无文言仿古、破折号 25 对未滥用、一个 65 处无冗余；公式与引用未动；check_style/quotes/math_zh/terms 硬 0、academic 无硬错误、check_pairs hard 0；账本 251 段守恒，9683 汉字"
     }
   ],
   "blockers": [],

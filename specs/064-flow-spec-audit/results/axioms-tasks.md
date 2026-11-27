@@ -587,3 +587,14 @@
 | TA7–TA8 | 工作包 38；原子项 122；0 处预写门禁号／ADR 号 | 通过 |
 
 **rev92 说明**：T240 完成并勾选，勾选 82→83、未开始 78→77；§5＋尾节＋55 脚注定义入库，全件 573 行／9,702 汉字、251 块／251 段账本、602 行内公式、4 display 对、2 图；check_style／quotes／math_zh 0、terms 硬 0、academic 无硬错误、check_pairs hard 0／out_of_scope 0；logic-dynamic 已推进 `tr-02_checked`。
+
+## 87 rev93 复核（T241 tr-03／tr-04；计数 160）
+
+| 项 | 复算 | 结论 |
+| ---- | ---- | ---- |
+| TA1–TA3 | 160 定义、0 重复、0 悬空；16 分区和 160 | 通过 |
+| TA4–TA5 | 验收 160/160；Kahn 160/160 | 通过 |
+| TA6 状态一致 | 勾选 84（新增 T241）；容器 T138／T140／T142／T144／T154／T155／T156／T157／T158 未勾；logic-dynamic `tr-04_checked` | 通过 |
+| TA7–TA8 | 工作包 38；原子项 122；0 处预写门禁号／ADR 号 | 通过 |
+
+**rev93 说明**：T241 完成并勾选，勾选 83→84、未开始 77→76；一校 Critical 0／Major 1／Minor 6，上游括号误植入勘误第二十节；二校 `check_prose` 13→0（无豁免），语体结论现代汉语学术书面语；残留外文 0（书目与记号除外）；账本 251 段守恒、9,683 汉字；check_style／quotes／math_zh／terms 0、academic 无硬错误、check_pairs hard 0／out_of_scope 0；logic-dynamic 已推进 `tr-04_checked`。

@@ -52,9 +52,9 @@ segments:
     source: |-
       The possible executions of complex programs can be next defined compositionally. For instance, a program “first *α*, then *β*” is a complex program, more specifically a *sequence*. A possible execution can be represented in an LTS by composing a two-step transition—a transition which can be signified by $R(\alpha;\beta)$—between the states $x$ and $y$: there is a possible execution in the state $x$ of the program *α* that finishes in a state $z$ and there is a possible execution in $z$ of the program *β* that finishes in the state $y$. If the proposition $A$ is true in $y$, then the formula $\langle \alpha;\beta\rangle A$ is be true in the state $x$. The programs *α* and *β* could be complex program themselves. Still more programs can be expressed with more constructs that we will present in due time.
     step1: |-
-      复合程序的可能执行随后可以按组合方式加以定义。例如，程序“先 *α*，后 *β*”是一个复合程序，更确切地说是一个 **顺序**。一次可能执行可在 LTS 中表示为状态 $x$ 与 $y$ 之间的两步转移——该转移可记作 $R(\alpha;\beta)$：在状态 $x$ 中程序 *α* 存在一次在状态 $z$ 结束的可能执行，而在 $z$ 中程序 *β* 存在一次在状态 $y$ 结束的可能执行。若命题 $A$ 在 $y$ 中为真，则公式 $\langle \alpha;\beta\rangle A$ 在状态 $x$ 中为真。程序 *α* 与 *β* 本身也可以是复合程序。我们将在适当时候用更多构造表达更多的程序。
+      复合程序的可能执行随后可以按组合方式定义。例如，程序“先 *α*，后 *β*”是一个复合程序，更确切地说是一个 **顺序**。一次可能执行可在 LTS 中表示为状态 $x$ 与 $y$ 之间的两步转移——该转移可记作 $R(\alpha;\beta)$：在状态 $x$ 中程序 *α* 存在一次在状态 $z$ 结束的可能执行，而在 $z$ 中程序 *β* 存在一次在状态 $y$ 结束的可能执行。若命题 $A$ 在 $y$ 中为真，则公式 $\langle \alpha;\beta\rangle A$ 在状态 $x$ 中为真。程序 *α* 与 *β* 本身也可以是复合程序。我们将在适当时候用更多构造表达更多的程序。
     step2: |-
-      复合程序的可能执行随后可以按组合方式加以定义。例如，程序“先 *α*，后 *β*”是一个复合程序，更确切地说是一个 **顺序**。一次可能执行可在 LTS 中表示为状态 $x$ 与 $y$ 之间的两步转移——该转移可记作 $R(\alpha;\beta)$：在状态 $x$ 中程序 *α* 存在一次在状态 $z$ 结束的可能执行，而在 $z$ 中程序 *β* 存在一次在状态 $y$ 结束的可能执行。若命题 $A$ 在 $y$ 中为真，则公式 $\langle \alpha;\beta\rangle A$ 在状态 $x$ 中为真。程序 *α* 与 *β* 本身也可以是复合程序。我们将在适当时候用更多构造表达更多的程序。
+      复合程序的可能执行随后可以按组合方式定义。例如，程序“先 *α*，后 *β*”是一个复合程序，更确切地说是一个 **顺序**。一次可能执行可在 LTS 中表示为状态 $x$ 与 $y$ 之间的两步转移——该转移可记作 $R(\alpha;\beta)$：在状态 $x$ 中程序 *α* 存在一次在状态 $z$ 结束的可能执行，而在 $z$ 中程序 *β* 存在一次在状态 $y$ 结束的可能执行。若命题 $A$ 在 $y$ 中为真，则公式 $\langle \alpha;\beta\rangle A$ 在状态 $x$ 中为真。程序 *α* 与 *β* 本身也可以是复合程序。我们将在适当时候用更多构造表达更多的程序。
   - id: 7
     kind: body
     source: |-
@@ -145,7 +145,7 @@ segments:
       - $0$（“假”）是公式。
       - 若 $A$ 是公式，则 $\lnot A$（“非 $A$”）是公式。
       - 若 $A$ 与 $B$ 是公式，则 $(A\lor B)$（“$A$ 或 $B$”）是公式。
-      - 若 *α* 是程序且 *A* 是公式，则 $[\alpha]A$（“从当前状态出发的 *α* 的每次执行都导致 $A$ 为真的状态”）是公式。
+      - 若 *α* 是程序且 *A* 是公式，则 $[\alpha]A$（“从当前状态出发执行 *α*，每一次都到达 $A$ 为真的状态”）是公式。
       - 每个原子程序都是程序。
       - 若 *α* 与 *β* 是程序，则 $(\alpha;\beta)$（“先做 *α*，再做 *β*”）是程序。
       - 若 *α* 与 *β* 是程序，则 $(\alpha\cup\beta)$（“非确定地做 *α* 或 *β*”）是程序。
@@ -156,7 +156,7 @@ segments:
       - $0$（“假”）是公式。
       - 若 $A$ 是公式，则 $\lnot A$（“非 $A$”）是公式。
       - 若 $A$ 与 $B$ 是公式，则 $(A\lor B)$（“$A$ 或 $B$”）是公式。
-      - 若 *α* 是程序且 *A* 是公式，则 $[\alpha]A$（“从当前状态出发的 *α* 的每次执行都导致 $A$ 为真的状态”）是公式。
+      - 若 *α* 是程序且 *A* 是公式，则 $[\alpha]A$（“从当前状态出发执行 *α*，每一次都到达 $A$ 为真的状态”）是公式。
       - 每个原子程序都是程序。
       - 若 *α* 与 *β* 是程序，则 $(\alpha;\beta)$（“先做 *α*，再做 *β*”）是程序。
       - 若 *α* 与 *β* 是程序，则 $(\alpha\cup\beta)$（“非确定地做 *α* 或 *β*”）是程序。
@@ -167,9 +167,9 @@ segments:
     source: |-
       The other Boolean connectives $1$, $\land$, $\to$, and $\leftrightarrow$ are used as abbreviations in the standard way. In addition, we abbreviate $\lnot[\alpha]\lnot A$ to $\langle\alpha\rangle A$ (“some execution of *α* from the present state leads to a state where $A$ is true”) as in modal logic. We write $\alpha^n$ for $\alpha;\ldots ;\alpha$ with $n$ occurrences of *α*. More formally:
     step1: |-
-      其余布尔联结词 $1$、$\land$、$\to$ 与 $\leftrightarrow$ 按标准方式用作缩写。此外，如同模态逻辑，我们把 $\lnot[\alpha]\lnot A$ 缩写为 $\langle\alpha\rangle A$（“从当前状态出发的 *α* 的某次执行导致 $A$ 为真的状态”）。我们写 $\alpha^n$ 表示 $\alpha;\ldots ;\alpha$，其中 *α* 出现 $n$ 次。更形式地说：
+      其余布尔联结词 $1$、$\land$、$\to$ 与 $\leftrightarrow$ 按标准方式用作缩写。此外，如同模态逻辑，我们把 $\lnot[\alpha]\lnot A$ 缩写为 $\langle\alpha\rangle A$（“从当前状态出发执行 *α*，某一次会到达 $A$ 为真的状态”）。我们写 $\alpha^n$ 表示 $\alpha;\ldots ;\alpha$，其中 *α* 出现 $n$ 次。更形式地说：
     step2: |-
-      其余布尔联结词 $1$、$\land$、$\to$ 与 $\leftrightarrow$ 按标准方式用作缩写。此外，如同模态逻辑，我们把 $\lnot[\alpha]\lnot A$ 缩写为 $\langle\alpha\rangle A$（“从当前状态出发的 *α* 的某次执行导致 $A$ 为真的状态”）。我们写 $\alpha^n$ 表示 $\alpha;\ldots ;\alpha$，其中 *α* 出现 $n$ 次。更形式地说：
+      其余布尔联结词 $1$、$\land$、$\to$ 与 $\leftrightarrow$ 按标准方式用作缩写。此外，如同模态逻辑，我们把 $\lnot[\alpha]\lnot A$ 缩写为 $\langle\alpha\rangle A$（“从当前状态出发执行 *α*，某一次会到达 $A$ 为真的状态”）。我们写 $\alpha^n$ 表示 $\alpha;\ldots ;\alpha$，其中 *α* 出现 $n$ 次。更形式地说：
   - id: 18
     kind: body
     source: |-
@@ -210,9 +210,9 @@ segments:
     source: |-
       Formulas can be used to describe the properties that hold after the successful execution of a program. For example, the formula $[\alpha\cup\beta]A$ means that whenever program *α* or *β* is successfully executed, a state is reached where $A$ holds, whereas the formula $\langle (\alpha;\beta)^*\rangle A$ means that there is a sequence of alternating executions of *α* and *β* such that a state is reached where $A$ holds. Semantically speaking, formulas are interpreted by sets of states and programs are interpreted by binary relations over states in a transition system. More precisely, the meaning of PDL formulas and programs is interpreted over Labeled Transition Systems (LTS) $M = (W,R,V)$ where $W$ is a nonempty set of worlds or states, $R$ is a mapping from the set $\Pi_0$ of atomic programs into binary relations on $W$ and $V$ is a mapping from the set $\Phi_0$ of atomic formulas into subsets of $W$.
     step1: |-
-      公式可用于描述程序成功执行之后成立的种种性质。例如，公式 $[\alpha\cup\beta]A$ 意味着：每当程序 *α* 或 *β* 成功执行，都会到达 $A$ 成立的状态；而公式 $\langle (\alpha;\beta)^*\rangle A$ 意味着：存在 *α* 与 *β* 交替执行的一个序列，使得到达 $A$ 成立的状态。从语义上说，公式由状态集解释，程序由转移系统中状态上的二元关系解释。更确切地说，PDL 公式与程序的意义是在标记转移系统（LTS）$M = (W,R,V)$ 上解释的，其中 $W$ 是非空的世界或状态集，$R$ 是从原子程序集 $\Pi_0$ 到 $W$ 上二元关系的映射，$V$ 是从原子公式集 $\Phi_0$ 到 $W$ 的子集的映射。
+      公式可用于描述程序成功执行之后成立的种种性质。例如，公式 $[\alpha\cup\beta]A$ 意味着：每当程序 *α* 或 *β* 成功执行，都会到达 $A$ 成立的状态；而公式 $\langle (\alpha;\beta)^*\rangle A$ 意味着：存在 *α* 与 *β* 交替执行的一个序列，使得到达 $A$ 成立的状态。从语义上说，公式由状态集解释，程序由转移系统中状态上的二元关系解释。更确切地说，PDL 公式与程序在标记转移系统（LTS）$M = (W,R,V)$ 上得到解释，其中 $W$ 是一个非空的世界（或状态）集，$R$ 把原子程序集 $\Pi_0$ 映射为 $W$ 上的二元关系，$V$ 把原子公式集 $\Phi_0$ 映射为 $W$ 的子集。
     step2: |-
-      公式可用于描述程序成功执行之后成立的种种性质。例如，公式 $[\alpha\cup\beta]A$ 意味着：每当程序 *α* 或 *β* 成功执行，都会到达 $A$ 成立的状态；而公式 $\langle (\alpha;\beta)^*\rangle A$ 意味着：存在 *α* 与 *β* 交替执行的一个序列，使得到达 $A$ 成立的状态。从语义上说，公式由状态集解释，程序由转移系统中状态上的二元关系解释。更确切地说，PDL 公式与程序的意义是在标记转移系统（LTS）$M = (W,R,V)$ 上解释的，其中 $W$ 是非空的世界或状态集，$R$ 是从原子程序集 $\Pi_0$ 到 $W$ 上二元关系的映射，$V$ 是从原子公式集 $\Phi_0$ 到 $W$ 的子集的映射。
+      公式可用于描述程序成功执行之后成立的种种性质。例如，公式 $[\alpha\cup\beta]A$ 意味着：每当程序 *α* 或 *β* 成功执行，都会到达 $A$ 成立的状态；而公式 $\langle (\alpha;\beta)^*\rangle A$ 意味着：存在 *α* 与 *β* 交替执行的一个序列，使得到达 $A$ 成立的状态。从语义上说，公式由状态集解释，程序由转移系统中状态上的二元关系解释。更确切地说，PDL 公式与程序在标记转移系统（LTS）$M = (W,R,V)$ 上得到解释，其中 $W$ 是一个非空的世界（或状态）集，$R$ 把原子程序集 $\Pi_0$ 映射为 $W$ 上的二元关系，$V$ 把原子公式集 $\Phi_0$ 映射为 $W$ 的子集。
   - id: 23
     kind: body
     source: |-
@@ -239,7 +239,7 @@ segments:
       - $xR(A?)y$ 当且仅当 $x = y$ 且 $y \in V(A)$
       - $V(0) = \emptyset$
       - $V(\lnot A) = W \setminus V(A)$
-      - $V((A\lor B) = V(A) \cup V(B)$
+      - $V(A\lor B) = V(A) \cup V(B)$
       - $V([\alpha]A) = \{x \mid \text{对所有世界 } y，\text{若 } xR(\alpha)y \text{ 则 } y \in V(A)\}$
     step2: |-
       - $xR(\alpha;\beta)y$ 当且仅当存在世界 $z$，使得 $xR(\alpha)z$ 且 $zR(\beta)y$
@@ -248,7 +248,7 @@ segments:
       - $xR(A?)y$ 当且仅当 $x = y$ 且 $y \in V(A)$
       - $V(0) = \emptyset$
       - $V(\lnot A) = W \setminus V(A)$
-      - $V((A\lor B) = V(A) \cup V(B)$
+      - $V(A\lor B) = V(A) \cup V(B)$
       - $V([\alpha]A) = \{x \mid \text{对所有世界 } y，\text{若 } xR(\alpha)y \text{ 则 } y \in V(A)\}$
   - id: 25
     kind: body
@@ -332,9 +332,9 @@ segments:
     source: |-
       sat $A$ iff not $\models \lnot A$ $\models A$ iff not sat $\lnot A$
     step1: |-
-      sat $A$ iff not $\models \lnot A$ $\models A$ iff not sat $\lnot A$
+      sat $A$ 当且仅当并非 $\models \lnot A$；$\models A$ 当且仅当并非 sat $\lnot A$
     step2: |-
-      sat $A$ iff not $\models \lnot A$ $\models A$ iff not sat $\lnot A$
+      sat $A$ 当且仅当并非 $\models \lnot A$；$\models A$ 当且仅当并非 sat $\lnot A$
   - id: 33
     kind: body
     source: |-
@@ -372,9 +372,9 @@ segments:
     source: |-
       One interesting notion concerns the information, expressed with PDL formulas, that is contained in an LTS. The behavior of a system described as an LTS is indeed often slightly hidden in its form. For instance, on simple inspection, it is easy to convince oneself that the two LTSs depicted above have the same behavior, and satisfy the same PDL formulas. To finish this section on syntax and semantics we give the theoretical foundation of these claims.
     step1: |-
-      有一个有趣的概念涉及标记转移系统所包含的、可用 PDL 公式表达的信息。以 LTS 描述的系统，其行为确实常常稍许隐藏在其形式之中。例如，只需简单查看，就很容易说服自己：上面描绘的两个 LTS 具有相同的行为，并满足相同的 PDL 公式。为结束这一节关于句法与语义的讨论，我们给出这些主张的理论基础。
+      有一个有趣的概念，涉及标记转移系统所包含、且可用 PDL 公式表达的信息。由 LTS 描述的系统，其行为常常稍许隐藏于形式之中。例如，稍作查看便不难说服自己：上面两个 LTS 行为相同，所满足的 PDL 公式也相同。为结束这一节关于句法与语义的讨论，我们给出这些主张的理论基础。
     step2: |-
-      有一个有趣的概念涉及标记转移系统所包含的、可用 PDL 公式表达的信息。以 LTS 描述的系统，其行为确实常常稍许隐藏在其形式之中。例如，只需简单查看，就很容易说服自己：上面描绘的两个 LTS 具有相同的行为，并满足相同的 PDL 公式。为结束这一节关于句法与语义的讨论，我们给出这些主张的理论基础。
+      有一个有趣的概念，涉及标记转移系统所包含、且可用 PDL 公式表达的信息。由 LTS 描述的系统，其行为常常稍许隐藏于形式之中。例如，稍作查看便不难说服自己：上面两个 LTS 行为相同，所满足的 PDL 公式也相同。为结束这一节关于句法与语义的讨论，我们给出这些主张的理论基础。
   - id: 38
     kind: body
     source: |-
@@ -461,9 +461,9 @@ segments:
     source: |-
       $\vdash A$ iff $\models A$.
     step1: |-
-      $\vdash A$ iff $\models A$.
+      $\vdash A$ 当且仅当 $\models A$。
     step2: |-
-      $\vdash A$ iff $\models A$.
+      $\vdash A$ 当且仅当 $\models A$。
   - id: 48
     kind: body
     source: |-
@@ -517,9 +517,9 @@ segments:
     source: |-
       A modal logic is normal if it obeys (K) and (N). An important property of normal modal logics is the *distributivity over the conjunction* $\land$: the formula $[\alpha](A \land B) \leftrightarrow ([\alpha]A \land [\alpha]B)$ can be proven using (K), (N), and propositional reasoning. The rule of *monotony* can also be proven using (K), (N), and propositional reasoning: from $A \rightarrow B$ infer $[\alpha]A \rightarrow [\alpha]B$.
     step1: |-
-      一个模态逻辑若是遵守 (K) 与 (N) 的，便是正规的。正规模态逻辑的一个重要性质是 **对合的分配性** $\land$：公式 $[\alpha](A \land B) \leftrightarrow ([\alpha]A \land [\alpha]B)$ 可以借助 (K)、(N) 与命题推理来证明。**单调性** 规则同样可以借助 (K)、(N) 与命题推理来证明：由 $A \rightarrow B$ 推出 $[\alpha]A \rightarrow [\alpha]B$。
+      一个模态逻辑若是遵守 (K) 与 (N) 的，便是正规的。正规模态逻辑的一个重要性质是 **关于合取 $\land$ 的分配性**：公式 $[\alpha](A \land B) \leftrightarrow ([\alpha]A \land [\alpha]B)$ 可以借助 (K)、(N) 与命题推理来证明。**单调性** 规则同样可以借助 (K)、(N) 与命题推理来证明：由 $A \rightarrow B$ 推出 $[\alpha]A \rightarrow [\alpha]B$。
     step2: |-
-      一个模态逻辑若是遵守 (K) 与 (N) 的，便是正规的。正规模态逻辑的一个重要性质是 **对合的分配性** $\land$：公式 $[\alpha](A \land B) \leftrightarrow ([\alpha]A \land [\alpha]B)$ 可以借助 (K)、(N) 与命题推理来证明。**单调性** 规则同样可以借助 (K)、(N) 与命题推理来证明：由 $A \rightarrow B$ 推出 $[\alpha]A \rightarrow [\alpha]B$。
+      一个模态逻辑若是遵守 (K) 与 (N) 的，便是正规的。正规模态逻辑的一个重要性质是 **关于合取 $\land$ 的分配性**：公式 $[\alpha](A \land B) \leftrightarrow ([\alpha]A \land [\alpha]B)$ 可以借助 (K)、(N) 与命题推理来证明。**单调性** 规则同样可以借助 (K)、(N) 与命题推理来证明：由 $A \rightarrow B$ 推出 $[\alpha]A \rightarrow [\alpha]B$。
   - id: 55
     kind: body
     source: |-
@@ -621,9 +621,9 @@ segments:
     source: |-
       If $X$ is a set of formulas and $A$ is a formula then we say that $A$ is $\vdash$-deducible from $X$, or “$X \vdash A$”, if there exists a sequence $A_0, A_1, \ldots A_n$ of formulas such that $A_n = A$ and for all $i \leq n$, $A_i$ is an instance of an axiom schema, or a formula of $X$, or comes from earlier formulas of the sequence by a rule of inference. Further, $\vdash A$ iff $\emptyset \vdash A$; in this case we say that $A$ is $\vdash$-deducible. $X$ is said to be $\vdash$-consistent iff not $X \vdash 0$. It is easy to establish that the rule (I) can be replaced by the following axiom schema (*induction* axiom schema):
     step1: |-
-      若 $X$ 是公式集而 $A$ 是公式，则当存在公式序列 $A_0, A_1, \ldots A_n$，使得 $A_n = A$，且对一切 $i \leq n$，$A_i$ 或是某个公理图式的实例，或是 $X$ 中的公式，或是按某条推理规则由序列中在先的公式得到时，我们就说 $A$ 可由 $X$ 进行 $\vdash$-推演，或记作“$X \vdash A$”。此外，$\vdash A$ 当且仅当 $\emptyset \vdash A$；此时我们说 $A$ 是 $\vdash$-可推演的。称 $X$ 是 $\vdash$-一致的，当且仅当并非 $X \vdash 0$。容易证明，规则 (I) 可以替换为下述公理图式（**归纳** 公理图式）：
+      若 $X$ 是公式集而 $A$ 是公式，则当存在公式序列 $A_0, A_1, \ldots A_n$，使得 $A_n = A$，且对一切 $i \leq n$，$A_i$ 或是某个公理图式的实例，或是 $X$ 中的公式，或是按某条推理规则由序列中在先的公式得到。这时，我们就说 $A$ 可由 $X$ 进行 $\vdash$-推演，或记作“$X \vdash A$”。此外，$\vdash A$ 当且仅当 $\emptyset \vdash A$；此时我们说 $A$ 是 $\vdash$-可推演的。称 $X$ 是 $\vdash$-一致的，当且仅当并非 $X \vdash 0$。容易证明，规则 (I) 可以替换为下述公理图式（**归纳** 公理图式）：
     step2: |-
-      若 $X$ 是公式集而 $A$ 是公式，则当存在公式序列 $A_0, A_1, \ldots A_n$，使得 $A_n = A$，且对一切 $i \leq n$，$A_i$ 或是某个公理图式的实例，或是 $X$ 中的公式，或是按某条推理规则由序列中在先的公式得到时，我们就说 $A$ 可由 $X$ 进行 $\vdash$-推演，或记作“$X \vdash A$”。此外，$\vdash A$ 当且仅当 $\emptyset \vdash A$；此时我们说 $A$ 是 $\vdash$-可推演的。称 $X$ 是 $\vdash$-一致的，当且仅当并非 $X \vdash 0$。容易证明，规则 (I) 可以替换为下述公理图式（**归纳** 公理图式）：
+      若 $X$ 是公式集而 $A$ 是公式，则当存在公式序列 $A_0, A_1, \ldots A_n$，使得 $A_n = A$，且对一切 $i \leq n$，$A_i$ 或是某个公理图式的实例，或是 $X$ 中的公式，或是按某条推理规则由序列中在先的公式得到。这时，我们就说 $A$ 可由 $X$ 进行 $\vdash$-推演，或记作“$X \vdash A$”。此外，$\vdash A$ 当且仅当 $\emptyset \vdash A$；此时我们说 $A$ 是 $\vdash$-可推演的。称 $X$ 是 $\vdash$-一致的，当且仅当并非 $X \vdash 0$。容易证明，规则 (I) 可以替换为下述公理图式（**归纳** 公理图式）：
   - id: 68
     kind: body
     source: |-
@@ -787,9 +787,9 @@ segments:
     source: |-
       for all formulas $A$, $\vdash' A$ iff $\models A$.
     step1: |-
-      对一切公式 $A$，$\vdash' A$ iff $\models A$。
+      对一切公式 $A$，$\vdash' A$ 当且仅当 $\models A$。
     step2: |-
-      对一切公式 $A$，$\vdash' A$ iff $\models A$。
+      对一切公式 $A$，$\vdash' A$ 当且仅当 $\models A$。
   - id: 85
     kind: body
     source: |-
@@ -963,9 +963,9 @@ segments:
     source: |-
       $$ \frac{\{A\}\alpha_1 \{B\}\quad\{B\} \alpha_2\{C\}} {\{A\} \alpha_1;\alpha_2\{C\}} \text{ (rule of composition)} $$
     step1: |-
-      $$ \frac{\{A\}\alpha_1 \{B\}\quad\{B\} \alpha_2\{C\}} {\{A\} \alpha_1;\alpha_2\{C\}} \text{ (rule of composition)} $$
+      $$ \frac{\{A\}\alpha_1 \{B\}\quad\{B\} \alpha_2\{C\}} {\{A\} \alpha_1;\alpha_2\{C\}} \text{（合成规则）} $$
     step2: |-
-      $$ \frac{\{A\}\alpha_1 \{B\}\quad\{B\} \alpha_2\{C\}} {\{A\} \alpha_1;\alpha_2\{C\}} \text{ (rule of composition)} $$
+      $$ \frac{\{A\}\alpha_1 \{B\}\quad\{B\} \alpha_2\{C\}} {\{A\} \alpha_1;\alpha_2\{C\}} \text{（合成规则）} $$
   - id: 107
     kind: body
     source: |-
@@ -987,9 +987,9 @@ segments:
     source: |-
       $$ \frac{\{A \land B\}\alpha\{A\}} {\{A\} \mathsf{while}~B~\mathsf{do}~\alpha \{\lnot B \land A\}} \text{ (rule of iteration)} $$
     step1: |-
-      $$ \frac{\{A \land B\}\alpha\{A\}} {\{A\} \mathsf{while}~B~\mathsf{do}~\alpha \{\lnot B \land A\}} \text{ (rule of iteration)} $$
+      $$ \frac{\{A \land B\}\alpha\{A\}} {\{A\} \mathsf{while}~B~\mathsf{do}~\alpha \{\lnot B \land A\}} \text{（迭代规则）} $$
     step2: |-
-      $$ \frac{\{A \land B\}\alpha\{A\}} {\{A\} \mathsf{while}~B~\mathsf{do}~\alpha \{\lnot B \land A\}} \text{ (rule of iteration)} $$
+      $$ \frac{\{A \land B\}\alpha\{A\}} {\{A\} \mathsf{while}~B~\mathsf{do}~\alpha \{\lnot B \land A\}} \text{（迭代规则）} $$
   - id: 110
     kind: body
     source: |-
@@ -1003,9 +1003,9 @@ segments:
     source: |-
       $$ \frac{\{A\}\alpha\{B\}\quad B \rightarrow C} {\{A\} \alpha \{C\}} \text{ (rule of consequence 1)} $$ $$ \frac{C\rightarrow A\quad \{A\}\alpha\{B\}} {\{C\}\alpha\{B\}} \text{ (rule of consequence 2)} $$
     step1: |-
-      $$ \frac{\{A\}\alpha\{B\}\quad B \rightarrow C} {\{A\} \alpha \{C\}} \text{ (rule of consequence 1)} $$ $$ \frac{C\rightarrow A\quad \{A\}\alpha\{B\}} {\{C\}\alpha\{B\}} \text{ (rule of consequence 2)} $$
+      $$ \frac{\{A\}\alpha\{B\}\quad B \rightarrow C} {\{A\} \alpha \{C\}} \text{（后承规则 1）} $$ $$ \frac{C\rightarrow A\quad \{A\}\alpha\{B\}} {\{C\}\alpha\{B\}} \text{（后承规则 2）} $$
     step2: |-
-      $$ \frac{\{A\}\alpha\{B\}\quad B \rightarrow C} {\{A\} \alpha \{C\}} \text{ (rule of consequence 1)} $$ $$ \frac{C\rightarrow A\quad \{A\}\alpha\{B\}} {\{C\}\alpha\{B\}} \text{ (rule of consequence 2)} $$
+      $$ \frac{\{A\}\alpha\{B\}\quad B \rightarrow C} {\{A\} \alpha \{C\}} \text{（后承规则 1）} $$ $$ \frac{C\rightarrow A\quad \{A\}\alpha\{B\}} {\{C\}\alpha\{B\}} \text{（后承规则 2）} $$
   - id: 112
     kind: body
     source: |-
@@ -1214,9 +1214,9 @@ segments:
     source: |-
       The expression $\langle\alpha\rangle B$ means that there is an execution of *α* that terminates in a state that satisfies $B$. Moreover, if *α* is deterministic, this possible terminating execution is the unique execution of *α*. Thus, if one first manages to prove that a program is deterministic, this trick works well enough to prove its total correctness.
     step1: |-
-      表达式 $\langle\alpha\rangle B$ 的意思是：*α* 有一次执行终止于满足 $B$ 的状态。此外，若 *α* 是确定的，那么这一可能存在的终止执行就是 *α* 的唯一执行。因此，若能先证明一个程序是确定的，这一手法就足以用来证明它的完全正确性。
+      表达式 $\langle\alpha\rangle B$ 的意思是：*α* 有一次执行终止于满足 $B$ 的状态。此外，若 *α* 确定，则它可能终止的执行只有一次。因此，若能先证明一个程序是确定的，这一手法就足以用来证明它的完全正确性。
     step2: |-
-      表达式 $\langle\alpha\rangle B$ 的意思是：*α* 有一次执行终止于满足 $B$ 的状态。此外，若 *α* 是确定的，那么这一可能存在的终止执行就是 *α* 的唯一执行。因此，若能先证明一个程序是确定的，这一手法就足以用来证明它的完全正确性。
+      表达式 $\langle\alpha\rangle B$ 的意思是：*α* 有一次执行终止于满足 $B$ 的状态。此外，若 *α* 确定，则它可能终止的执行只有一次。因此，若能先证明一个程序是确定的，这一手法就足以用来证明它的完全正确性。
   - id: 129
     kind: body
     source: |-
@@ -1334,9 +1334,9 @@ segments:
     source: |-
       Results concerning comparative power of expression, decidability, complexity, axiomatization and completeness of a number of variants of PDL obtained by extending or restricting its syntax and its semantics constitute the subject of a wealth of literature. We can only say so much and we will address just a few of these variants leaving out big chunks of otherwise important work in dynamic logic.
     step1: |-
-      围绕 PDL 的若干变体——它们通过对 PDL 的语法与语义加以扩展或限制而得到——在表达力的比较、可判定性、复杂性、公理化与完全性等方面的结果，构成了大量文献的主题。我们只能略述一二，并且只讨论其中少数几个变体，而把动态逻辑中原本重要的许多内容略去。
+      围绕 PDL 的若干变体——它们通过扩展或限制 PDL 的语法与语义而得到——在表达力的比较、可判定性、复杂性、公理化与完全性等方面的结果，构成了大量文献的主题。我们只能略述一二，并且只讨论其中少数几个变体，而把动态逻辑中原本重要的许多内容略去。
     step2: |-
-      围绕 PDL 的若干变体——它们通过对 PDL 的语法与语义加以扩展或限制而得到——在表达力的比较、可判定性、复杂性、公理化与完全性等方面的结果，构成了大量文献的主题。我们只能略述一二，并且只讨论其中少数几个变体，而把动态逻辑中原本重要的许多内容略去。
+      围绕 PDL 的若干变体——它们通过扩展或限制 PDL 的语法与语义而得到——在表达力的比较、可判定性、复杂性、公理化与完全性等方面的结果，构成了大量文献的主题。我们只能略述一二，并且只讨论其中少数几个变体，而把动态逻辑中原本重要的许多内容略去。
   - id: 144
     kind: body
     source: |-
@@ -1470,9 +1470,9 @@ segments:
     source: |-
       to the proof system of PDL, we obtain a sound and complete deducibility predicate in the extended language. See Parikh [1978] for details. CPDL has the small model property and (CPDL-SAT) is EXPTIME-complete.
     step1: |-
-      都加入 PDL 的证明系统，便得到扩展语言中一个可靠且完全的推演谓词。细节参见罗希特·帕里克 [1978]。CPDL 具有小模型性质，且 (CPDL-SAT) 是 EXPTIME-完全的。
+      都加入 PDL 的证明系统，便得到扩展语言中一个可靠且完全的推演谓词。细节参见 Parikh [1978]。CPDL 具有小模型性质，且 (CPDL-SAT) 是 EXPTIME-完全的。
     step2: |-
-      都加入 PDL 的证明系统，便得到扩展语言中一个可靠且完全的推演谓词。细节参见罗希特·帕里克 [1978]。CPDL 具有小模型性质，且 (CPDL-SAT) 是 EXPTIME-完全的。
+      都加入 PDL 的证明系统，便得到扩展语言中一个可靠且完全的推演谓词。细节参见 Parikh [1978]。CPDL 具有小模型性质，且 (CPDL-SAT) 是 EXPTIME-完全的。
   - id: 161
     kind: body
     source: |-
@@ -1502,25 +1502,25 @@ segments:
     source: |-
       Concerning the complexity theory of RPDL, Streett [1982] had already established that RPDL had the finite model property; precisely that every RPDL satisfiable formula *A* is satisfiable in a model of size at most triply exponential in the length of *A*. An automata-theoretic argument permitted to conclude that the problem (RPDL-SAT) can be solved in deterministic triple exponential time (3-EXPTIME). The gap between this upper bound for deciding (RPDL-SAT) and the simple exponential-time lower bound for deciding (PDL-SAT) was thus open. The problem found itself greatly connected to the growing interest of computer scientists in establishing the complexity of temporal logics, and more specifically of the (propositional) modal $\mu$-calculus (MMC) due to Kozen [1983], because RPDL has a linear blow-up translation to MMC. In Vardi and Stockmeyer [1985], an upper bound in non-deterministic exponential time was shown. In Emerson and Jutla [1988] and in its final form in Emerson and Jutla [1999], it was shown that (MMC-SAT) and (RPDL-SAT) are EXPTIME-complete. If we add the converse operator of section 4.2 one obtains CRPDL. The complexity of (CRPDL-SAT) remained open for a few years but it can be shown to be EXPTIME-complete, too. This is achieved by combining the techniques of Emerson and Jutla [1988] and Vardi [1985], as in Vardi [1998].
     step1: |-
-      就 RPDL 的复杂性理论而言，Streett [1982] 已经确立了 RPDL 具有有穷模型性质；确切地说，每个可满足的 RPDL 公式 *A* 都在一个规模至多为其长度三重指数的模型中可满足。一项自动机理论的论证使人们得以断定：问题 (RPDL-SAT) 可在确定三重指数时间（3-EXPTIME）内求解。于是，判定 (RPDL-SAT) 的这一上界与判定 (PDL-SAT) 的简单指数时间下界之间的间隙仍然悬而未决。这一问题与计算机科学家当时日益增长的兴趣——即确定时态逻辑的复杂性，更具体地说是确定 Kozen [1983] 所提出的（命题）模态 *μ*-演算（MMC）的复杂性——有着极大的关联，因为 RPDL 到 MMC 有一个线性膨胀的翻译。Vardi 与 Stockmeyer [1985] 给出了非确定指数时间的一个上界。Emerson 与 Jutla [1988]，以及其最终形式 Emerson 与 Jutla [1999]，则表明 (MMC-SAT) 与 (RPDL-SAT) 是 EXPTIME-完全的。若再加上 4.2 节的逆算子，便得到 CRPDL。(CRPDL-SAT) 的复杂性在数年内一直悬而未决，但也可证明它是 EXPTIME-完全的。这通过结合 Emerson 与 Jutla [1988] 与 Vardi [1985] 的技巧来实现，如 Vardi [1998] 所示。
+      就 RPDL 的复杂性理论而言，Streett [1982] 已经确立了 RPDL 具有有穷模型性质；确切地说，每个可满足的 RPDL 公式 *A* 都在一个规模至多为其长度三重指数的模型中可满足。一项自动机理论的论证使人们得以断定：问题 (RPDL-SAT) 可在确定三重指数时间（3-EXPTIME）内求解。于是，判定 (RPDL-SAT) 的这一上界与判定 (PDL-SAT) 的简单指数时间下界之间的间隙仍然悬而未决。这一问题与计算机科学家当时日益增长的兴趣密切相关：确定时态逻辑的复杂性，更具体地说，是确定 Kozen [1983] 所提出的（命题）模态 *μ*-演算（MMC）的复杂性。RPDL 到 MMC 有一个线性膨胀的翻译，上述关联正源于此。Vardi 与 Stockmeyer [1985] 给出了非确定指数时间的一个上界。Emerson 与 Jutla [1988]，以及其最终形式 Emerson 与 Jutla [1999]，则表明 (MMC-SAT) 与 (RPDL-SAT) 是 EXPTIME-完全的。若再加上 4.2 节的逆算子，便得到 CRPDL。(CRPDL-SAT) 的复杂性在数年内一直悬而未决，但也可证明它是 EXPTIME-完全的。这通过结合 Emerson 与 Jutla [1988] 与 Vardi [1985] 的技巧来实现，如 Vardi [1998] 所示。
     step2: |-
-      就 RPDL 的复杂性理论而言，Streett [1982] 已经确立了 RPDL 具有有穷模型性质；确切地说，每个可满足的 RPDL 公式 *A* 都在一个规模至多为其长度三重指数的模型中可满足。一项自动机理论的论证使人们得以断定：问题 (RPDL-SAT) 可在确定三重指数时间（3-EXPTIME）内求解。于是，判定 (RPDL-SAT) 的这一上界与判定 (PDL-SAT) 的简单指数时间下界之间的间隙仍然悬而未决。这一问题与计算机科学家当时日益增长的兴趣——即确定时态逻辑的复杂性，更具体地说是确定 Kozen [1983] 所提出的（命题）模态 *μ*-演算（MMC）的复杂性——有着极大的关联，因为 RPDL 到 MMC 有一个线性膨胀的翻译。Vardi 与 Stockmeyer [1985] 给出了非确定指数时间的一个上界。Emerson 与 Jutla [1988]，以及其最终形式 Emerson 与 Jutla [1999]，则表明 (MMC-SAT) 与 (RPDL-SAT) 是 EXPTIME-完全的。若再加上 4.2 节的逆算子，便得到 CRPDL。(CRPDL-SAT) 的复杂性在数年内一直悬而未决，但也可证明它是 EXPTIME-完全的。这通过结合 Emerson 与 Jutla [1988] 与 Vardi [1985] 的技巧来实现，如 Vardi [1998] 所示。
+      就 RPDL 的复杂性理论而言，Streett [1982] 已经确立了 RPDL 具有有穷模型性质；确切地说，每个可满足的 RPDL 公式 *A* 都在一个规模至多为其长度三重指数的模型中可满足。一项自动机理论的论证使人们得以断定：问题 (RPDL-SAT) 可在确定三重指数时间（3-EXPTIME）内求解。于是，判定 (RPDL-SAT) 的这一上界与判定 (PDL-SAT) 的简单指数时间下界之间的间隙仍然悬而未决。这一问题与计算机科学家当时日益增长的兴趣密切相关：确定时态逻辑的复杂性，更具体地说，是确定 Kozen [1983] 所提出的（命题）模态 *μ*-演算（MMC）的复杂性。RPDL 到 MMC 有一个线性膨胀的翻译，上述关联正源于此。Vardi 与 Stockmeyer [1985] 给出了非确定指数时间的一个上界。Emerson 与 Jutla [1988]，以及其最终形式 Emerson 与 Jutla [1999]，则表明 (MMC-SAT) 与 (RPDL-SAT) 是 EXPTIME-完全的。若再加上 4.2 节的逆算子，便得到 CRPDL。(CRPDL-SAT) 的复杂性在数年内一直悬而未决，但也可证明它是 EXPTIME-完全的。这通过结合 Emerson 与 Jutla [1988] 与 Vardi [1985] 的技巧来实现，如 Vardi [1998] 所示。
   - id: 165
     kind: body
     source: |-
       In section 3.3 we have defined a predicate $\infty$, where $\infty(\alpha)$ means that the program *α* can have a non-terminating computation. We call LPDL the logic obtained by augmenting PDL with the predicate $\infty$. Clearly, RPDL is at least as expressive as LPDL; The inductive definition of $\infty(\alpha)$ in the language of RPDL is the witness of it. RPDL is in fact strictly more expressive than LPDL. This was shown in Harel and Sherman [1982]. As it can be suspected, both RPDL and LPDL have more expressive power than PDL. It is established by proving that some formulas of RPDL and of LPDL have no equivalent expression in PDL. The proof involves the technique of *filtration* which is designed to collapse an LTS to a finite model while leaving invariant the truth or falsity of certain formulas. For some set of PDL formulas $X$, it consists in grouping into equivalence classes the states of an LTS that satisfy exactly the same formulas in $X$. The set of equivalence classes of states thus obtained becomes the set of states of the filtrate model, and a transition is built appropriately over them.
     step1: |-
-      在第 3.3 节中我们定义了一个谓词 $\infty$，其中 $\infty(\alpha)$ 表示程序 *α* 可能有不终止的计算。我们把用该谓词扩充 PDL 所得的逻辑称为带 $\infty$ 谓词的 PDL（LPDL）。显然，RPDL 的表达力至少不弱于 LPDL；$\infty(\alpha)$ 在 RPDL 语言中的归纳定义就是明证。事实上 RPDL 的表达力严格强于 LPDL。这一点由戴维·哈雷尔与 Sherman [1982] 表明。可以想见，RPDL 与 LPDL 的表达力都强于 PDL。这是通过证明 RPDL 与 LPDL 的某些公式在 PDL 中没有等值表述而确立的。该证明用到了 **滤化** 技术，其设计意图是把一个 LTS 塌缩为有穷模型，同时使某些公式的真假保持不变。对 PDL 公式的某个集合 $X$，滤化就是把一个 LTS 中在 $X$ 里恰好满足相同公式的状态归入等价类。如此得到的诸状态等价类之集，就成为滤化模型的状态集，并在其上适当地构造转移关系。
+      在第 3.3 节中我们定义了一个谓词 $\infty$，其中 $\infty(\alpha)$ 表示程序 *α* 可能有不终止的计算。我们把用该谓词扩充 PDL 所得的逻辑称为带 $\infty$ 谓词的 PDL（LPDL）。显然，RPDL 的表达力至少不弱于 LPDL；$\infty(\alpha)$ 在 RPDL 语言中的归纳定义就是明证。事实上 RPDL 的表达力严格强于 LPDL。这一点由 Harel 与 Sherman [1982] 表明。可以想见，RPDL 与 LPDL 的表达力都强于 PDL。这是通过证明 RPDL 与 LPDL 的某些公式在 PDL 中没有等值表述而确立的。该证明用到了 **滤化** 技术，其设计意图是把一个 LTS 塌缩为有穷模型，同时使某些公式的真假保持不变。对 PDL 公式的某个集合 $X$，滤化就是把一个 LTS 中在 $X$ 里恰好满足相同公式的状态归入等价类。如此得到的诸状态等价类之集，就成为滤化模型的状态集，并在其上适当地构造转移关系。
     step2: |-
-      在第 3.3 节中我们定义了一个谓词 $\infty$，其中 $\infty(\alpha)$ 表示程序 *α* 可能有不终止的计算。我们把用该谓词扩充 PDL 所得的逻辑称为带 $\infty$ 谓词的 PDL（LPDL）。显然，RPDL 的表达力至少不弱于 LPDL；$\infty(\alpha)$ 在 RPDL 语言中的归纳定义就是明证。事实上 RPDL 的表达力严格强于 LPDL。这一点由戴维·哈雷尔与 Sherman [1982] 表明。可以想见，RPDL 与 LPDL 的表达力都强于 PDL。这是通过证明 RPDL 与 LPDL 的某些公式在 PDL 中没有等值表述而确立的。该证明用到了 **滤化** 技术，其设计意图是把一个 LTS 塌缩为有穷模型，同时使某些公式的真假保持不变。对 PDL 公式的某个集合 $X$，滤化就是把一个 LTS 中在 $X$ 里恰好满足相同公式的状态归入等价类。如此得到的诸状态等价类之集，就成为滤化模型的状态集，并在其上适当地构造转移关系。
+      在第 3.3 节中我们定义了一个谓词 $\infty$，其中 $\infty(\alpha)$ 表示程序 *α* 可能有不终止的计算。我们把用该谓词扩充 PDL 所得的逻辑称为带 $\infty$ 谓词的 PDL（LPDL）。显然，RPDL 的表达力至少不弱于 LPDL；$\infty(\alpha)$ 在 RPDL 语言中的归纳定义就是明证。事实上 RPDL 的表达力严格强于 LPDL。这一点由 Harel 与 Sherman [1982] 表明。可以想见，RPDL 与 LPDL 的表达力都强于 PDL。这是通过证明 RPDL 与 LPDL 的某些公式在 PDL 中没有等值表述而确立的。该证明用到了 **滤化** 技术，其设计意图是把一个 LTS 塌缩为有穷模型，同时使某些公式的真假保持不变。对 PDL 公式的某个集合 $X$，滤化就是把一个 LTS 中在 $X$ 里恰好满足相同公式的状态归入等价类。如此得到的诸状态等价类之集，就成为滤化模型的状态集，并在其上适当地构造转移关系。
   - id: 166
     kind: body
     source: |-
       With a carefully chosen set $FL(A)$ that depends on a PDL formula $A$ (the so-called Fischer-Ladner closure of the set of sub-formulas of $A$), a filtration of an LTS $M$ yields a finite filtrate model $M'$, such that $A$ is satisfiable at a world $u$ in $M$ if and only if it is satisfiable in the equivalence class containing $u$ in the filtrate. (See Fischer and Ladner [1979].)
     step1: |-
-      若取一个依赖 PDL 公式 $A$、经过仔细选择的集合 $FL(A)$（即所谓 $A$ 的子公式集的 Fischer–Ladner 闭包），则对 LTS $M$ 作滤化可得到有穷的滤化模型 $M'$，使得 $A$ 在 $M$ 中的世界 $u$ 处可满足，当且仅当它在滤化模型中包含 $u$ 的那个等价类里可满足。（参见 Fischer 与 Ladner [1979]。）
+      设 $FL(A)$ 为经过仔细选择、依赖于 PDL 公式 $A$ 的集合，即所谓 $A$ 的子公式集的 Fischer–Ladner 闭包。对 LTS $M$ 作滤化，可得到有穷滤化模型 $M'$，使得 $A$ 在 $M$ 的世界 $u$ 处可满足，当且仅当它在滤化模型里包含 $u$ 的等价类中可满足。（参见 Fischer 与 Ladner [1979]。）
     step2: |-
-      若取一个依赖 PDL 公式 $A$、经过仔细选择的集合 $FL(A)$（即所谓 $A$ 的子公式集的 Fischer–Ladner 闭包），则对 LTS $M$ 作滤化可得到有穷的滤化模型 $M'$，使得 $A$ 在 $M$ 中的世界 $u$ 处可满足，当且仅当它在滤化模型中包含 $u$ 的那个等价类里可满足。（参见 Fischer 与 Ladner [1979]。）
+      设 $FL(A)$ 为经过仔细选择、依赖于 PDL 公式 $A$ 的集合，即所谓 $A$ 的子公式集的 Fischer–Ladner 闭包。对 LTS $M$ 作滤化，可得到有穷滤化模型 $M'$，使得 $A$ 在 $M$ 的世界 $u$ 处可满足，当且仅当它在滤化模型里包含 $u$ 的等价类中可满足。（参见 Fischer 与 Ladner [1979]。）
   - id: 167
     kind: body
     source: |-
@@ -1655,9 +1655,9 @@ segments:
     source: |-
       Although the intersection of programs is important in various applications of PDL to artificial intelligence and computer science (e.g., in the context of concurrency), the proof theory and the complexity theory of PDL with intersection remained unexplored for several years. Concerning the complexity theory of IPDL, difficulties appear when one considers the finite model property. In fact the construct $\mathsf{sloop}(\alpha)$ can be expressed in IPDL. In propositional dynamic logic with intersection it is equivalent to $\langle \alpha \cap 1?\rangle 1$. We can thus adapt the formula of SLPDL of section 4.3, and we have that
     step1: |-
-      尽管程序交在 PDL 对人工智能与计算机科学的种种应用中（例如在并发的语境中）十分重要，带交的 PDL 的证明论与复杂性理论在若干年间一直未获研究。就 IPDL 的复杂性理论而言，一旦考察有穷模型性质，困难便出现了。事实上，构造 $\mathsf{sloop}(\alpha)$ 可以在 IPDL 中表述。在带交的命题动态逻辑中，它等价于 $\langle \alpha \cap 1?\rangle 1$。于是我们可以改造 4.3 节中 SLPDL 的公式，从而有
+      尽管程序交在 PDL 应用于人工智能与计算机科学时（例如在并发语境中）十分重要，带交 PDL 的证明论与复杂性理论在若干年间一直未获研究。就 IPDL 的复杂性理论而言，一旦考察有穷模型性质，困难便出现了。事实上，构造 $\mathsf{sloop}(\alpha)$ 可以在 IPDL 中表述。在带交的命题动态逻辑中，它等价于 $\langle \alpha \cap 1?\rangle 1$。于是我们可以改造 4.3 节中 SLPDL 的公式，从而有
     step2: |-
-      尽管程序交在 PDL 对人工智能与计算机科学的种种应用中（例如在并发的语境中）十分重要，带交的 PDL 的证明论与复杂性理论在若干年间一直未获研究。就 IPDL 的复杂性理论而言，一旦考察有穷模型性质，困难便出现了。事实上，构造 $\mathsf{sloop}(\alpha)$ 可以在 IPDL 中表述。在带交的命题动态逻辑中，它等价于 $\langle \alpha \cap 1?\rangle 1$。于是我们可以改造 4.3 节中 SLPDL 的公式，从而有
+      尽管程序交在 PDL 应用于人工智能与计算机科学时（例如在并发语境中）十分重要，带交 PDL 的证明论与复杂性理论在若干年间一直未获研究。就 IPDL 的复杂性理论而言，一旦考察有穷模型性质，困难便出现了。事实上，构造 $\mathsf{sloop}(\alpha)$ 可以在 IPDL 中表述。在带交的命题动态逻辑中，它等价于 $\langle \alpha \cap 1?\rangle 1$。于是我们可以改造 4.3 节中 SLPDL 的公式，从而有
   - id: 183
     kind: body
     source: |-
@@ -1671,9 +1671,9 @@ segments:
     source: |-
       is satisfiable in infinite LTSs only. In other words, IPDL does not possess the finite model property. Danecki [1984b] investigated the complexity theory of IPDL and showed that deciding (IPDL-SAT) can be done in deterministic double exponential time. (A modern proof is presented in Göller, Lohrey and Lutz [2007].) The complexity gap between this double exponential-time upper bound for deciding (IPDL-SAT) and the simple exponential-time lower bound for deciding (PDL-SAT) obtained by Fischer and Ladner [1979] remained open for more than twenty years. In 2004, Lange [2005] established the lower bound of exponential space of (IPDL-SAT). In 2006, Lange and Lutz [2005] gave a proof of a double exponential-time lower bound of the satisfiability problem for IPDL without tests by a reduction from the word problem of exponentially space-bounded alternating Turing machines. In this reduction, the role of the iteration construct is essential since, according to Massacci [2001], the satisfiability problem for iteration-free IPDL without tests is only PSPACE-complete. Adding the converse construct to IPDL, we obtain ICPDL. The satisfiability problem of ICPDL has been proved to be 2-EXPTIME-complete by Göller, Lohrey and Lutz [2007].
     step1: |-
-      只在无穷 LTS 中可满足。换言之，IPDL 不具有有穷模型性质。Danecki [1984b] 研究了 IPDL 的复杂性理论，并表明判定 (IPDL-SAT) 可在确定双指数时间内完成。（一个现代证明见 Göller、Lohrey 与 Lutz [2007]。）判定 (IPDL-SAT) 的这一双指数时间上界，与 Fischer 与 Ladner [1979] 为判定 (PDL-SAT) 所得的简单指数时间下界之间的复杂性间隙，二十多年间一直悬而未决。2004 年，Lange [2005] 确立了 (IPDL-SAT) 的指数空间下界。2006 年，Lange 与 Lutz [2005] 通过从指数空间界定的交替图灵机的字问题作归约，给出了无测试的 IPDL 可满足性问题的双指数时间下界的一个证明。在这一归约中，迭代构造的作用至关重要，因为按照 Massacci [2001]，无迭代且无测试的 IPDL 的可满足性问题只是 PSPACE-完全的。把逆构造加入 IPDL，便得到带交与逆的 PDL（ICPDL）。Göller、Lohrey 与 Lutz [2007] 已证明 ICPDL 的可满足性问题是 2-EXPTIME-完全的。
+      只在无穷 LTS 中可满足。换言之，IPDL 不具有有穷模型性质。Danecki [1984b] 研究了 IPDL 的复杂性理论，并表明判定 (IPDL-SAT) 可在确定双指数时间内完成。（一个现代证明见 Göller、Lohrey 与 Lutz [2007]。）判定 (IPDL-SAT) 的这一双指数时间上界，与 Fischer 与 Ladner [1979] 为判定 (PDL-SAT) 所得的简单指数时间下界之间的复杂性间隙，二十多年间一直悬而未决。2004 年，Lange [2005] 确立了 (IPDL-SAT) 的指数空间下界。2006 年，Lange 与 Lutz [2005] 通过从指数空间界交替图灵机的字问题作归约，给出了无测试的 IPDL 可满足性问题的双指数时间下界的一个证明。在这一归约中，迭代构造的作用至关重要，因为按照 Massacci [2001]，无迭代且无测试的 IPDL 的可满足性问题只是 PSPACE-完全的。把逆构造加入 IPDL，便得到带交与逆的 PDL（ICPDL）。Göller、Lohrey 与 Lutz [2007] 已证明 ICPDL 的可满足性问题是 2-EXPTIME-完全的。
     step2: |-
-      只在无穷 LTS 中可满足。换言之，IPDL 不具有有穷模型性质。Danecki [1984b] 研究了 IPDL 的复杂性理论，并表明判定 (IPDL-SAT) 可在确定双指数时间内完成。（一个现代证明见 Göller、Lohrey 与 Lutz [2007]。）判定 (IPDL-SAT) 的这一双指数时间上界，与 Fischer 与 Ladner [1979] 为判定 (PDL-SAT) 所得的简单指数时间下界之间的复杂性间隙，二十多年间一直悬而未决。2004 年，Lange [2005] 确立了 (IPDL-SAT) 的指数空间下界。2006 年，Lange 与 Lutz [2005] 通过从指数空间界定的交替图灵机的字问题作归约，给出了无测试的 IPDL 可满足性问题的双指数时间下界的一个证明。在这一归约中，迭代构造的作用至关重要，因为按照 Massacci [2001]，无迭代且无测试的 IPDL 的可满足性问题只是 PSPACE-完全的。把逆构造加入 IPDL，便得到带交与逆的 PDL（ICPDL）。Göller、Lohrey 与 Lutz [2007] 已证明 ICPDL 的可满足性问题是 2-EXPTIME-完全的。
+      只在无穷 LTS 中可满足。换言之，IPDL 不具有有穷模型性质。Danecki [1984b] 研究了 IPDL 的复杂性理论，并表明判定 (IPDL-SAT) 可在确定双指数时间内完成。（一个现代证明见 Göller、Lohrey 与 Lutz [2007]。）判定 (IPDL-SAT) 的这一双指数时间上界，与 Fischer 与 Ladner [1979] 为判定 (PDL-SAT) 所得的简单指数时间下界之间的复杂性间隙，二十多年间一直悬而未决。2004 年，Lange [2005] 确立了 (IPDL-SAT) 的指数空间下界。2006 年，Lange 与 Lutz [2005] 通过从指数空间界交替图灵机的字问题作归约，给出了无测试的 IPDL 可满足性问题的双指数时间下界的一个证明。在这一归约中，迭代构造的作用至关重要，因为按照 Massacci [2001]，无迭代且无测试的 IPDL 的可满足性问题只是 PSPACE-完全的。把逆构造加入 IPDL，便得到带交与逆的 PDL（ICPDL）。Göller、Lohrey 与 Lutz [2007] 已证明 ICPDL 的可满足性问题是 2-EXPTIME-完全的。
   - id: 185
     kind: body
     source: |-
@@ -1687,9 +1687,9 @@ segments:
     source: |-
       In another variant of PDL, due to Peleg [1987] and further studied by Goldblatt [1992b], the expression $\alpha \cap \beta$ is interpreted “do *α* and *β* in parallel”. In this context, the binary relations $R(\alpha)$ and $R(\beta)$ are no longer sets of pairs of the form $(x,y)$ with $x$ and $y$ worlds, but rather sets of pairs of the form $(x, Y)$ with $x$ a world and $Y$ a set of worlds. It was inspired by the Game Logic of Parikh [1985], an intepretation of PDL with “programs as games”. Game Logic provides an additional program construct that dualizes programs, thus permitting to define the intersection of programs as the dual of the non-deterministic choice between programs.
     step1: |-
-      在 PDL 的另一个由 Peleg [1987] 提出、并经 Goldblatt [1992b] 进一步研究的变体中，表达式 $\alpha \cap \beta$ 被解释为“并行地执行 *α* 与 *β*”。在此语境中，二元关系 $R(\alpha)$ 与 $R(\beta)$ 不再是形如 $(x,y)$ 的对之集（其中 $x$ 与 $y$ 是世界），而是形如 $(x, Y)$ 的对之集（其中 $x$ 是一个世界，$Y$ 是一个世界集）。这一想法受帕里克 [1985] 的博弈逻辑启发，后者是把 PDL 解释为“程序即博弈”的一种解释。博弈逻辑提供了一个额外的程序构造，可对程序作对偶化，从而使人们能够把程序交定义为程序间非确定选择的对偶。
+      在 PDL 的另一个由 Peleg [1987] 提出、并经 Goldblatt [1992b] 进一步研究的变体中，表达式 $\alpha \cap \beta$ 被解释为“并行地执行 *α* 与 *β*”。在此语境中，二元关系 $R(\alpha)$ 与 $R(\beta)$ 不再是形如 $(x,y)$ 的对之集（其中 $x$ 与 $y$ 是世界），而是形如 $(x, Y)$ 的对之集（其中 $x$ 是一个世界，$Y$ 是一个世界集）。这一想法受 Parikh [1985] 的博弈逻辑启发，后者是把 PDL 解释为“程序即博弈”的一种解释。博弈逻辑提供了一个额外的程序构造，可对程序作对偶化，从而使人们能够把程序交定义为程序间非确定选择的对偶。
     step2: |-
-      在 PDL 的另一个由 Peleg [1987] 提出、并经 Goldblatt [1992b] 进一步研究的变体中，表达式 $\alpha \cap \beta$ 被解释为“并行地执行 *α* 与 *β*”。在此语境中，二元关系 $R(\alpha)$ 与 $R(\beta)$ 不再是形如 $(x,y)$ 的对之集（其中 $x$ 与 $y$ 是世界），而是形如 $(x, Y)$ 的对之集（其中 $x$ 是一个世界，$Y$ 是一个世界集）。这一想法受帕里克 [1985] 的博弈逻辑启发，后者是把 PDL 解释为“程序即博弈”的一种解释。博弈逻辑提供了一个额外的程序构造，可对程序作对偶化，从而使人们能够把程序交定义为程序间非确定选择的对偶。
+      在 PDL 的另一个由 Peleg [1987] 提出、并经 Goldblatt [1992b] 进一步研究的变体中，表达式 $\alpha \cap \beta$ 被解释为“并行地执行 *α* 与 *β*”。在此语境中，二元关系 $R(\alpha)$ 与 $R(\beta)$ 不再是形如 $(x,y)$ 的对之集（其中 $x$ 与 $y$ 是世界），而是形如 $(x, Y)$ 的对之集（其中 $x$ 是一个世界，$Y$ 是一个世界集）。这一想法受 Parikh [1985] 的博弈逻辑启发，后者是把 PDL 解释为“程序即博弈”的一种解释。博弈逻辑提供了一个额外的程序构造，可对程序作对偶化，从而使人们能够把程序交定义为程序间非确定选择的对偶。
   - id: 187
     kind: body
     source: |-
@@ -1703,9 +1703,9 @@ segments:
     source: |-
       This article has focused on propositional dynamic logic and some of its significant variants. There are by now a number of books—Goldblatt [1982], Goldblatt [1992a], Harel [1979] and Harel, Kozen and Tiuryn [2000]—and survey papers—Harel [1984], Kozen and Tiuryn [1990], Parikh [1983] —treating PDL and related formalisms. Pratt offers in Pratt [2017] an informal and personal perspective on the development of dynamics logics which also has a historical value. The body of research on PDL is certainly instrumental in developing many logical theories of system dynamics. However, these theories are arguably out of the scope of the present article. Van Eijck and Stokhof [2006] is a more recent overview of topics making use of dynamic logic, addressing various themes that are of certain interest for philosophers: e.g., dynamics of communication, or natural language semantics. Recent books are going in much details on newer topics, such as dynamic logic of knowledge (dynamic epistemic logic) in Van Ditmarsch, Van Der Hoek and Kooi [2007], and the dynamic logic of continuous and hybrid systems (differential dynamic logic) in Platzer [2010]. PDL was conceived primarily for reasoning about programs. There are many other applications of modal logic to the reasoning about programs. Algorithmic logic is closer to PDL since it allows one to talk explicitly about programs. The reader is invited to consult the work presented in Mirkowska and Salwicki [1987]. Temporal logics are now the chief logics in theoretical computer science and have a close connection with logics of programs. They allow one to express the temporal behavior of transition systems with a language that abstracts away from the labels (hence the programs). See for instance Schneider [2004] for an overview of the foundations in this research area.
     step1: |-
-      本文聚焦于命题动态逻辑及其若干重要变体。迄今为止已有多部著作——Goldblatt [1982]、Goldblatt [1992a]、Harel [1979] 以及 Harel、Kozen 与 Tiuryn [2000]——和多篇综述——Harel [1984]、Kozen 与 Tiuryn [1990]、帕里克 [1983]——处理 PDL 及相关形式系统。Pratt 在 Pratt [2017] 中从非正式与个人视角回顾动态逻辑的发展，也具有史料价值。PDL 研究无疑有助于发展诸多关于系统动态的逻辑理论。然而，这些理论可以说超出了本文的范围。Van Eijck 与 Stokhof [2006] 是关于使用动态逻辑的诸主题的较新综述，讨论了哲学家肯定感兴趣的若干主题，例如传播的动态或自然语言语义学。较新的著作则详细讨论更新的主题，如 Van Ditmarsch、Van Der Hoek 与 Kooi [2007] 中的知识动态逻辑（动态认知逻辑），以及 Platzer [2010] 中的连续与混合系统动态逻辑（微分动态逻辑）。PDL 最初是为推理程序而构想的。模态逻辑在程序推理中还有许多其他应用。算法逻辑更接近 PDL，因为它允许明确谈论程序。读者可参阅 Mirkowska 与 Salwicki [1987] 的工作。时态逻辑现在是理论计算机科学中的主导逻辑，并与程序逻辑有密切联系。它们用抽象掉标签（因而抽象掉程序）的语言来表达转移系统的时态行为。关于这一研究领域基础的概览，例如见 Schneider [2004]。
+      本文聚焦于命题动态逻辑及其若干重要变体。迄今为止已有多部著作——Goldblatt [1982]、Goldblatt [1992a]、Harel [1979] 以及 Harel、Kozen 与 Tiuryn [2000]——和多篇综述——Harel [1984]、Kozen 与 Tiuryn [1990]、Parikh [1983]——处理 PDL 及相关形式系统。Pratt 在 Pratt [2017] 中从非正式与个人视角回顾动态逻辑的发展，也具有史料价值。PDL 研究无疑有助于发展诸多关于系统动态的逻辑理论。然而，这些理论可以说超出了本文的范围。Van Eijck 与 Stokhof [2006] 是关于使用动态逻辑的诸主题的较新综述，讨论了哲学家肯定感兴趣的若干主题，例如传播的动态或自然语言语义学。较新的著作则详细讨论更新的主题，如 Van Ditmarsch、Van Der Hoek 与 Kooi [2007] 中的知识动态逻辑（动态认知逻辑），以及 Platzer [2010] 中的连续与混合系统动态逻辑（微分动态逻辑）。PDL 最初是为推理程序而构想的。模态逻辑在程序推理中还有许多其他应用。算法逻辑更接近 PDL，因为它允许明确谈论程序。读者可参阅 Mirkowska 与 Salwicki [1987] 的工作。时态逻辑现在是理论计算机科学中的主导逻辑，并与程序逻辑有密切联系。它们用抽象掉标签（因而抽象掉程序）的语言来表达转移系统的时态行为。关于这一研究领域基础的概览，例如见 Schneider [2004]。
     step2: |-
-      本文聚焦于命题动态逻辑及其若干重要变体。迄今为止已有多部著作——Goldblatt [1982]、Goldblatt [1992a]、Harel [1979] 以及 Harel、Kozen 与 Tiuryn [2000]——和多篇综述——Harel [1984]、Kozen 与 Tiuryn [1990]、帕里克 [1983]——处理 PDL 及相关形式系统。Pratt 在 Pratt [2017] 中从非正式与个人视角回顾动态逻辑的发展，也具有史料价值。PDL 研究无疑有助于发展诸多关于系统动态的逻辑理论。然而，这些理论可以说超出了本文的范围。Van Eijck 与 Stokhof [2006] 是关于使用动态逻辑的诸主题的较新综述，讨论了哲学家肯定感兴趣的若干主题，例如传播的动态或自然语言语义学。较新的著作则详细讨论更新的主题，如 Van Ditmarsch、Van Der Hoek 与 Kooi [2007] 中的知识动态逻辑（动态认知逻辑），以及 Platzer [2010] 中的连续与混合系统动态逻辑（微分动态逻辑）。PDL 最初是为推理程序而构想的。模态逻辑在程序推理中还有许多其他应用。算法逻辑更接近 PDL，因为它允许明确谈论程序。读者可参阅 Mirkowska 与 Salwicki [1987] 的工作。时态逻辑现在是理论计算机科学中的主导逻辑，并与程序逻辑有密切联系。它们用抽象掉标签（因而抽象掉程序）的语言来表达转移系统的时态行为。关于这一研究领域基础的概览，例如见 Schneider [2004]。
+      本文聚焦于命题动态逻辑及其若干重要变体。迄今为止已有多部著作——Goldblatt [1982]、Goldblatt [1992a]、Harel [1979] 以及 Harel、Kozen 与 Tiuryn [2000]——和多篇综述——Harel [1984]、Kozen 与 Tiuryn [1990]、Parikh [1983]——处理 PDL 及相关形式系统。Pratt 在 Pratt [2017] 中从非正式与个人视角回顾动态逻辑的发展，也具有史料价值。PDL 研究无疑有助于发展诸多关于系统动态的逻辑理论。然而，这些理论可以说超出了本文的范围。Van Eijck 与 Stokhof [2006] 是关于使用动态逻辑的诸主题的较新综述，讨论了哲学家肯定感兴趣的若干主题，例如传播的动态或自然语言语义学。较新的著作则详细讨论更新的主题，如 Van Ditmarsch、Van Der Hoek 与 Kooi [2007] 中的知识动态逻辑（动态认知逻辑），以及 Platzer [2010] 中的连续与混合系统动态逻辑（微分动态逻辑）。PDL 最初是为推理程序而构想的。模态逻辑在程序推理中还有许多其他应用。算法逻辑更接近 PDL，因为它允许明确谈论程序。读者可参阅 Mirkowska 与 Salwicki [1987] 的工作。时态逻辑现在是理论计算机科学中的主导逻辑，并与程序逻辑有密切联系。它们用抽象掉标签（因而抽象掉程序）的语言来表达转移系统的时态行为。关于这一研究领域基础的概览，例如见 Schneider [2004]。
   - id: 189
     kind: body
     source: |-
