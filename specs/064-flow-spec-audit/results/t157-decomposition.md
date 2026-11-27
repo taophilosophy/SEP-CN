@@ -14,7 +14,7 @@
 | 规模 | 165,995 字节／538 行；正文＋尾节 141,067 字符；脚注定义区 24,928 字符 |
 | 标题 | H1 1；H2 15（10 节＋References／Academic Tools／OIR／Related Entries／Notes）；H3 2（Primary Sources／Secondary Sources，均为空节） |
 | 章节字符量 | 导论 1,838；§1 11,172；§2 15,780；§3 6,615；§4 11,720；§5 15,272；§6 18,996；§7 12,907；§8 25,197；§9 9,543；§10 9,425；尾节 1,288；Notes 24,928 |
-| 脚注 | 定义 96＝编号注 59（`note-1`–`note-59`）＋文献键 37；编号注 59/59 闭合；文献键仅 `stein-1967`、`aiton-1972` 在正文被引，其余 34 条为书目定义（按设计无文内引用） |
+| 脚注 | 定义 96＝编号注 59（`note-1`–`note-59`）＋文献键 37；编号注 59/59 闭合；文献键仅 `stein-1967`、`aiton-1972` 在正文被引，其余 35 条为书目定义（按设计无文内引用） |
 | 图片 | 3 幅：`fig1.jpg`（18,566 B）、`fig2.jpg`（20,634 B）、`fig3.jpg`（57,108 B）；`html/newton-principia/` 与根 `assets/newton-principia/` 均已就位 |
 | 表格 | 1 块（Academic Tools 引块表，5 行／4 内容行） |
 | 引块 | 23 块／36 行 |
@@ -50,7 +50,7 @@
 
 | 任务 | 名称 | 范围与手段 | 验收 | 证据 |
 | ---- | ---- | ---- | ---- | ---- |
-| **T229** | ex-04 源审计 | `en_integrity`（clean 1/1）＋`en_source_audit`（hard 0／warn 3）＋`check_math`（0 公式）；3 条 warn 逐条定性（heading_skip h2→h4、orphan_note 聚合、`pp. 31-70..` typo 候选）；96 脚注键闭合与 34 条书目定义口径；3 图资产闭包（`fetch_audit`）；复核 14 类构件；版本钉核对（Winter 2024 与 en 首行仅“First published”之差）；G13 按需 | 三段式汇总（候选总数／豁免类计数／逐条结论）；hard 0 或逐条登记；图资产在位；无静默跳过 | `results/t229-review.md` |
+| **T229** | ex-04 源审计 | `en_integrity`（clean 1/1）＋`en_source_audit`（hard 0／warn 3）＋`check_math`（0 公式）；3 条 warn 逐条定性（heading_skip h2→h4、orphan_note 聚合、`pp. 31-70..` typo 候选）；96 脚注键闭合与 35 条书目定义口径；3 图资产闭包（`fetch_audit`）；复核 14 类构件；版本钉核对（Winter 2024 与 en 首行仅“First published”之差）；G13 按需 | 三段式汇总（候选总数／豁免类计数／逐条结论）；hard 0 或逐条登记；图资产在位；无静默跳过 | `results/t229-review.md` |
 | **T230** | tr-02 样章（导论＋§1） | 13,010 源字符；3 脚注引用、3 引块；建样章账本；先审计既有 42 条 newton-principia 术语与 18 条人名，补缺后登记再用 | 构件按 14 类清单无损；块数与 en 对应；术语先登记后用；账本样章守恒 | `results/t230-review.md` |
 | **T231** | tr-02 全量 | §2–§10＋尾节＋96 脚注定义；分 5 批 checkpoint：A §2–§4（34,117 字符）／B §5–§6（34,301，图 1、图 2）／C §7–§8（38,157，图 3）／D §9–§10＋尾节（20,276）／E Notes（24,928，59 编号注译、37 书目键照录）；全量账本 `tasks/n/newton-principia.ledger.yaml`；补 `project_spec`／`pe` | 全文入库；96 脚注定义闭合（59 译注＋37 书目照录）；3 图路径与图注完整；1 表 5 行；引块 23 块／36 行；账本守恒；`advance --step tr-02` 通过 | `results/t231-review.md` |
 | **T232** | tr-03／tr-04 | 一校逐节对照 en 核销；二校语体与反欧化（`check_prose` 清零或逐条豁免） | 账本守恒；残留外文 0（书目与拉丁引文除外）；检查器全绿 | `results/t232-tr03.md`、`t232-tr04.md` |

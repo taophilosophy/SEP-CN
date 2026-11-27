@@ -2,8 +2,16 @@
   "slug": "newton-principia",
   "kind": "retranslate",
   "zh_doc": "zh/n/newton-principia.md",
-  "state": "cleared",
-  "steps": [],
+  "state": "ex-04_checked",
+  "steps": [
+    {
+      "step": "ex-04",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-27T18:31:20Z",
+      "evidence": "T229 ex-04 源审计完成（results/t229-review.md）：en_integrity clean 1/1、hard 0；en_source_audit hard 0、warn 3（heading_skip 为页面模板 h4、orphan_note 为 notes.html 数字锚点口径、pp. 31-70.. 为 D 类真候选）；check_math 0 公式；96 脚注定义（59 编号注 59/59 闭合＋37 书目键，其中 35 条按设计无文内引用）；3 图与文件哈希同基线，fetch_audit complete 缺件 0；版本钉 Winter 2024／Dec 20, 2007 一致；勘误第十九节 1 条"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-11T03:29:37Z",
   "version_pin": {
