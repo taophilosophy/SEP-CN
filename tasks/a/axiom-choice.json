@@ -2,7 +2,7 @@
   "slug": "axiom-choice",
   "kind": "retranslate",
   "zh_doc": "zh/a/axiom-choice.md",
-  "state": "sg-02_checked",
+  "state": "done",
   "steps": [
     {
       "step": "ex-04",
@@ -108,6 +108,21 @@
       "actor": "trae-main",
       "at": "2026-11-27T14:13:00Z",
       "evidence": "T228 sg-02 完成（results/t228-sg02.md）：通读＋22 组指代＋AC1–AC4/CAC/ZL/BPI/式号＋9 处跨节；Major 1（§2 ‘后者’指代错位）已改‘前者’；Minor 7 多为上游照录或体例；四项结论均良；check_style／pairs／quotes／math_zh／terms／academic 硬 0；六轴 gate 0；159 块／60 标记／111 定义／148 段账本守恒"
+    },
+    {
+      "step": "sg-03",
+      "status": "ok",
+      "actor": "user",
+      "at": "2026-11-27T14:21:23Z",
+      "evidence": "T228 sg-03 终审通过（results/t228-sg03.md）：用户授权签字；602 行／9,143 汉字、159 块、60 标记、111 定义；check_all 23/23、check_pairs 0、六轴 gate 0；Critical／Major 已结案；状态 sg-02_checked → sg-03_checked",
+      "mandate": "2026-11-27 用户答复：批准终审。复核后继续（授权 trae-main 本会话执行 axiom-choice 终审）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "user",
+      "at": "2026-11-27T14:21:26Z",
+      "evidence": "T228 sg-03 用户签字后置 done（results/t228-sg03.md）：全文入库、111 脚注闭合、六轴 gate 0、check_all 23/23；T156 容器按 TA7 不整体勾选"
     }
   ],
   "blockers": [],
