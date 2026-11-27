@@ -650,3 +650,18 @@
 | action | 文献 anscombe-1957（en L499） | `2000..` | ①纯排版重复句点 | `2000.` | 纯排版，无需译注 | 条目末重复句点（2026-11-27 核对） |
 | action | 文献 searle-1983（en L967） | `Press..` | ①纯排版重复句点 | `Press.` | 纯排版，无需译注 | 条目末重复句点（2026-11-27 核对） |
 | action | 文献 segvic-2011（en L971） | `pp.144–71` | ①纯排版空隙 | `pp. 144–71` | 纯排版，无需译注 | 同上 |
+
+## 十七、2026-11-27 T218 action 一校新发现
+
+**来源**：`specs/064-flow-spec-audit/results/t218-tr03.md`；`html/` 冻结不改，`en/a/action.md` 忠实照录。纯排版者只入表；`Harman 198;1997` 影响引用可溯，中文加译者注释①。
+
+| slug | 位置 | 上游原文 | 缺陷定性 | 参考读法 | 中文承载 | 凭证 |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| action | §1 第 3 段（en L18） | `Mele. 2010` | ①排印手误 | `Mele 2010` | 纯排版，无需译注 | 同段他处均作 `Mele 2010`（2026-11-27 核对） |
+| action | 脚注 note-2（en L475） | `a primary reason the explains the action` | ①排印手误 | `a primary reason that explains the action` | 纯排版，无需译注 | 关系代词误作定冠词；中文译文不涉此形（2026-11-27 核对） |
+| action | 脚注 davidson-1970b（en L188） | `P*hilosophy of History and Action*` | 格式（斜体标记错位） | `*Philosophy of History and Action*` | 纯排版，无需译注 | 书名首字母落在斜体外（2026-11-27 核对） |
+| action | §4.4（en L162） | `Harman 198;1997` | ①排印手误（年份） | `Harman 1986; 1997` | 译者注释①（§4.4 首句句末锚点） | 同篇 §4.5 作 `Harman 1986; 1997`（2026-11-27 核对） |
+| action | §5.3（en L328） | `Prichard 1945:` | ①纯排版标点 | `Prichard 1945;` | 纯排版，无需译注 | 同处引注并列用分号（2026-11-27 核对） |
+| action | §5.3（en L328） | `paralized` | ①排印手误 | `paralyzed` | 纯排版，无需译注 | 中文作“瘫痪”，不涉英文拼写（2026-11-27 核对） |
+| action | §5.3（en L336） | `pursued.The` | ①纯排版空隙 | `pursued. The` | 纯排版，无需译注 | 句号后缺空格（2026-11-27 核对） |
+| action | §8（en L436） | `Santos 2020;)` | ①纯排版标点 | `Santos 2020)` | 纯排版，无需译注 | 括注内多余分号（2026-11-27 核对） |
