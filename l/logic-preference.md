@@ -148,6 +148,148 @@ $$\begin{align*} \tag{H1} \textrm{不存在序列 } p_1,\ldots, p_n \\ \textrm{�
 
 哈勒登与冯·赖特都通过句法或算法进路强调偏好原则的普遍性。后来的研究者常用例子支持或挑战这些原则，许多偏好性质至今仍无定论。
 
+## 3. 偏好逻辑的语义进路
+
+本节从语义角度讨论偏好，介绍雷舍尔（1967）[^rescher-1967] 与范达伦（1974）早期的方案，以及可能世界语义学——后者一直是该领域后续研究的核心。
+
+### 3.1 雷舍尔-范达伦语义
+
+雷舍尔（1966, 1967）[^rescher-1966][^rescher-1967] 提出了偏好逻辑的第一个语义学，其中模型是公式上的实值函数。范达伦（1974）将其推广到偏序，并证明雷舍尔的偏好逻辑是其特例。这些语义结构直接反映语言所表达的偏好。这里介绍范达伦的语义与公理化。
+
+语言与冯·赖特的语言相同，即用二元联结词 $>$ 扩展命题逻辑，但这里没有嵌套偏好陈述。无差异按偏好定义：$\varphi\equiv \psi = \neg (\varphi>\psi)\land \neg (\psi>\varphi)$。
+
+为了给 $\varphi>\psi$ 形式的公式赋值，范达伦规定命题之间的序关系。他同时考虑真值赋值 *v* 与善性度量 *m*。在此框架中，*m* 把命题集合映射到偏序集 *A*，*v* 把命题符号（原子）映射到 $\{0,1\}$，并按如下归纳定义扩展到所有公式：
+
+1. $v(\neg \varphi) = 1-v(\varphi)$
+2. $v(\varphi\lor\psi) = \textrm{max}\{v(\varphi),v(\psi)\}$
+3. 若在 *A* 上 $m(\varphi) \lt m(\psi)$，则 $v(\varphi P\psi) = 1$；否则为 0
+
+对公式集 *Γ*，满足关系定义如下：
+
+$$\begin{align*} A, m, v \models p &\quad \textrm{ 当且仅当}\quad v(p) = 1 \textrm{ 对原子 } p\\ A, m \models \varphi &\quad \textrm{ 当且仅当}\quad A, m, v \models \varphi \textrm{ 对所有 } v\\ A, v \models \varphi &\quad \textrm{ 当且仅当}\quad A, m, v \models \varphi \textrm{ 对所有 } m\\ A \models \varphi &\quad \textrm{ 当且仅当}\quad A, m, v\models \varphi \textrm{ 对所有 } m \textrm{ 与 } v\\ \models \varphi &\quad \textrm{ 当且仅当}\quad A \models \varphi \textrm{ 对所有 } A (\varphi \textrm{ 为真})\\ A, m, v \models \Gamma &\quad \textrm{ 当且仅当}\quad A, m, v \models \Gamma \textrm{ 对所有 } \varphi\in\Gamma\\ \Gamma\models \varphi &\quad \textrm{ 当且仅当}\quad A, m,v\models\Gamma \Rightarrow A, m,v\models \varphi\\ \end{align*}$$
+
+范达伦称上述语义为 **非理性语义**，主要因为逻辑等价的命题可能导致不同偏好。因此，他给度量 *m* 或偏序集 *A* 附加三个条件，以获得更受限的语义：
+
+1. 若 $\varphi\equiv \psi$ 是重言式，则 $m (\varphi) = m(\psi)$。
+2. *A* 是线性序。
+3. *A* 是实数集，且 $m(\neg \varphi)=-m(\varphi)$。
+
+范达伦提出若干理论——**PREFIR**、**PREF**、**PREFL**、**PREFR**——见图 5。他证明 **PREFIR** 对非理性语义完全，**PREF** 对满足条件 (i) 的语义完全，**PREFL** 对线性语义完全，**PREFR** 对雷舍尔语义完全。
+
+范达伦的偏好理论 **PREFIR**、**PREF**、**PREFL** 与 **PREFR**
+
+- 经典命题逻辑的所有重言式都是公理。
+- 肯定前件与替换（见哈勒登的理论 A）。
+
+$$\begin{align*} \tag*{P1} \neg (\varphi> \varphi) \\ \tag*{P2} \varphi>\psi \land \psi >\chi \rightarrow \varphi> \chi\\ \tag*{P3} \varphi>\psi \land \psi \equiv\chi \rightarrow \varphi> \chi\\ \tag*{P4} \varphi>\psi \rightarrow \neg \psi > \neg \varphi\\ \end{align*}$$
+
+我们将考察若干公理系统；它们都以重言式为公理、以肯定前件为推理规则。除第一个系统外，其余系统都以替换为推理规则。
+
+**PREFIR**
+
+公理 P1、P2（只施用肯定前件规则）
+
+**PREF**
+
+公理 P1、P2
+
+**PREFL**
+
+公理 P1、P2、P3
+
+**PREFR**
+
+公理 P1、P2、P3、P4
+
+*图 5.*
+
+此外，范达伦证明所有系统都具有有限模型性质并且可判定。他还把语言扩展为带有“好”“坏”“中性”一元算子，并考察嵌套偏好陈述。奇泽姆与索萨（1966）等其他作者则考察此类偏好逻辑的一阶扩展。
+
+### 3.2 可能世界上的偏好
+
+在模态逻辑迅速发展的时代（见模态逻辑词条），二元偏好关系被自然地纳入可能世界语义学，以便在各种语境中比较不同情境或世界。本小节与下一小节综述模态偏好逻辑，并讨论为比较可能世界集合而提升偏好的各种方法。
+
+自 20 世纪 60 年代末起，二元模态逻辑被发展出来，以建模条件义务（B. 汉松 1969）[^hansson-1969]，以及相关的条件句形式（Lewis 1973; Makinson 1993）[^lewis-1973][^makinson-1993]。在这些框架中，可能世界语义学背后的偏好结构得到运用，尤其是在道义逻辑与条件句研究中。
+
+自 20 世纪 80 年代末起，一种被广泛采用的一元模态进路出现，它在非单调逻辑与信念修正（Boutilier 1990; Lamarre 1991）[^boutilier-1990][^lamarre-1991] 以及道义逻辑（Tan & Van der Torre 1996）[^tan-1996] 中探讨偏好。尽管这些工作的动机各不相同，一元模态进路在某些情形下为偏好逻辑的公理化提供了更直接的路径。
+
+偏好逻辑研究常与理解动态环境中的行动者选择相联系。一个核心关注点是行动者如何排列可能世界以表达偏好。这使决策与规范推理的模型更为细致。受条件逻辑与信念修正早期发展的启发，把偏好序整合进模态逻辑，通过引入可能世界上的偏好结构扩展了逻辑系统的表达力。
+
+一个模态偏好模型 $\mathcal{M}$ 是三元组 $(W, \succeq, V)$，其中 *W* 是可能世界集合，$\succeq$ 是这些世界上的二元偏好关系，*V* 是为这些世界中的命题字母赋真值的赋值。视语境而定，我们假定偏好关系 $\succeq$ 具有某些性质。例如，它可以是（全）预序、偏序等。若选择（全）预序，则严格偏好关系“$w\succ v$”可定义为“$w\succeq v\land v \nsucceq w$”，无差异关系“$w\approx v$”可定义为“$w\succeq v\land v\succeq w$”。
+
+在句法侧，给出一种模态偏好语言以表达基本偏好关系及其性质。该语言是命题逻辑的扩展，新增两个算子 $\lozenge^{\geq}\varphi$ 与 $\lozenge^{>}\varphi$（Van Benthem, Girard, & Roy 2009）[^van-2009]。其真值条件定义如下：
+
+$\mathcal{M}$，$w \models \lozenge^{\geq} \varphi$ 当且仅当 存在 *v*，$v\succeq w$，且 $\mathcal{M}$，$v \models \varphi$。
+
+$\mathcal{M}$，$w \models \lozenge^{>} \varphi$ 当且仅当 存在 *v*，$v \succ w$，且 $\mathcal{M}$，$v \models \varphi.$
+
+下图 6 中的理论是 Van Benthem、Girard 与 Roy（2009）给出的模态偏好逻辑公理化，其中 $\succeq$ 是传递且自反的关系，E 是存在模态，解释如下：
+
+$\mathcal{M}, w \models E\varphi$ 当且仅当 存在 $v, \mathcal{M}, v \models \varphi$。
+
+**模态偏好逻辑**
+
+- 对 $\lozenge^{\geq}$ 取 S4，对 *E* 取 S5，对 $\lozenge^{>}$ 取 K。
+- 包含公理：
+- $\lozenge^{>} \varphi\rightarrow\lozenge^{\geq} \varphi$
+- $\lozenge^{\geq} \varphi\rightarrow\lozenge E\varphi$
+- $\lozenge^{\geq}\varphi$ 与 $\lozenge^{>} \varphi$ 之间的交互公理：
+- $\lozenge^{>}\lozenge^{\geq} \varphi\rightarrow\lozenge^{>} \varphi$
+- $\lozenge^{\geq}\lozenge^{>} \varphi\rightarrow\lozenge^{>} \varphi$
+- $\psi\land \lozenge^{\geq}\varphi\rightarrow\lozenge^{>}\varphi\lor \lozenge^{\geq}(\varphi\land \lozenge^{\geq}\psi)$
+
+*图 6.*
+
+### 3.3 偏好提升
+
+上述模态偏好语言可以表达可能世界之间偏好关系的性质。但处理可能世界集合之间的关系会带来提升问题（Thomason & Horty 1996）[^thomason-1996]，因为它涉及把适用于单个世界的性质扩展到世界集合。实现这一点有多种方式。下面三个例子只使用两个量词。
+
+$$\begin{align*} p\geq^{\forall\forall}q & := \forall w \models q\, \forall v\models p: v\succeq w \\ p>^{\forall\forall}q & := \forall w \models q\, \forall v\models p: v\succ w \\ \end{align*}$$ $$\begin{align*} p\geq^{\forall\exists}q & := \forall w \models q\, \exists v\models p: v\succeq w \\ p>^{\forall\exists}q & := \forall w \models q\, \exists v\models p: v\succ w \\ \end{align*}$$ $$\begin{align*} p\unrhd^{\overline{\forall\forall}}q & := \forall w \models p\, \forall v\models q: v\not\succ w \\ p\rhd^{\overline{\forall\forall}}q & := \forall w \models p\, \forall v\models q: v\not\succeq w\\ \end{align*}$$
+
+在句法侧，为表达提升，基本模态偏好语言被扩展出全称模态 $U\varphi$（及其对偶 $E\varphi$）（Boutilier 1992）[^boutilier-1992]。这一新模态的真值定义是：
+
+$\mathcal{M}$，$w \models U \varphi$ 当且仅当 对所有 *v*，$\mathcal{M}$，$v \models \varphi$。
+
+有了这一模态，语言获得更强的表达力，可以定义与提升问题相关的一般偏好概念。下面给出一个例子：
+
+$$\varphi\geq^{\forall\exists}\psi := U(\varphi\rightarrow\lozenge^{\geq}\psi).$$
+
+我们可以把 $\varphi\geq^{\forall\exists}\psi$ 读作“对每个 *φ*-世界，都存在一个与该 *φ*-世界同样好的 *ψ*-世界”。其他一般偏好概念可类似定义。例如，$\forall\exists$-偏好与 $\exists\exists$-偏好可在该语言中定义如下：
+
+1. $\varphi\geq^{\forall\exists}\psi := U(\varphi\rightarrow\langle\geq\rangle\psi)$
+2. $\varphi\geq^{\exists\exists}\psi := E(\varphi\land\langle\geq\rangle\psi)$
+
+Van Benthem、Girard 与 Roy（2009）主张，在其他条件不变的情况下，$\geq^{\forall\forall}$ 表示冯·赖特（1963）[^wright-1963] 在其偏好逻辑奠基之作中所意图的“偏好”概念，并给出其公理化。其他条件不变偏好的逻辑将在第 6 节讨论。
+
+其他试图为可能世界集合上的偏好关系公理化的努力，也出现在各个研究领域。重要贡献包括 Van Fraassen（1973）、Lewis（1973）[^lewis-1973]、Spohn（1988）[^spohn-1988]、Boutilier（1990）[^boutilier-1990] 与 Halpern（1997）[^halpern-1997] 等。下面给出一个示例。
+
+Halpern（1997）[^halpern-1997] 为“相对似然”逻辑提出了一个完全公理化。它在结构上类似于偏好逻辑，或他所谓的“偏好”。与早期公理化不同，他同时处理全预序与偏预序。所用语言与冯·赖特相同——排除嵌套偏好公式——但原子偏好公式 $\varphi>\psi$ 可以包含合取与析取。
+
+给定偏好模型 $\mathcal{M}=(W, \succeq, V)$，偏好公式的解释如下：
+
+> $\mathcal{M} \models \varphi > \psi$ 当且仅当 $⟦ \varphi ⟧ _{\mathcal{M}}$ 非空，且 $\forall v \in ⟦ \psi ⟧ _{\mathcal{M}}\exists u \in ⟦ \varphi ⟧ _{\mathcal{M}}$，使得 $u\succ v$，并且 *u* 支配 $⟦ \psi ⟧ _{\mathcal{M}}$
+
+而 *u* 支配 *V*，当且仅当不存在 $v' \in V$ 使得 $v'\succ u$。
+
+当 $\succeq$ 是偏序时，Halpern（1997）[^halpern-1997] 的完全公理化由图 7 所列公理与规则组成。公理 2 对应 $\succeq$ 的自反性，公理 3 对应 $\succeq$ 的传递性。在全预序情形下，还须加入公理 $\varphi_1>\varphi_2\rightarrow (\varphi_1>\varphi_3)\lor(\varphi_3>\varphi_2)$。
+
+**系统 AX**
+
+1. 命题演算重言式的一切代换实例。
+2. $\neg (\varphi> \varphi)$
+3. $((\varphi_1 \lor \varphi_2)> \varphi_3) \land ((\varphi_1\lor \varphi_3)> \varphi_2)\rightarrow(\varphi_1>(\varphi_2\lor \varphi_3))$
+4. $U (\varphi_1\rightarrow\varphi_2) \land U(\varphi_3\rightarrow\varphi_4)\land(\varphi_1>\varphi_4) \rightarrow(\varphi_2>\varphi_3)$
+5. 概括规则：对所有命题重言式 $\varphi$，有 $U\varphi,$。
+6. 肯定前件：由 *φ* 与 $\varphi\rightarrow\psi$ 推出 *ψ*。
+
+*图 7.*
+
+Shi 与 Sun（2021）的近期论文探讨了另一种偏好提升方法，称为 Egli-Milner 序。这种双向方法形式定义如下，它同时考虑集合中的最好与最坏元素，与“有利地平衡最坏结果”的 maximin 原则相一致：
+
+$$\mathcal{M}, w \models \varphi \geq \psi \text{ 当且仅当 } \begin{cases} (1) \ \forall x \in ⟦\varphi⟧_w \ \exists y \in ⟦\psi⟧_w : x \succeq_w y; \\ (2) \ \forall x \in ⟦\psi⟧_w \ \exists y \in ⟦\varphi⟧_w : y \succeq_w x \end{cases}$$
+
+其中 $⟦\varphi⟧_w$ 表示满足 *φ* 的 *w*-可达世界集合。Egli-Milner 序传统上用于指称语义等领域；Shi 与 Sun（2021）把它扩展到偏好逻辑，为全预序导出的“凸序”建立了完全公理系统。
+
 ## 脚注
 
 [^halldén-1957]: Halldén, Sören, 1957, *On the Logic of “Better”* (Library of Theoria 2), Lund: C.W.K. Gleerup.
@@ -157,3 +299,29 @@ $$\begin{align*} \tag{H1} \textrm{不存在序列 } p_1,\ldots, p_n \\ \textrm{�
 [^menger-1939]: Menger, Karl, 1939, “A Logic of the Doubtful. On Optative and Imperative Logic”, *Reports of a Mathematical Colloquium*, Notre Dame, IN, series 2, 1: 53–64.
 
 [^wright-1963]: von Wright, Georg Henrik, 1963, *The Logic of Preference*, Edinburgh: Edinburgh University Press.
+
+[^rescher-1966]: Rescher, Nicholas, 1966, *The Logic of Commands* (Monographs in Modern Logic), London: Routledge & K. Paul.
+
+[^rescher-1967]: –––, 1967, “Semantic Foundations for the Logic of Preference”, in *The Logic of Decision and Action*, Nicholas Rescher (ed.), Pittsburgh: University of Pittsburgh Press, 37–62.
+
+[^hansson-1969]: Hansson, Bengt, 1969, “An Analysis of Some Deontic Logics”, *Noûs*, 3(4): 373–398. doi:10.2307/2214372
+
+[^lewis-1973]: Lewis, David, 1973, *Counterfactuals*, Oxford: Basil Blackwell.
+
+[^makinson-1993]: Makinson David, 1993, “Five Faces of Minimality”, *Studia Logica*, 52(3): 339–379, doi:10.1007/bf01057652
+
+[^boutilier-1990]: Boutilier, Craig, 1990, “Conditional Logics of Normality as Modal Systems”, in *Proceedings of the Eighth National Conference on Artificial Intelligence (AAAI’90)*, volume 1, Menlo Park, CA: AAAI Press, 594–599.
+
+[^lamarre-1991]: Lamarre, Philippe, 1991, “S4 as the Conditional Logic of Nonmonotonicity”, in *Proceedings of the Second International Conference on Principles of Knowledge Representation and Reasoning (KR’91)*, James F. Allen, Richard Fikes, and Erik Sandewall (eds), San Francisco, CA: Morgan Kaufmann, 357–367.
+
+[^tan-1996]: Tan, Yao-Hua and Leendert W. N. van der Torre, 1996, “How to Combine Ordering and Minimizing in a Deontic Logic Based on Preferences”, in *Deontic Logic, Agency and Normative Systems: Third International Workshop on Deontic Logic in Computer Science (DEON ’96)*, Mark A. Brown and José Carmo (eds), London: Springer London, 216–232. doi:10.1007/978-1-4471-1488-8_12
+
+[^van-2009]: Van Benthem, Johan, Patrick Girard, and Olivier Roy, 2009, “Everything Else Being Equal: A Modal Logic for *Ceteris Paribus* Preferences”, *Journal of Philosophical Logic*, 38(1): 83–125. doi:10.1007/s10992-008-9085-3
+
+[^thomason-1996]: Thomason, Richmond H. and John F. Horty, 1996, “Nondeterministic Action and Dominance: Foundations for Planning and Qualitative Decision”, in *Proceedings of the 6th Conference on Theoretical Aspects of Rationality and Knowledge (TARK ’96)*, Yoav Shoham (ed.), San Francisco, CA: Morgan Kaufmann, 229–250.
+
+[^boutilier-1992]: –––, 1992, *Toward a Logic for Qualitative Decision Theory*, Ph.D. thesis, University of Toronto.
+
+[^spohn-1988]: Spohn, Wolfgang, 1988, “Ordinal Conditional Functions: A Dynamic Theory of Epistemic States”, in *Causation in Decision, Belief Change, and Statistics*, William L. Harper and Brian Skyrms (eds), Dordrecht: Kluwer, 105–134. doi:10.1007/978-94-009-2865-7_6
+
+[^halpern-1997]: Halpern, Joseph Y., 1997, “Defining Relative Likelihood in Partially-Ordered Preferential Structures”, *Journal of Artificial Intelligence Research*, 7: 1–24. doi:10.1613/jair.391
