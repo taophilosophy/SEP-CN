@@ -576,3 +576,14 @@
 | TA7–TA8 | 工作包 38；原子项 122；0 处预写门禁号／ADR 号 | 通过 |
 
 **rev91 说明**：T239 完成并勾选，勾选 81→82、未开始 79→78；§4 共 45 块、116 处公式（3 处体例转写）、4 条列表；账本 141→186 段；check_style／quotes／math_zh 0、terms 硬 0、academic 无硬错误、check_pairs hard 0（out_of_scope 1）。
+
+## 86 rev92 复核（T240 tr-02 批 4；计数 160）
+
+| 项 | 复算 | 结论 |
+| ---- | ---- | ---- |
+| TA1–TA3 | 160 定义、0 重复、0 悬空；16 分区和 160 | 通过 |
+| TA4–TA5 | 验收 160/160；Kahn 160/160 | 通过 |
+| TA6 状态一致 | 勾选 83（新增 T240）；容器 T138／T140／T142／T144／T154／T155／T156／T157／T158 未勾；logic-dynamic `tr-02_checked` | 通过 |
+| TA7–TA8 | 工作包 38；原子项 122；0 处预写门禁号／ADR 号 | 通过 |
+
+**rev92 说明**：T240 完成并勾选，勾选 82→83、未开始 78→77；§5＋尾节＋55 脚注定义入库，全件 573 行／9,702 汉字、251 块／251 段账本、602 行内公式、4 display 对、2 图；check_style／quotes／math_zh 0、terms 硬 0、academic 无硬错误、check_pairs hard 0／out_of_scope 0；logic-dynamic 已推进 `tr-02_checked`。
