@@ -1,10 +1,10 @@
 # 任务清单：064 全流程全要素审计与规范化
 
 - 输入：`specs/064-flow-spec-audit/spec.md`（rev 21）、`plan.md`、`results/axioms-v3.md`、`results/axioms-tasks.md`、`results/test-coverage.md`、`results/target-workflow.md`、`results/exploration-2026-11-27.md`
-- 状态：**15 项已验证（T131、T168、T169、T130、T020–T024、T132、T133、T134、T135、T136、T137）；0 项部分执行；86 项未开始；0 项撤销**。合计 **101 个编号（全部有效）**。2026-11-26 全部批准十项建议＋流程 v2；2026-11-27 全部批准探索建议书 EP-01–09；2026-11-27 迁移轨 S0＋S3–S9 共 37 项全部批准实施（R0–R7）；A／B 组与 C 组 T132–T137 已完成，其余维持“已批准、待执行”
+- 状态：**15 项已验证（T131、T168、T169、T130、T020–T024、T132、T133、T134、T135、T136、T137）；0 项部分执行；92 项未开始；0 项撤销**。合计 **107 个编号（全部有效）**；T138 已拆为 T185–T190（q1–q6），尚未启动。2026-11-26 全部批准十项建议＋流程 v2；2026-11-27 全部批准探索建议书 EP-01–09；2026-11-27 迁移轨 S0＋S3–S9 共 37 项全部批准实施（R0–R7）；A／B 组与 C 组 T132–T137 已完成，其余维持“已批准、待执行”
 - **删除记录（rev21）**：S1 登记表 7 项、S11 案 B 5 项、S-1 案 B 复核 1 项已从本书**直接删除**，不保留 `[撤销]` 行；精确清单见 spec §11 rev21／§15（本文件不再引用已删 T 号）
 - 新增落点：**T166（G4 测试）、T167（G6＋G8 ADR）、T168（G24／G25 治理）、T169（标准回写）、T170–T175（S14 学术翻译出版流程 v2）、T176–T184（S15 探索批准项 EP-01–09）**；**T168／T169 已于 2026-11-27 完成**，其余均为“已批准、待执行”
-- **执行排程**：`results/schedule.md`（W0–W7、W0b、G0–G5、11 件逐件表；探索批准项 E0–E5）是唯一排程源；本清单只定义工作项，不复制波次。**a／b 组已完成；C 组 T132–T137 完成，T138 起未启动**。
+- **执行排程**：`results/schedule.md`（W0–W7、W0b、G0–G5、11 件逐件表；探索批准项 E0–E5）是唯一排程源；本清单只定义工作项，不复制波次。**a／b 组已完成；C 组 T132–T137 完成，T138 已拆为 T185–T190、q1 未启动**。
 - **组界 tag**：a–k 每组开始／结束各打一枚 `batch/064-<组>-start|end`；规则见 `results/schedule.md` §8。未打 start 不开工，未打 end 不收口；tag 不替代 evidence。
 - 形式约束：`results/axioms-tasks.md` 的 TA1–TA8／TH1–TH8 是本清单的结构验收面；任何修改须复跑其中的只读检查（编号、分区、验收、依赖、状态、工作包分层）
 - **编号纪律**：本文件的 `S-1／S0–S15`（S1、S11 已删除，实际 15 个分区）是**任务分区**；spec §8 与 plan §7 的路线包写作 `WP-*`。`WP-S1`（标准回写）不是登记表契约
@@ -29,8 +29,14 @@
 - [x] T135 [S-1] tr-04 二校（语体、反欧化）——**已完成**（2026-11-27；`check_prose` 153→139，13 处改写、139 条逐条豁免留痕；`check_style` 0 issue；证据 `results/t135-review.md`）；验收：`check_prose` 告警清零或逐条豁免
 - [x] T136 [S-1] rv-01 术语与勘误（术语轴＋体例轴＋勘误轴）——**已完成**（2026-11-27；新增 civil society (Habermas)=公民社会、legitimacy (Habermas)=合法性；正文统一；check_terms 硬 0；check_pairs/check_style 0；勘误两条照录区一致；证据 `results/t136-review.md`）；验收：三段 evidence
 - [x] T137 [S-1] rv-02 全局一致性（两轴比较校对）——**已完成**（2026-11-27；239 段守恒；脚注 156/156、定义 254/254；密度与语体留痕；`check_pairs`/`check_style`/`check_academic --strict` 0；证据 `results/t137-review.md`）；验收：两轴记录＋机检输出
-- [ ] T138 [S-1] **[工作包]** rv-03–08 六轴（q1→q6 顺序固定）——**已出拆解方案**（`results/t138-decomposition.md`）；执行前按下一可用 T 号入册为六个原子任务；验收：各轴凭证落 `state/axis/`
-- [ ] T139 [S-1] rv-09 体例终校——验收：`check_style` 0 issue
+- [ ] T138 [S-1] **[工作包]** rv-03–08 六轴（q1→q6 顺序固定）——**已拆为 T185–T190**（方案 `results/t138-decomposition.md`）；本行只作容器，**不得整体勾选**；验收：T185–T190 全部完成且各轴凭证落 `state/axis/habermas/`
+- [ ] T185 [S-1] rv-03 q1 版面：表格/图/标题层级/空行/图注/图片引用闭包——`check_tables_images --gate`、`check_images`、`check_layout`；验收：0 issue；表图与源结构对应；无孤图；证据 `state/axis/habermas/q1-layout.md`
+- [ ] T186 [S-1] rv-04 q2 体例：H1 中英题＋作者、pubinfo 引块、尾节顺序、编号点号式、脚注/译者注释位置——`check_style`、`check_pairs`、`check_quotes`；验收：0 issue；尾序 canonical；编号与源一致；证据 `state/axis/habermas/q2-style.md`（前置 T185）
+- [ ] T187 [S-1] rv-05 q3 术语：术语/人名登记核对、D1–D5 定性、三出口（改/登记/豁免）——`check_terms --docs`、`check_term_concepts`；验收：硬错误 0；告警逐条处置；无未登记新词；证据 `state/axis/habermas/q3-terms.md`（前置 T186）
+- [ ] T188 [S-1] rv-06 q4 事实：日期、人物、机构、著作名、论点归属逐项回源/权威核对——验收：无未支撑事实；待核项有清单与理由；不得以全库门禁绿替代事实核对；证据 `state/axis/habermas/q4-facts.md`（前置 T187）
+- [ ] T189 [S-1] rv-07 q5 引用：脚注标记/定义、书目条目、引文边界、页码/版本——`check_academic --strict`、`check_quotes`、`check_pairs`；验收：标记/定义全等；引文与源一致；无悬空引用；证据 `state/axis/habermas/q5-citations.md`（前置 T188）
+- [ ] T190 [S-1] rv-08 q6 语言：语体、反欧化、标点、长句——`check_prose`、`check_style`；验收：告警清零或逐条豁免；无新欧化句式；证据 `state/axis/habermas/q6-language.md`（前置 T189）
+- [ ] T139 [S-1] rv-09 体例终校——验收：`check_style` 0 issue（前置 T190）
 - [ ] T140 [S-1] **[工作包]** sg-01／sg-02（初审＋复审）——执行前按节点拆两项；验收：自审与复核记录
 - [ ] T141 [S-1] sg-03 终审（需用户显式指定 `--mandate`）——验收：CI 全绿＋签字；不得因试金石批准自动执行
 
@@ -83,11 +89,11 @@
 
 > 登记表部分已随 G23 裁定撤销；本节只保留 `clean --check`、缓存扫描、`.gitignore` 与 CI 步骤评估，不建第二本账。
 
-- [x] T020 [S2] 扩展 `tools/clean.py` 契约：`--check` 默认 0；`--strict` 仅对保护件缺失／越界风险退 1；**不消费登记表（G23 不建）**——**已完成**（2026-11-27；`tools/tests/test_clean.py` 8/8；证据 `results/b-group-evidence.md`）。
-- [x] T021 [S2] 扫描面扩至 `target/`、`.ruff_cache`、`.mypy_cache`、`.pytest_cache`、`.vitepress/cache|dist`——**已完成**（2026-11-27；占位目录实测 91→97 项识别；另纳入 `.screenshots/`）。
-- [x] T022 [S2] 评估 `check_all.py` GATES 增“缓存与临时物”——**已完成（接入）**（2026-11-27；key `clean`；`--list-gates` 现 23 项；硬命中 0）。
-- [x] T023 [P] [S2] `.gitignore` 审计补齐（`target/`、`__pycache__/`、`*.pyc`、`.vitepress/cache`、`.vitepress/dist`）——**已完成**（2026-11-27；另补 `/.screenshots/`；`git check-ignore` 全命中）。
-- [x] T024 [P] [S2] 评估 `checks.yml` 是否需独立 `clean --check` 步骤；若 GATES 已覆盖则不重复——**已完成**（2026-11-27；矩阵自动跟随，不新增步骤；rules/05 已同步）。
+- [x] T020 [S2] 扩展 `tools/clean.py` 契约：`--check` 默认 0；`--strict` 仅对保护件缺失／越界风险退 1；**不消费登记表（G23 不建）**——**已完成**（2026-11-27；`tools/tests/test_clean.py` 8/8；证据 `results/b-group-evidence.md`；验收：上述 8/8 通过；`clean.py --check` 默认 0、`--strict` 仅保护件缺失／越界退 1）。
+- [x] T021 [S2] 扫描面扩至 `target/`、`.ruff_cache`、`.mypy_cache`、`.pytest_cache`、`.vitepress/cache|dist`——**已完成**（2026-11-27；占位目录实测 91→97 项识别；另纳入 `.screenshots/`；验收：占位目录样测试识别 91→97；`.screenshots/` 在扫描面内）。
+- [x] T022 [S2] 评估 `check_all.py` GATES 增“缓存与临时物”——**已完成（接入）**（2026-11-27；key `clean`；`--list-gates` 现 23 项；硬命中 0；验收：`--list-gates` 含 `clean` 且总数 23；硬命中 0）。
+- [x] T023 [P] [S2] `.gitignore` 审计补齐（`target/`、`__pycache__/`、`*.pyc`、`.vitepress/cache`、`.vitepress/dist`）——**已完成**（2026-11-27；另补 `/.screenshots/`；`git check-ignore` 全命中；验收：五类路径 `git check-ignore` 全命中）。
+- [x] T024 [P] [S2] 评估 `checks.yml` 是否需独立 `clean --check` 步骤；若 GATES 已覆盖则不重复——**已完成**（2026-11-27；矩阵自动跟随，不新增步骤；rules/05 已同步；验收：无重复步骤；矩阵自动跟随；`rules/05` 已同步）。
 
 ## 阶段 S3 Python 现代化（受控变更，非零风险）
 
