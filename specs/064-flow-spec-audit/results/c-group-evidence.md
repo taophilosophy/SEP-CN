@@ -3,7 +3,7 @@
 - 组：**c**（W1 第一梯队；c1 habermas → c2 logic-preference → c3 environmental-aesthetics）
 - start tag：`batch/064-c-start` → `14d1d7a55`（已推送）
 - end tag：待打（C 组 T135–T153 收口后）
-- 本轮完成：**T132（样章）＋T133（全量）＋T134（一校首轮）＋T135（二校）＋T136（rv-01）＋T137（rv-02）**；T138 已拆为 T185–T190，六轴与 T139（rv-09）、T140 拆分项 T191／T192、T141（sg-03 用户签字）全部完成；**habermas 已 `done`**；T142 拆分项 T193–T195 完成；logic-preference T143 样章、T196–T201、T145–T148 完成，sg-03 经用户 2026-11-27 授权签字，**已 `done`**；environmental-aesthetics T149 ex-04、T150 样章、T151 全量（961 行／15,007 汉字、96 块、369 脚注）完成，状态 `tr-02_checked`；T152 校次未启动
+- 本轮完成：**T132（样章）＋T133（全量）＋T134（一校首轮）＋T135（二校）＋T136（rv-01）＋T137（rv-02）**；T138 已拆为 T185–T190，六轴与 T139（rv-09）、T140 拆分项 T191／T192、T141（sg-03 用户签字）全部完成；**habermas 已 `done`**；T142 拆分项 T193–T195 完成；logic-preference T143 样章、T196–T201、T145–T148 完成，sg-03 经用户 2026-11-27 授权签字，**已 `done`**；environmental-aesthetics T149 ex-04、T150 样章、T151 全量、T152 校次与六轴（引文 18 候选、逻辑 380 句、语法/语域/计量/标点）完成，状态 `rv-09_checked`；T153 sg 链未启动
 - 门禁：`python tools/check_all.py` **23/23 全绿**
 - 授权：T132 主代理单干；T133 用户批准至多 5 个子代理，按 5 个批次产出、主代理合并（ADR-0034 当轮例外）
 
