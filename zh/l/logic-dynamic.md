@@ -116,3 +116,125 @@ $\langle\alpha ; \beta\rangle A \leftrightarrow \langle\alpha\rangle\langle\beta
 因此，人们只需考察原子程序，就能比较两个 LTS 的行为，并可靠地推断这些 LTS 即便在复合程序上的比较行为。我们称 PDL 的程序构造 **对互模拟安全**。关于对互模拟安全的程序构造的精确刻画，见 Van Benthem [1998]。
 
 容易看出，上面两个 LTS 实例是互模拟的。上面两张图所示的模型 $M$ 与 $M'$ 之间的一个互模拟 $Z$ 可给出为：$Z = \{(x_1,y_1), (x_1,y_2), (x_2, y_3), (x_2, y_4)\}$。状态 $x_1$ 与 $y_1$ 满足完全相同的 PDL 公式。状态 $x_1$ 与 $y_2$ 也是如此，依此类推。
+
+### 2.2 公理化与完全性
+
+证明论的目的，在于以公理与推理规则来刻画有效性——即性质 $\models A$。本节我们通过对公式的运算归纳地定义可推演谓词 $\vdash$，这些运算只依赖公式的句法结构，使得对一切公式 $A$ 都有
+
+$\vdash A$ iff $\models A$.
+
+当然，PDL 是经典命题逻辑的扩展。我们首先期望一切命题重言式都成立，并允许一切命题推理。特别地，肯定前件式是一条有效规则：由 $A$ 与 $A \rightarrow B$ 推出 $B$。对任一程序 *α*，把 LTS 限制到关系 $R(\alpha)$ 上，我们便得到一个克里普克模型，其中模态词 $[\alpha]$ 的逻辑是最弱的命题正规模态逻辑，即逻辑 K。因此，PDL 包含熟悉的分配公理图式的每一实例
+
+**(K)**
+
+$[\alpha](A \rightarrow B) \rightarrow ([\alpha]A \rightarrow [\alpha]B)$
+
+并且在下述推理规则（**必然化** 规则）下封闭
+
+**(N)**
+
+由 $A$ 推出 $[\alpha]A$
+
+一个模态逻辑若是遵守 (K) 与 (N) 的，便是正规的。正规模态逻辑的一个重要性质是 **对合的分配性** $\land$：公式 $[\alpha](A \land B) \leftrightarrow ([\alpha]A \land [\alpha]B)$ 可以借助 (K)、(N) 与命题推理来证明。**单调性** 规则同样可以借助 (K)、(N) 与命题推理来证明：由 $A \rightarrow B$ 推出 $[\alpha]A \rightarrow [\alpha]B$。
+
+PDL 是包含下述公理图式每一实例的最小正规模态逻辑
+
+**(A1)**
+
+$[\alpha;\beta]A \leftrightarrow [\alpha][\beta]A$
+
+**(A2)**
+
+$[\alpha \cup \beta]A \leftrightarrow [\alpha]A \land [\beta]A$
+
+**(A3)**
+
+$[\alpha^*]A \leftrightarrow A \land [\alpha][\alpha^*]A$
+
+**(A4)**
+
+$[A?]B \leftrightarrow (A \rightarrow B)$
+
+并且在下述推理规则（**循环不变性** 规则）下封闭：
+
+**(I)**
+
+由 $A \rightarrow [\alpha]A$ 推出 $A \rightarrow [\alpha^*]A$
+
+若 $X$ 是公式集而 $A$ 是公式，则当存在公式序列 $A_0, A_1, \ldots A_n$，使得 $A_n = A$，且对一切 $i \leq n$，$A_i$ 或是某个公理图式的实例，或是 $X$ 中的公式，或是按某条推理规则由序列中在先的公式得到时，我们就说 $A$ 可由 $X$ 进行 $\vdash$-推演，或记作“$X \vdash A$”。此外，$\vdash A$ 当且仅当 $\emptyset \vdash A$；此时我们说 $A$ 是 $\vdash$-可推演的。称 $X$ 是 $\vdash$-一致的，当且仅当并非 $X \vdash 0$。容易证明，规则 (I) 可以替换为下述公理图式（**归纳** 公理图式）：
+
+**(A5)**
+
+$A \land [\alpha^*](A \rightarrow [\alpha]A) \rightarrow [\alpha^*]A$
+
+我们首先证明，(I) 是基于 (A1)、(A2)、(A3)、(A4) 与 (A5) 的证明系统的一条派生规则：
+
+| 1. | $A \rightarrow [\alpha]A$ | 前提 |
+| --- | --- | --- |
+| 2. | $[\alpha^*](A \rightarrow [\alpha]A)$ | 由 1 用（N） |
+| 3. | $A \land [\alpha^*](A \rightarrow [\alpha]A) \rightarrow [\alpha^*]A$ | 公理图式（A5） |
+| 4. | $[\alpha^*](A \rightarrow [\alpha]A) \rightarrow (A \rightarrow [\alpha^*]A)$ | 由 3 用命题推理 |
+| 5. | $A \rightarrow [\alpha^*]A$ | 由 2 与 4 用肯定前件式 |
+
+我们接下来证明 (A5) 是 $\vdash$-可推演的：
+
+| 1. | $[\alpha^*](A \rightarrow [\alpha]A)\ \leftrightarrow\ $ $(A \rightarrow [\alpha]A) \land [\alpha][\alpha^*](A \rightarrow [\alpha]A)$ | 公理图式（A3） |
+| --- | --- | --- |
+| 2. | $A \land [\alpha^*](A \rightarrow [\alpha]A)\ \rightarrow\ $ $[\alpha](A \land [\alpha^*](A \rightarrow [\alpha]A))$ | 由 1 用命题推理与 $[\alpha]$ 对 $\land$ 的分配性 |
+| 3. | $A \land [\alpha^*](A \rightarrow [\alpha]A)\ \rightarrow\ $ $[\alpha^*](A \land [\alpha^*](A \rightarrow [\alpha]A))$ | 由 2 用（I） |
+| 4. | $[\alpha^*](A \rightarrow [\alpha]A) \rightarrow (A \rightarrow [\alpha^*]A)$ | 由 3 用命题推理与 $[\alpha^*]$ 对 $\land$ 的分配性 |
+| 5. | $A \land [\alpha^*](A \rightarrow [\alpha]A) \rightarrow [\alpha^*]A$ | 由 4 用命题推理 |
+
+基于公理图式 (A1)、(A2)、(A3)、(A4) 与 (A5) 的 PDL 公理化，由 Segerberg [1977] 提出。由上述定义可直接看出，$\vdash$ 相对于 $\models$ 是可靠的，即
+
+对一切公式 $A$，若 $\vdash A$，则 $\models A$。
+
+证明按 $A$ 在 $\vdash$ 中推演的长度作归纳。至于 $\vdash$ 相对于 $\models$ 的完全性问题，即
+
+对一切公式 $A$，若 $\models A$，则 $\vdash A$，
+
+曾为若干逻辑学家所探究。Segerberg [1977] 中给出的论证路线，是证明 $\vdash$ 完全性的首次尝试。不久，罗希特·帕里克也给出了一个证明。1978 年初 Segerberg 发现其论证中有一处缺陷（他最终作了修补），帕里克则在 Parikh [1978] 中发表了可视为 $\vdash$ 完全性的第一个证明。此后又陆续发表了 $\vdash$ 完全性的不同证明，例如 Kozen 与 Parikh [1981]。更多细节可参见 Pratt [2017]。
+
+人们也曾探求 PDL 的各种替代证明论。甚至早期就有，尤见于 Pratt [1978]。此外还请提及 Nishimura [1979] 与 Vakarelov [1983] 关于相关理论的完全性。
+
+PDL 可推演谓词的另一种表述方式，利用一条无穷推理规则，例如见 Goldblatt [1992a]。（无穷推理规则取无穷多个前提。）设 $\vdash'$ 为命题动态逻辑语言中对应于下述最小正规模态逻辑的可推演谓词：该逻辑包含公理图式 (A1)、(A2)、(A3) 与 (A4) 的每一实例，并在下述无穷推理规则下封闭：
+
+**(I′)**
+
+由 $\{[\beta][\alpha^n]A : n\geq 0\}$ 推出 $[\beta][\alpha^*]A$
+
+可以证明，$\vdash'$ 相对于 $\models$ 既可靠又完全，即
+
+对一切公式 $A$，$\vdash' A$ iff $\models A$。
+
+换言之，就生成全部有效公式之集而言，证明系统 $\vdash$ 与 $\vdash'$ 是等价的。
+
+### 2.3 可判定性与复杂度
+
+复杂性理论的目标，在于以时间或空间资源来确立性质 sat $A$ 的可计算性。逻辑 $\mathcal{L}$ 的复杂度，常被等同于判定其公式可满足性的问题，该问题定义如下：
+
+**(L-SAT)**
+
+给定 $\mathcal{L}$ 的一个公式 $A$，$A$ 是否可满足？
+
+本节我们考察下述判定问题的复杂度：
+
+**(PDL-SAT)**
+
+给定 PDL 的一个公式 $A$，$A$ 是否可满足？
+
+PDL 的完全公理化，是对有效 PDL 公式集——换言之，是对其否定不可满足的公式集——的递归定义。因此，就问题 (PDL-SAT) 而言，我们有一个子过程：若 PDL 公式 $A$ 不可满足，它就会回答“否”。子过程 (SP1) 在于枚举一切 $\vdash$-可推演的公式：从公理出发，借助推理规则推出其他定理。只要有足够的时间，若某公式是 $\vdash$-可推演的，该子过程终将找到它。因此，若 $A$ 不可满足，(SP1) 终必找到 $\lnot A$，并在找到时回答“否”。
+
+然而，若公式 $A$ 可满足，则 (SP1) 永远不会找到 $\lnot A$。它会永远运行下去，人们在任何时刻都无法据此确信。但这种不确定性有出路。我们还可以设想第二个子过程：若 PDL 公式可满足，它就回答“是”。事实上，关于 PDL 的最早结果之一，就是证明 PDL 具有 **有穷模型性质**，即
+
+对一切公式 $A$，若 sat $A$，则存在有穷模型 $M$ 使得 $M$ sat $A$。
+
+有穷模型性质为子过程 (SP2) 提供了基础：该子过程逐一枚举 PDL 的有穷模型，并检验其中是否有满足该公式者。（对一切公式 $A$ 与一切有穷模型 $M$，应用 $V(A)$ 的定义很容易检验是否 $M$ sat $A$。）因此，若 $A$ 可满足，它终必找到模型 $M$ 使得 $M$ sat $A$，并在找到时回答“是”。与第一个子过程 (SP1) 相对称，若公式 $A$ 不可满足，则 (SP2) 永远不会找到满足它的模型，它会永远运行下去，人们在任何时刻都无法据此确信。
+
+现在，把 (SP1) 与 (SP2) 结合起来，我们便有了判定 PDL 公式 $A$ 是否可满足的方法。只需让二者并行运行：若 $A$ 可满足，(SP2) 终将回答“是”；若 $A$ 不可满足，(SP1) 终将回答“否”。一旦 (SP1) 或 (SP2) 之一给出答案，该过程即停机。
+
+这样得到的过程虽足以断定问题 (PDL-SAT) 是可判定的，但在实践中效率很低。有一个结果——归功于 Fischer 与 Ladner [1979] 以及 Kozen 与 Parikh [1981]——比有穷模型性质更强，即 **小模型性质**：
+
+对一切公式 $A$，若 sat $A$，则存在有穷模型 $M$，其大小与 $A$ 成指数关系，且 $M$ sat $A$。
+
+这意味着，在过程 (SP2) 中我们如今知道何时应停止寻找满足某公式的模型。因此，我们可以用 (SP2) 来检验一个公式是否可满足；而一旦穷尽了所有小模型，便可断定该公式不可满足。这给出一个非确定性地在指数时间（NEXPTIME）内运行的过程：猜测一个大小至多为单指数级的模型，并检验它是否满足该公式。不过，PDL 复杂性理论的关键结果，出自 Fischer 与 Ladner [1979] 以及 Pratt [1980a]。Fischer 与 Ladner [1979] 观察到 PDL 公式能高效地描述线性空间界交替图灵机的计算，从而首次确立了 (PDL-SAT) 的指数时间下界。(PDL-SAT) 的 EXPTIME 上界由 Pratt [1980a] 得到，他把语义表列法改造用于 PDL。因此，(PDL-SAT) 是 EXPTIME-完全的。（De Giacomo 与 Massacci [2000] 提出了一个实践中更高效的算法，尽管在最坏情况下仍以确定性指数时间运行。）
