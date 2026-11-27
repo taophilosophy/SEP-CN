@@ -50,7 +50,7 @@
 | 任务 | 名称 | 范围与手段 | 验收 | 证据 |
 | ---- | ---- | ---- | ---- | ---- |
 | **T209** | ex-04 源审计 | `en_integrity`（clean 1/1）＋`en_source_audit`（hard 0／warn 10）＋`check_math`（370／missing 0／unbalanced 6）；10 条 warn 与 6 条 unbalanced 逐条回源定性；复核 14 类构件计数；189 脚注键闭合、2 图资产在位；G13 按需 | 候选总数／豁免类计数／逐条结论三段齐全；hard 0 或逐条登记；14 类计数与本文一致；无静默跳过 | `results/t209-review.md` |
-| **T210** | tr-02 样章（§1–§1.2） | 导言＋术语表＋重要区分；14,244 源字符、76 行内公式＋1 display、35 脚注引用、1 引块、13 列表项；建账本样章 | 公式与构件按 14 类清单无损；术语先登记后用；账本块数守恒 | `results/t210-review.md` |
+| **T210** | tr-02 样章（§1–§1.2） | 导言＋术语表＋重要区分；14,244 源字符、76 行内公式＋1 display、35 脚注引用、1 引块、13 列表项；建账本样章 | 公式与构件按 14 类清单无损；术语先登记后用；样章块数与 en 对应（账本随 T211 全量收口） | `results/t210-review.md` |
 | **T211** | tr-02 全量 | §2–§4＋尾节四件套＋189 脚注定义；分 3 批 checkpoint（§2／§3／§4＋尾节）；全文账本 `tasks/i/imprecise-probabilities.ledger.yaml`；`project_spec`／`pe` 字段补齐 | 全文入库；189 脚注定义闭合；4 display＋366 行内公式不丢失；2 图 1 表结构完整；账本守恒；`advance --step tr-02` 通过 | `results/t211-review.md` |
 | **T212** | tr-03／tr-04 校次链 | 一校逐节核销（对照 en）；二校语体与反欧化（`check_prose` 告警清零或逐条豁免） | 账本守恒；残留外文 0；两站 `check_all` 全绿 | `results/t212-tr03.md`、`results/t212-tr04.md` |
 | **T213** | rv 链 | rv-01 三轴（术语／体例／勘误）→ rv-02 全局一致性 → rv-03–08 六轴（q1 引文→q2 逻辑→q3 语法→q4 语域→q5 计量→q6 标点）→ rv-09 体例终校 | 各轴凭据落 `state/axis/`；`--gate` 0 或逐条豁免；rv-09 `check_style` 0 | `results/t213-rv01.md`…`t213-rv09.md` |

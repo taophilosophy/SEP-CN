@@ -3661,7 +3661,7 @@
 | imposition | — | 命名（词项施加；亦作“设定”） | peter-spain；首现（abelard）；analogy-medieval 首译 | 学界惯例（语言哲学与中世纪哲学文献通行译法；impositio 语词意义的约定性设定义见 analogy-medieval）；termonline-standard 查无直接对应，凭证 2026-10-29；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | impossibility theorem | — | 不可能性定理 | repugnant-conclusion | 学界惯例（社会选择与人口伦理学）；凭证 2026-11-11 | 2026-11-11 |
 | impossible worlds | — | 不可能世界 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 i/impossible-worlds））；凭证 2026-11-04 | 2026-11-04 |
-| imprecise probability (IP) models | — | 非精确概率（亦作“非精确概率（SUMMARY 定名沿用；学界亦作“不精确概率”）”） | 首现（imprecise-probabilities） | 学界惯例（同上）；凭证 2026-11-08；旧键“imprecise probabilities”并入（2026-11-21 撞形处置） | 2026-11-21 |
+| imprecise probability (IP) models | — | 非精确概率（亦作“不精确概率”；SUMMARY 定名沿用） | 首现（imprecise-probabilities） | 学界惯例（同上）；凭证 2026-11-08；旧键“imprecise probabilities”并入（2026-11-21 撞形处置）；2026-11-27 修正嵌套引号（译法不变） | 2026-11-21 |
 | imprescriptible | — | 不可追诉者 | ricoeur | 利科《记忆、历史、遗忘》用语（imprescriptible）；凭证 2026-11-11 | 2026-11-11 |
 | impressed force | — | 外加力 | newton-philosophy | 学界惯例；牛顿力学史通行（《原理》定义四） | 2026-11-10 |
 | impression management | — | 印象管理 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·新闻学与传播学·人际沟通·人际沟通能力与关系管理，2026-11-18 JWT 直连凭证） | 2026-11-19 |
