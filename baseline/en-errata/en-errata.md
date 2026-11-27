@@ -636,3 +636,17 @@
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | imprecise-probabilities | §2.3 首段（HTML “C.S. Pierce”；en L138） | `C.S. Pierce` | ①排印手误 | `C.S. Peirce`（皮尔士） | 译者注释①（§2.3 首段句末锚点） | 同段上下文列举 Keynes、Carnap、Popper，所指为 C.S. Peirce；HTML 全文 `Peirce` 0 次、`Pierce` 1 次（2026-11-27 核对） |
 | imprecise-probabilities | §2.3 Keynes 引块（HTML “saying than an accession”；en L140） | `saying than an accession` | ①排印手误 | `saying that an accession` | 译者注释②（引块句末锚点） | 固定搭配 say that；HTML 全文 `than an accession` 仅此 1 次（2026-11-27 核对） |
+
+## 十六、2026-11-27 T215 action 新发现（纯排版空隙类）
+
+**来源**：`specs/064-flow-spec-audit/results/t215-review.md`；`html/` 冻结不改，`en/a/action.md` 忠实照录。按本表卷首口径，纯排版空隙类只入表、不强求译注。
+
+| slug | 位置 | 上游原文 | 缺陷定性 | 参考读法 | 中文承载 | 凭证 |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| action | §5.1（en L188） | `pp.4–5` | ①纯排版空隙 | `pp. 4–5` | 纯排版，无需译注 | 同页他处均作 `pp. `（2026-11-27 核对） |
+| action | §5.1（en L236） | `pp.134–7` | ①纯排版空隙 | `pp. 134–7` | 纯排版，无需译注 | 同上 |
+| action | §5.4（en L346） | `pp.38–49` | ①纯排版空隙 | `pp. 38–49` | 纯排版，无需译注 | 同上 |
+| action | §5.4（en L350） | `pp.111–117` | ①纯排版空隙 | `pp. 111–117` | 纯排版，无需译注 | 同上 |
+| action | 文献 anscombe-1957（en L499） | `2000..` | ①纯排版重复句点 | `2000.` | 纯排版，无需译注 | 条目末重复句点（2026-11-27 核对） |
+| action | 文献 searle-1983（en L967） | `Press..` | ①纯排版重复句点 | `Press.` | 纯排版，无需译注 | 条目末重复句点（2026-11-27 核对） |
+| action | 文献 segvic-2011（en L971） | `pp.144–71` | ①纯排版空隙 | `pp. 144–71` | 纯排版，无需译注 | 同上 |

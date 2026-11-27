@@ -2,8 +2,16 @@
   "slug": "action",
   "kind": "retranslate",
   "zh_doc": "zh/a/action.md",
-  "state": "cleared",
-  "steps": [],
+  "state": "ex-04_checked",
+  "steps": [
+    {
+      "step": "ex-04",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-27T11:44:24Z",
+      "evidence": "T215 ex-04 源审计完成（results/t215-review.md）：en_integrity clean 1/1；en_source_audit hard 0、warn 19；check_math 8（行内 7＋display 1）、missing 0、unbalanced 0。19 条候选逐条回源：12 条 false-positive（9 存档 URL 年份串、KpV9、sup2、Wai Wai 双名），7 条纯排版缺陷（pp. 后缺空格 5 处、文献末重复句点 2 处）已入 baseline/en-errata/en-errata.md 第十六节，只入表、不加译注、不建补丁；无 Critical/Major。14 类构件命中 10/14；脚注定义 320 键闭合、引用 381 处/唯一 239；图片/表格/代码块/LaTeX 环境均 0；display 1。G13 无需建清单。版本钉 Jan 11, 2023／Fall 2026／81716c8b…2189。"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-28T16:36:32Z",
   "version_pin": {
