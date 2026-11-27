@@ -1037,7 +1037,7 @@
 | certainty | — | 确定性 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 c/certainty））；凭证 2026-11-04 | 2026-11-04 |
 | certainty equivalent | — | 确定性等值 | risk | 学界惯例（决策论通行）；凭证 2026-11-09 | 2026-11-09 |
 | ceteris paribus | ceteris paribus | 其余条件相同（亦作“其他条件不变”） | justep-coherence；repugnant-conclusion | 学界惯例（哲学通译“其余情况相同”）；2026-11-20 复核：合并（同键变体，来源列并双 slug）；主形改定：justep-coherence 等条目作“其余条件相同”（34 处）；原“其他条件不变”仅 11 处（2026-11-24 语料核对，凭证 works-batch33-2026-11-24.md） | 2026-11-11 |
-| ceteris paribus preference | — | 其余条件相同的偏好 | logic-preference | 本表既有“其余条件相同”（justep-coherence）派生 | 2026-11-05 |
+| ceteris paribus preference | — | 其他条件不变偏好 | logic-preference | 剑桥词典 ceteris paribus＝“假设其他条件不变”；词条全篇统一此形；原“其余条件相同的偏好”为 justep-coherence 派生形，2026-11-27 改主形（凭证：dictionary.cambridge.org 英汉简体条） | 2026-11-27 |
 | chadō / sadō | 茶道 | 茶道 | japanese-aesthetics | 学界惯例（日本茶道研究通行译法“茶道”）；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并；2026-11-23 主形碰撞裁定合并（同概念/同著作异形：sadō） | 2026-11-21 |
 | chain of being | — | 存在之链 | kant-development | 学界通行（Lovejoy 大存在之链研究；蒲柏诗语）；凭证 2026-11-11 | 2026-11-11 |
 | Chakravarti | चक्रवर्तिन् | 转轮圣王 | korean-buddhism | 佛典古译（转轮圣王/转轮王） | 2026-11-05 |

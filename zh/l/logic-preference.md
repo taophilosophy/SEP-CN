@@ -40,7 +40,7 @@
 
 **$R_2$**
 
-设 *φ* 是 A 的定理，*ψ* 除一点外与 *φ* 完全相同：凡 *φ* 中某变项出现之处，*ψ* 中相应出现一个 A-公式。则 *ψ* 是 A 的定理（代换）。
+设 *φ* 是 A 的定理，*ψ* 除一点外与 *φ* 完全相同：凡 *φ* 中某变项出现之处，*ψ* 中相应出现一个 A-公式。则 *ψ* 是 A 的定理（代入）。
 
 **$R_3$**
 
@@ -114,7 +114,7 @@ $$\begin{align} &(p\land q>\neg p\land q), \\ &(p\land \neg q>\neg p\land \neg q
 
 全部为真，而 $(p\land \neg q>\neg p \land q)$ 为假。但这与传递性冲突。
 
-考察关于偏好的五项原则时必须小心，因为它们在代换下并不封闭。下文解释这一限制的理由。
+考察关于偏好的五项原则时必须小心，因为它们在代入下并不封闭。下文解释这一限制的理由。
 
 **冯·赖特的五项偏好原则**
 
@@ -138,7 +138,7 @@ $$((\varphi\land r)> (\psi\land r)) \land ((\varphi\land \neg r)>(\psi\land \neg
 
 这一原则也称为 **放大**，对 $PL(\varphi > \psi)$ 相对于命题字母集合的补集中的每个 *r* 施用。放大确保论域中与偏好子公式评价没有直接关系的每个 *r* 都保持不变。
 
-$V_1$、$V_2$、$V_3$ 与 $V_4$ 出现在许多公理化偏好逻辑中，$V_5$ 则不然。原因是 $V_5$ 不能与代换结合。
+$V_1$、$V_2$、$V_3$ 与 $V_4$ 出现在许多公理化偏好逻辑中，$V_5$ 则不然。原因是 $V_5$ 不能与代入结合。
 
 自哈勒登以来，文献中探讨了大量原则。全面的综述可参见 S. O. 汉松（2001）[^hansson-2001] 的相关章节，其中包括以下例子：
 
@@ -275,7 +275,7 @@ Halpern（1997）[^halpern-1997] 为“相对似然”逻辑提出了一个完�
 
 **系统 AX**
 
-1. 命题演算重言式的一切代换实例。
+1. 命题演算重言式的一切代入实例。
 2. $\neg (\varphi> \varphi)$
 3. $((\varphi_1 \lor \varphi_2)> \varphi_3) \land ((\varphi_1\lor \varphi_3)> \varphi_2)\rightarrow(\varphi_1>(\varphi_2\lor \varphi_3))$
 4. $U (\varphi_1\rightarrow\varphi_2) \land U(\varphi_3\rightarrow\varphi_4)\land(\varphi_1>\varphi_4) \rightarrow(\varphi_2>\varphi_3)$
@@ -466,7 +466,7 @@ $$\tag{P5} P\alpha \land N\beta \rightarrow [*\beta]P\alpha$$
 
 $$\alpha(\mathscr{B}, A) := A \mid \mathscr{B}_1 ; \mathscr{B}_2 \mid \mathscr{B}_1 \parallel \mathscr{B}_2.$$
 
-这里，$\mathscr{B}_1 ; \mathscr{B}_2$ 表示把 $\mathscr{B}_1$ 加到 $\mathscr{B}_2$ 之上的顺序组合，使得 $\mathscr{B}_1$ 中每个元素都优先于 $\mathscr{B}_2$ 中每个元素。并行组合（$\mathscr{B}_1 \parallel \mathscr{B}_2$）把 $\mathscr{B}_1$ 与 $\mathscr{B}_2$ 作为彼此无优先次序的不相交集合组合起来。
+这里，$\mathscr{B}_1 ; \mathscr{B}_2$ 表示把 $\mathscr{B}_1$ 加到 $\mathscr{B}_2$ 之上的顺序复合，使得 $\mathscr{B}_1$ 中每个元素都优先于 $\mathscr{B}_2$ 中每个元素。并行复合（$\mathscr{B}_1 \parallel \mathscr{B}_2$）把 $\mathscr{B}_1$ 与 $\mathscr{B}_2$ 作为彼此无优先次序的不相交集合组合起来。
 
 优先基不仅可通过插入新命题来修改，也可通过删除操作移除优先关系。例如，顶部删除会移除优先基中那些不被其他项“支配”的项，即处于最高优先级层次的项。
 
@@ -478,11 +478,11 @@ $$\alpha(\mathscr{B}, A) := A \mid \mathscr{B}_1 ; \mathscr{B}_2 \mid \mathscr{B
 
 $$\sigma(\preceq_{\mathscr{B}}, A) = \preceq_{\alpha(\mathscr{B}, A).}$$
 
-一个操作 *α* 是 *PDL 可定义操作*，如果它通过使用语言中公式的测试、弱与严格基本偏好关系 *R* 以及全关系，并允许任意并集与顺序组合，诱导出一个 *PDL* 可定义的关系变换器 *σ*：
+一个操作 *α* 是 *PDL 可定义操作*，如果它通过使用语言中公式的测试、弱与严格基本偏好关系 *R* 以及全关系，并允许任意并集与顺序复合，诱导出一个 *PDL* 可定义的关系变换器 *σ*：
 
 $$\pi:=?\varphi \mid R\mid R^{<} \mid \top\mid ;\mid \cup.$$
 
-这些被解释为 *PDL* 的标准程序操作：**测试** $?\varphi$、**顺序组合** “;”与 **选择** “∪”。
+这些被解释为 *PDL* 的标准程序操作：**测试** $?\varphi$、**顺序复合** “;”与 **选择** “∪”。
 
 在双层框架中，考察优先动态如何映照偏好动态是很有意思的。例如，既可通过改变世界层偏好关系，也可通过修改优先基，来实现由“建议”算子引起的偏好改变。若把新命题 *A* 并行加入既有基 $\mathscr{B}$，偏好关系会按下图更新：
 
@@ -536,7 +536,7 @@ $$p\mid \neg \varphi\mid \varphi\land \psi \mid\langle \Gamma \rangle^{>}\varphi
 
 - *W* 是状态集，$\succeq$ 是二元偏好关系，*V* 是赋值
 - $\trianglerighteq_{\Gamma}$ 是由 $w\trianglerighteq_{\Gamma}v$ 当且仅当 $w\succeq v$ 且 $w \approx_{\Gamma} v$ 给出的二元关系
-- 严格子关系 $\trianglerighteq_{\Gamma}$ 由 $w\succ v$ 且 $w \approx_{\Gamma} v$ 定义
+- 严格子关系 $\vartriangleright_{\Gamma}$ 由 $w\succ v$ 且 $w \approx_{\Gamma} v$ 定义。①
 
 关系 $\trianglerighteq_{\Gamma}$ 本质上是两个世界间关系的交集：基本偏好关系，以及相对于 *Γ* 中公式的真值等价。涉及等价类的新公式的真值条件为：
 
@@ -796,3 +796,7 @@ Makinson（1999）[^makinson-1999] 强调规范（无真值的命令）与道义
 [^van-1973]: Van Fraassen, Bas C., 1973, “Values and the Heart’s Command”, *The Journal of Philosophy*, 70(1): 5–19. doi:10.2307/2024762
 
 [^xie-2024]: Xie, Kaibo and Jialiang Yan, 2024, “A Logic for Desire Based on Causal Inference”, *Journal of Logic and Computation*, 34(2): 352–371. doi:10.1093/logcom/exac060
+
+## 译者注释
+
+① 上游原文“严格子关系”条作 $\trianglerighteq_{\Gamma}$，但同段下一行真值条件用 $\vartriangleright_{\Gamma}$；按严格子关系的定义（$w\succ v$ 且 $w\approx_{\Gamma} v$），此处应为 $\vartriangleright_{\Gamma}$，译文按正确读法呈现。
