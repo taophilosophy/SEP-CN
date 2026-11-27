@@ -512,6 +512,94 @@ $$\pi:=?\varphi \mid R\mid R^{<} \mid \top\mid ;\mid \cup.$$
 
 总之，优先动态与偏好动态虽然密切相关，却各自保留独特特征，这凸显了同时建模内在偏好与基于理由的偏好在全面理解行动者决策方面的价值。
 
+## 6. 其他条件不变偏好与 CP 网
+
+**其他条件不变** 偏好指在“其余条件相同”的条件下表达偏好的一种方式。它使行动者能够断言某一选项优于另一选项，同时假定其他所有相关因素保持不变。在用于决策的 AI 系统中，CP 网是一种用于表征条件偏好的图模型。它依赖如下原则：选项之间的比较是在其他因素不变的假定下作出的，这与 **其他条件不变** 概念高度契合。
+
+本节介绍 **其他条件不变** 偏好的逻辑研究结果，以及 CP 网的基础知识。
+
+### 6.1 在逻辑中形式化 **其他条件不变** 偏好
+
+**其他条件不变** 偏好的核心问题是如何解释“其余条件相同”。例如，一个人通常可能偏好红葡萄酒胜过白葡萄酒（**其他条件不变**），但如果红葡萄酒有毒而白葡萄酒无毒，则不然。因此，形式化 **其他条件不变** 限定的挑战在于：如何确定除葡萄酒颜色之外的条件是否相同。哈勒登（1957）[^halldén-1957] 与冯·赖特（1963）[^wright-1963] 在偏好逻辑的最初研究中已讨论过这一问题。**其他条件不变** 的“相等”读法与“其余条件正常”的正常性读法之间的区别，也由 Van Benthem、Girard 与 Roy（2009）讨论过。
+
+在解释“其余条件相同”一语时，一种自然的进路是使用世界的等价类。该领域许多研究者采取了这一进路。例如，Doyle 与 Wellman（1994）定义了个体之间依赖语境的等价关系，称为语境等价。因此，这意味着等价类可能随所考虑的语境而变化。
+
+形式上，设 $\Omega$ 为状态集，$\mathcal{E}(\Omega)$ 表示 $\Omega$ 上所有等价关系的集合。语境等价定义在集合 $\Omega$ 上，是一个函数 *η*：$\mathcal{P}(\mathcal{P}(\Omega))\rightarrow\mathcal{E} (\Omega)$，为每个命题集合 $\{p, q, \ldots\}$ 指派一个等价关系 $\eta(p, q, \ldots)$。对于 $w\,\eta(p,q,\ldots)\, w^{\prime}$，我们写作 $w\approx_{ mod\, p,q,\ldots} w^{\prime}$，意为就 $p, q, \ldots$ 而言，*w* 与 $w^{\prime}$ 相同。Doyle 与 Wellman（1994）由此提出把可能性空间划分为等价类，并忽略跨越这些类的比较链接。
+
+Van Benthem、Girard 与 Roy（2009）把这一观念应用于可能世界之间的等价关系：在某个指定集合中所有相关模态公式上的真值等价。此外，他们展示了这一概念如何与冯·赖特的工作相联系，以及它如何应用于博弈论解概念。他们在语言中引入形式为 $\langle \Gamma \rangle\varphi$ 的新模态，形式定义为
+
+$$p\mid \neg \varphi\mid \varphi\land \psi \mid\langle \Gamma \rangle^{>}\varphi\mid \langle \Gamma \rangle^{\geq}\varphi\mid \langle \Gamma \rangle\varphi,$$
+
+其中 *Γ* 是任意公式集。这样，“相等”成为形式语言本身的一部分。在语义上，*Γ* 定义可能世界的一个等价类。例如，$w \approx_{\Gamma} v$ 表示 *w* 与 *v* 在 *Γ* 上相等——它们满足 *Γ* 中相同的公式。
+
+一个 **其他条件不变** 偏好模型是四元组 $\mathcal{M}$= $(W, \succeq, \trianglerighteq_{\Gamma}, V)$，其中：
+
+- *W* 是状态集，$\succeq$ 是二元偏好关系，*V* 是赋值
+- $\trianglerighteq_{\Gamma}$ 是由 $w\trianglerighteq_{\Gamma}v$ 当且仅当 $w\succeq v$ 且 $w \approx_{\Gamma} v$ 给出的二元关系
+- 严格子关系 $\trianglerighteq_{\Gamma}$ 由 $w\succ v$ 且 $w \approx_{\Gamma} v$ 定义
+
+关系 $\trianglerighteq_{\Gamma}$ 本质上是两个世界间关系的交集：基本偏好关系，以及相对于 *Γ* 中公式的真值等价。涉及等价类的新公式的真值条件为：
+
+- $\mathcal{M}, w \models \langle \Gamma \rangle^{\geq}\varphi$ 当且仅当 $\exists v$ 使得 $v \trianglerighteq_{\Gamma} w$ 且 $\mathcal{M}, v\models \varphi$
+- $\mathcal{M}, w \models \langle \Gamma \rangle^{>}\varphi$ 当且仅当 $\exists v$ 使得 $v \vartriangleright_{\Gamma} w$ 且 $\mathcal{M}, v\models \varphi$
+- $\mathcal{M}, w \models \langle \Gamma \rangle\varphi$ 当且仅当 $\exists v$ 使得 $v \approx_{\Gamma} w$ 且 $\mathcal{M}, v\models \varphi$
+
+对于 *Γ* 有限的情形，Van Benthem、Girard 与 Roy（2009）给出了完全公理化。就 **其他条件不变** 的特征而言，新的公理集见图 8。
+
+当 $\varphi\in\Gamma$ 时 **其他条件不变** 集合的自反性公理：
+
+1. $\langle \Gamma \rangle\varphi\rightarrow\varphi$
+2. $\langle \Gamma \rangle\neg \varphi\rightarrow\neg\varphi$
+
+当 $\Gamma \subseteq\Gamma^{\prime}$ 时 **其他条件不变** 集合的单调性公理：
+
+1. $\langle \Gamma^{\prime} \rangle\varphi\rightarrow\langle \Gamma \rangle\varphi$
+2. $\langle \Gamma^{\prime} \rangle^{\geq}\varphi\rightarrow\langle \Gamma \rangle\varphi$
+3. $\langle \Gamma^{\prime} \rangle^{>}\varphi\rightarrow\langle \Gamma \rangle\varphi$
+
+刻画 **其他条件不变** 集合变化的公理：
+
+1. $\pm\varphi\land \langle \Gamma \rangle(\alpha\land \pm \varphi)\rightarrow\langle \Gamma \cup\{\varphi\} \rangle\alpha$
+2. $\pm\varphi\land \langle \Gamma \rangle^{\geq}(\alpha\land \pm \varphi)\rightarrow\langle \Gamma \cup\{\varphi\} \rangle^{\geq}\alpha$
+3. $\pm\varphi\land \langle \Gamma \rangle^{>}(\alpha\land \pm \varphi)\rightarrow\langle \Gamma \cup\{\varphi\} \rangle^{>}\alpha$
+
+*图 8：* Van Benthem、Girard 与 Roy（2009）对 **其他条件不变** 偏好的公理化
+
+在完整语言中，模态 $\langle\Gamma\rangle\varphi$ 中的 *Γ* 可以具有任意大小。Seligman 与 Girard（2011）的后续工作给出了完整逻辑一部分——即所谓“灵活”有效式集合——的公理化，并提供了一种替代语义，其中所有有效式都是灵活的，因而得到完全公理化。任意无限集合的公理化仍是一个开放问题。
+
+### 6.2 其他条件不变偏好的计算模型
+
+CP 网（CP-net）是“条件偏好网络”的简称，它本质上体现了 **其他条件不变** 概念，而后者正是这些网络表征偏好方式的核心原则。本节介绍 CP 网的基础知识，突出其在 **其他条件不变**（其余条件相同）假定下表征行动者偏好的紧凑、直观且有结构的方式。
+
+条件偏好网络（CP 网）是定义如下的图模型。
+
+设 $V = \{X_1, X_2, \ldots, X_n\}$ 是变量集，其中每个 $X_i$ 都有可能取值的有限域 $\text{Dom}(X_i)$。有一个有向图 *G*，其中：
+
+- 每个变量 $X_i$ 对应一个节点。
+- $X_i$ 的父节点记作 $\text{Pa}(X_i)$，是那些有边指向 $X_i$ 的节点。这些父节点表示影响对 $X_i$ 偏好的变量。从 $X_i$ 到 $X_j$ 的边意味着对 $X_j$ 的偏好取决于 $X_i$ 的取值。
+
+CP 网不列出所有可能结果的偏好（那会随变量数目指数增长），而是使用条件偏好表（CPT）只刻画相关依赖（即偏好所依赖的要素）。每个节点 $X_i$ 标注一个 CPT，为 $\text{Pa}(X_i)$ 的每一种可能实例化 *u* 指定 $\text{Dom}(X_i)$ 上的全序 $\succ_{u}$。例如：
+
+> 若 $\text{Pa}(X_i) = \{A, B\},$ 则 $X_i$ 的 CPT 指定 *A* 与 *B* 的所有组合上的偏好。
+
+CP 网的语义描述如何根据每个网络的结构与条件偏好表导出结果上的偏好。
+
+**结果** 是对 CP 网中所有变量取值的完整指派。例如，若 $V = \{X_1, X_2, X_3\}$，且各域为
+
+$$\text{Dom}(X_1) = \{a_1, a_2\}, \quad \text{Dom}(X_2) = \{b_1, b_2\}, \quad \text{Dom}(X_3) = \{c_1, c_2\},$$
+
+则一个结果会是 $o = \{X_1 = a_1, X_2 = b_2, X_3 = c_1\}$。
+
+按照 **其他条件不变** 假定（即比较结果时保持其他所有变量不变），若我们遵循每个变量 CPT 中指定的条件偏好，便可得到结果上的偏好。
+
+例如，若 $X_2$ 的 CPT 指定在 $X_1 = a_1$ 时 $b_1 \succ b_2$，则：
+
+$$\begin{align*} \text{若 } &o_1 = \{X_1 = a_1, X_2 = b_1, X_3 = c_1\} \text{ 且 }\\ &o_2 = \{X_1 = a_1, X_2 = b_2, X_3 = c_1\}, \text{ 则 } o_1 \succ o_2.\\ \end{align*}$$
+
+可以设计算法来高效地找出 CP 网中的最优结果——见 Boutilier、Brafman 等（2004）、Wilson（2004）[^wilson-2004] 以及 Goldsmith、Lang 等（2008）的工作。
+
+通过只刻画相关的条件偏好，CP 网避免了枚举所有可能结果之偏好所带来的组合爆炸。CP 网在 AI 驱动的决策中已展现出重要价值，应用于推荐系统与产品配置等领域。它们在计算机科学与人工智能领域引起了相当多的关注，Allen（2015）[^allen-2015] 以及 Cai、Zhan 与 Jiang（2023）等较新工作即体现了这一点。
+
 ## 脚注
 
 [^halldén-1957]: Halldén, Sören, 1957, *On the Logic of “Better”* (Library of Theoria 2), Lund: C.W.K. Gleerup.
@@ -575,3 +663,7 @@ $$\pi:=?\varphi \mid R\mid R^{<} \mid \top\mid ;\mid \cup.$$
 [^girard-2008]: Girard, Patrick, 2008, *Modal Logics for Belief and Preference Change*, Ph.D. thesis, Stanford University.
 
 [^liu-2011a]: –––, 2011a, “A Two-Level Perspective on Preference”, *Journal of Philosophical Logic*, 40(3): 421–439. doi:10.1007/s10992-010-9168-9
+
+[^wilson-2004]: Wilson, Nic, 2004, “Extending CP-Nets with Stronger Conditional Preference Statements”, in *Proceedings of the 19th National Conference on Artificial Intelligence (AAAI’04)*, Deborah L. McGuinness and George Ferguson (eds), San Jose, CA: AAAI Press, 735–741. [[Wilson 2004 available online](https://aaai.org/papers/00735-AAAI04-116-extending-cp-nets-with-stronger-conditional-preference-statements/)]
+
+[^allen-2015]: Allen, Thomas E., 2015, “CP-Nets: From Theory to Practice”, in *Algorithmic Decision Theory* (Lecture Notes in Computer Science 9346), Toby Walsh (ed.), Cham: Springer, 555–560.
