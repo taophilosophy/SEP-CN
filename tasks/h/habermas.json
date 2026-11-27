@@ -16,7 +16,7 @@
     "system": "DeepSeek-V4.1-Flash",
     "disclosure": "任务 evidence 与词条译后编辑记录"
   },
-  "state": "rv-08_checked",
+  "state": "rv-09_checked",
   "steps": [
     {
       "step": "ex-04",
@@ -101,6 +101,13 @@
       "actor": "trae-main",
       "at": "2026-11-27T04:47:56Z",
       "evidence": "T190 rv-08 q6 标点完成：168 条 issue＝P-13 164（引文页码区间 waived）＋P-7 4（引文 locator 冒号 false-positive）；P-8／P-18 工具误报修复、P-20 12 处清零；正文改 12 处引文定位符标点＋1 处双冒号；punct_audit --gate 0；q1–q5 门禁复跑均 0；K1 P-19 渲染层未验登记；证据 results/t190-review.md、state/axis/habermas.punct.json"
+    },
+    {
+      "step": "rv-09",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-27T04:50:27Z",
+      "evidence": "T139 rv-09 体例终校完成：check_style／check_pairs／check_quotes 0；check_academic --strict 硬 0；check_math_zh／check_math 0；check_terms 硬 0（Müller-Doohm 沿用 T136 豁免）；H1／pubinfo／尾序／编号／勘误承载一致；未改文；F2／F3／I1／K1 转 sg 链前处置；证据 results/t139-review.md"
     }
   ],
   "blockers": [],
