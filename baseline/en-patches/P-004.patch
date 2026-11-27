@@ -2,14 +2,14 @@
 # 行锚定：find/replace 取整行并带上下文；命中计数必须等于 expect，失配即该件转换硬失败。
 # id: P-004
 # slug: aristotle-psychology
-# file: en/aristotle-psychology/notes.html
+# file: yuanwen/aristotle-psychology/notes.html
 # expect: 1
 # category: 格式层（链接目标）
 # origin: upstream-typo
 # source: en-errata.md §十二 格式层
 # created: 2026-11-25
---- a/en/aristotle-psychology/notes.html
-+++ b/en/aristotle-psychology/notes.html
+--- a/yuanwen/aristotle-psychology/notes.html
++++ b/yuanwen/aristotle-psychology/notes.html
 @@ -142,3 +142,3 @@
  <p>
 - <a href="index..html#ref-1">1.</a>

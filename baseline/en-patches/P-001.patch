@@ -2,14 +2,14 @@
 # 行锚定：find/replace 取整行并带上下文；命中计数必须等于 expect，失配即该件转换硬失败。
 # id: P-001
 # slug: incommensurability
-# file: en/incommensurability/index.html
+# file: yuanwen/incommensurability/index.html
 # expect: 1
 # category: 格式层（空格）
 # origin: upstream-typo
 # source: en-errata.md §九 格式层
 # created: 2026-11-16
---- a/en/incommensurability/index.html
-+++ b/en/incommensurability/index.html
+--- a/yuanwen/incommensurability/index.html
++++ b/yuanwen/incommensurability/index.html
 @@ -1360,3 +1360,3 @@
  system. He therefore must appear to the systematic epistemologist as a
 -type of unscrupulous opportunist&rdquo; (Einstein1949b, 683ff.).

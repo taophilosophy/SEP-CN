@@ -2,14 +2,14 @@
 # 行锚定：find/replace 取整行并带上下文；命中计数必须等于 expect，失配即该件转换硬失败。
 # id: P-002
 # slug: lakatos
-# file: en/lakatos/index.html
+# file: yuanwen/lakatos/index.html
 # expect: 1
 # category: 格式层（空格）
 # origin: upstream-typo
 # source: en-errata.md §九 格式层
 # created: 2026-11-16
---- a/en/lakatos/index.html
-+++ b/en/lakatos/index.html
+--- a/yuanwen/lakatos/index.html
++++ b/yuanwen/lakatos/index.html
 @@ -2671,3 +2671,3 @@
  Vesey, G. (ed.), <em>Philosophy in the Open</em>, Open University
 -Press. [Republished as the introduction to Lakatos1978a (PP1), cited

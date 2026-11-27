@@ -1,63 +1,63 @@
 {
   "schema": "sep-cn-en-patches-dir/1",
-  "generated_at": "2026-11-25T19:18:50Z",
+  "generated_at": "2026-11-27T07:02:23Z",
   "note": "生成物，禁手改；正本为同目录 *.patch（ADR-0063 补丁池目录化）。",
   "count": 5,
   "patches": [
     {
       "id": "P-001",
       "slug": "incommensurability",
-      "file": "en/incommensurability/index.html",
+      "file": "yuanwen/incommensurability/index.html",
       "expect": 1,
       "category": "格式层（空格）",
       "source": "en-errata.md §九 格式层",
       "origin": "upstream-typo",
       "patch": "baseline/en-patches/P-001.patch",
-      "sha256": "83a45c517be5253a97d3083eb16e9b5ebbf7acd6f8a63112dd5eef362a632029"
+      "sha256": "058bd600cdb373354aca594277cab0a888e0714d9d583372abd3676119105e20"
     },
     {
       "id": "P-002",
       "slug": "lakatos",
-      "file": "en/lakatos/index.html",
+      "file": "yuanwen/lakatos/index.html",
       "expect": 1,
       "category": "格式层（空格）",
       "source": "en-errata.md §九 格式层",
       "origin": "upstream-typo",
       "patch": "baseline/en-patches/P-002.patch",
-      "sha256": "5f29487758da89051e29148a6c2ad27117c7690d1fb86f0381f2039de08cd8e6"
+      "sha256": "41b20ed81968dda4ecadcf43385e44bfcacac7ea939a2339b7ea6be94d961e78"
     },
     {
       "id": "P-003",
       "slug": "yorck",
-      "file": "en/yorck/index.html",
+      "file": "yuanwen/yorck/index.html",
       "expect": 1,
       "category": "格式层（空格）",
       "source": "en-errata.md §九 格式层",
       "origin": "upstream-typo",
       "patch": "baseline/en-patches/P-003.patch",
-      "sha256": "7d7108956ccd8ebc2185cb86511cc751e494519253752a75d81308e201eeb66b"
+      "sha256": "af91061dbf04149c0a622d04adf3d6c70c29355aae66a07bc07f4552aded581d"
     },
     {
       "id": "P-004",
       "slug": "aristotle-psychology",
-      "file": "en/aristotle-psychology/notes.html",
+      "file": "yuanwen/aristotle-psychology/notes.html",
       "expect": 1,
       "category": "格式层（链接目标）",
       "source": "en-errata.md §十二 格式层",
       "origin": "upstream-typo",
       "patch": "baseline/en-patches/P-004.patch",
-      "sha256": "6c5a83504e11f385807498fbf5f46e11a84383bc297a7951e820a82985bf6020"
+      "sha256": "de33b2409fabf81be4ea17231f841a9ea65c96777d809a16174e3415c64ee969"
     },
     {
       "id": "P-005",
       "slug": "augustine",
-      "file": "en/augustine/index.html",
+      "file": "yuanwen/augustine/index.html",
       "expect": 1,
       "category": "格式层（结构错位）",
       "source": "en-errata.md §十二 格式层",
       "origin": "upstream-typo",
       "patch": "baseline/en-patches/P-005.patch",
-      "sha256": "8aaf940db4a0316b9ad90267ccb42da402c9f9446fc00bbf18d044608b25aa45"
+      "sha256": "52cae11b9766c6dc4aceb74c4133f154bbc8f41dbaad2e69e9778d21562e55a1"
     }
   ]
 }
