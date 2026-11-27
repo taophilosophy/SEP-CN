@@ -444,3 +444,14 @@
 | TA7–TA8 | 工作包 38；原子项 113；0 处预写门禁号／ADR 号 | 通过 |
 
 **rev79 说明**：T229 完成并勾选，勾选 71→72、未开始 80→79；en_integrity clean 1/1、en_source_audit hard 0／warn 3（2 false-positive＋1 D 类真候选）、check_math 0 公式、fetch_audit 缺件 0；96 脚注定义（59 编号注 59/59 闭合＋37 书目键）；勘误第十九节 1 条（纯排版）。
+
+## 74 rev80 复核（T230 样章；计数 151）
+
+| 项 | 复算 | 结论 |
+| ---- | ---- | ---- |
+| TA1–TA3 | 151 定义、0 重复、0 悬空；16 分区和 151 | 通过 |
+| TA4–TA5 | 验收 151/151；Kahn 151/151 | 通过 |
+| TA6 状态一致 | 勾选 73（新增 T230）；容器 T138／T140／T142／T144／T154／T155／T156／T157 未勾；newton-principia `ex-04_checked`（样章不推进状态机） | 通过 |
+| TA7–TA8 | 工作包 38；原子项 113；0 处预写门禁号／ADR 号 | 通过 |
+
+**rev80 说明**：T230 样章完成并勾选，勾选 72→73、未开始 79→78；`zh/n/newton-principia.md` 入库导论＋§1 共 13 块，3 引块、3 条 note 引用；术语登记 12 条；账本 13 段；check_style／quotes／math_zh 0、terms 硬 0、academic 无硬错误、check_pairs hard 0。

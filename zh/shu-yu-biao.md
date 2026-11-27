@@ -54,6 +54,7 @@
 | absolute conception | — | 绝对构想 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | absolute geometry | — | 绝对几何 | geometry-19th | 数学/几何学界通行译名；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
 | absolute idealism | — | 绝对唯心论（亦作“绝对唯心主义”“绝对观念论”；勿译“新黑格尔主义”） | 词汇表复核 | 知网系 GB 标准库查证（termonline-standard 凭证 2026-10-28）：首屏无该键配对条目（命中均为模糊邻居，2026-11-26 复核）；审定库无对口条目（2026-11-25 界面精确匹配复核：未审定；原“审定库复核一致”表述作废） | 2026-11-26 |
+| absolute motion | — | 绝对运动 | newton-principia | 学界惯例（牛顿《原理》语境；物理学史通行（与 absolute space／absolute time 同族））；凭证 2026-11-27 | 2026-11-27 |
 | absolute music | — | 绝对音乐 | music | 学界通行（与标题音乐对举）；凭证 2026-11-09；2026-11-15 联网复核补亦作（审定《音乐名词》形“纯音乐”，音乐美学文献“绝对音乐”通行，两形并存）；删亦作“纯音乐”（与他行主译撞形，2026-11-21 撞形处置） | 2026-11-21 |
 | absolute power (of God) | — | 上帝的绝对权能 | condemnation 首译 | 学界通行汉译（potentia Dei absoluta）；凭证 2026-11-08 | 2026-11-08 |
 | absolute space | — | 绝对空间 | newton-principia | 学界惯例；物理学通行（牛顿《原理》定义附释）；凭证 2026-11-11 | 2026-11-11 |
@@ -598,6 +599,7 @@
 | attestation | — | 见证 | ricoeur | 利科术语（attestation，《作为一个他者的自身》）；学界惯例；凭证 2026-11-11 | 2026-11-11 |
 | attitudinal stance | — | 态度立场 | dilthey 首译 | 狄尔泰 1904–9 术语（attitudinal stances；心理行为内容凭以与 world 诸对象相关联）；凭证 2026-11-11 | 2026-11-11 |
 | attorney general | — | 检察总长 | grotius | 学界惯例；荷兰省司法职衔通行译法；凭证 2026-11-12 | 2026-11-12 |
+| attraction | — | 吸引 | newton-principia | 学界惯例（牛顿《原理》语境；物理学史通行（与 attractor 吸引子分列））；凭证 2026-11-27 | 2026-11-27 |
 | attractor | — | 吸引子 | f/frame-problem 首译 | 学界惯例；动力系统通行译法（Dreyfus 转述 Freeman）；凭证 2026-11-10 | 2026-11-10 |
 | Attributes | — | 属性 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库一致（termonline-all 凭证 2026-11-13）；撞形豁免 2026-11-21：斯宾诺莎 attributes 与阿拉伯语 ṣifāt 同概念异语，不合并 | 2026-11-21 |
 | atuphos | — | 脱尽虚妄 | 首现（timon-phlius） | 学界惯例（第蒙用语，free from tuphos）；凭证 2026-11-07 | 2026-11-07 |
@@ -1179,6 +1181,7 @@
 | clear and distinct perception | — | 清晰分明知觉 | descartes-ontological | 学界通行（笛卡尔知识论核心术语；观念作“清晰分明的”） | 2026-11-06 |
 | clickjacking | — | 点击劫持 | 首现（it-moral-values） | 学界惯例；信息安全通行译名；凭证 2026-11-10 | 2026-11-10 |
 | clinamen (swerve) | clinamen / παρέγκλισις | 偏斜 | epicurus | 学界通行（原子偏斜；卢克莱修作 clinamen） | 2026-11-12 |
+| clockwork universe | — | 钟表宇宙 | newton-principia | 学界惯例（科学史通行（牛顿世界观研究文献））；凭证 2026-11-27 | 2026-11-27 |
 | clonal evolution | — | 克隆演化 | cancer | 学界通行（肿瘤演化）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | cloning | — | 克隆 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 c/cloning））；凭证 2026-11-04 | 2026-11-04 |
 | closed theory | — | 封闭理论 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -1365,6 +1368,7 @@
 | conative experiences | — | 意动经验 | reinach | 学界惯例（欲望—意愿—意向一族；与 cognitive 对举）；凭证 2026-11-09 | 2026-11-09 |
 | conative imagination | — | 意欲想象 | imaginative-resistance | 学界通行（与 cognitive 对举）；凭证 2026-11-12 | 2026-11-12 |
 | conative state | — | 意动状态 | 首现（action） | 行动哲学通行（conative 与 cognitive 对举）；凭证 2026-11-27（results/t217-review.md） | 2026-11-27 |
+| contact mechanism | — | 接触机制 | newton-principia | 学界惯例（科学史通行（与超距作用对举））；凭证 2026-11-27 | 2026-11-27 |
 | conceivability | — | 可设想性／可设想 | 首现（zombies） | 学界惯例（心灵哲学文献通行）；凭证 2026-11-10；逐行研判 2026-11-21：原列形容词形与名词键不符 | 2026-11-21 |
 | conceivability argument | — | 可设想性论证（亦作“可设想论证”） | 首现（zombies） | 审定名词库（termonline-all·自然辩证法名词，2026-11-11 浏览器通道凭证）；查尔默斯论证 | 2026-11-11 |
 | concentration camps | — | 集中营 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·世界历史·近现代美国、加拿大、欧洲·德国、奥地利，2026-11-18 JWT 直连凭证） | 2026-11-19 |
@@ -2959,6 +2963,7 @@
 | force field | — | 力场 | kant-development | 学界惯例；物理学通行；康德前批判力论文献；凭证 2026-11-11 | 2026-11-11 |
 | force indicator | — | 力量指示词 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | forced loan | — | 强制借款 | gregory-rimini | 学界惯例；经济史通行（意大利公社强制公债）；凭证 2026-11-10 | 2026-11-10 |
+| forces of nature | — | 自然力 | newton-principia | 学界惯例（物理学史通行（牛顿《原理》序言语境））；凭证 2026-11-27 | 2026-11-27 |
 | forcing | — | 力迫 | axiom-choice | 学界通行（科恩力迫法）；2026-11-14 联网复核保留（Kunen/Jech 中译脉络与汉语集合论文献均用“力迫/力迫法”；佐恩引理、力迫法同批锚定） | 2026-11-14 |
 | fore-structure | Vorstruktur | 前结构 | gadamer | 海德格尔《存在与时间》术语，学界通行汉译；凭证 2026-11-10 | 2026-11-10 |
 | foreknowledge | — | 预知 | omniscience | 学界通行译名；凭证 2026-11-09 | 2026-11-09 |
@@ -3709,6 +3714,7 @@
 | impression management | — | 印象管理 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·新闻学与传播学·人际沟通·人际沟通能力与关系管理，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | improper part | — | 非真部分 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | improvisation | — | 即兴 | music | 学界通行；凭证 2026-11-09；海峡两岸名词对照库（termonline-all·音乐名词，2016；非审定公布库）作“即兴”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b6-2026-11-24.tsv） | 2026-11-25 |
+| impulse | — | 推动 | newton-principia | 学界惯例（牛顿《原理》'impulse' 义；与 impetus 冲力分列，撞形豁免）；凭证 2026-11-27 | 2026-11-27 |
 | imputation | — | 归责 | bradley-moral 首译 | 学界通行译名（布拉德雷与英国观念论研究文献）；凭证 2026-11-08 | 2026-11-08 |
 | In calumniatorem Platonis | — | 《驳柏拉图的诽谤者》 | 语料回收（specs/058 全库提取） | 本库译名（贝萨里翁著；语料 24 处一致）（2026-11-24 联网／语料核对，凭证 works-batch25-2026-11-24.md） | 2026-11-24 |
 | In Praise of Folly | — | 《愚人颂》 | 语料回收（specs/058 全库提取） | 许崇信译，辽宁教育出版社 2001-02（新世纪万有文库，ISBN 9787538258943）；刘曙光译，北京图书馆出版社 1999-06（2026-11-24 联网／语料核对，凭证 works-batch29-2026-11-24.md） | 2026-11-24 |
@@ -4334,6 +4340,7 @@
 | law of commutativeness | — | 交换律 | 首现（william-jevons） | 学界通行（代数-逻辑标准术语） | 2026-11-07 |
 | Law of Contradiction | — | 矛盾律 | 首现（william-jevons） | 学界通行（经典思维规律译名） | 2026-11-07 |
 | law of excluded middle / excluded middle | — | 排中律 | intentionality-ancient | 学界惯例；逻辑学通行译法；旧键“law of the excluded middle”并入（2026-11-21 撞形处置；旧键首现：首现（william-jevons））；2026-11-23 主形碰撞裁定合并（同概念/同著作异形：excluded middle） | 2026-11-21 |
+| law of gravity | — | 引力定律 | newton-principia | 学界惯例（物理学史通行（牛顿《原理》总释语境））；凭证 2026-11-27 | 2026-11-27 |
 | Law of Identity | — | 同一律 | 首现（william-jevons） | 学界通行（经典思维规律译名） | 2026-11-07 |
 | law of nations | — | 万民法 | colonialism；cosmopolitanism 首译 | 学界通行（格劳秀斯—普芬多夫传统 ius gentium，亦见 Victoria 传统译名）；凭证 2026-11-07、2026-11-09 | 2026-11-09 |
 | Law of Peoples | — | 《万民法》 | 语料回收（specs/058 全库提取） | 权威译本（罗尔斯著作通行汉译；审定库命中“全员参与”等他义；审定库无对口条目，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
@@ -4343,6 +4350,7 @@
 | lawless sequence | — | 无规律序列（亦作“无反射序列”） | 首现（intuitionism） | 学界惯例；直觉主义数学通行（与 lawlike 合规律的对举；亦作“无反射序列”）；凭证 2026-11-10 | 2026-11-10 |
 | lawlike | — | 合规律的（亦作“律性的”） | 首现（intuitionism） | 直觉主义数学通行（选择序列之受规律/算法支配者）；凭证 2026-11-10；FLAG 裁定 2026-11-21：首现 intuitionism 义为合规律；Goodman 律性义入亦作，合键后统一；旧键“lawlike / lawfulness”并入（2026-11-21 FLAG 裁定；旧键首现：首译（scientific-explanation-20th）） | 2026-11-21 |
 | Laws | — | 《法律篇》 | 语料回收（specs/058 全库提取） | 权威译本（柏拉图《法律篇》通行汉译；审定库无对口条目，2026-11-22）；凭证 2026-11-22 | 2026-11-22 |
+| laws of motion | — | 运动定律 | newton-principia | 学界惯例（物理学史通行（牛顿三定律统称））；凭证 2026-11-27 | 2026-11-27 |
 | laws of nature | — | 自然律 | hobbes-moral 首译 | 学界通行（霍布斯“自然法”，与 natural law 同形归一）；凭证 2026-11-09；2026-11-15 补亦作；审定作“自然律”（law of nature，自然辩证法名词；2026-11-26 界面精确匹配复核，科学哲学语境并行）；撞形改定 2026-11-21：自然法归 natural law；laws of nature 取自然律 | 2026-11-26 |
 | laws of reason | — | 理性律法 | 首译（saadya） | 学界通行（萨阿迪亚研究文献，与“启示律法”对举；源文 ‘aqliyyât 出自 ‘aql 智性）；凭证 2026-11-09 | 2026-11-09 |
 | laws of revelation | — | 启示律法 | 首译（saadya） | 学界通行（与“理性律法”对举；源文 sam‘iyyât 字面“被听见者”）；凭证 2026-11-09 | 2026-11-09 |
@@ -4573,6 +4581,7 @@
 | Lucasian Professor of Mathematics | — | 卢卡斯数学教授 | newton | 学界惯例；剑桥大学教席通行汉译；凭证 2026-11-08 | 2026-11-08 |
 | luck egalitarianism | — | 运气平等主义 | disability-care-rationing | 学界惯例；政治哲学通行（Arneson 等）；凭证 2026-11-08 | 2026-11-08 |
 | luminosity (nitzutz) | — | 发光性 | gersonides | 源文 Gersonides 术语 *nitzutz* 的英译；正文随文括注原词 | 2026-11-09 |
+| lunar apogee | — | 月球远地点 | newton-principia | 学界惯例（月球运动理论通行（与 lunar inequality 同族））；凭证 2026-11-27 | 2026-11-27 |
 | lunar inequality | — | 月球不等项（亦作“月行差”） | newton-principia | 月球运动理论通行；凭证 2026-11-11；亦作记海峡两岸名词对照库·测绘学作“月行差”（lunar inequality; evection，非审定公布库，2026-11-26 索引复核），正文 5:0 沿牛顿学理体例（裁定 2026-11-12） | 2026-11-26 |
 | Lunheng | 論衡 | 《论衡》 | han-dynasty | 王充书，学界通行学名 | 2026-11-10 |
 | Lunyu Jijie | 論語集解 | 《论语集解》 | han-dynasty | 何晏等，学界通行学名 | 2026-11-10 |
@@ -4754,6 +4763,7 @@
 | maʿqūl | معقول | 可智识的（intelligible） | arabic-islamic-phil-math | 学界通行 | 2026-11-08 |
 | McCarthyism | — | 麦卡锡主义 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·世界历史·近现代美国、加拿大、欧洲·美国，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | mean | — | 均值 | 首现（william-jevons） | 学界通行（统计学标准译名）；审定名词库（termonline-all·数学名词 09.0115，1993）作“均值”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b7-2026-11-24.tsv） | 2026-11-07 |
+| mean motion | — | 平均运动 | newton-principia | 学界惯例（天体力学通行（月球理论语境））；凭证 2026-11-27 | 2026-11-27 |
 | mean preserving spread | — |均值保持扩散（亦作“均值保持展开”）| risk | 学界惯例（Rothschild & Stiglitz 1970；亦作“均值保持展开”）；凭证 2026-11-09 | 2026-11-09 |
 | mean speed theorem | — | 平均速度定理 | 首现（sophismata） | 学界惯例（物理学史通行）；凭证 2026-11-07 | 2026-11-07 |
 | Meaning and Necessity | — | 《意义与必然性》 | 语料回收（specs/058 全库提取） | 权威译本（卡尔纳普著作通行汉译；审定库无对口条目，2026-11-22）；凭证 2026-11-22 | 2026-11-22 |
@@ -5686,6 +5696,7 @@
 | Or Hashem | אור השם | 《上主之光》 | crescas | 学界通行（克雷斯卡斯代表作）；凭证 2026-11-08 | 2026-11-08 |
 | oracle | — | 预言机 | qt-entangle | 学界通行译名（计算复杂性理论）；凭证 2026-11-09 | 2026-11-09 |
 | Oral Law | — | 口传律法 | albo-joseph 首译 | 学界惯例；犹太研究通行（与成文《托拉》相对） | 2026-11-07 |
+| orbital mechanics | — | 轨道力学 | newton-principia | 学界惯例（天文学史通行（与 celestial mechanics 天体力学分列））；凭证 2026-11-27 | 2026-11-27 |
 | ordered pair | — | 有序对（亦作“序偶”） | quine-nf | 集合论通行译名；凭证 2026-11-09；2026-11-15 补亦作（审定形，两形并行） | 2026-11-15 |
 | ordinal | — | 序数 | quine-nf | 集合论通行译名；凭证 2026-11-09；审定名词库（termonline-all·数学名词 02.0176，1993）作“序数”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b9-2026-11-24.tsv） | 2026-11-09 |
 | ordinal analysis | — | 序数分析 | hilbert-program 首译 | 学界惯例；证明论通行（Gentzen 传统）；凭证 2026-11-11 | 2026-11-11 |
@@ -6043,6 +6054,7 @@
 | physical collapse | — | 物理坍缩 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | physical divisibility | — | 物理可分性 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-24）；凭证 2026-11-24 | 2026-11-24 |
 | physical events | — | 物理事件 | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22） | 2026-11-22 |
+| physical geodesy | — | 物理大地测量学 | newton-principia | 学界惯例（大地测量学通行（地球形状研究语境））；凭证 2026-11-27 | 2026-11-27 |
 | physical influx | — | 物理流入（说） | 18thGerman-preKant | 学界通行汉译（莱布尼茨接受史）；凭证 2026-11-05；审定库无相关命中（termonline-all 凭证 2026-11-11；2026-11-26 界面精确匹配复核：0 条）| 2026-11-26 |
 | physical information | — | 物理信息 | epiphenomenalism | Jackson 知识论证术语；凭证 2026-11-12 | 2026-11-12 |
 | physical laws | — | 物理定律 | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22） | 2026-11-22 |

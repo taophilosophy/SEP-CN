@@ -1,0 +1,113 @@
+version: 1
+slug: newton-principia
+params:
+  model: "DeepSeek-V4.1-Flash（Trae 主会话直译＋PE；T230 样章）"
+  temperature: 0.2
+  batch_segments: sample
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      No work of science has drawn more attention from philosophers than Newton's *Principia*. The reasons for this, however, and consequently the focus of the attention have changed significantly from one century to the next. During the 20ᵗʰ Century philosophers have viewed the *Principia* in the context of Einstein's new theory of gravity in his theory of general relativity. The main issues have concerned the relation between Newton's and Einstein's theories of gravity and what the need to replace the former with the latter says about the nature, scope, and limits of scientific knowledge. During most of the 18ᵗʰ Century, by contrast, Newton's theory of gravity remained under dispute, especially because of the absence of a mechanism — in particular, a contact mechanism — producing gravitational forces. The philosophic literature correspondingly endeavored to clarify and to resolve, one way or the other, the dispute over whether the *Principia* should or should not be viewed as methodologically well founded. By the 1790s Newton's theory of gravity had become established among those engaged in research in orbital mechanics and physical geodesy, leading to the *Principia* becoming *the* exemplar of science at its most successful. Philosophic interest in the *Principia* during the 19ᵗʰ Century therefore came to focus on how Newton had achieved this success, in part to characterize the knowledge that had been achieved and in part to pursue comparable knowledge in other areas of research. Unfortunately, a very large fraction of the philosophic literature in all three centuries has suffered from a quite simplistic picture of the *Principia* itself. The main goal of this entry is to replace that simplistic picture with one that does more justice to the richness of both the content and the methodology of the *Principia*.
+    step1: |-
+      没有哪部科学著作比牛顿的《自然哲学的数学原理》更受哲学家关注。然而，关注的缘由、因而还有关注的焦点，一个世纪接一个世纪地发生了显著变化。在 20 世纪，哲学家把《原理》放在爱因斯坦广义相对论的新引力理论语境中考察；主要议题是牛顿引力理论与爱因斯坦引力理论的关系，以及以爱因斯坦理论取代牛顿理论的必要性就科学知识的性质、范围与限度说明了什么。相比之下，在 18 世纪的大部分时间里，牛顿的引力理论一直处于争论之中，尤其因为缺少一种产生引力的机制——特别是一种 **接触机制**。哲学文献也相应地力图澄清并（以这样或那样的方式）解决这场争论：究竟应不应当把《原理》视为在方法论上有充分根据的著作。到 1790 年代，牛顿的引力理论已在从事 **轨道力学** 与 **物理大地测量学** 研究的人中间确立，这使《原理》成为科学在最成功状态下的 **典范**。因此，19 世纪哲学家对《原理》的兴趣转而集中在牛顿如何取得这一成功：一部分是要刻画所获得的知识，一部分是要在其他研究领域追求可比的知识。不幸的是，三个世纪以来的哲学文献中有很大一部分都受制于一幅过于简单化的《原理》图景。本词条的主要目标，就是用一幅更公允地对待《原理》之内容与方法论丰富性的图景，来取代那幅简单化的图景。
+    step2: |-
+      没有哪部科学著作比牛顿的《自然哲学的数学原理》更受哲学家关注。然而，关注的缘由、因而还有关注的焦点，一个世纪接一个世纪地发生了显著变化。在 20 世纪，哲学家把《原理》放在爱因斯坦广义相对论的新引力理论语境中考察；主要议题是牛顿引力理论与爱因斯坦引力理论的关系，以及以爱因斯坦理论取代牛顿理论的必要性就科学知识的性质、范围与限度说明了什么。相比之下，在 18 世纪的大部分时间里，牛顿的引力理论一直处于争论之中，尤其因为缺少一种产生引力的机制——特别是一种 **接触机制**。哲学文献也相应地力图澄清并（以这样或那样的方式）解决这场争论：究竟应不应当把《原理》视为在方法论上有充分根据的著作。到 1790 年代，牛顿的引力理论已在从事 **轨道力学** 与 **物理大地测量学** 研究的人中间确立，这使《原理》成为科学在最成功状态下的 **典范**。因此，19 世纪哲学家对《原理》的兴趣转而集中在牛顿如何取得这一成功：一部分是要刻画所获得的知识，一部分是要在其他研究领域追求可比的知识。不幸的是，三个世纪以来的哲学文献中有很大一部分都受制于一幅过于简单化的《原理》图景。本词条的主要目标，就是用一幅更公允地对待《原理》之内容与方法论丰富性的图景，来取代那幅简单化的图景。
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. Overview: The Importance of the Work
+    step1: |-
+      ## 1. 概述：这部著作的重要性
+    step2: |-
+      ## 1. 概述：这部著作的重要性
+  - id: 3
+    kind: body
+    source: |-
+      Viewed retrospectively, no work was more seminal in the development of modern physics and astronomy than Newton's *Principia*. Its conclusion that the force retaining the planets in their orbits is one in kind with terrestrial gravity ended forever the view dating back at least to Aristotle that the celestial realm calls for one science and the sublunar realm, another. Just as the Preface to its first edition had proposed, the ultimate success of Newton's theory of gravity made the identification of the fundamental forces of nature and their characterization in laws the primary pursuit of physics. The success of the theory led as well to a new conception of exact science under which *every* systematic discrepancy between observation and theory, no matter how small, is taken as telling us something important about the world. And, once it became clear that the theory of gravity provided a far more effective means than observation for precisely characterizing complex orbital motions — just as Newton had proposed in the *Principia* in the case of the orbit of the Moon — physical theory gained primacy over observation for purposes of answering specific questions about the world.
+    step1: |-
+      回顾来看，在现代物理学与天文学的发展中，没有哪部著作比牛顿的《原理》更具开创性。它断言，使行星保持在轨道上的力与地面重力属于同一类；这一结论永远终结了至少可追溯至亚里士多德的一种观点：天界需要一门科学，而月下世界需要另一门科学。正如第一版序言所提出的，牛顿引力理论的最终成功，使识别 **自然力** 并以定律刻画它们成为物理学的主要追求。这一理论的成功还带来了一种新的 **精密科学** 观念：按照这种观念，观察与理论之间 **每一处** 系统性的差异，无论多么小，都被视为在告诉我们某种关于世界的重要事情。而且，一旦人们清楚引力理论为精确刻画复杂的轨道运动提供了远比观察更有效的手段——正如牛顿在《原理》中处理月球轨道时所提出的那样——物理理论便在回答关于世界的具体问题上取得了相对于观察的优先地位。
+    step2: |-
+      回顾来看，在现代物理学与天文学的发展中，没有哪部著作比牛顿的《原理》更具开创性。它断言，使行星保持在轨道上的力与地面重力属于同一类；这一结论永远终结了至少可追溯至亚里士多德的一种观点：天界需要一门科学，而月下世界需要另一门科学。正如第一版序言所提出的，牛顿引力理论的最终成功，使识别 **自然力** 并以定律刻画它们成为物理学的主要追求。这一理论的成功还带来了一种新的 **精密科学** 观念：按照这种观念，观察与理论之间 **每一处** 系统性的差异，无论多么小，都被视为在告诉我们某种关于世界的重要事情。而且，一旦人们清楚引力理论为精确刻画复杂的轨道运动提供了远比观察更有效的手段——正如牛顿在《原理》中处理月球轨道时所提出的那样——物理理论便在回答关于世界的具体问题上取得了相对于观察的优先地位。
+  - id: 4
+    kind: body
+    source: |-
+      The retrospective view of the *Principia* has been different in the aftermath of Einstein's special and general theories of relativity from what it was throughout the nineteenth century. Newtonian theory is now seen to hold only to high approximation in limited circumstances in much the way that Galileo's and Huygens's results for motion under uniform gravity came to be seen as holding only to high approximation in the aftermath of Newtonian inverse-square gravity. In the middle of the nineteenth century, however, when there was no reason to think that any confuting discrepancy between Newtonian theory and observation was ever going to emerge, the *Principia* was viewed as the exemplar of perfection in empirical science in much the way that Euclid's *Elements* had been viewed as the exemplar of perfection in mathematics at the beginning of the seventeenth century. Because of the extent to which Einsteinian theory was grounded historically on Newtonian science, the *Principia* has retained its unique seminal position in the history of physics in our post-Newtonian era. Perhaps more strikingly, because of the logical relationship between Newtonian and Einsteinian theory — Einstein showed that Newtonian gravity holds as a limit-case of general relativity in just the way Newton showed (in Book 1, Section 10) that Galilean uniform gravity holds as a limit-case of inverse-square gravity — even though the *Principia* can no longer be regarded as an exemplar of perfection, it is still widely regarded by physicists as an exemplar of empirical science at its best.
+    step1: |-
+      在爱因斯坦狭义与广义相对论之后，对《原理》的回顾性看法已不同于整个 19 世纪。如今人们认为，牛顿理论只在有限情形中作为高度近似成立，这与在牛顿平方反比引力之后，伽利略与惠更斯关于均匀重力下运动的结果被视为只在高度近似意义上成立，颇为相似。然而在 19 世纪中叶，当时没有理由认为牛顿理论与观察之间会出现任何足以推翻它的差异，《原理》被看作 **经验科学** 中完美性的典范，这与 17 世纪初欧几里得的《几何原本》被看作数学中完美性的典范颇为相似。由于爱因斯坦理论在历史上很大程度上以牛顿科学为基础，《原理》在我们这个后牛顿时代仍保持着物理学史中独特的开创性地位。也许更引人注目的是，由于牛顿理论与爱因斯坦理论之间的逻辑关系——爱因斯坦表明牛顿引力作为广义相对论的极限情形成立，正如牛顿（在第一卷第十节）表明伽利略的均匀重力作为平方反比引力的极限情形成立——《原理》虽然不再能被看作完美性的典范，却仍被物理学家广泛视为经验科学处于最佳状态时的典范。
+    step2: |-
+      在爱因斯坦狭义与广义相对论之后，对《原理》的回顾性看法已不同于整个 19 世纪。如今人们认为，牛顿理论只在有限情形中作为高度近似成立，这与在牛顿平方反比引力之后，伽利略与惠更斯关于均匀重力下运动的结果被视为只在高度近似意义上成立，颇为相似。然而在 19 世纪中叶，当时没有理由认为牛顿理论与观察之间会出现任何足以推翻它的差异，《原理》被看作 **经验科学** 中完美性的典范，这与 17 世纪初欧几里得的《几何原本》被看作数学中完美性的典范颇为相似。由于爱因斯坦理论在历史上很大程度上以牛顿科学为基础，《原理》在我们这个后牛顿时代仍保持着物理学史中独特的开创性地位。也许更引人注目的是，由于牛顿理论与爱因斯坦理论之间的逻辑关系——爱因斯坦表明牛顿引力作为广义相对论的极限情形成立，正如牛顿（在第一卷第十节）表明伽利略的均匀重力作为平方反比引力的极限情形成立——《原理》虽然不再能被看作完美性的典范，却仍被物理学家广泛视为经验科学处于最佳状态时的典范。
+  - id: 5
+    kind: body
+    source: |-
+      In spite of extravagant claims made about the *Principia* by some in the years after it first appeared — “… he seems to have exhausted his Argument, and left little to be done by those that shall succeed him”[^note-1] — the most positive view of it that anyone could have substantiated during the first half of the eighteenth century would have emphasized its promise more than its achievements. The theory of gravity had too many loose ends, the most glaring of which was a factor of 2 discrepancy in the mean motion of the lunar apogee, a discrepancy that undercut the claim that the Moon is held in orbit by an inverse-square force. No one knew these loose ends better than Newton himself, yet no one had a greater sense of the potential of the theory of gravity to resolve a whole host of questions in planetary astronomy — which may well explain why he made these loose ends difficult to see except by the most technically skilled, careful readers. Between the late 1730s and the early 1750s the situation changed dramatically when several of the loose ends were tied up, in some cases yielding such extraordinary results as the first truly successful descriptive account of the motion of the Moon in the history of astronomy. During the second half of the eighteenth century the promise of the *Principia* was not only universally recognized by those active in empirical research, but a large fraction of this promise was realized. What we now call “Newtonian mechanics” emerged in this process, as did the gravity-based accounts of the often substantial divergences of the planets from Keplerian motion, the achievement of Newton's theory of gravity that ultimately ended all opposition to it.
+    step1: |-
+      尽管在《原理》问世后的岁月里，有人对它作出过夸张的断言——“……他似乎已经穷尽了他的论证，几乎没给后继者留下什么可做之事”[^note-1]——但在 18 世纪上半叶，任何人所能证成的最积极看法，都会更强调它的前景而非成就。引力理论有太多未了结的疑难，其中最刺眼的是 **月球远地点** 的 **平均运动** 中一个 2 倍的差异；这一差异削弱了“月球由平方反比力维持在其轨道上”这一主张。没有人比牛顿本人更了解这些疑难，但也没有人比他更强烈地意识到引力理论在解决行星天文学中一大批问题上的潜力——这或许足以解释，他为何要让这些疑难难以被察觉，除非读者是技术最为娴熟、最为仔细的人。18 世纪 30 年代末至 50 年代初，随着若干疑难被厘清，情况发生了戏剧性变化，某些情形甚至产生了非凡的成果，例如天文学史上首个真正成功的月球运动描述性说明。到 18 世纪下半叶，《原理》的前景不仅被从事经验研究的人普遍承认，而且其中很大一部分已经实现。我们今天所称的“牛顿力学”便在这一过程中形成；以引力为基础、对行星偏离开普勒运动（这种偏离往往相当可观）所作的说明也一并形成——这是牛顿引力理论最终终结一切反对意见的成就。
+    step2: |-
+      尽管在《原理》问世后的岁月里，有人对它作出过夸张的断言——“……他似乎已经穷尽了他的论证，几乎没给后继者留下什么可做之事”[^note-1]——但在 18 世纪上半叶，任何人所能证成的最积极看法，都会更强调它的前景而非成就。引力理论有太多未了结的疑难，其中最刺眼的是 **月球远地点** 的 **平均运动** 中一个 2 倍的差异；这一差异削弱了“月球由平方反比力维持在其轨道上”这一主张。没有人比牛顿本人更了解这些疑难，但也没有人比他更强烈地意识到引力理论在解决行星天文学中一大批问题上的潜力——这或许足以解释，他为何要让这些疑难难以被察觉，除非读者是技术最为娴熟、最为仔细的人。18 世纪 30 年代末至 50 年代初，随着若干疑难被厘清，情况发生了戏剧性变化，某些情形甚至产生了非凡的成果，例如天文学史上首个真正成功的月球运动描述性说明。到 18 世纪下半叶，《原理》的前景不仅被从事经验研究的人普遍承认，而且其中很大一部分已经实现。我们今天所称的“牛顿力学”便在这一过程中形成；以引力为基础、对行星偏离开普勒运动（这种偏离往往相当可观）所作的说明也一并形成——这是牛顿引力理论最终终结一切反对意见的成就。
+  - id: 6
+    kind: body
+    source: |-
+      During the eighteenth century the *Principia* was also seen as putting forward a world view directly in opposition to the broadly Cartesian world view that in many circles had taken over from the Scholastic world view during the second half of the seventeenth century. Newton clearly intended the work to be viewed in this way when in 1686 he changed its title to *Philosophiae Naturalis Principia Mathematica*, in allusion to Descartes's most prominent work at the time, *Principia Philosophiae*. (The title page of Newton's first edition underscored this allusion by placing the first and third words of the title in larger type.) The main difference in the world view in Newton's *Principia* was to rid the celestial spaces of vortices carrying the planets. Newtonians subsequently went beyond Newton in enhancing this world view in various ways, including forces everywhere expressly acting at a distance. The “clockwork universe” aspect of the Newtonian world view, for example, is not to be found in the *Principia*; it was added by Laplace late in the eighteenth century, after the success of the theory of gravity in accounting for complex deviations from Keplerian motion became fully evident.
+    step1: |-
+      在 18 世纪，《原理》还被看作提出了一种世界观，直接对立于广义上的笛卡尔世界观——后者在 17 世纪下半叶于许多圈子里取代了经院世界观。1686 年，牛顿把书名改为《自然哲学的数学原理》，以影射笛卡尔当时最著名的著作《哲学原理》，显然有意让这部著作被如此看待。（牛顿第一版的标题页把书名的第一与第三个词排得更大，以强调这一影射。）牛顿《原理》中世界观的主要差异，在于清除天界空间中携带行星的涡旋。牛顿派随后在若干方面超出牛顿，进一步强化了这一世界观，包括到处明确主张 **超距作用** 力。例如，牛顿世界观中“**钟表宇宙**”的一面并不见于《原理》；它由拉普拉斯于 18 世纪晚期添加，当时引力理论在说明行星对开普勒运动的复杂偏离方面的成功已充分显现。
+    step2: |-
+      在 18 世纪，《原理》还被看作提出了一种世界观，直接对立于广义上的笛卡尔世界观——后者在 17 世纪下半叶于许多圈子里取代了经院世界观。1686 年，牛顿把书名改为《自然哲学的数学原理》，以影射笛卡尔当时最著名的著作《哲学原理》，显然有意让这部著作被如此看待。（牛顿第一版的标题页把书名的第一与第三个词排得更大，以强调这一影射。）牛顿《原理》中世界观的主要差异，在于清除天界空间中携带行星的涡旋。牛顿派随后在若干方面超出牛顿，进一步强化了这一世界观，包括到处明确主张 **超距作用** 力。例如，牛顿世界观中“**钟表宇宙**”的一面并不见于《原理》；它由拉普拉斯于 18 世纪晚期添加，当时引力理论在说明行星对开普勒运动的复杂偏离方面的成功已充分显现。
+  - id: 7
+    kind: body
+    source: |-
+      In addition to viewing the theory of gravity as potentially transforming orbital astronomy, Newton saw the *Principia* as illustrating a new way of doing natural philosophy. One aspect of this new way, announced in the Preface to the first edition, was the focus on forces:
+    step1: |-
+      除了把引力理论看作有可能改造轨道天文学之外，牛顿还把《原理》看作例示了一种从事 **自然哲学** 的新方式。这种新方式的一个方面在第一版序言中已经宣告，即聚焦于力：
+    step2: |-
+      除了把引力理论看作有可能改造轨道天文学之外，牛顿还把《原理》看作例示了一种从事 **自然哲学** 的新方式。这种新方式的一个方面在第一版序言中已经宣告，即聚焦于力：
+  - id: 8
+    kind: body
+    source: |-
+      > For the whole difficulty of philosophy seems to be to discover the forces of nature from the phenomena of motions and then to demonstrate the other phenomena from these forces. It is to these ends that the general propositions in books 1 and 2 are directed, while in book 3 our explication of the system of the world illustrates these propositions. For in book 3, by means of propositions demonstrated mathematically in books 1 and 2, we derive from celestial phenomena the gravitational forces by which bodies tend toward the sun and toward the individual planets. Then the motions of the planets, the comets, the moon, and the sea are deduced from these forces by propositions that are also mathematical. If only we could derive the other phenomena of nature from mechanical principles by the same kind of reasoning! For many things lead me to have a suspicion that all phenomena may depend on certain forces by which particles of bodies, by causes not yet known, either are impelled toward one another and cohere in regular figures, or are repelled from one another and recede. Since these forces are unknown, philosophers have hitherto made trial of nature in vain. But I hope that the principles set down here will shed some light on either this mode of philosophizing or some truer one. [**P**, 382][^note-2]
+    step1: |-
+      > 因为哲学的全部困难似乎就在于：从运动现象中发现 **自然力**，再由这些力说明其余现象。第一、二卷中的一般命题都指向这一目标，而第三卷中我们对世界体系的阐释则例示了这些命题。因为在第三卷中，我们借助第一、二卷中以数学方式证明的命题，从天文现象推出物体趋向太阳以及趋向各个行星的引力。然后，我们又借助同样是数学的命题，由这些力推出行星、彗星、月球和海洋的运动。但愿我们也能以同样的推理方式，从力学原理推出自然的其余现象！因为有许多事情使我猜想：一切现象或许都取决于物体微粒之间的某些力；由于尚未知晓的原因，这些微粒或者彼此相吸并在规则形状中结合，或者彼此相斥而退开。既然这些力尚未知晓，哲学家们迄今对自然的试探都徒劳无功。但我希望，此处确立的原理能为这种哲学思考方式或某种更真实的思考方式带来一些启发。（**P**, 382）[^note-2]
+    step2: |-
+      > 因为哲学的全部困难似乎就在于：从运动现象中发现 **自然力**，再由这些力说明其余现象。第一、二卷中的一般命题都指向这一目标，而第三卷中我们对世界体系的阐释则例示了这些命题。因为在第三卷中，我们借助第一、二卷中以数学方式证明的命题，从天文现象推出物体趋向太阳以及趋向各个行星的引力。然后，我们又借助同样是数学的命题，由这些力推出行星、彗星、月球和海洋的运动。但愿我们也能以同样的推理方式，从力学原理推出自然的其余现象！因为有许多事情使我猜想：一切现象或许都取决于物体微粒之间的某些力；由于尚未知晓的原因，这些微粒或者彼此相吸并在规则形状中结合，或者彼此相斥而退开。既然这些力尚未知晓，哲学家们迄今对自然的试探都徒劳无功。但我希望，此处确立的原理能为这种哲学思考方式或某种更真实的思考方式带来一些启发。（**P**, 382）[^note-2]
+  - id: 9
+    kind: body
+    source: |-
+      A second aspect of the new method concerns the use of mathematical theory not to derive testable conclusions from hypotheses, as Galileo and Huygens had done, but to cover a full range of alternative theoretical possibilities, enabling the empirical world then to select among them. This new approach is spelled out most forcefully at the end of Book 1, Section 11:
+    step1: |-
+      这种新方法的第二个方面涉及数学理论的用途：不是像伽利略与惠更斯那样从假设中推出可检验的结论，而是覆盖一整系列备选的理论可能性，从而使经验世界能够在其中作出选择。这一新进路在第一卷第十一节的末尾得到了最为有力的阐明：
+    step2: |-
+      这种新方法的第二个方面涉及数学理论的用途：不是像伽利略与惠更斯那样从假设中推出可检验的结论，而是覆盖一整系列备选的理论可能性，从而使经验世界能够在其中作出选择。这一新进路在第一卷第十一节的末尾得到了最为有力的阐明：
+  - id: 10
+    kind: body
+    source: |-
+      > I use the word “attraction” here in a general sense for any endeavor whatever of bodies to approach one another, whether that endeavor occurs as a result of the action of the bodies either drawn toward one another or acting on one another by means of spirits emitted or whether it arises from the action of ether or of air or of any medium whatsoever — whether corporeal or incorporeal — in any way impelling toward one another the bodies floating therein. I use the word “impulse” in the same general sense, considering in this treatise not the species of forces and their physical qualities but their quantities and mathematical proportions, as I have explained in the definitions. Mathematics requires an investigation of those quantities of forces and their proportions that follow from any conditions that may be supposed. Then, coming down to physics, these proportions must be compared with the phenomena, so that it may be found out which conditions of forces apply to each kind of attracting bodies. And then, finally, it will be possible to argue more securely concerning the physical species, physical causes, and physical proportions of these forces. [**P**, 588]
+    step1: |-
+      > 我在此把“吸引”一词用于一般意义，指物体彼此接近的任何努力，无论这种努力是因为物体彼此相吸，还是因为物体借由发射出的精气而相互作用；也无论它是出自以太、空气或任何其他介质的作用——无论该介质是有形的还是无形的——以任何方式推动漂浮其中的物体彼此接近。我也在同样的一般意义上使用“推动”（impulse）一词；在这部论著中，我考虑的不是力的种类及其物理性质，而是力的量值与数学比例，正如我在定义中所解释的那样。数学要求研究那些由任何可被设想的条件推出的力的量值与比例。然后，下降到物理学，这些比例必须与现象相比较，以便发现哪些力的条件适用于每一类吸引物体。最后，才有可能就这些力的物理种类、物理原因与物理比例作出更为可靠的论证。（**P**, 588）
+    step2: |-
+      > 我在此把“吸引”一词用于一般意义，指物体彼此接近的任何努力，无论这种努力是因为物体彼此相吸，还是因为物体借由发射出的精气而相互作用；也无论它是出自以太、空气或任何其他介质的作用——无论该介质是有形的还是无形的——以任何方式推动漂浮其中的物体彼此接近。我也在同样的一般意义上使用“推动”（impulse）一词；在这部论著中，我考虑的不是力的种类及其物理性质，而是力的量值与数学比例，正如我在定义中所解释的那样。数学要求研究那些由任何可被设想的条件推出的力的量值与比例。然后，下降到物理学，这些比例必须与现象相比较，以便发现哪些力的条件适用于每一类吸引物体。最后，才有可能就这些力的物理种类、物理原因与物理比例作出更为可靠的论证。（**P**, 588）
+  - id: 11
+    kind: body
+    source: |-
+      A third aspect of the new method, which proved most controversial at the time, was the willingness to hold questions about the mechanism through which forces effect their changes in motion in abeyance, even when the mathematical theory of the species and proportions of the forces seemed to leave no alternative but action at a distance. This aspect remained somewhat tacit in the first edition, but then, in response to criticisms it received, was made polemically explicit in the General Scholium added at the end of the second edition:
+    step1: |-
+      这种新方法的第三个方面在当时最具争议：它愿意暂且搁置关于力借以造成运动变化的机制的问题，即便关于力的种类与比例的数学理论似乎已除超距作用外别无选择。这一方面在第一版中多少是默会的，但后来为了回应所受到的批评，在第二版末尾增补的《总释》中被论战性地明确表达出来：
+    step2: |-
+      这种新方法的第三个方面在当时最具争议：它愿意暂且搁置关于力借以造成运动变化的机制的问题，即便关于力的种类与比例的数学理论似乎已除超距作用外别无选择。这一方面在第一版中多少是默会的，但后来为了回应所受到的批评，在第二版末尾增补的《总释》中被论战性地明确表达出来：
+  - id: 12
+    kind: body
+    source: |-
+      > I have not as yet been able to deduce from phenomena the reason for these properties of gravity, and I do not feign hypotheses. For whatever is not deduced from the phenomena must be called a hypothesis; and hypotheses, whether metaphysical or physical, or based on occult qualities, or mechanical, have no place in experimental philosophy. In this experimental philosophy, propositions are deduced from the phenomena and are made general by induction. The impenetrability, mobility, and impetus of bodies and the laws of motion and law of gravity have been found by this method. And it is enough that gravity should really exist and should act according to the laws that we have set forth and should suffice for all the motions of the heavenly bodies and of our sea. [**P**, 943][^note-3]
+    step1: |-
+      > 我至今仍未能从现象中推出引力这些性质的原因，而我不虚构假设。因为凡不是从现象中推出的东西，都必须称为 **假设**；而假设，无论是形而上学的还是物理学的，无论是基于 **隐秘的质** 的还是机械的，在 **实验哲学** 中都没有位置。在这种实验哲学中，命题从现象中推出，并通过 **归纳** 而变得一般。物体的不可入性、可动性与冲力，以及 **运动定律** 与 **引力定律**，都是通过这种方法发现的。只要引力确实存在、确实按照我们所阐述的定律起作用，并且足以说明天体与我们海洋的一切运动，那就够了。（**P**, 943）[^note-3]
+    step2: |-
+      > 我至今仍未能从现象中推出引力这些性质的原因，而我不虚构假设。因为凡不是从现象中推出的东西，都必须称为 **假设**；而假设，无论是形而上学的还是物理学的，无论是基于 **隐秘的质** 的还是机械的，在 **实验哲学** 中都没有位置。在这种实验哲学中，命题从现象中推出，并通过 **归纳** 而变得一般。物体的不可入性、可动性与冲力，以及 **运动定律** 与 **引力定律**，都是通过这种方法发现的。只要引力确实存在、确实按照我们所阐述的定律起作用，并且足以说明天体与我们海洋的一切运动，那就够了。（**P**, 943）[^note-3]
+  - id: 13
+    kind: body
+    source: |-
+      During most of the eighteenth century the primary challenge the *Principia* presented to philosophers revolved around what to make of a mathematical theory of forces in the absence of a mechanism, other than action at a distance, through which these forces work. By the last decades of the century, however, little room remained for questioning whether gravity does act according to the laws that Newton had set forth and does suffice for all the motions of the heavenly bodies and of our sea. No one could deny that a science had emerged that, at least in certain respects, so far exceeded anything that had ever gone before that it stood alone as the ultimate exemplar of science generally. The challenge to philosophers then became one of spelling out first the precise nature and limits of the knowledge attained in this science and then how, methodologically, this extraordinary advance had been achieved, with a view to enabling other areas of inquiry to follow suit.
+    step1: |-
+      在 18 世纪的大部分时间里，《原理》向哲学家提出的主要挑战，归结为这样一个问题：当除超距作用之外，尚无机制说明这些力如何起作用时，应当如何看待一种关于力的数学理论。然而到该世纪最后几十年，几乎没有余地再去质疑引力是否确实按照牛顿所阐述的定律起作用、是否足以说明天体与我们海洋的一切运动。无人能否认，一门科学已经出现；它至少在某些方面远超此前的一切，以至于独自成为一般科学终极的典范。于是哲学家面临的挑战变成：首先阐明这门科学所获得的知识的精确性质与限度，然后说明这一非凡进展在方法论上是如何取得的，以便其他探究领域能够效仿。
+    step2: |-
+      在 18 世纪的大部分时间里，《原理》向哲学家提出的主要挑战，归结为这样一个问题：当除超距作用之外，尚无机制说明这些力如何起作用时，应当如何看待一种关于力的数学理论。然而到该世纪最后几十年，几乎没有余地再去质疑引力是否确实按照牛顿所阐述的定律起作用、是否足以说明天体与我们海洋的一切运动。无人能否认，一门科学已经出现；它至少在某些方面远超此前的一切，以至于独自成为一般科学终极的典范。于是哲学家面临的挑战变成：首先阐明这门科学所获得的知识的精确性质与限度，然后说明这一非凡进展在方法论上是如何取得的，以便其他探究领域能够效仿。
