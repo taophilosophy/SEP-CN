@@ -2,8 +2,16 @@
   "slug": "logic-dynamic",
   "kind": "retranslate",
   "zh_doc": "zh/l/logic-dynamic.md",
-  "state": "cleared",
-  "steps": [],
+  "state": "ex-04_checked",
+  "steps": [
+    {
+      "step": "ex-04",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-27T19:34:00Z",
+      "evidence": "T235 ex-04 源审计完成（results/t235-review.md）：en_integrity clean 1/1、hard 0；en_source_audit hard 0、warn 5（4 条 sat sat 为 HTML 列表剥离数学后误报，1 条 and and 为真候选入勘误第二十节）；fetch_audit complete 缺件 0；55 脚注定义（0 真实引用，54 书目键＋[^key] 说明）、2 图哈希同基线；版本钉 Fall 2023／Feb 16, 2023 一致；14 类命中 12"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-09T19:49:07Z",
   "version_pin": {

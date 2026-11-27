@@ -691,3 +691,11 @@
 | newton-principia | 脚注 note-3（en L350） | `maris nostril` | ①排印手误（拉丁文） | `maris nostri` | 纯排版，无需译注 | 拉丁文所有格应为 nostri（2026-11-27 核对） |
 | newton-principia | 脚注 note-9（en L362） | `Rudolphime Tables` | ①排印手误 | `Rudolphine Tables` | 纯排版，无需译注 | 同条他处作 Rudolphine（2026-11-27 核对） |
 | newton-principia | 脚注 note-26（en L396） | `35, 2986` | ①排印手误（年份） | `35, 1986` | 纯排版，无需译注 | 上下文为 1986 年卷期（2026-11-27 核对） |
+
+## 二十、2026-11-27 T235 logic-dynamic 新发现
+
+**来源**：`specs/064-flow-spec-audit/results/t235-review.md`；`html/` 冻结不改，`en/l/logic-dynamic.md` 忠实照录。纯排版／语法者只入表。
+
+| slug | 位置 | 上游原文 | 缺陷定性 | 参考读法 | 中文承载 | 凭证 |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| logic-dynamic | §4.3（en L364） | `and proved that` | ①语法／排印（缺主语） | `and they proved that` | 中文译“并证明了”，语义自足，无需译注 | 第二处 and 后缺主语（2026-11-27 核对） |
