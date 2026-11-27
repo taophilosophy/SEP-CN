@@ -957,6 +957,7 @@
 | carcinogenesis | — | 癌变 | cancer | 学界通行（肿瘤学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | carcinogenic | — | 致癌的 | cancer | 学界通行（毒理学与公共卫生）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | cardinal | — | 基数 | quine-nf | 集合论通行译名；凭证 2026-11-09；审定名词库（termonline-all·数学名词 01.0125，1993）作“基数”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b2-2026-11-24.tsv） | 2026-11-09 |
+| cardinal number | — | 基数 | 首现（axiom-choice） | 数学界通行；凭证 2026-11-27（results/t222-review.md） | 2026-11-27 |
 | cardinal successor | — | 后继基数 | logic-infinitary | 学界惯例；集合论通行译法；凭证 2026-11-10 | 2026-11-09 |
 | cardinal virtues | — | 四枢德 | neoplatonism | 学界惯例；经院哲学与伦理学通行（正义、审慎、节制、勇敢） | 2026-11-07 |
 | Cardinal(教会职衔) | Cardinal | 枢机主教 | 语料回收（词汇表并网） | 学界通行（天主教会职衔；与 cardinal 基数 同键多义分工；termonline-all 命中“基数词/基本方位”均异学科，凭证 2026-11-13）；键形归一 2026-11-21：全角括注／斜线改半角（键须为源语形）；旧键 Cardinal（教会职衔） | 2026-11-21 |
@@ -1663,6 +1664,7 @@
 | covenant | — | 信约 | hobbes-moral 首译 | 学界通行（霍布斯《利维坦》中译惯例）；凭证 2026-11-09 | 2026-11-09 |
 | Covenant on Civil and Political Rights | — | 《公民权利和政治权利国际公约》 | s/sovereignty 首译 | 联合国官方中译；凭证 2026-11-07 | 2026-11-07 |
 | Covenant on Economic, Social and Cultural Rights | — | 《经济、社会及文化权利国际公约》 | s/sovereignty 首译 | 联合国官方中译；凭证 2026-11-07 | 2026-11-07 |
+| covering | — | 覆盖 | 首现（axiom-choice） | 集合论通行（Zermelo 1904 coverings）；凭证 2026-11-27（results/t222-review.md） | 2026-11-27 |
 | covering law model | — | 覆盖律模型 | oakeshott 首译 | 学界通行汉译（分析历史哲学；亨佩尔模型）；凭证 2026-11-07 | 2026-11-07 |
 | covertly erotic art | — | 隐秘的情色艺术 | 首译（erotic-art） | 本词条术语（covert intention） | 2026-11-08 |
 | CP-net | — | CP 网（条件偏好网络） | logic-preference | 学界惯例；AI 文献通行 | 2026-11-05 |
@@ -2490,6 +2492,7 @@
 | epistrophe | ἐπιστροφή | 回返 | neoplatonism | 学界惯例；新柏拉图主义研究通行（与 prohodos 对举）；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
 | epithelial | — | 上皮 | cancer | 学界通行（组织学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | epoché | ἐποχή | 悬搁（亦作“悬置”） | 语料回收 | 学界惯例（胡塞尔现象学通行）；审定库无相关命中（凭证 2026-10-31；2026-11-26 界面精确匹配复核：0 条） | 2026-11-26 |
+| epsilon axiom | — | ε 公理 | 首现（axiom-choice） | 希尔伯特 ε 算子语境通行；凭证 2026-11-27（results/t222-review.md） | 2026-11-27 |
 | epsilon calculus | — | ε 演算 | 语料回收（zh 频次审计 2026-11-25） | 希尔伯特 ε 演算通行（与 ε-notation ε 记号分列）；审定库无对口命中，2026-11-25；凭证 2026-11-25 | 2026-11-25 |
 | equal educational opportunity | — | 教育机会均等 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·教育学·教育基本理论，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | equal respect | — | 平等尊重 | 语料回收（引号片段审计 2026-11-25） | 学界惯例；政治哲学通行（与 equal concern 平等关切对举）；凭证 2026-11-25 | 2026-11-25 |
@@ -3017,6 +3020,7 @@
 | freedom of movement | — |迁徙自由（亦作“行动自由”）| immigration | 学界通行（亦作“行动自由”）；凭证 2026-11-12 | 2026-11-12 |
 | Freedom of the Will | — | 《论意志的自由》 | 语料回收（specs/058 全库提取） | 本库译名（爱德华兹著，1754；语料 10 处一致；未见中译本）（2026-11-24 联网／语料核对，凭证 works-batch27-2026-11-24.md） | 2026-11-24 |
 | Frege's Theorem | — | 弗雷格定理 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
+| French Empiricists | — | 法国经验论者 | 首现（axiom-choice） | 本词条语境（Baire、Borel、Lebesgue）；学界通行；凭证 2026-11-27（results/t222-review.md） | 2026-11-27 |
 | frequency interpretation | — | 频率解释 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | frequentism | — | 频率主义（概率诠释） | 语料回收（ism 扫描 2026-11-25） | 学界惯例；概率哲学通行；凭证 2026-11-25 | 2026-11-25 |
 | Freudianism | — | 弗洛伊德主义 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·自然辩证法·科学哲学·分支科学哲学·认知科学哲学，2026-11-18 JWT 直连凭证） | 2026-11-19 |
@@ -3734,6 +3738,7 @@
 | index | — | 索引 | logic-relevance | 自然演绎记账术语（Anderson–Belnap）；凭证 2026-11-09 | 2026-11-09 |
 | index number | — | 指数 | 首现（william-jevons） | 学界通行（统计学标准译名）；撞形豁免 2026-11-21：统计指数与 exponential（数学函数）同形异义，不合并 | 2026-11-21 |
 | index set | — | 索引集 | axiom-choice | 学界通行 | 2026-11-13 |
+| indexed collection | — | 索引集族 | 首现（axiom-choice） | 集合论通行（indexed family／collection）；凭证 2026-11-27（results/t222-review.md） | 2026-11-27 |
 | indexed family | — | 索引集族 | axiom-choice | 学界通行 | 2026-11-13 |
 | indexical | — | 索引性 | tarski-truth | 学界惯例；语言哲学通行（indexical 索引词） | 2026-11-09 |
 | indexing problem | — | 标引问题 | disability-care-rationing | 学界通行（Wolff & De-Shalit 2007 不利处境复合度量）；凭证 2026-11-08 | 2026-11-08 |
@@ -5160,6 +5165,7 @@
 | multiple relation theory | — | 多元关系理论 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | multiplication | — | 乘法 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·数学·代数学·代数几何学·算术，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | multiplicative additive linear logic | — | 乘法加性线性逻辑 | logic-linear | 片段名（MALL）直译；凭证 2026-11-10 | 2026-11-09 |
+| multiplicative axiom | — | 乘法公理 | 首现（axiom-choice） | 罗素用语通行；凭证 2026-11-27（results/t222-review.md） | 2026-11-27 |
 | multiplicative disturbances | — | 乘性扰动 | 首现（william-jevons） | 构词直译（杰文斯指数构造假说）；凭证 2026-11-07 | 2026-11-07 |
 | multiplicative exponential linear logic | — | 乘法指数线性逻辑 | logic-linear | 片段名（MELL）直译；凭证 2026-11-10 | 2026-11-09 |
 | multiplicative linear logic | — | 乘法线性逻辑 | logic-linear | 片段名（MLL）直译；凭证 2026-11-10 | 2026-11-09 |
@@ -5407,6 +5413,7 @@
 | non-collapse interpretation | — | 非坍缩诠释 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-24）；凭证 2026-11-24 | 2026-11-24 |
 | non-conceptual content | — | 非概念内容 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | non-consequentialism | — | 非后果主义 | 首译（stem-cells） | 学界惯例（与已登记“后果论（亦作后果主义）”配对）；凭证 2026-11-09 | 2026-11-09 |
+| non-constructive | — | 非构造性的 | 首现（axiom-choice） | 数学哲学通行（与 constructive 构造性的对举）；凭证 2026-11-27（results/t222-review.md） | 2026-11-27 |
 | non-contemporaneity (Ungleichzeitigkeit) | — | 非同时性 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | non-determinism | — | 非确定性 | 语料回收（specs/050 候选池） | 条目语境研判（哲学/计算通行非决定论；审定“不确定性”与 uncertainty 撞车）；审定名词库（termonline-all·计算机科学技术·理论计算机科学·程序理论，2026-11-18 JWT 直连凭证，审定作“不确定性”）；撞形改定 2026-11-21：自动机／计算义；非决定论归 indeterminism；撞形豁免 2026-11-21：自动机非确定性与语义不确定性（indeterminacy）同形异义，不合并 | 2026-11-21 |
 | non-deterministic choice | — | 非确定选择 | logic-dynamic | 学界惯例；程序逻辑通行译法；凭证 2026-11-10 | 2026-11-09 |
@@ -5769,6 +5776,7 @@
 | paradox of tragedy | — | 悲剧悖论 | paradox-of-tragedy | 学界惯例（Hume《论悲剧》研究通行；词条题名）；凭证 2026-11-10 | 2026-11-10 |
 | paradoxes of implication | — | 蕴涵悖论 | necessary-sufficient | 学界惯例；逻辑学通行；凭证 2026-11-08 | 2026-11-08 |
 | paradoxes of material implication | — | 实质蕴涵悖论 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
+| paradoxical decomposition | — | 悖论分解 | 首现（axiom-choice） | Banach–Tarski 语境通行；凭证 2026-11-27（results/t222-review.md） | 2026-11-27 |
 | parallelism | — | 平行论 | 首现（zombies） | 学界惯例（心身关系论通译）；凭证 2026-11-10 | 2026-11-10 |
 | paralogism | — | 谬误推理（康德先验辩证论） | 语料回收（ism 扫描 2026-11-25） | 学界惯例；康德研究通行（先验幻相之逻辑表现；复数 paralogisms 同形）；凭证 2026-11-25 | 2026-11-25 |
 | paramadīrgha | परमदीर्घ | 极大长度 | early-modern-india | 胜论空间维度义译（maximal length）；凭证 2026-11-10 | 2026-11-10 |
@@ -5882,6 +5890,7 @@
 | permission | — | 许可 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·编辑与出版学·数字出版·网络出版，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | permutation | — | 置换 | quine-nf | 集合论通行译名；凭证 2026-11-09；审定名词库（termonline-all·数学名词 04.1826，1993）作“置换”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b9-2026-11-24.tsv） | 2026-11-09 |
 | permutation invariance | — | 置换不变性 | logical-consequence | 学界惯例；Tarski 逻辑性判据通行译法；凭证 2026-11-09 | 2026-11-09 |
+| permutation method | — | 置换法 | 首现（axiom-choice） | 集合论通行（Fraenkel permutation method）；凭证 2026-11-27（results/t222-review.md） | 2026-11-27 |
 | permutation model | — | 置换模型 | axiom-choice | 学界通行（Fraenkel 置换方法） | 2026-11-13 |
 | permutation symmetry | — | 置换对称 | 语料回收（specs/058 全库提取） | 审定名词库（termonline-all，凭证 2026-11-23） | 2026-11-23 |
 | perpetual motion | — | 永动机 | peirce-benjamin | 物理学通行译名；凭证 2026-11-09；审定名词库（termonline-all·自然辩证法名词 03.402，2024）作“永动机”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b9-2026-11-24.tsv） | 2026-11-09 |
@@ -8007,6 +8016,7 @@
 | Sura Academy | — | 苏拉学院 | 首译（saadya） | 学界惯例；犹太教史通行（Sura 苏拉，巴比伦 geonim 时期经学院）；凭证 2026-11-09 | 2026-11-09 |
 | surface gravity | — | 表面重力 | newton-principia | 物理学通行；凭证 2026-11-11；审定名词库（termonline-all·天文学名词 04.498，2024）作“表面重力”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b12-2026-11-24.tsv） | 2026-11-11 |
 | surjection | — | 满射 | quine-nf | 学界惯例；数学通行译名；凭证 2026-11-09 | 2026-11-09 |
+| surjective | — | 满射的 | 首现（axiom-choice） | 数学界通行；凭证 2026-11-27（results/t222-review.md） | 2026-11-27 |
 | surplus meaning | — | 剩余意义 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | surplus of meaning | — | 意义的盈余（亦作“意义的盈余（亦作“意义盈余”）”） | ricoeur | 利科术语（surplus de sens）；学界惯例；凭证 2026-11-11；旧键“excess of meaning”并入（2026-11-21 撞形处置；旧键首现：gadamer-aesthetics） | 2026-11-21 |
 | surplus value | — | 剩余价值 | 语料回收（specs/058 全库提取） | 审定名词库（termonline-all，凭证 2026-11-23） | 2026-11-23 |
@@ -8506,6 +8516,7 @@
 | Transoxania | — | 河中地区 | al-din-al-razi 首译 | 学界通行（Ma warāʾ al-nahr；阿姆河以北） | 2026-11-09 |
 | transscalarity | — | 跨尺度性 | global-democracy 首译 | Scholte 术语，无通行汉译，构词直译 | 2026-11-12 |
 | Transsexualism | — | 易性 | 语料回收（specs/050 候选池） | 条目语境研判（trans 研究通行易性（易性症/跨性别认同）；审定“易性症”为整形外科义）；审定名词库（termonline-all·整形外科·会阴部整形·性发育异常与易性症，2026-11-18 JWT 直连凭证，审定作“易性症”） | 2026-11-19 |
+| transversal | — | 横截集（亦作“选择集”） | 首现（axiom-choice） | 集合论通行（transversal／choice set）；与 selector 选择子对举；凭证 2026-11-27（results/t222-review.md） | 2026-11-27 |
 | transversality condition | — | 横截条件 | ramsey-economics | 学界通行（最优控制论与增长理论）；凭证 2026-11-11 | 2026-11-11 |
 | transworld identity | — | 跨界同一性 | 语料回收（日志 2024-05-09 引） | 程平文《可能世界理论中的跨界同一性和跨界识别问题》（苏州大学 2010，日志引）；2026-11-15 日志增补 | 2026-11-15 |
 | Träume eines Geistersehers | Träume eines Geistersehers | 《视灵者的梦》（康德） | dreams-dreaming | 主会话复审收口 73574215；凭证 2026-11-04；2026-11-26 核：原记首现词条正文未见该词，按全库精确匹配改记（dreams-dreaming，另 bloch、friedrich-jacobi 引及） | 2026-11-26 |
@@ -8716,6 +8727,7 @@
 | univocity of the concept of being | — | 存在概念的单义性 | auriol | 学界惯例；司各脱主义通行（univocatio entis） | 2026-11-07 |
 | Unjigi | 吽字義 | 《吽字义》 | kukai | 空海著作传统题名 | 2026-11-09 |
 | unknown correlations | — | 未知相关性 | 首现（imprecise-probabilities） | 构词直译；凭证 2026-11-08 | 2026-11-08 |
+| unordered pair | — | 无序对 | 首现（axiom-choice） | 集合论通行；凭证 2026-11-27（results/t222-review.md） | 2026-11-27 |
 | unperceived objects | — | 未被知觉的对象 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-24）；凭证 2026-11-24 | 2026-11-24 |
 | unrestricted comprehension principle | — | 无限制概括原则 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | unrestricted mereological composition | — | 无限制的部分-整体组合 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
@@ -8781,6 +8793,7 @@
 | value-like imagining | — | 价值式想象 | imaginative-resistance | 首译（Stokes 2006）；凭证 2026-11-12 | 2026-11-12 |
 | values of democratization | — | 民主化的价值 | global-democracy 首译 | 本词条术语（与“民主的模式”对举） | 2026-11-12 |
 | variable element | — | 变元元素 | axiom-choice | 本词条译名（变元集各阶段值的序列） | 2026-11-13 |
+| variable element | — | 可变元素 | 首现（axiom-choice） | 本词条语境（variable set 变元集的元素）；凭证 2026-11-27（results/t222-review.md） | 2026-11-27 |
 | variable set | — | 变元集 | axiom-choice | 本词条译名（varying over index set 语境） | 2026-11-13 |
 | variable sharing principle | — | 变量共享原则 | logic-relevance | 学界惯例；相干逻辑通行译法；凭证 2026-11-09 | 2026-11-09 |
 | variable value principle | — | 可变价值原则 | repugnant-conclusion | 学界惯例（Hurka 1983 / Ng 1989 / Sider 1991）；凭证 2026-11-11 | 2026-11-11 |
@@ -8969,6 +8982,7 @@
 | well-being | — | 福祉 | disability | 学界通行（发布词汇表 Well-Being｜福祉 已收，三表一致）；凭证 2026-11-09 | 2026-11-09 |
 | well-formed | — | 合式的 | schema | 学界惯例（数理逻辑通行：well-formed formula 合式公式） | 2026-11-06 |
 | well-founded | — | 良基 | tarski-truth | 集合论与逻辑学通行；审定名词库（termonline-all·计算机科学技术名词 08.0061，2018）作“良基语义”，本行“良基”为其核心词（凭证 termonline-b13-2026-11-24.tsv） | 2026-11-09 |
+| well-ordering | — | 良序 | 首现（axiom-choice） | 数学界通行；与 well-ordering theorem 良序定理配套；凭证 2026-11-27（results/t222-review.md） | 2026-11-27 |
 | well-ordering principle | — | 良序原则 | 语料回收（specs/058 全库提取） | 审定名词库（termonline-all·数学，凭证 2026-11-23） | 2026-11-23 |
 | well-ordering theorem | — | 良序定理 | 语料回收（mathematics-inconsistent 首译） | 数学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | wellformed formula | — | 合式公式 | quine-nf | 学界惯例；数理逻辑通行译名；凭证 2026-11-09 | 2026-11-09 |

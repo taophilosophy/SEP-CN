@@ -1,0 +1,279 @@
+version: 1
+slug: axiom-choice
+params:
+  model: "DeepSeek-V4.1-Flash（Trae 主会话直译＋子代理复核，T222 样章）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      ## 1. Origins and Chronology of the Axiom of Choice
+    step1: |-
+      ## 1. 选择公理的起源与年表
+    step2: |-
+      ## 1. 选择公理的起源与年表
+  - id: 2
+    kind: body
+    source: |-
+      In 1904 Ernst Zermelo formulated the Axiom of Choice (abbreviated as *AC* throughout this article) in terms of what he called *coverings* (Zermelo 1904)[^zermelo-1904]. He starts with an arbitrary set $M$ and uses the symbol $M'$ to denote an arbitrary nonempty subset of $M$, the collection of which he denotes by M. He continues:
+    step1: |-
+      1904 年，Ernst Zermelo 以一种他称为 **覆盖**（coverings）的方式表述了选择公理（本文通篇简称 *AC*）（Zermelo 1904）[^zermelo-1904]。他先从任意集合 $M$ 出发，用符号 $M'$ 表示 $M$ 的任意非空子集，并把它们的汇集记作 M。他接着写道：
+    step2: |-
+      1904 年，Ernst Zermelo 以一种他称为 **覆盖**（coverings）的方式表述了选择公理（本文通篇简称 *AC*）（Zermelo 1904）[^zermelo-1904]。他先从任意集合 $M$ 出发，用符号 $M'$ 表示 $M$ 的任意非空子集，并把它们的汇集记作 M。他接着写道：
+  - id: 3
+    kind: body
+    source: |-
+      > Imagine that with every subset $M'$ there is associated an arbitrary element $m_{1}'$, that occurs in $M'$ itself; let $m_{1}'$ be called the “distinguished” element of $M'$. This yields a “covering” $g$ of the set $M$ by certain elements of the set $M$. The number of these coverings is equal to the product [of the cardinalities of all the subsets $M'$] and is certainly different from 0.
+    step1: |-
+      > 设想每个子集 $M'$ 都配定一个出现在 $M'$ 自身之中的任意元素 $m_{1}'$；称 $m_{1}'$ 为 $M'$ 的“特异”（distinguished）元素。这就得到由集合 $M$ 的某些元素对集合 $M$ 所作的一个“覆盖” $g$。这些覆盖的数目等于［所有子集 $M'$ 的基数之］积，并且肯定不为 0。
+    step2: |-
+      > 设想每个子集 $M'$ 都配定一个出现在 $M'$ 自身之中的任意元素 $m_{1}'$；称 $m_{1}'$ 为 $M'$ 的“特异”（distinguished）元素。这就得到由集合 $M$ 的某些元素对集合 $M$ 所作的一个“覆盖” $g$。这些覆盖的数目等于［所有子集 $M'$ 的基数之］积，并且肯定不为 0。
+  - id: 4
+    kind: body
+    source: |-
+      The last sentence of this quotation—which asserts, in effect, that coverings always exist for the collection of nonempty subsets of any (nonempty) set—is Zermelo’s first formulation of the Axiom of Choice[^note-1]. This is now usually stated in terms of *choice functions*: here a choice function on a collection $\sH$ of nonempty sets is a map $f$ with domain $\sH$ such that $f(X) \in X$ for every $X \in \sH$.
+    step1: |-
+      这段引文的最后一句——它实际上断言，对任何（非空）集合的非空子集汇集，覆盖总是存在——是 Zermelo 对选择公理的第一个表述[^note-1]。这一表述如今通常用 **选择函数** 来陈述：非空集合族 $\mathcal{H}$ 上的选择函数，是一个定义域为 $\mathcal{H}$ 的映射 $f$，使得对每个 $X \in \mathcal{H}$ 都有 $f(X) \in X$。
+    step2: |-
+      这段引文的最后一句——它实际上断言，对任何（非空）集合的非空子集汇集，覆盖总是存在——是 Zermelo 对选择公理的第一个表述[^note-1]。这一表述如今通常用 **选择函数** 来陈述：非空集合族 $\mathcal{H}$ 上的选择函数，是一个定义域为 $\mathcal{H}$ 的映射 $f$，使得对每个 $X \in \mathcal{H}$ 都有 $f(X) \in X$。
+  - id: 5
+    kind: body
+    source: |-
+      As a very simple example, let $\sH$ be the collection of nonempty subsets of $\{0, 1\}$, i.e., $\sH = \{\{0\}, \{1\}, \{0,1\}\}$. Then $\sH$ has the two distinct choice functions $f_{1}$ and $f_{2}$ given by:
+    step1: |-
+      举一个很简单的例子：令 $\mathcal{H}$ 为 $\{0, 1\}$ 的非空子集构成的汇集，即 $\mathcal{H} = \{\{0\}, \{1\}, \{0,1\}\}$。于是 $\mathcal{H}$ 有两个不同的选择函数 $f_{1}$ 与 $f_{2}$，由下式给出：
+    step2: |-
+      举一个很简单的例子：令 $\mathcal{H}$ 为 $\{0, 1\}$ 的非空子集构成的汇集，即 $\mathcal{H} = \{\{0\}, \{1\}, \{0,1\}\}$。于是 $\mathcal{H}$ 有两个不同的选择函数 $f_{1}$ 与 $f_{2}$，由下式给出：
+  - id: 6
+    kind: body
+    source: |-
+      $$\begin{align} f_{1}(\{0\}) &= 0 \\ f_{1}(\{1\}) &= 1 \\ f_{1}(\{0, 1\}) &= 0 \\ f_{2}(\{0\}) &= 0 \\ f_{2}(\{1\}) &= 1 \\ f_{2}(\{0, 1\}) &= 1 \end{align}$$
+    step1: |-
+      $$\begin{align} f_{1}(\{0\}) &= 0 \\ f_{1}(\{1\}) &= 1 \\ f_{1}(\{0, 1\}) &= 0 \\ f_{2}(\{0\}) &= 0 \\ f_{2}(\{1\}) &= 1 \\ f_{2}(\{0, 1\}) &= 1 \end{align}$$
+    step2: |-
+      $$\begin{align} f_{1}(\{0\}) &= 0 \\ f_{1}(\{1\}) &= 1 \\ f_{1}(\{0, 1\}) &= 0 \\ f_{2}(\{0\}) &= 0 \\ f_{2}(\{1\}) &= 1 \\ f_{2}(\{0, 1\}) &= 1 \end{align}$$
+  - id: 7
+    kind: body
+    source: |-
+      A more interesting example of a choice function is provided by taking $\sH$ to be the set of (unordered) pairs of real numbers and the function to be that assigning to each pair its least element. A different choice function is obtained by assigning to each pair its greatest element. Clearly many more choice functions on $\sH$ can be defined.
+    step1: |-
+      另一个更有意思的选择函数例子是：取 $\mathcal{H}$ 为实数无序对的集合，取那个为每一对指定其最小元素的函数。若为每一对指定其最大元素，就得到另一个不同的选择函数。显然，$\mathcal{H}$ 上还能定义多得多的选择函数。
+    step2: |-
+      另一个更有意思的选择函数例子是：取 $\mathcal{H}$ 为实数无序对的集合，取那个为每一对指定其最小元素的函数。若为每一对指定其最大元素，就得到另一个不同的选择函数。显然，$\mathcal{H}$ 上还能定义多得多的选择函数。
+  - id: 8
+    kind: body
+    source: |-
+      Stated in terms of choice functions, Zermelo’s first formulation of *AC* reads:
+    step1: |-
+      用选择函数来陈述，Zermelo 对 *AC* 的第一个表述是：
+    step2: |-
+      用选择函数来陈述，Zermelo 对 *AC* 的第一个表述是：
+  - id: 9
+    kind: body
+    source: |-
+      **AC1**: Any collection of nonempty sets has a choice function.
+    step1: |-
+      **AC1**：任何非空集合族都有一个选择函数。
+    step2: |-
+      **AC1**：任何非空集合族都有一个选择函数。
+  - id: 10
+    kind: body
+    source: |-
+      **AC1** can be reformulated in terms of *indexed* or *variable sets*. An indexed collection of sets $\sA = \{A_{i}: i \in I\}$ may be conceived as a *variable set*, to wit, as a set *varying* over the index set $I$. Each $A_{i}$ is then the “value” of the variable set $\sA$ at *stage* $i$. A *choice function* on $\sA$ is a map $f: I \rightarrow \bigcup_{i\in I} A_{i}$ such that $f(i) \in A_{i}$ for all $i\in I$. A choice function on $\sA$ is thus a “choice” of an element of the variable set $\sA$ at each stage; in other words, a choice function on $\sA$ is a *variable element* of $\sA$. **AC1** is then equivalent to the assertion
+    step1: |-
+      **AC1** 也可以用 **索引集族** 或 **变元集** 来重新表述。集合的索引集族 $\mathcal{A} = \{A_{i}: i \in I\}$ 可以设想为一个 **变元集**，即一个在索引集 $I$ 上 **变动** 的集合。此时每个 $A_{i}$ 都是变元集 $\mathcal{A}$ 在 **阶段** $i$ 的“值”。$\mathcal{A}$ 上的 **选择函数** 是一个映射 $f: I \rightarrow \bigcup_{i\in I} A_{i}$，使得对所有 $i\in I$ 都有 $f(i) \in A_{i}$。于是 $\mathcal{A}$ 上的选择函数就是在每一阶段对变元集 $\mathcal{A}$ 的某个元素作出的“选择”；换言之，$\mathcal{A}$ 上的选择函数是 $\mathcal{A}$ 的一个 **可变元素**。**AC1** 于是等价于下述断言：
+    step2: |-
+      **AC1** 也可以用 **索引集族** 或 **变元集** 来重新表述。集合的索引集族 $\mathcal{A} = \{A_{i}: i \in I\}$ 可以设想为一个 **变元集**，即一个在索引集 $I$ 上 **变动** 的集合。此时每个 $A_{i}$ 都是变元集 $\mathcal{A}$ 在 **阶段** $i$ 的“值”。$\mathcal{A}$ 上的 **选择函数** 是一个映射 $f: I \rightarrow \bigcup_{i\in I} A_{i}$，使得对所有 $i\in I$ 都有 $f(i) \in A_{i}$。于是 $\mathcal{A}$ 上的选择函数就是在每一阶段对变元集 $\mathcal{A}$ 的某个元素作出的“选择”；换言之，$\mathcal{A}$ 上的选择函数是 $\mathcal{A}$ 的一个 **可变元素**。**AC1** 于是等价于下述断言：
+  - id: 11
+    kind: body
+    source: |-
+      **AC2**: Any indexed collection of sets has a choice function.
+    step1: |-
+      **AC2**：任何集合的索引集族都有一个选择函数。
+    step2: |-
+      **AC2**：任何集合的索引集族都有一个选择函数。
+  - id: 12
+    kind: body
+    source: |-
+      Informally speaking, **AC2** amounts to the assertion that a variable set with an element at each stage has a variable element.
+    step1: |-
+      非正式地说，**AC2** 相当于断言：一个在每一阶段都有元素的变元集有一个可变元素。
+    step2: |-
+      非正式地说，**AC2** 相当于断言：一个在每一阶段都有元素的变元集有一个可变元素。
+  - id: 13
+    kind: body
+    source: |-
+      **AC1** can also be reformulated in terms of relations, viz.
+    step1: |-
+      **AC1** 也可以用关系来重新表述，即：
+    step2: |-
+      **AC1** 也可以用关系来重新表述，即：
+  - id: 14
+    kind: body
+    source: |-
+      **AC3**: For any relation $R$ between sets $A$, $B$,
+    step1: |-
+      **AC3**：对集合 $A$ 与 $B$ 之间的任何关系 $R$，
+    step2: |-
+      **AC3**：对集合 $A$ 与 $B$ 之间的任何关系 $R$，
+  - id: 15
+    kind: body
+    source: |-
+      $$ {\forall x\inn A}\ \exists y\inn B[R(x,y)] \Rightarrow \exists f[f: A \rightarrow B \amp {\forall x\inn A}[R(x,fx)]]. $$
+    step1: |-
+      $$ {\forall x\in A}\ \exists y\in B[R(x,y)] \Rightarrow \exists f[f: A \rightarrow B \mathbin{\&} {\forall x\in A}[R(x,fx)]]. $$
+    step2: |-
+      $$ {\forall x\in A}\ \exists y\in B[R(x,y)] \Rightarrow \exists f[f: A \rightarrow B \mathbin{\&} {\forall x\in A}[R(x,fx)]]. $$
+  - id: 16
+    kind: body
+    source: |-
+      In other words, every relation contains a function having the same domain.
+    step1: |-
+      换言之，每个关系都包含一个具有相同定义域的函数。
+    step2: |-
+      换言之，每个关系都包含一个具有相同定义域的函数。
+  - id: 17
+    kind: body
+    source: |-
+      Finally **AC3** is easily shown to be equivalent (in the usual set theories) to:[^note-2]
+    step1: |-
+      最后，**AC3** 很容易被证明（在通常的集合论中）等价于：[^note-2]
+    step2: |-
+      最后，**AC3** 很容易被证明（在通常的集合论中）等价于：[^note-2]
+  - id: 18
+    kind: body
+    source: |-
+      **AC4**: Any surjective function has a right inverse.
+    step1: |-
+      **AC4**：任何满射函数都有右逆。
+    step2: |-
+      **AC4**：任何满射函数都有右逆。
+  - id: 19
+    kind: body
+    source: |-
+      In a 1908 paper Zermelo introduced a modified form of *AC*. Let us call a *transversal* (or *choice set*) for a family of sets $\sH$ any subset $T \subseteq \bigcup \sH$ for which each intersection $T \cap X$ for $X \in \sH$ has exactly one element. As a very simple example, let $\sH = \{\{0\}, \{1\}, \{2, 3\}\}$. Then $\sH$ has the two transversals $\{0, 1, 2\}$ and $\{0, 1, 3\}$. A more substantial example is afforded by letting $\sH$ be the collection of all lines in the Euclidean plane parallel to the $x$-axis. Then the set $T$ of points on the $y$-axis is a transversal for $\sH$.
+    step1: |-
+      在 1908 年的一篇论文中，Zermelo 引入了 *AC* 的一种修正形式。我们称集合族 $\mathcal{H}$ 的一个 **横截集**（或 **选择集**）为任一子集 $T \subseteq \bigcup \mathcal{H}$，使得对每个 $X \in \mathcal{H}$，交集 $T \cap X$ 恰有一个元素。举一个很简单的例子：令 $\mathcal{H} = \{\{0\}, \{1\}, \{2, 3\}\}$，则 $\mathcal{H}$ 有两个横截集 $\{0, 1, 2\}$ 与 $\{0, 1, 3\}$。一个更实在的例子是：令 $\mathcal{H}$ 为欧几里得平面中所有平行于 $x$ 轴的直线构成的汇集。此时 $y$ 轴上的点集 $T$ 就是 $\mathcal{H}$ 的一个横截集。
+    step2: |-
+      在 1908 年的一篇论文中，Zermelo 引入了 *AC* 的一种修正形式。我们称集合族 $\mathcal{H}$ 的一个 **横截集**（或 **选择集**）为任一子集 $T \subseteq \bigcup \mathcal{H}$，使得对每个 $X \in \mathcal{H}$，交集 $T \cap X$ 恰有一个元素。举一个很简单的例子：令 $\mathcal{H} = \{\{0\}, \{1\}, \{2, 3\}\}$，则 $\mathcal{H}$ 有两个横截集 $\{0, 1, 2\}$ 与 $\{0, 1, 3\}$。一个更实在的例子是：令 $\mathcal{H}$ 为欧几里得平面中所有平行于 $x$ 轴的直线构成的汇集。此时 $y$ 轴上的点集 $T$ 就是 $\mathcal{H}$ 的一个横截集。
+  - id: 20
+    kind: body
+    source: |-
+      Stated in terms of transversals, then, Zermelo’s second (1908) formulation of *AC* amounts to the assertion that any family of mutually disjoint nonempty sets has a transversal.[^note-3]
+    step1: |-
+      那么，用横截集来陈述，Zermelo 的第二个（1908 年）表述就相当于断言：任何两两不交的非空集合族都有一个横截集。[^note-3]
+    step2: |-
+      那么，用横截集来陈述，Zermelo 的第二个（1908 年）表述就相当于断言：任何两两不交的非空集合族都有一个横截集。[^note-3]
+  - id: 21
+    kind: body
+    source: |-
+      Zermelo asserts that “the purely objective character” of this principle “is immediately evident.” In making this assertion Zermelo meant to emphasize the fact that in this form the principle makes no appeal to the possibility of making “choices”. It may also be that Zermelo had the following “combinatorial” justification of the principle in mind. Given a family $\sH$ of mutually disjoint nonempty sets, call a subset $S \subseteq \bigcup \sH$ a *selector* for $\sH$ if $S\cap X \ne \varnothing$ for all $X \in \sH$. Clearly selectors for $\sH$ exist; $\bigcup \sH$ itself is an example. Now one can imagine taking a selector $S$ for $\sH$ and “thinning out” each intersection $S \cap X$ for $X\in \sH$ until it contains just a single element. The result is a transversal for $\sH$. This argument, suitably refined, yields a precise derivation of *AC* in this formulation from the set-theoretical principle known as *Zorn’s lemma* (see below).
+    step1: |-
+      Zermelo 断言，这一原则“纯客观的特性”“是显而易见的”。作出这一断言时，Zermelo 意在强调：在这一形式下，该原则并未诉诸作出“选择”的可能性。也可能 Zermelo 心中想的是下面这个对该原则的“组合”辩护。给定一个两两不交的非空集合族 $\mathcal{H}$，称子集 $S \subseteq \bigcup \mathcal{H}$ 为 $\mathcal{H}$ 的 **选择子**，如果对所有 $X \in \mathcal{H}$ 都有 $S\cap X \ne \varnothing$。显然 $\mathcal{H}$ 的选择子是存在的；$\bigcup \mathcal{H}$ 本身就是一例。现在可以设想取 $\mathcal{H}$ 的一个选择子 $S$，并“削薄”每个交集 $S \cap X$（其中 $X\in \mathcal{H}$），直到它只含一个元素。结果便是 $\mathcal{H}$ 的一个横截集。这一论证经适当精化，就从称为 **佐恩引理** 的集合论原则（见下文）给出了这一形式下 *AC* 的精确推导。
+    step2: |-
+      Zermelo 断言，这一原则“纯客观的特性”“是显而易见的”。作出这一断言时，Zermelo 意在强调：在这一形式下，该原则并未诉诸作出“选择”的可能性。也可能 Zermelo 心中想的是下面这个对该原则的“组合”辩护。给定一个两两不交的非空集合族 $\mathcal{H}$，称子集 $S \subseteq \bigcup \mathcal{H}$ 为 $\mathcal{H}$ 的 **选择子**，如果对所有 $X \in \mathcal{H}$ 都有 $S\cap X \ne \varnothing$。显然 $\mathcal{H}$ 的选择子是存在的；$\bigcup \mathcal{H}$ 本身就是一例。现在可以设想取 $\mathcal{H}$ 的一个选择子 $S$，并“削薄”每个交集 $S \cap X$（其中 $X\in \mathcal{H}$），直到它只含一个元素。结果便是 $\mathcal{H}$ 的一个横截集。这一论证经适当精化，就从称为 **佐恩引理** 的集合论原则（见下文）给出了这一形式下 *AC* 的精确推导。
+  - id: 22
+    kind: body
+    source: |-
+      Let us call Zermelo’s 1908 formulation the *combinatorial* axiom of choice:
+    step1: |-
+      我们称 Zermelo 1908 年的表述为 **组合** 形式的选择公理：
+    step2: |-
+      我们称 Zermelo 1908 年的表述为 **组合** 形式的选择公理：
+  - id: 23
+    kind: body
+    source: |-
+      **CAC**: Any collection of mutually disjoint nonempty sets has a transversal.
+    step1: |-
+      **CAC**：任何两两不交的非空集合族都有一个横截集。
+    step2: |-
+      **CAC**：任何两两不交的非空集合族都有一个横截集。
+  - id: 24
+    kind: body
+    source: |-
+      It is to be noted that **AC1** and **CAC** for *finite* collections of sets are both provable (by induction) in the usual set theories. But in the case of an *infinite* collection, even when each of its members is finite, the question of the existence of a choice function or a transversal is problematic[^note-4]. For example, as already mentioned, it is easy to come up with a choice function for the collection of pairs of real numbers (simply choose the smaller element of each pair). But it is by no means obvious how to produce a choice function for the collection of pairs of *arbitrary sets* of real numbers.
+    step1: |-
+      应当注意，对于 **有限** 的集合族，**AC1** 与 **CAC** 在通常的集合论中都是可证的（用归纳法）。但对于 **无限** 族，即便其每个成员都是有限的，选择函数或横截集的存在性问题也是成问题的[^note-4]。例如，如前所述，为实数对族找一个选择函数很容易（只需选出每一对中较小的元素）。但是，要为任意实数集合组成的无序对构成的族给出一个选择函数，却绝非显然。
+    step2: |-
+      应当注意，对于 **有限** 的集合族，**AC1** 与 **CAC** 在通常的集合论中都是可证的（用归纳法）。但对于 **无限** 族，即便其每个成员都是有限的，选择函数或横截集的存在性问题也是成问题的[^note-4]。例如，如前所述，为实数对族找一个选择函数很容易（只需选出每一对中较小的元素）。但是，要为任意实数集合组成的无序对构成的族给出一个选择函数，却绝非显然。
+  - id: 25
+    kind: body
+    source: |-
+      Zermelo’s original purpose in introducing *AC* was to establish a central principle of Cantor’s set theory, namely, that every set admits a well-ordering and so can also be assigned a cardinal number. Zermelo’s 1904 introduction of the axiom, as well as the use to which he put it, provoked considerable criticism from the mathematicians of the day. The chief objection raised was to what some saw as its highly non-constructive, even idealist, character: while the axiom asserts the possibility of making a number of—perhaps even an uncountable number—of arbitrary “choices”, it gives no indication whatsoever of how these latter are actually to be effected, of how, otherwise put, choice functions are to be *defined*. This was particularly objectionable to mathematicians of a “constructive” bent such as the so-called French Empiricists Baire, Borel and Lebesgue, for whom a mathematical object could be asserted to exist only if it can be defined in such a way as to characterize it uniquely. Zermelo’s response to his critics came in the form in two papers in 1908. In the first of these, as remarked above, he reformulated *AC* in terms of transversals; in the second (1908a) he made explicit the further assumptions needed to carry through his proof of the well-ordering theorem. These assumptions constituted the first explicit presentation of an axiom system for set theory.
+    step1: |-
+      Zermelo 引入 *AC* 的初衷，是要确立 Cantor 集合论的一条核心原则，即每个集合都容许一个良序，因而也可以被指派一个基数。Zermelo 1904 年对这一公理的引入，以及他对它的使用，招致了当时数学家的相当多批评。主要反对意见针对的是某些人眼中的该公理高度非构造性、甚至唯心主义的特征：该公理断言可以作出若干——甚至可能不可数多个——任意的“选择”，却丝毫没有说明这些选择实际上如何实现，换言之，丝毫没有说明选择函数如何被 **定义**。这一点对具有“构造”倾向的数学家尤其难以接受，例如所谓的法国经验论者 Baire、Borel 与 Lebesgue；在他们看来，一个数学对象只有能被如此定义以致唯一地刻画它时，才能被断言存在。Zermelo 对批评者的回应见于 1908 年的两篇论文。在第一篇中，如上所述，他用横截集重新表述了 *AC*；在第二篇（1908a）中，他明确给出了完成其良序定理证明所需的进一步假设。这些假设构成了对集合论公理系统的首次明确陈述。
+    step2: |-
+      Zermelo 引入 *AC* 的初衷，是要确立 Cantor 集合论的一条核心原则，即每个集合都容许一个良序，因而也可以被指派一个基数。Zermelo 1904 年对这一公理的引入，以及他对它的使用，招致了当时数学家的相当多批评。主要反对意见针对的是某些人眼中的该公理高度非构造性、甚至唯心主义的特征：该公理断言可以作出若干——甚至可能不可数多个——任意的“选择”，却丝毫没有说明这些选择实际上如何实现，换言之，丝毫没有说明选择函数如何被 **定义**。这一点对具有“构造”倾向的数学家尤其难以接受，例如所谓的法国经验论者 Baire、Borel 与 Lebesgue；在他们看来，一个数学对象只有能被如此定义以致唯一地刻画它时，才能被断言存在。Zermelo 对批评者的回应见于 1908 年的两篇论文。在第一篇中，如上所述，他用横截集重新表述了 *AC*；在第二篇（1908a）中，他明确给出了完成其良序定理证明所需的进一步假设。这些假设构成了对集合论公理系统的首次明确陈述。
+  - id: 26
+    kind: body
+    source: |-
+      As the debate concerning the Axiom of Choice rumbled on, it became apparent that the proofs of a number of significant mathematical theorems made essential use of it, thereby leading many mathematicians to treat it as an indispensable tool of their trade. Hilbert, for example, came to regard *AC* as an essential principle of mathematics[^note-5] and employed it in his defence of classical mathematical reasoning against the attacks of the intuitionists. Indeed his ε-operators are essentially just choice functions (see the entry on the epsilon calculus).
+    step1: |-
+      随着关于选择公理的争论持续发酵，人们渐渐看清楚：若干重要数学定理的证明都本质地用到它，从而使许多数学家把它当作本行不可或缺的工具。例如 Hilbert 逐渐把 *AC* 视为数学的一条本质性原则[^note-5]，并在为经典数学推理辩护、反驳直觉主义者攻击时使用了它。事实上，他的 ε 算子本质上就是选择函数（见“ε 演算”词条）。
+    step2: |-
+      随着关于选择公理的争论持续发酵，人们渐渐看清楚：若干重要数学定理的证明都本质地用到它，从而使许多数学家把它当作本行不可或缺的工具。例如 Hilbert 逐渐把 *AC* 视为数学的一条本质性原则[^note-5]，并在为经典数学推理辩护、反驳直觉主义者攻击时使用了它。事实上，他的 ε 算子本质上就是选择函数（见“ε 演算”词条）。
+  - id: 27
+    kind: body
+    source: |-
+      Although the usefulness of *AC* quickly become clear, doubts about its soundness remained. These doubts were reinforced by the fact that it had certain strikingly counterintuitive consequences. The most spectacular of these was Banach and Tarski’s *paradoxical decompositions of the sphere* (Banach and Tarski 1924)[^banach-1924]: any solid sphere can be split into finitely many pieces which can be reassembled to form two solid spheres of the same size; and any solid sphere can be split into finitely many pieces in such a way as to enable them to be reassembled to form a solid sphere of arbitrary size. (See Wagon 1993.)[^wagon-1993]
+    step1: |-
+      尽管 *AC* 的有用性很快就变得清楚，关于其可靠性的疑虑却依然存在。这些疑虑因它具有某些极其反直觉的推论而得到加强。其中最引人注目的是 Banach 与 Tarski 的 **球体悖论分解**（Banach and Tarski 1924）[^banach-1924]：任何实心球都可被分成有限多块，这些块可重新拼合成两个同样大小的实心球；并且任何实心球都可被分成有限多块，使得它们能重新拼合成一个任意大小的实心球。（见 Wagon 1993。）[^wagon-1993]
+    step2: |-
+      尽管 *AC* 的有用性很快就变得清楚，关于其可靠性的疑虑却依然存在。这些疑虑因它具有某些极其反直觉的推论而得到加强。其中最引人注目的是 Banach 与 Tarski 的 **球体悖论分解**（Banach and Tarski 1924）[^banach-1924]：任何实心球都可被分成有限多块，这些块可重新拼合成两个同样大小的实心球；并且任何实心球都可被分成有限多块，使得它们能重新拼合成一个任意大小的实心球。（见 Wagon 1993。）[^wagon-1993]
+  - id: 28
+    kind: body
+    source: |-
+      It was not until the middle 1930s that the question of the soundness of *AC* was finally put to rest with Kurt Gödel’s proof of its consistency relative to the other axioms of set theory.
+    step1: |-
+      直到 1930 年代中期，*AC* 的可靠性问题才因 Kurt Gödel 证明它相对于集合论其余公理是相容的而最终尘埃落定。
+    step2: |-
+      直到 1930 年代中期，*AC* 的可靠性问题才因 Kurt Gödel 证明它相对于集合论其余公理是相容的而最终尘埃落定。
+  - id: 29
+    kind: body
+    source: |-
+      Here is a brief chronology of *AC*:[^note-6]
+    step1: |-
+      下面是与 *AC* 有关的简略年表：[^note-6]
+    step2: |-
+      下面是与 *AC* 有关的简略年表：[^note-6]
+  - id: 30
+    kind: body
+    source: |-
+      | 1904/1908 | Zermelo introduces axioms of set theory, explicitly formulates *AC* and uses it to prove the well-ordering theorem, thereby raising a storm of controversy. |
+      | --- | --- |
+      | 1904 | Russell recognizes *AC* as the *multiplicative axiom*: the product of arbitrary nonzero cardinal numbers is nonzero. |
+      | 1914 | Hausdorff derives from *AC* the existence of nonmeasurable sets in the “paradoxical” form that $\bfrac{1}{2}$ of a sphere is congruent to $\bfrac{1}{3}$ of it (Hausdorff 1914)[^hausdorff-1914]. |
+      | 1922 | Fraenkel introduces the “permutation method” to establish independence of *AC* from a system of set theory with atoms (Fraenkel 1922)[^fraenkel-1922]. |
+      | 1924 | Building on the work of Hausdorff, Banach and Tarski derive from *AC* their paradoxical decompositions of the sphere. |
+      | 1926 | Hilbert introduces into his proof theory the “transfinite” or “epsilon” axiom as a version of *AC* . (Hilbert 1926)[^hilbert-1926]. |
+      | 1936 | Lindenbaum and Mostowski extend and refine Fraenkel’s permutation method, and prove the independence of various statements of set theory weaker than *AC* . (Lindenbaum and Tarski 1938)[^lindenbaum-1938] |
+      | 1935–38 | Gödel establishes relative consistency of *AC* with the axioms of set theory (Gödel 1938a, 1938b, 1939, 1940)[^gödel-1938a][^gödel-1938b][^gödel-1940]. |
+      | 1950s | Mendelson, Shoenfield and Specker, working independently, use the permutation method to establish the independence of various forms of *AC* from a system of set theory without atoms, but also lacking the axiom of foundation (Mendelson 1956, 1958, Shoenfield 1955, Specker 1957)[^mendelson-1956][^mendelson-1958][^shoenfield-1955][^specker-1957]. |
+      | 1963 | Paul Cohen proves independence of *AC* from the standard axioms of set theory (Cohen 1963, 1964)[^cohen-1963][^cohen-1964]. |
+    step1: |-
+      | 1904/1908 | Zermelo 引入集合论公理，明确表述 *AC* 并用它证明良序定理，由此掀起了一场争论风暴。 |
+      | --- | --- |
+      | 1904 | Russell 认识到 *AC* 即 **乘法公理**：任意非零基数的乘积非零。 |
+      | 1914 | Hausdorff 由 *AC* 推出不可测集的存在，其“悖论”形式为：球体的 ${^{1}\unicode{x2044}_{2}}$ 与它的 ${^{1}\unicode{x2044}_{3}}$ 全等（Hausdorff 1914）[^hausdorff-1914]。 |
+      | 1922 | Fraenkel 引入“置换法”，以证明 *AC* 相对于带原子的集合论系统的独立性（Fraenkel 1922）[^fraenkel-1922]。 |
+      | 1924 | 在 Hausdorff 工作的基础上，Banach 与 Tarski 由 *AC* 推出他们的球体悖论分解。 |
+      | 1926 | Hilbert 在其证明论中引入“超限”或“ε”公理，作为 *AC* 的一个版本。（Hilbert 1926）[^hilbert-1926]。 |
+      | 1936 | Lindenbaum 与 Mostowski 推广并精化了 Fraenkel 的置换法，证明了若干弱于 *AC* 的集合论陈述的独立性。（Lindenbaum and Tarski 1938）[^lindenbaum-1938] |
+      | 1935–38 | Gödel 确立了 *AC* 与集合论公理的相对相容性（Gödel 1938a, 1938b, 1939, 1940）[^gödel-1938a][^gödel-1938b][^gödel-1940]。 |
+      | 1950s | Mendelson、Shoenfield 与 Specker 各自独立地运用置换法，确立了 *AC* 各种形式相对于不含原子、但也缺少基础公理的集合论系统的独立性（Mendelson 1956, 1958, Shoenfield 1955, Specker 1957）[^mendelson-1956][^mendelson-1958][^shoenfield-1955][^specker-1957]。 |
+      | 1963 | Paul Cohen 证明 *AC* 相对于集合论标准公理的独立性（Cohen 1963, 1964）[^cohen-1963][^cohen-1964]。 |
+    step2: |-
+      | 1904/1908 | Zermelo 引入集合论公理，明确表述 *AC* 并用它证明良序定理，由此掀起了一场争论风暴。 |
+      | --- | --- |
+      | 1904 | Russell 认识到 *AC* 即 **乘法公理**：任意非零基数的乘积非零。 |
+      | 1914 | Hausdorff 由 *AC* 推出不可测集的存在，其“悖论”形式为：球体的 ${^{1}\unicode{x2044}_{2}}$ 与它的 ${^{1}\unicode{x2044}_{3}}$ 全等（Hausdorff 1914）[^hausdorff-1914]。 |
+      | 1922 | Fraenkel 引入“置换法”，以证明 *AC* 相对于带原子的集合论系统的独立性（Fraenkel 1922）[^fraenkel-1922]。 |
+      | 1924 | 在 Hausdorff 工作的基础上，Banach 与 Tarski 由 *AC* 推出他们的球体悖论分解。 |
+      | 1926 | Hilbert 在其证明论中引入“超限”或“ε”公理，作为 *AC* 的一个版本。（Hilbert 1926）[^hilbert-1926]。 |
+      | 1936 | Lindenbaum 与 Mostowski 推广并精化了 Fraenkel 的置换法，证明了若干弱于 *AC* 的集合论陈述的独立性。（Lindenbaum and Tarski 1938）[^lindenbaum-1938] |
+      | 1935–38 | Gödel 确立了 *AC* 与集合论公理的相对相容性（Gödel 1938a, 1938b, 1939, 1940）[^gödel-1938a][^gödel-1938b][^gödel-1940]。 |
+      | 1950s | Mendelson、Shoenfield 与 Specker 各自独立地运用置换法，确立了 *AC* 各种形式相对于不含原子、但也缺少基础公理的集合论系统的独立性（Mendelson 1956, 1958, Shoenfield 1955, Specker 1957）[^mendelson-1956][^mendelson-1958][^shoenfield-1955][^specker-1957]。 |
+      | 1963 | Paul Cohen 证明 *AC* 相对于集合论标准公理的独立性（Cohen 1963, 1964）[^cohen-1963][^cohen-1964]。 |
