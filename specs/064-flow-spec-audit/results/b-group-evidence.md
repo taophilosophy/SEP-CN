@@ -2,7 +2,7 @@
 
 - 组：**b**（S2 清理检查点；T020–T024；W0b 并行卫生轨）
 - start tag：`batch/064-b-start` → `3aec11279`（已推送）
-- end tag：待打（本文件提交后打 `batch/064-b-end`）
+- end tag：`batch/064-b-end` → `2491b52e3`（已推送）
 - 门禁：`python tools/check_all.py` **23/23 全绿**（新增 clean 门禁后）
 - 授权：B 组由主代理单干；本轮未调用子代理（ADR-0034）
 
@@ -61,6 +61,6 @@
 | ---- | ---- |
 | T020–T024 | 全部完成 |
 | B 组闸门 | 无独立闸；B 组出口＝五项完成＋23/23 门禁 |
-| `batch/064-b-end` | 待打（本文件提交后） |
+| `batch/064-b-end` | 已打（`2491b52e3`） |
 | 未执行 | 未在仓库上跑 `clean.py --go`；91 项本地垃圾仍保留，待用户另行授权清理 |
 | 未改 | `en/`、`yuanwen/`、译文、`tasks/*.json`、`baseline/` |
