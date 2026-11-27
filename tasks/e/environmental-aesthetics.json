@@ -2,7 +2,21 @@
   "slug": "environmental-aesthetics",
   "kind": "retranslate",
   "zh_doc": "zh/e/environmental-aesthetics.md",
-  "state": "ex-04_checked",
+  "translation_mode": "llm-pe",
+  "project_spec": {
+    "audience": "中文哲学读者（研究者与研究生为主）",
+    "purpose": "学术阅读与引用（SEP 词条简体中文译本）",
+    "register": "现代汉语学术书面语",
+    "terminology_basis": "shu-yu-biao.md／ren-ming-biao.md／baseline/term-concepts.md",
+    "delivery": "GitBook Markdown＋VitePress 双语站",
+    "qa_level": "CY/T 266＋ISO 5060（六轴机检＋人工复核）"
+  },
+  "pe": {
+    "level": "full",
+    "system": "DeepSeek-V4.1-Flash",
+    "disclosure": "任务 evidence 与词条译后编辑记录"
+  },
+  "state": "tr-02_checked",
   "steps": [
     {
       "step": "ex-04",
@@ -10,6 +24,13 @@
       "actor": "trae-main",
       "at": "2026-11-27T10:04:35Z",
       "evidence": "T149 ex-04 源审计完成：en_integrity clean 1/1（hard 0、资产缺件 0）；en_source_audit hard 0、warn 2（win2016/sum2024 均为 SEP 存档版 URL 段，false-positive）；结构计数：脚注定义 369、标记 489（不同键 341）、标题 24、表 1、图 0、公式 0；无 Critical/Major；证据 results/t149-review.md"
+    },
+    {
+      "step": "tr-02",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-27T10:25:16Z",
+      "evidence": "T150/T151 全量重译＋full PE（译后编辑）：§1–§8＋尾节＋369 条脚注入库；文件 961 行/15,007 汉字；正文 96 块与 en 96 块一一对应；账本 tasks/e/environmental-aesthetics.ledger.yaml 98 段（96 body＋2 oir），step2 与正文一致；check_pairs 0 issue、check_style/check_quotes 0、check_math_zh 0、check_terms 硬 0、check_academic --strict 无硬错误、check_all 23/23；证据 results/t151-review.md"
     }
   ],
   "blockers": [],
