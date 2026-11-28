@@ -13,6 +13,7 @@
 
 | Ajari | 阿闍梨 | 阿阇梨 | kokugaku-school | 真言宗汉语传统（高僧位阶）；学界通行 | 2026-11-28 |
 | Amaterasu | 天照 | 天照大神 | kokugaku-school | 学界通行；日本神话太阳神 | 2026-11-28 |
+| Ame-no-Minakanushi | 天之御中主神 | 天之御中主神 | kokugaku-school | 日本神话三创造神之一；汉字原样 | 2026-11-28 |
 | arahaniyo | 現し世 | 显世 | kokugaku-school | 日本神道语境（可见世界）；学界通行 | 2026-11-28 |
 | Ashihara no nakatsu kuni | 葦原の中つ国 | 苇原中国 | kokugaku-school | 日本神话地名；学界通行汉译 | 2026-11-28 |
 | bisimilar | — | 互模拟的 | logic-dynamic | 学界惯例（模态逻辑通行（与 bisimulation 互模拟同族））；凭证 2026-11-27 | 2026-11-27 |
@@ -1799,6 +1800,7 @@
 | daimon | — | 精灵 | xenocrates | 学界通行（希腊宗教中介于神与人之间者；daimonion 亦译“神明”） | 2026-11-08 |
 | Daimyo | 大名 | 大名 | kokugaku-school | 学界通行；日语专名汉译 | 2026-11-28 |
 | Dainichi | — | 大日（大日如来） | kukai | 真言宗汉语传统译名（《大日经》大日） | 2026-11-09 |
+| Dajōkan | 太政官 | 太政官 | kokugaku-school | 日本古代／明治官制；学界通行 | 2026-11-28 |
 | Dao | 道 | 道 | 语料回收（中文哲学词条群） | 学界惯例（拼音与汉字对应）；审定命中为跨学科同名不采（凭证 2026-10-30） | 2026-10-30 |
 | Daodejing / Tao Te Ching | 道德經 | 《道德经》 | 术语会话种子（ADR-0011） | 学界通行学名 | 2026-10-28 |
 | Daoism | — | 道家（宗教义作“道教”；亦作 Taoism） | 语料回收（学派名扫描 2026-11-25） | 学界通行按域分义（中文语料道家 87／道教 57；原文一词两义，译文按语境择形）；凭证 2026-11-25 | 2026-11-25 |
@@ -2439,6 +2441,7 @@
 | endurantism | — | 持存论 | ontology-is | 学界惯例；形而上学通行（与 perdurantism 持续论 对举）；凭证 2026-11-11；FLAG 裁定 2026-11-21：与 endurance＝持存、perdurantism 持续论 对举；族内统一为持存 | 2026-11-21 |
 | energy density | — | 能量密度 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·医学·普通外科学·代谢与营养，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | engaged object('jug yul) | — | 趣入境（'jug yul） | epistemology-language-tibetan | 藏传量论通译；原文列：工具书查无原生文字（2026-11-20 检 wisdomlib／GND／BDRC／84000／Logeion，均无“转写↔原生文字”显式配对，部分源不可达；映射表推演禁用，ADR-0030）；键形归一 2026-11-21：全角括注／斜线改半角（键须为源语形）；旧键 engaged object（'jug yul） | 2026-11-21 |
+| Engishiki | 延喜式 | 《延喜式》 | kokugaku-school | 日本古典；书名汉字 | 2026-11-28 |
 | Engishiki norito kai jo | 延喜式祝詞解叙 | 《延喜式祝词解叙》 | kokugaku-school | 贺茂真渊著作；书名汉字 | 2026-11-28 |
 | enhypostaton / enhypostata | — | 内寓者（寄寓他物而存者） | john-italos | 基督论与中世纪哲学通行（与 anhypostaton 对举）；审定库无相关命中（termonline-all 凭证 2026-11-09；2026-11-26 界面精确匹配复核：0 条）| 2026-11-26 |
 | Enlightenment | — | 启蒙（时代名，视语境亦作“启蒙运动”） | 18thGerman-preKant | 学界通行汉译；审定名词库（世界历史名词 03.0451，2012）作“启蒙运动”，与本行“启蒙”＋括注一致（2026-11-24 JWT 直连，凭证 termonline-b4-2026-11-24.tsv） | 2026-11-05 |
@@ -3115,6 +3118,7 @@
 | fundamentalism | — | 基要主义 | kant-development | 学界通行（宗教研究）；凭证 2026-11-11；名词库（社会学名词 3.9.1.15，2025）作“原教旨主义”，宗教学通行“基要主义”，保留并注；该条 2026-11-25 界面标注“尚未正式公布”并挂“发表意见”，引用按预公布处理（凭证 termonline-b5-2026-11-24.tsv） | 2026-11-25 |
 | fundamentalist debate | — | 基础主义之争 | music | 学界通行（Matheson & Caplan 2011 术语，指音乐作品基本本体范畴之争）；凭证 2026-11-09 | 2026-11-09 |
 | fundamentality | — | 基础性 | 语料回收（形而上学／语言哲学族扫描 2026-11-25） | 学界惯例；形而上学奠基研究通行（语料 49 次；与 grounding 奠基、grounded 被奠基成族）；凭证 2026-11-25 | 2026-11-25 |
+| furukoto | 古事 | 古事 | kokugaku-school | 国学用语（神代古事）；源文括注 | 2026-11-28 |
 | fusion of horizons | Horizontverschmelzung | 视域融合 | gadamer | 伽达默尔诠释学核心术语；凭证 2026-11-10 | 2026-11-10 |
 | fusion operator | — | 融合算子 | belief-merging | 学界通行（信念合并文献）；凭证 2026-11-10 | 2026-11-10 |
 | future contingent event / future contingents / future contingent | — | 未来偶然事件 | prophecy | 学界惯例；中世纪模态与神意论题通行（登记册既有“未来偶然后件”系 auriol 词条特定用法，本词条用通名）；凭证 2026-11-09；旧键“future contingents”并入（2026-11-21 FLAG 裁定；旧键首现：auriol）；异形键 future contingent 并入（2026-11-25） | 2026-11-21 |
@@ -3539,6 +3543,7 @@
 | honesty-humility | — | 诚实-谦逊 | justice-moral-psych | 学界惯例；HEXACO 人格模型通行汉译（第六因素）；凭证 2026-11-10 | 2026-11-10 |
 | hongaku / honkyō | 本学 / 本教 | 本学/本教（大国隆正） | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
 | hongaku hosshin | 本覚法身 | 本觉法身 | kukai | 真言宗本觉思想汉语传统 | 2026-11-09 |
+| Hongaku kyoyō | 本学挙要 | 《本学举要》 | kokugaku-school | 大国隆正著作；书名汉字 | 2026-11-28 |
 | honpushō / ādyanutpāda | 本不生 | 本不生 | kukai | 真言宗汉语传统（《大日经》“本不生”义） | 2026-11-09 |
 | hook operator | hook | 蹄铁算子（⊃） | necessary-sufficient | 学界惯例；逻辑学通行（material conditional 符号）；凭证 2026-11-08 | 2026-11-08 |
 | Horak(湖洛) | 湖洛 | 湖洛之辩 | korean-philosophy | 学界惯例；朝鲜性理学史通行（韩元震-李僩系人性物性之辩）；键形归一 2026-11-21：全角括注／斜线改半角（键须为源语形）；旧键 Horak（湖洛） | 2026-11-21 |
@@ -3734,6 +3739,7 @@
 | imperfective aspect | — | 未完成体 | 首现（action） | 语言学通行（与完成体相对；Aspect＝体（体貌）已登记）；凭证 2026-11-27（results/t217-review.md） | 2026-11-27 |
 | imperfective paradox | — | 未完成体悖论 | 首现（action） | 语言学与行动哲学通行（imperfective paradox）；学界惯例；凭证 2026-11-27（results/t217-review.md） | 2026-11-27 |
 | imperfectivity | — | 不完全性 | intention | 首译（Thompson 2008）；凭证 2026-11-12 | 2026-11-12 |
+| Imperial Rescript on Education | 教育敕語 | 《教育敕语》 | kokugaku-school | 学界通行；1890 年敕语 | 2026-11-28 |
 | imperialism | — | 帝国主义 | 语料回收（全目录） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
 | impermanence | — | 无常 | japanese-aesthetics | 学界惯例（佛教哲学通行译法“无常”）；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
 | impetus | — | 冲力 | buridan 首译 | 学界通行译名（中世纪逻辑与哲学研究文献）；凭证 2026-11-08；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
@@ -5693,6 +5699,7 @@
 | omniscient | — | 全知的（omniscience=全知） | omniscience | 登记册既有 omniscience 全知行，按同词根取形容词形；凭证 2026-11-09 | 2026-11-09 |
 | omniscient interpreter | — | 全知解释者 | davidson 首译 | 学界惯例；戴维森认识论通行（omniscient 全知既有行同根）；凭证 2026-11-10 | 2026-11-10 |
 | omnisubjectivity | — | 全主体性 | omniscience | 本词条首译裁定（Zagzebski 术语）；凭证 2026-11-09 | 2026-11-09 |
+| Omoikane | 思兼神 | 思兼神 | kokugaku-school | 日本神话神名；汉字原样 | 2026-11-28 |
 | On Choices and Avoidances | — | 《论选择与回避》 | epicurus | 本词条译名（[菲洛德穆]） | 2026-11-12 |
 | On First Philosophy (al-Kindi) | — | 《论第一哲学》（肯迪著作） | 语料回收（specs/058 全库提取） | 本库译名（肯迪著，题献穆塔西姆；阿拉伯题 Fī al-falsafa al-ūlā；语料 18 处一致）（2026-11-24 语料核对，凭证 works-batch23-2026-11-24.md） | 2026-11-25 |
 | On Generation and Corruption | — | 《论生成与毁灭》（亦作“论生灭”） | zabarella | 学界通行汉译（亚里士多德著作）；凭证 2026-11-09；语料形作《论生成与毁灭》（9 处，2026-11-24 查，凭证 works-batch28-2026-11-24.md）；主形改定：语料精确形 9 处，旧主形《论生灭》8 处（2026-11-24 查，凭证 works-batch32-2026-11-24.md） | 2026-11-09 |
@@ -7515,6 +7522,7 @@
 | separate substances / separate intellects | — | 独立实体／独立理智 | condemnation 首译 | 学界惯例；托马斯—阿维森纳体系通行汉译（substantiae separatae）；凭证 2026-11-08 | 2026-11-08 |
 | separation | — | 分离 | logic-infinitary；quine-nf | 学界惯例；ZF 公理通行译名（分离公理图式）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | Separation Axiom | — | 分离公理 | 语料回收（specs/050 候选池） | 条目语境研判（集合论通行分离公理（Aussonderung）；审定“分离性公理”为拓扑义形）；审定名词库（termonline-all·数学·几何学·拓扑学·一般拓扑学，2026-11-18 JWT 直连凭证，审定作“分离性公理”） | 2026-11-19 |
+| Separation of Kami and Buddhas | 神仏分離 | 神佛分离 | kokugaku-school | 学界通行；明治宗教政策 | 2026-11-28 |
 | Separation theorem | — | 分离定理 | 语料回收（specs/050 候选池） | 条目语境研判（逻辑固定定理名（IFL 分离定理）；审定“分离原理”为计算机控制义）；审定名词库（termonline-all·计算机科学技术·计算机应用·计算机控制，2026-11-18 JWT 直连凭证，审定作“分离原理”） | 2026-11-19 |
 | separatism | — | 分离主义 | 语料回收（ism 扫描 2026-11-25） | 学界惯例；政治哲学通行（国家分离与群体分离两义按语境取）；凭证 2026-11-25 | 2026-11-25 |
 | seppuku | 切腹 | 切腹 | japanese-aesthetics | 学界惯例（日本文化研究通行译法“切腹”） | 2026-11-02 |
@@ -8253,6 +8261,7 @@
 | Talmud | — | 塔木德 | delmedigo | 学界通行（犹太教经典定译） | 2026-11-06 |
 | Tama no mihashira | 霊能真柱 | 《灵能真柱》 | kokugaku-school | 平田笃胤著作；书名汉字（学界通行） | 2026-11-28 |
 | Tama no ogushi | 玉の小櫛 | 《源氏物语玉之小栉》 | kokugaku-school | 本居宣长著作；学界通行（亦作《玉之小栉》） | 2026-11-28 |
+| Tamakatsuma | 玉勝間 | 《玉胜间》 | kokugaku-school | 本居宣长著作；学界通行 | 2026-11-28 |
 | Tamhīdāt | — | 《铺路集》 | 语料回收（specs/058 全库提取） | 本库译名（艾因·古达特波斯语杰作，1127；英译选本见 Rustom 2023；语料 34 处一致；池 held 项随之解禁）（2026-11-24 联网／语料核对，凭证 works-batch25-2026-11-24.md） | 2026-11-24 |
 | tamthīl | تمثيل | 比附 | ibn-taymiyya | 首译（与 tashbīh 同化近义；与 tanzīh 不可比拟对举） | 2026-11-12 |
 | tanāsukh | تناسخ | 灵魂转世 | umar-khayyam | 学界惯例；伊斯兰研究通行义译（与 metemsomatosis 灵魂转生 行同义异键） | 2026-11-14 |
@@ -9253,6 +9262,7 @@
 | yogic perception | — | 瑜伽知觉 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | yogyatā | योग्यता | 语义适切（义适） | early-modern-india | 学界惯例；弥曼差/正理语义学通行义译（semantic fitness）；凭证 2026-11-10；正文取“语义适切”，因明旧译“义适”备查（校 2026-11-11） | 2026-11-10 |
 | Yomi | 黄泉 | 黄泉 | kokugaku-school | 学界通行；日本神话死后世界 | 2026-11-28 |
+| Yōrōkan | 養老館 | 养老馆 | kokugaku-school | 津和野藩藩校；汉字原样 | 2026-11-28 |
 | Yoruba | — | 约鲁巴语 | 首译（african-ethics） | 民族语言通行音译（尼日利亚 Yoruba；人作“约鲁巴人”）；凭证 2026-11-09 | 2026-11-09 |
 | yuanqi | 元气 | 元气（primordial qi 元气） | zhu-xi 首译 | 学界通行（汉代宇宙论通名；汉字回译）；凭证 2026-11-15 | 2026-11-15 |
 | Yueling | 月令 | 《月令》 | chinese-phil-science | 学界通行；凭证 2026-11-07 | 2026-11-07 |

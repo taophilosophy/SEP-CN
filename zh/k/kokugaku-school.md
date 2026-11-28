@@ -98,10 +98,10 @@
 
 | 尽管他自以为 | Karagokoro |
 | --- | --- |
-| 已摆脱汉心 | nashi to omoedo |
+| 已摆脱汉意 | nashi to omoedo |
 | 读汉籍之人 | fumira yomu |
 | 其心 | hito no kokoro wa |
-| 仍然是汉心 | nao zo Kara naru. |
+| 仍然是汉意 | nao zo Kara naru. |
 | （据 Muraoka 1964: 148 改译） |   |
 
 净化并重新激活日本之心的方法，不是借助《万叶集》这类古代文本，而是通过神的中介驱除中国的污染。
@@ -197,7 +197,7 @@
 | 我也要勇敢呐喊 | Yamato kokoro wo |
 | 燃起 | furi okoshi |
 | 真正的日本之心。 | isami takebite |
-| （转引自 Walthall 1998: 229） |   |
+| （转引自 Walthall 1998: 229）[^walthall-1998] |   |
 
 像多势子的许多和歌一样，这首诗歌表达了她对侍奉朝廷、乃至赴死之武士的崇敬。她追念武士将军楠木正成（1294—1336）之类的人物：1336 年，正成忠诚支持后醍醐天皇，率领寡不敌众的军队在凑川之战中对抗足利尊氏的军队。正成在那里面临失败，切腹自尽。多势子加入了德川末期日益壮大的勤王派，其中包括平田同门。在另一些和歌中，她哀叹把生丝卖给外国，抱怨自己宁愿拒绝对外贸易的眼前之利，也不愿把生丝卖给“蛮夷”。
 
@@ -211,7 +211,7 @@
 | 身为男子汉 | taoyame no |
 | 却拖着无用之身 | kai naki mi koso |
 | 一个柔弱女子。 | kanashi kari keri |
-| （转引自 Walthall 1998: 231） |   |
+| （转引自 Walthall 1998: 231）[^walthall-1998] |   |
 
 平田学堂并不以招收女性或积极欢迎女性入学著称，其女性追随者的比例也显著低于贺茂真渊与本居宣长的学堂。无论如何，多势子的行动显示了她在维新事件中的角色，也凸显了平田学堂为她提供的机会：与显要政治人物交往，并让这些人物与平田学堂的同学听到她的声音。
 
@@ -223,7 +223,7 @@
 
 鲁仙最重要的学术著作，致力于介绍他在城下町及邻近村落与山川中所见的奇异神秘现象。他于 1865 年完成的《幽府新论》（Yūfu shinron），援引笃胤关于不可见隐世灵界的教说，并用这些教说解释其社区中先前无法解释的事件。鲁仙如此陈述其代表作的目标：
 
-> 我写下多年来从各处搜集到的关于鬼神（kishin）之事的全部材料，希望把它展示给友人，展示给那些不知神（kami）的人，向他们揭示鬼神伟大灵力的显著证据——鬼神必须受到敬畏……（《幽府新论》，转引自 Fujiwara 2021: 145）
+> 我写下多年来从各处搜集到的关于鬼神（kishin）之事的全部材料，希望把它展示给友人，展示给那些不知神（kami）的人，向他们揭示鬼神伟大灵力的显著证据——鬼神必须受到敬畏……（《幽府新论》，转引自 Fujiwara 2021: 145）[^fujiwara-2021]
 
 在《幽府新论》中，鲁仙把见到死者的现象归因于死者灵魂的作用。此外，他推断雷电是神灵的作为。
 
@@ -237,7 +237,7 @@
 | 但怎能怀疑 | Iwaki ne no |
 | 岩木山巅 | kami no yūfu wo |
 | 神灵之界？ | utagau beshi ya |
-| （《岩木山三百首》，转引自 Fujiwara 2021: 159） |   |
+| （《岩木山三百首》，转引自 Fujiwara 2021: 159）[^fujiwara-2021] |   |
 
 有猷在 1867 年完成的代表作《显幽乐论》（Ken’yū rakuron，英文题 *Enjoyment Visible and Invisible*）中主张，这些神灵不仅应在生前受到崇敬、礼拜与侍奉，而且在死后、人成为居于他界的灵时也应如此。有猷鼓励人们以积极的态度生活，并在尘世与来世都拥抱欢乐。
 
@@ -263,9 +263,165 @@
 | 柏原的神代 | omoishi wa |
 | 如今却不过是一场 | aranu yume nite |
 | 无法实现的梦。 | arikeru mono wo |
-| （转引自 Walthall 1998: 301） |   |
+| （转引自 Walthall 1998: 301）[^walthall-1998] |   |
 
 玄道哀叹，复兴一个完全由神道与国学教义塑造的 7 世纪理想古代社会之梦，终将无法实现。平田学派中许多人也怀有同样的感慨。
+
+## 5. 明治时期（1868—1912）的国学
+
+### 大国隆正（1792—1871）与福羽美静（1831—1907）
+
+大国隆正（1792—1871）与福羽美静（1831—1907）都是津和野藩的藩士，二人均在藩校养老馆（Yōrōkan）学习。隆正向平田笃胤与村田春门学习国学，并一度在江户昌平黌求学。1853 年，美国海军准将佩里率四艘“黑船”驶入江户湾，导致德川幕府签订条约，向西方列强开放日本港口。面对国内政治与西方列强步步进逼的挑战，隆正指出，本居学派专注于“古代事物”与文学文本的国学，以及笃胤关注“幽冥”（yumei）或“隐世”（kakuriyo）灵界的国学，都不足以应对洋人。隆正把自己版本的国学改名为“本学”（hongaku，又作 mototsu manabi），即“根本之学”，其依据是他从《古事记》中引用的“本教”（honkyō），即“根本教说”。在 1855 年完成的《本学举要》（Hongaku kyoyō）中，隆正概述其“本学”学术的目标：
+
+> 本教指我皇统的系谱，以及神代古事（furukoto），它们传达天地形成时的真相。观看古事时，表面显得浅薄，但其下藏着深意。世人只看到表面的浅薄，便加以轻视、侮辱与嘲笑，认为它不如儒佛之书。我隆正自年少时便记得，我曾为此悲叹。我想如何才能引出这深意，便诚心向天照大神与思兼神（Omoikane）祈祷，愿我能辨识那神意，引出那隐藏的意旨。于是我成为向众人广泛讲授此事的人。（1855 [1971: 404]）
+
+隆正把日本描述为一个天皇受天命登基、国家由将军治理的国度。将军鼓励人民维护并保持义务、孝道与贞节之德，大名则保护各自的领地。人民在各行各业勤勉工作。隆正断言，日本天皇优越于世界各国的君主，因为日本皇统与别国不同，自古至今一脉未断。他以此作为日本在世界上伟大而优越的证据。使日本人认识此类事情，包括认识他们需要持续保持义务、孝道与贞节之德，正是其“本学”形态的国学教说的焦点。他甚至说，此类教说应当教给外国人。
+
+隆正一方面主张德川末期的“尊王攘夷”意识形态，一方面又默许开国，视之为必要的初步应对，但提议最终随时间推移驱逐外国人。他在《本学举要》中写道：
+
+> 如今外国频频派遣军舰来寻求通商关系。通商关系虽是互利的善事，但军舰是征服一个国家的武器。利用军舰发动战争，就是盗贼行径。为了国家，必须驱逐并清除他们。（1855 [1971: 428]）
+
+福羽美静在藩校学习之后，成为隆正与平田铉胤的门人。从 1863 年起，美静积极从事政治活动，支持朝廷对抗德川幕府。德川末期，美静接受大名龟井兹监的命令，致力于政治改革。1867 年，美静在津和野领导“神佛分离”运动，随后与隆正合作，起草 1868 年在全国颁布的神佛分离令。这些法令强行从神社中清除佛教元素，把神社重新确立为纯粹的神道机构。同年，神祇官（Jingikan）被设立为最高政府机关，甚至高于太政官（Dajōkan），以执行朝廷与国家的宗教仪式。美静在该官署担任判官，并担任朝廷的侍讲。美静与隆正合作，制定了一套神道神学，主张所有神社都将用于举行国家仪式。
+
+平田学派曾把地下之主大国主神与三创造神之一天之御中主神（Ame-no-Minakanushi）置于首要地位。与之相对，这一观点被隆正与美静所提倡的神道所取代；他们遵循本居宣长与会泽正志斋（1782—1863）的教说，把天照大神置于神谱的中心。美静担任明治国家神道事务的高级官员，并出任大教宣布运动（Taikyō senpu undō）的主要负责人。从 1870 年到 1884 年，这场运动旨在培养民众对“神道”的意识与理解，美静则训练祭司作为国家传教士，宣传国家教义。作为把神道发展为国教之努力的一部分，美静促成了“祭政一致”（saisei itchi，字面意为祭祀与政治统治的统一）政策；该政策把天皇呈现为神圣统治者，在治理中举行仪式。美静不是通过著作阐述思想，而是通过更新朝廷与国家的仪式和政策来应用国学知识。
+
+## 6. 明治之后的国学
+
+超出本词条的范围来看，在 20 世纪最初几十年，可以观察到国学分化为众多领域，这些领域类似于两个世纪前塑造荷田春满国学的广义日本研究：在柳田国男与折口信夫开创性工作基础上发展起来的民俗学与民族志研究；为某种有机的皇权神政提供理据——1890 年《教育敕语》便铭记了这种神政；以及把本质主义的“国体”（Kokutai）概念、即独特国家政体加以历史化的努力；等等。
+
+1945 年日本投降后的最初几年，除东京国学院大学等少数神道研修机构外，国学在日本学术界几乎成为禁忌话题。对日本历史、文学与宗教的专门研究当然被允许甚至受到鼓励，但把日本本质主义历史化的努力则属禁区。此外，曾助长亚太战争年代国际暴行的日本种族或文化优越论，在流行话语中被另一种日本独特性主张取代：日本人天生或本质上倾向于和谐行为，以勤勉、节俭、诚实与对季节变化的敏感为特征；这些品质解释了日本在经济发展与社会稳定方面的成功，而这些传统品质在当代日本社会中有着独特的配置。这种情况从 1970 年代中期开始改变：国学政治与社会思想——所谓本土古道——的学术研究在日本恢复，日本顶尖大学也开始聘任具有这些专长的学者。
+
+自 1970 年代以来，统称为“日本人论”（Nihonjinron）的日本性理论在日本流行文化中占据显著位置。日本被想象为一个万物有灵、充满灵性的领域，人在其中可以与动物、其他物体及自然力量交流；这种观念在日本无处不在，贯穿于流行漫画（manga）与动画（anime）。这些作品不仅在日本及全世界拥有巨大的流行吸引力，还作为“软实力”形式获得政府支持，而软实力对于对外呈现日本社会至关重要。
+
+## 参考文献
+
+> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
+
+上述所有著作都在下列书目中引用，此外还有以专著、书籍章节与期刊论文形式不断扩展的国学研究成果。这些二手著作为此前提到的原始资料提供了社会政治、思想与文学语境，同时也引用了这些国学学者的著作。若要进一步深入国学研究，可以查阅这些学者阅读并加以评论的许多原始资料译本。这些古典著作包括 8 世纪的神话史书《古事记》（Kojiki）与《日本书纪》（Nihon shoki），和歌集《万叶集》（Man’yōshū），以及《源氏物语》（1008）、《新古今和歌集》（1205）与 10 世纪的《延喜式》（Engishiki）。
+
+### 原始文献
+
+### 二手文献
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=kokugaku-school)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/kokugaku-school/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=kokugaku-school&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](http://philpapers.org) 查看本词条的增强文献目录（[直达条目](http://philpapers.org/sep/kokugaku-school/)）及其数据库链接。
+
+## 其他网络资源
+
+* [神道百科全书](http://eos.kokugakuin.ac.jp/modules/xwords/)，该网站旧版（新版尚无英文版）。
+* [国学](http://eos.kokugakuin.ac.jp/modules/xwords/entry.php?entryID=1172)，《神道百科全书》条目，森瑞枝（Mori Mizue）撰，2007 年 3 月 13 日。
+* [Early Modern Kokugaku (National Studies) And New Kokugaku: Their Growth And Significance](https://www2.kokugakuin.ac.jp/ijcc/wp/cimac/uchino.html)，内野吾郎（Uchino Goro，1914—1985）撰，国学院大学教授。
+* Burns, Susan, “The Kokugaku (Native Studies) School,” *Stanford Encyclopedia of Philosophy* (Fall 2018 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/fall2018/entries/kokugaku-school/](https://plato.stanford.edu/archives/fall2018/entries/kokugaku-school/)>. [这是本主题此前在《斯坦福哲学百科全书》中的词条——见[版本历史](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=kokugaku-school)。]
+
+## 相关词条
+
+日本哲学 | 日本美学 | 日本儒学 | 空海 | 日本哲学：净土 | 日本禅宗哲学 | 和辻哲郎
+
+[^kokugaku-1690]: 由于这一重要思想传统的研究日益增长，大量关于国学的原始与二手读物已有英译本可读。John R. Bentley 的 *An Anthology of Kokugaku Scholars 1690–1868* 介绍了从契冲到铃木雅之的 13 位国学大家，并按诗歌、文学、学术与“日本／宗教”分类提供其多种著作的译文。自 1958 年以来六十余年间出版的 *Sources of Japanese Tradition* 收录了包括荷田春满、贺茂真渊与平田笃胤在内的国学大家的代表性作品选段。*Japanese Philosophy: A Sourcebook* 以“神道与本土研究”为题，设专节介绍国学与神道传统的重要学者。上述原始资料均附有作者及其著作的导论。这些文集展示了国学内部的多样性与广度；此外，本居宣长主要文本的若干笺注译本，使对这位学派最具影响力思想家的进一步深入研究成为可能。这些译本包括 Ann Wehmeyer 的整本 *Kojikiden* 第一册，以及 Bentley 的 *Tamakatsuma*（《玉胜间》），还有 Sey Nishimura 翻译的篇幅如论文的“Naobi no mitama”（《直毗灵》）与“Uiyamabumi”（《初山踏》）。
+
+[^de-2006]: [SJTa] De Bary, Wm Theodore, Carol Gluck, Arthur E. Tiedemann, W. J. J. Boot, and William M. Bodiford (eds.), 2006, *Volume Two Sources of Japanese Tradition: 1600 to 2000: Part One: 1600 to 1868*, second edition, abridged, (Introduction to Asian Civilizations), New York: Columbia University Press.
+
+[^tsunoda-1964]: [SJT] Tsunoda, Ryūsaku, Wm. Theodore de Bary, and Donald Keene (eds.), 1964, *Sources of Japanese Tradition*, volume two, first edition, New York: Columbia University Press.
+
+[^haga-1971]: [H&M] Haga Noboru and Matsumoto Sannosuke (eds), 1971 *Kokugaku undō no shisō*, (Nihon Shisō Taikei, vol. 51), Tokyo: Iwanami shoten.
+
+[^heisig-2011]: [JPS] Heisig, James W., Thomas P. Kasulis, and John C. Maraldo (eds.), 2011, *Japanese Philosophy: A Sourcebook*, Honolulu: University of Hawai‘i Press.
+
+[^hirata-1911]: [HAZ] Hirata Atsutane, 1911–1918, *Hirata Atsutane zenshū*, Muromatsu Iwao (comp.), Tokyo: Itchidō Shoten.
+
+[^kamo-1942]: [KKMZ:SH] Kamo no Mabuchi, 1942, *Kōhon Kamo no Mabuchi zenshū: shisō hen*, Yamamoto Yutaka (comp.), Tokyo: Kōbundō.
+
+[^kamo-1765]: –––, 1765, *Kokui kō* (Inquiry into the Idea of the Nation), adapted from SJT: 404–408.
+
+[^keichū-1690]: Keichū, c. 1690, *Man’yō daishōki: zassetsu* in SJT: 395.
+
+[^miyahiro-nd]: [KH] Miyahiro Sadao, *Kokueki honron*, in H&M.
+
+[^motoori-1790]: Motoori Norinaga, 1790 [1991], “The Way of the Gods: Motoori Norinaga’s *Naobi no mitama*”, Nishimura Sey (trans.), *Monumenta Nipponica*, 46(1): 21–41. doi:10.2307/2385145
+
+[^motoori-1798]: –––, 1798 [1987], “First Steps into the Mountains: Motoori Norinaga’s *Uiyamabumi*”, Nishimura Sey (trans.), *Monumenta Nipponica*, 42(4): 449–493. doi:10.2307/2384988 (intro) doi:10.2307/2384989 (translation)
+
+[^motoori-1799]: –––, 1799, *Tama no ogushi* (The Exquisite Comb), extracts in SJT: 420–421.
+
+[^motoori-1798-2]: –––, 1798, *Kojiki-den*, translation adapted from Holtom, Daniel Clarence, 1938, *The National Faith of Japan: A Study of Modern Shinto*, pp. 23–24, quoted in de Bary, et al., *Sources of Japanese Tradition*, second edition, Vol. 1 (Columbia University Press 2001), 18.
+
+[^motoori-2013]: –––, 2013, *Tamakatsuma*, Introduced and Translated by John R. Bentley. Ithaca, NY: Cornell University East Asia Program.
+
+[^motoori-1780]: –––, 1780, *Kuzubana* in Ōno Susumu and Ōkubo Tadashi (comps), *Motoori Norinaga zenshū*, Chikuma Shobo 1968–75, Vol. 8, 123–181.
+
+[^muraoka-1946]: Muraoka Tsunetsugu [d. 1946], 1964, *Studies in Shinto Thought*, Delmer M. Brown and James T. Araki (trans.), Tokyo: Japanese National Commission for UNESCO. From his *Nihon shisō shi kenkyū*.
+
+[^takamasa-1855]: Ōkuni Takamasa, 1855 [1971], *Hongaku kyoyō*, Vol. 1, in *Hirata Atsutane, Ban Nobutomo, Ōkuni Takamasa*, (Nihon Shisō Taikei, vol. 50), Tahara Tsuguo, Seki Akira, Saeki Arikiyo, and Haga Noboru (eds), Tokyo: Iwanami shoten.
+
+[^yano-1867]: Yano Gendō, 1867, *Kenkin Sengo* in H&M: 547–585.
+
+[^bentley-2017]: Bentley, John R. (ed.), 2017, *An Anthology of Kokugaku Scholars 1690–1868*, Ithaca, NY: Cornell University East Asia Program.
+
+[^bowring-2017]: Bowring, Richard, 2017, *In Search of the Way: Thought and Religion in Early-Modern Japan, 1582–1860*, Oxford: Oxford University Press.
+
+[^brownlee-1997]: Brownlee, John S., 1997, *Japanese Historians and the National Myths, 1600–1945: The Age of the Gods and Emperor Jimmu*, Vancouver: University of British Columbia Press.
+
+[^burns-2003]: Burns, Susan L., 2003, *Before the Nation: Kokugaku and the Imagining of Community in Modern Japan*, Durham, NC: Duke University Press.
+
+[^flueckiger-2008]: Flueckiger, Peter, 2008, “Reflections on the Meaning of Our Country: Kamo No Mabuchi’s ‘Kokuikō’”, *Monumenta Nipponica*, 63(2): 211–263.
+
+[^flueckiger-2011]: –––, 2011, *Imagining Harmony: Poetry, Empathy, and Community in Mid-Tokugawa Confucianism and Nativism*, Stanford: Stanford University Press.
+
+[^flueckiger-2014]: –––, 2014, “National Learning”, *The Oxford Handbook of Japanese Philosophy*, Oxford: Oxford University Press.
+
+[^fujiwara-2021]: Fujiwara, Gideon, 2021, *From Country to Nation*: *Ethnographic Studies*, Kokugaku, *and Spirits in Nineteenth-Century Japan*, Ithaca, NY: Cornell East Asia Series of Cornell University Press.
+
+[^fujiwara-2015]: –––, 2015, “Rebirth of a Hirata School Nativist: Tsuruya Ariyo and His *Kaganabe* Journal”, Nosco, Ketelaar, and Kojima 2015: 134–158.
+
+[^hansen-2008]: Hansen, Wilburn, 2008, *When Tengu Talk: Hirata Atsutane’s Ethnography of the Other World*, Honolulu: University of Hawai‘i Press.
+
+[^hardacre-2017]: Hardacre, Helen, 2017, *Shinto: A History*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780190621711.001.0001
+
+[^hardacre-1989]: –––, 1989, *Shinto and the State, 1868–1988*, Princeton: Princeton University Press.
+
+[^harootunian-1988]: Harootunian, Harry D., 1988, *Things Seen and Unseen: Discourse and Ideology in Tokugawa Nativism*, Chicago: University of Chicago Press.
+
+[^itō-1982]: Itō Tasaburō, 1982, *Sōmō no Kokugaku*, Tokyo: Meicho shuppan.
+
+[^kasulis-2017]: Kasulis, Thomas P., 2017, *Engaging Japanese Philosophy: A Short History*, Honolulu: University of Hawai‘i Press.
+
+[^katsurajima-2005]: Katsurajima, Nobuhiro, 2005, *Bakumatsu minshū shisō no kenkyū: bakumatsu Kokugaku to minshū shūkyō*, Kyōto-shi : Bunrikaku.
+
+[^marra-1998]: Marra, Michael, 1998, “Nativist Hermeneutics: The Interpretive Strategies of Motoori Norinaga and Fujitani Mitsue”, *Japan Review*, 10: 17–52.
+
+[^marra-2007]: –––, 2007, *The Poetics of Motoori Norinaga*, Honolulu: University of Hawai‘i Press.
+
+[^matsumoto-1970]: Matsumoto, Shigeru, 1970, *Motoori Norinaga, 1730–1801*, Cambridge, MA: Harvard University Press.
+
+[^mcnally-2005]: McNally, Mark, 2005, *Proving The Way: Conflict and Practice in the History of Japanese Nativism*, (Harvard East Asian monographs, 245), Cambridge, MA: Harvard University Asia Center.
+
+[^mcnally-2015]: –––, 2015, *Like No Other: Exceptionalism and Nativism in Early Modern Japan*, Honolulu: University of Hawai‘i Press.
+
+[^najita-1991]: Najita, Tetsuo, 1991, “History and Nature in Eighteenth-Century Tokugawa Thought”, in *The Cambridge History of Japan, Volume 4: Early Modern Japan*, edited by John Whitney Hall. Cambridge: Cambridge University Press, 596–659. doi:10.1017/CHOL9780521223553.013
+
+[^nosco-1981]: Nosco, Peter, 1981, “Nature, Invention, and National Learning: The *Kokka hachiron* Controversy, 1742–46”, *Harvard Journal of Asiatic Studies*, 41(1): 75–91. doi:10.2307/2719001
+
+[^nosco-1990]: –––, 1990, *Remembering Paradise: Nativism and Nostalgia in Eighteenth-Century Japan*, Cambridge, MA: Harvard University Press.
+
+[^nosco-2018]: –––, 2018, *Individuality in Early Modern Japan: Thinking for Oneself*, New York: Routledge.
+
+[^nosco-2015]: Nosco, Peter, James Edward Ketelaar, and Yasunori Kojima (eds.), 2015, *Values, Identity, and Equality in Eighteenth- and Nineteenth-Century Japan*, (Brill’s Japanese Studies Library, volume 52), Leiden: Brill.
+
+[^sakai-1991]: Sakai, Naoki, 1991, *Voices of the Past: The Status of Language in Eighteenth-Century Japanese Discourse*, Ithaca, NY: Cornell University Press.
+
+[^teeuwen-2006]: Teeuwen, Mark, 2006, “Kokugaku vs. Nativism”, *Monumenta Nipponica*, 61(2): 227–242.
+
+[^wachutka-2013]: Wachutka, Michael, 2013, *Kokugaku in Meiji-Period Japan: The Modern Transformation of “National Learning” and the Formation of Scholarly Societies*, Boston & Leiden: Brill.
+
+[^walthall-1998]: Walthall, Anne, 1998, *The Weak Body of a Useless Woman: Matsuo Taseko and the Meiji Restoration*, Chicago: University of Chicago Press.
+
+[^wehmeyer-1997]: Wehmeyer, Ann, 1997, *Motoori: Kojiki-den, Book 1*, Ithaca, NY: Cornell East Asia Series.
+
+[^yoshikawa-1983]: Yoshikawa, Kojiro, 1983, *Jinsai, Sorai, Norinaga*, Tokyo: Toho Gakkai.
 
 ## 译者注释
 

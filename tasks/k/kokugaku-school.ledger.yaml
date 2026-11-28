@@ -1,9 +1,9 @@
 version: 1
 slug: kokugaku-school
 params:
-  model: "DeepSeek-V4.1-Flash（Trae 主会话；T252 样章→T255 §4 收口）"
+  model: "DeepSeek-V4.1-Flash（Trae 主会话；T252–T256 全量）"
   temperature: 0.2
-  batch_segments: through-s4
+  batch_segments: all
   rate_limit_s: 0
   timeout_s: 60
 segments:
@@ -390,20 +390,20 @@ segments:
       
       | 尽管他自以为 | Karagokoro |
       | --- | --- |
-      | 已摆脱汉心 | nashi to omoedo |
+      | 已摆脱汉意 | nashi to omoedo |
       | 读汉籍之人 | fumira yomu |
       | 其心 | hito no kokoro wa |
-      | 仍然是汉心 | nao zo Kara naru. |
+      | 仍然是汉意 | nao zo Kara naru. |
       | （据 Muraoka 1964: 148 改译） |   |
     step2: |-
       表 1
       
       | 尽管他自以为 | Karagokoro |
       | --- | --- |
-      | 已摆脱汉心 | nashi to omoedo |
+      | 已摆脱汉意 | nashi to omoedo |
       | 读汉籍之人 | fumira yomu |
       | 其心 | hito no kokoro wa |
-      | 仍然是汉心 | nao zo Kara naru. |
+      | 仍然是汉意 | nao zo Kara naru. |
       | （据 Muraoka 1964: 148 改译） |   |
   - id: 48
     kind: body
@@ -744,7 +744,7 @@ segments:
       | 我也要勇敢呐喊 | Yamato kokoro wo |
       | 燃起 | furi okoshi |
       | 真正的日本之心。 | isami takebite |
-      | （转引自 Walthall 1998: 229） |   |
+      | （转引自 Walthall 1998: 229）[^walthall-1998] |   |
     step2: |-
       表 3
       
@@ -759,7 +759,7 @@ segments:
       | 我也要勇敢呐喊 | Yamato kokoro wo |
       | 燃起 | furi okoshi |
       | 真正的日本之心。 | isami takebite |
-      | （转引自 Walthall 1998: 229） |   |
+      | （转引自 Walthall 1998: 229）[^walthall-1998] |   |
   - id: 85
     kind: body
     source: |-
@@ -795,7 +795,7 @@ segments:
       | 身为男子汉 | taoyame no |
       | 却拖着无用之身 | kai naki mi koso |
       | 一个柔弱女子。 | kanashi kari keri |
-      | （转引自 Walthall 1998: 231） |   |
+      | （转引自 Walthall 1998: 231）[^walthall-1998] |   |
     step2: |-
       表 4
       
@@ -805,7 +805,7 @@ segments:
       | 身为男子汉 | taoyame no |
       | 却拖着无用之身 | kai naki mi koso |
       | 一个柔弱女子。 | kanashi kari keri |
-      | （转引自 Walthall 1998: 231） |   |
+      | （转引自 Walthall 1998: 231）[^walthall-1998] |   |
   - id: 88
     kind: body
     source: |-
@@ -851,9 +851,9 @@ segments:
     source: |-
       > I write all that I have collected from here and there over the years regarding matters of spirits (*kishin*), and wish to show it to my friends, people who are unaware of gods (*kami*), and reveal to them the notable evidence of their great spiritual power, which must be feared and respected … (from *Yūfu shinron*, quoted in Fujiwara 2021: 145)[^fujiwara-2021]
     step1: |-
-      > 我写下多年来从各处搜集到的关于鬼神（kishin）之事的全部材料，希望把它展示给友人，展示给那些不知神（kami）的人，向他们揭示鬼神伟大灵力的显著证据——鬼神必须受到敬畏……（《幽府新论》，转引自 Fujiwara 2021: 145）
+      > 我写下多年来从各处搜集到的关于鬼神（kishin）之事的全部材料，希望把它展示给友人，展示给那些不知神（kami）的人，向他们揭示鬼神伟大灵力的显著证据——鬼神必须受到敬畏……（《幽府新论》，转引自 Fujiwara 2021: 145）[^fujiwara-2021]
     step2: |-
-      > 我写下多年来从各处搜集到的关于鬼神（kishin）之事的全部材料，希望把它展示给友人，展示给那些不知神（kami）的人，向他们揭示鬼神伟大灵力的显著证据——鬼神必须受到敬畏……（《幽府新论》，转引自 Fujiwara 2021: 145）
+      > 我写下多年来从各处搜集到的关于鬼神（kishin）之事的全部材料，希望把它展示给友人，展示给那些不知神（kami）的人，向他们揭示鬼神伟大灵力的显著证据——鬼神必须受到敬畏……（《幽府新论》，转引自 Fujiwara 2021: 145）[^fujiwara-2021]
   - id: 94
     kind: body
     source: |-
@@ -889,7 +889,7 @@ segments:
       | 但怎能怀疑 | Iwaki ne no |
       | 岩木山巅 | kami no yūfu wo |
       | 神灵之界？ | utagau beshi ya |
-      | （《岩木山三百首》，转引自 Fujiwara 2021: 159） |   |
+      | （《岩木山三百首》，转引自 Fujiwara 2021: 159）[^fujiwara-2021] |   |
     step2: |-
       表 5
       
@@ -899,7 +899,7 @@ segments:
       | 但怎能怀疑 | Iwaki ne no |
       | 岩木山巅 | kami no yūfu wo |
       | 神灵之界？ | utagau beshi ya |
-      | （《岩木山三百首》，转引自 Fujiwara 2021: 159） |   |
+      | （《岩木山三百首》，转引自 Fujiwara 2021: 159）[^fujiwara-2021] |   |
   - id: 97
     kind: body
     source: |-
@@ -983,7 +983,7 @@ segments:
       | 柏原的神代 | omoishi wa |
       | 如今却不过是一场 | aranu yume nite |
       | 无法实现的梦。 | arikeru mono wo |
-      | （转引自 Walthall 1998: 301） |   |
+      | （转引自 Walthall 1998: 301）[^walthall-1998] |   |
     step2: |-
       表 6
       
@@ -993,7 +993,7 @@ segments:
       | 柏原的神代 | omoishi wa |
       | 如今却不过是一场 | aranu yume nite |
       | 无法实现的梦。 | arikeru mono wo |
-      | （转引自 Walthall 1998: 301） |   |
+      | （转引自 Walthall 1998: 301）[^walthall-1998] |   |
   - id: 106
     kind: body
     source: |-
@@ -1002,3 +1002,622 @@ segments:
       玄道哀叹，复兴一个完全由神道与国学教义塑造的 7 世纪理想古代社会之梦，终将无法实现。平田学派中许多人也怀有同样的感慨。
     step2: |-
       玄道哀叹，复兴一个完全由神道与国学教义塑造的 7 世纪理想古代社会之梦，终将无法实现。平田学派中许多人也怀有同样的感慨。
+  - id: 107
+    kind: heading
+    source: |-
+      ## 5. Meiji Period (1868–1912) Kokugaku
+    step1: |-
+      ## 5. 明治时期（1868—1912）的国学
+    step2: |-
+      ## 5. 明治时期（1868—1912）的国学
+  - id: 108
+    kind: heading
+    source: |-
+      ### Ōkuni Takamasa (1792–1871) and Fukuba Bisei (1831–1907)
+    step1: |-
+      ### 大国隆正（1792—1871）与福羽美静（1831—1907）
+    step2: |-
+      ### 大国隆正（1792—1871）与福羽美静（1831—1907）
+  - id: 109
+    kind: body
+    source: |-
+      Ōkuni Takamasa (1792–1871) and Fukuba Bisei (1831–1907) were samurai of Tsuwano domain, and both studied at the domanial school Yōrōkan. Takamasa learned Kokugaku from Hirata Atsutane and Murata Harukado, and studied for a time at Shōheikō Academy in Edo. In 1853, U.S. Commodore Perry led a fleet of four “Black Ships” to the bay of Edo, which led to the Tokugawa bakufu signing treaties which opened Japanese ports to Western powers. Facing the challenges of domestic politics and encroaching Western powers, Takamasa noted that the Kokugaku of the Motoori school which focused on “ancient matters” and literary texts, and that of Atsutane which concerned itself with the spirit realm of “*yumei*” or “*kakuriyo*” were insufficient to respond to foreigners. Takamasa renamed his version of Kokugaku “*hongaku*” or “*mototsu manabi*”, the “essential learning”, based on “*honkyō*” or the “essential teachings” which he quoted from the *Kojiki*. In his *Hongaku kyoyō*, completed in 1855, Takamasa outlines the goal of his “*hongaku*” scholarship:
+    step1: |-
+      大国隆正（1792—1871）与福羽美静（1831—1907）都是津和野藩的藩士，二人均在藩校养老馆（Yōrōkan）学习。隆正向平田笃胤与村田春门学习国学，并一度在江户昌平黌求学。1853 年，美国海军准将佩里率四艘“黑船”驶入江户湾，导致德川幕府签订条约，向西方列强开放日本港口。面对国内政治与西方列强步步进逼的挑战，隆正指出，本居学派专注于“古代事物”与文学文本的国学，以及笃胤关注“幽冥”（yumei）或“隐世”（kakuriyo）灵界的国学，都不足以应对洋人。隆正把自己版本的国学改名为“本学”（hongaku，又作 mototsu manabi），即“根本之学”，其依据是他从《古事记》中引用的“本教”（honkyō），即“根本教说”。在 1855 年完成的《本学举要》（Hongaku kyoyō）中，隆正概述其“本学”学术的目标：
+    step2: |-
+      大国隆正（1792—1871）与福羽美静（1831—1907）都是津和野藩的藩士，二人均在藩校养老馆（Yōrōkan）学习。隆正向平田笃胤与村田春门学习国学，并一度在江户昌平黌求学。1853 年，美国海军准将佩里率四艘“黑船”驶入江户湾，导致德川幕府签订条约，向西方列强开放日本港口。面对国内政治与西方列强步步进逼的挑战，隆正指出，本居学派专注于“古代事物”与文学文本的国学，以及笃胤关注“幽冥”（yumei）或“隐世”（kakuriyo）灵界的国学，都不足以应对洋人。隆正把自己版本的国学改名为“本学”（hongaku，又作 mototsu manabi），即“根本之学”，其依据是他从《古事记》中引用的“本教”（honkyō），即“根本教说”。在 1855 年完成的《本学举要》（Hongaku kyoyō）中，隆正概述其“本学”学术的目标：
+  - id: 110
+    kind: quote
+    source: |-
+      > Honkyō refers to the genealogy of our emperor and the ancient matters (*furukoto*) of the divine age which convey the truth of when heaven and earth were formed. When viewing the ancient matters, on the surface it appears shallow, but underneath lies a deep will. People of the world perceive shallowness of their surface and dismiss, or insult and ridicule it, and believe it is inferior to Confucian and Buddhist writings. Something I, Takamasa, remember from my youth, is that I lamented this. Wondering how I could draw out this deep will, I sincerely prayed to the Great Goddess Amaterasu and the God Omoikane, that I may discern that divine providence, to draw out that hidden will. Thus I became one who teaches people broadly about this. (1855 [1971: 404])
+    step1: |-
+      > 本教指我皇统的系谱，以及神代古事（furukoto），它们传达天地形成时的真相。观看古事时，表面显得浅薄，但其下藏着深意。世人只看到表面的浅薄，便加以轻视、侮辱与嘲笑，认为它不如儒佛之书。我隆正自年少时便记得，我曾为此悲叹。我想如何才能引出这深意，便诚心向天照大神与思兼神（Omoikane）祈祷，愿我能辨识那神意，引出那隐藏的意旨。于是我成为向众人广泛讲授此事的人。（1855 [1971: 404]）
+    step2: |-
+      > 本教指我皇统的系谱，以及神代古事（furukoto），它们传达天地形成时的真相。观看古事时，表面显得浅薄，但其下藏着深意。世人只看到表面的浅薄，便加以轻视、侮辱与嘲笑，认为它不如儒佛之书。我隆正自年少时便记得，我曾为此悲叹。我想如何才能引出这深意，便诚心向天照大神与思兼神（Omoikane）祈祷，愿我能辨识那神意，引出那隐藏的意旨。于是我成为向众人广泛讲授此事的人。（1855 [1971: 404]）
+  - id: 111
+    kind: body
+    source: |-
+      Takamasa characterizes Japan as a nation whose emperor is enthroned by the Heavenly Decree and whose state is governed by the shogun. The shogun encourages its people to uphold and preserve the virtues of duty, filial piety, and chastity, while the daimyo protect their domains. The people work industriously in their various occupations. Takamasa asserts Japan’s emperor is superior among the monarchs of the world because Japan’s imperial lineage, unlike the others, is uninterrupted from ancient times. He cites this as evidence for the greatness and superiority of Japan among nations of the world. To make the Japanese aware of such things including their need to continuously uphold the virtues of duty, filial piety, and chastity is the focal point of his “*Hongaku*” form of Kokugaku teachings. He goes as far as to say that such teachings should even be taught to foreigners.
+    step1: |-
+      隆正把日本描述为一个天皇受天命登基、国家由将军治理的国度。将军鼓励人民维护并保持义务、孝道与贞节之德，大名则保护各自的领地。人民在各行各业勤勉工作。隆正断言，日本天皇优越于世界各国的君主，因为日本皇统与别国不同，自古至今一脉未断。他以此作为日本在世界上伟大而优越的证据。使日本人认识此类事情，包括认识他们需要持续保持义务、孝道与贞节之德，正是其“本学”形态的国学教说的焦点。他甚至说，此类教说应当教给外国人。
+    step2: |-
+      隆正把日本描述为一个天皇受天命登基、国家由将军治理的国度。将军鼓励人民维护并保持义务、孝道与贞节之德，大名则保护各自的领地。人民在各行各业勤勉工作。隆正断言，日本天皇优越于世界各国的君主，因为日本皇统与别国不同，自古至今一脉未断。他以此作为日本在世界上伟大而优越的证据。使日本人认识此类事情，包括认识他们需要持续保持义务、孝道与贞节之德，正是其“本学”形态的国学教说的焦点。他甚至说，此类教说应当教给外国人。
+  - id: 112
+    kind: body
+    source: |-
+      While asserting the “revere emperor, expel barbarians” ideology of late-Tokugawa, Takamasa acquiesced to the opening of the country as a necessary initial response, but proposed to eventually expel foreigners over time. He wrote in *Hongaku kyoyō*,
+    step1: |-
+      隆正一方面主张德川末期的“尊王攘夷”意识形态，一方面又默许开国，视之为必要的初步应对，但提议最终随时间推移驱逐外国人。他在《本学举要》中写道：
+    step2: |-
+      隆正一方面主张德川末期的“尊王攘夷”意识形态，一方面又默许开国，视之为必要的初步应对，但提议最终随时间推移驱逐外国人。他在《本学举要》中写道：
+  - id: 113
+    kind: quote
+    source: |-
+      > Now foreign countries frequently send warships to seek commercial relations. Although commercial relations are a good thing which are mutually beneficial, warships are weapons for conquering a nation. Utilizing these to start a war is to be a bandit. For the sake of the nation, it is necessary to expel and remove them. (1855 [1971: 428])
+    step1: |-
+      > 如今外国频频派遣军舰来寻求通商关系。通商关系虽是互利的善事，但军舰是征服一个国家的武器。利用军舰发动战争，就是盗贼行径。为了国家，必须驱逐并清除他们。（1855 [1971: 428]）
+    step2: |-
+      > 如今外国频频派遣军舰来寻求通商关系。通商关系虽是互利的善事，但军舰是征服一个国家的武器。利用军舰发动战争，就是盗贼行径。为了国家，必须驱逐并清除他们。（1855 [1971: 428]）
+  - id: 114
+    kind: body
+    source: |-
+      After studying at the domanial school, Fukuba Bisei later became a disciple of Takamasa and Hirata Kanetane. From 1863 Bisei became active politically in support of the imperial court against the Tokugawa shogunate. In the late-Tokugawa years, Bisei took his orders from the daimyo Kamei Koremi, working in support of political reforms. In 1867, Bisei directed the Separation of *Kami* and Buddhas movement in Tsuwano, then worked with Takamasa to draft the Separation edicts issued across Japan in 1868. Those edicts forcibly removed Buddhist elements from shrines to re-establish them as exclusively Shinto institutions. That same year, the Council of Divinity (*Jingikan*) was established as the highest office of government, even above the Council of State (*Dajōkan*), to carry out religious rituals of the imperial court and state. Bisei served as a magistrate in this Council as well as a tutor to the imperial court. Working with Takamasa, Bisei formulated a Shinto theology which asserted that all shrines would be used to perform rites of the state.
+    step1: |-
+      福羽美静在藩校学习之后，成为隆正与平田铉胤的门人。从 1863 年起，美静积极从事政治活动，支持朝廷对抗德川幕府。德川末期，美静接受大名龟井兹监的命令，致力于政治改革。1867 年，美静在津和野领导“神佛分离”运动，随后与隆正合作，起草 1868 年在全国颁布的神佛分离令。这些法令强行从神社中清除佛教元素，把神社重新确立为纯粹的神道机构。同年，神祇官（Jingikan）被设立为最高政府机关，甚至高于太政官（Dajōkan），以执行朝廷与国家的宗教仪式。美静在该官署担任判官，并担任朝廷的侍讲。美静与隆正合作，制定了一套神道神学，主张所有神社都将用于举行国家仪式。
+    step2: |-
+      福羽美静在藩校学习之后，成为隆正与平田铉胤的门人。从 1863 年起，美静积极从事政治活动，支持朝廷对抗德川幕府。德川末期，美静接受大名龟井兹监的命令，致力于政治改革。1867 年，美静在津和野领导“神佛分离”运动，随后与隆正合作，起草 1868 年在全国颁布的神佛分离令。这些法令强行从神社中清除佛教元素，把神社重新确立为纯粹的神道机构。同年，神祇官（Jingikan）被设立为最高政府机关，甚至高于太政官（Dajōkan），以执行朝廷与国家的宗教仪式。美静在该官署担任判官，并担任朝廷的侍讲。美静与隆正合作，制定了一套神道神学，主张所有神社都将用于举行国家仪式。
+  - id: 115
+    kind: body
+    source: |-
+      The Hirata school had placed primacy on the *kami* Ōkuninushi, lord of the underworld, and Ame-no-Minakanushi, one of the three creator deities. By contrast, that view was eclipsed by the Shinto promoted by Takamasa and Bisei, who placed Amaterasu at the center of the pantheon, following the teachings of Motoori Norinaga and Aizawa Seishisai (1782–1863). Bisei worked as a high administrator of Shinto affairs for the Meiji state and served as the main administrator of the Great Promulgation Campaign (*Taikyō senpu undō*). From 1870 through 1884, this campaign aimed to develop a popular awareness and understanding of “Shinto”, and Bisei trained priests as national evangelists to proselytize a national doctrine. As a part of these efforts to develop Shinto as a state religion, Bisei contributed to the Unity of Religion and Politics (*saisei itchi*, lit. Unity of Rites and Political Rule) policy which presented the emperor as a sacred ruler who performed rituals as part of governance. Rather than articulate his ideas through writings, Bisei applied Kokugaku knowledge through renewed rites and policies of the court and state.
+    step1: |-
+      平田学派曾把地下之主大国主神与三创造神之一天之御中主神（Ame-no-Minakanushi）置于首要地位。与之相对，这一观点被隆正与美静所提倡的神道所取代；他们遵循本居宣长与会泽正志斋（1782—1863）的教说，把天照大神置于神谱的中心。美静担任明治国家神道事务的高级官员，并出任大教宣布运动（Taikyō senpu undō）的主要负责人。从 1870 年到 1884 年，这场运动旨在培养民众对“神道”的意识与理解，美静则训练祭司作为国家传教士，宣传国家教义。作为把神道发展为国教之努力的一部分，美静促成了“祭政一致”（saisei itchi，字面意为祭祀与政治统治的统一）政策；该政策把天皇呈现为神圣统治者，在治理中举行仪式。美静不是通过著作阐述思想，而是通过更新朝廷与国家的仪式和政策来应用国学知识。
+    step2: |-
+      平田学派曾把地下之主大国主神与三创造神之一天之御中主神（Ame-no-Minakanushi）置于首要地位。与之相对，这一观点被隆正与美静所提倡的神道所取代；他们遵循本居宣长与会泽正志斋（1782—1863）的教说，把天照大神置于神谱的中心。美静担任明治国家神道事务的高级官员，并出任大教宣布运动（Taikyō senpu undō）的主要负责人。从 1870 年到 1884 年，这场运动旨在培养民众对“神道”的意识与理解，美静则训练祭司作为国家传教士，宣传国家教义。作为把神道发展为国教之努力的一部分，美静促成了“祭政一致”（saisei itchi，字面意为祭祀与政治统治的统一）政策；该政策把天皇呈现为神圣统治者，在治理中举行仪式。美静不是通过著作阐述思想，而是通过更新朝廷与国家的仪式和政策来应用国学知识。
+  - id: 116
+    kind: heading
+    source: |-
+      ## 6. Kokugaku after Meiji
+    step1: |-
+      ## 6. 明治之后的国学
+    step2: |-
+      ## 6. 明治之后的国学
+  - id: 117
+    kind: body
+    source: |-
+      Looking beyond the scope of the current entry, during the early decades of the twentieth century one observes the fragmentation of Kokugaku into numerous fields analogous to the broader sense of Japanese studies that informed Kada no Azumamaro’s Kokugaku two centuries earlier: folklore and ethnographic studies that built on the pioneering work of Yanagida Kunio and Orikuchi Shinobu; rationales for the kind of organic imperial theocracy such as was memorialized in the 1890 Imperial Rescript on Education; the effort to historicize the essentialist concept of Kokutai or unique National Polity; and so on.
+    step1: |-
+      超出本词条的范围来看，在 20 世纪最初几十年，可以观察到国学分化为众多领域，这些领域类似于两个世纪前塑造荷田春满国学的广义日本研究：在柳田国男与折口信夫开创性工作基础上发展起来的民俗学与民族志研究；为某种有机的皇权神政提供理据——1890 年《教育敕语》便铭记了这种神政；以及把本质主义的“国体”（Kokutai）概念、即独特国家政体加以历史化的努力；等等。
+    step2: |-
+      超出本词条的范围来看，在 20 世纪最初几十年，可以观察到国学分化为众多领域，这些领域类似于两个世纪前塑造荷田春满国学的广义日本研究：在柳田国男与折口信夫开创性工作基础上发展起来的民俗学与民族志研究；为某种有机的皇权神政提供理据——1890 年《教育敕语》便铭记了这种神政；以及把本质主义的“国体”（Kokutai）概念、即独特国家政体加以历史化的努力；等等。
+  - id: 118
+    kind: body
+    source: |-
+      In the immediate years following Japan’s surrender in 1945, Kokugaku was virtually a taboo topic in Japan’s academic circles outside a handful of Shinto seminaries like Kokugakuin Daigaku in Tokyo. Specialized studies of Japanese history, literature and religions were of course permitted and even encouraged, but efforts to historicize Japanese essentialism were off-limits. Further, expressions of Japanese racial or cultural superiority such as those that had fueled the international excesses of the Asia-Pacific War years were replaced in popular discourse by alternative claims of Japanese uniqueness: that Japanese people were naturally or intrinsically inclined toward harmonious behavior, and are characterized by diligence, frugality, honesty, and sensitivity to seasonal change; that these qualities explain Japan’s success in economic development and social stability, and that those traditional qualities are uniquely configured in contemporary Japanese society. This began to change from the mid-1970s when scholarly studies of Kokugaku’s political and social thought—the so-called native ancient Way—resumed in Japan, as did academic appointments for scholars with these specialties at Japan’s leading universities.
+    step1: |-
+      1945 年日本投降后的最初几年，除东京国学院大学等少数神道研修机构外，国学在日本学术界几乎成为禁忌话题。对日本历史、文学与宗教的专门研究当然被允许甚至受到鼓励，但把日本本质主义历史化的努力则属禁区。此外，曾助长亚太战争年代国际暴行的日本种族或文化优越论，在流行话语中被另一种日本独特性主张取代：日本人天生或本质上倾向于和谐行为，以勤勉、节俭、诚实与对季节变化的敏感为特征；这些品质解释了日本在经济发展与社会稳定方面的成功，而这些传统品质在当代日本社会中有着独特的配置。这种情况从 1970 年代中期开始改变：国学政治与社会思想——所谓本土古道——的学术研究在日本恢复，日本顶尖大学也开始聘任具有这些专长的学者。
+    step2: |-
+      1945 年日本投降后的最初几年，除东京国学院大学等少数神道研修机构外，国学在日本学术界几乎成为禁忌话题。对日本历史、文学与宗教的专门研究当然被允许甚至受到鼓励，但把日本本质主义历史化的努力则属禁区。此外，曾助长亚太战争年代国际暴行的日本种族或文化优越论，在流行话语中被另一种日本独特性主张取代：日本人天生或本质上倾向于和谐行为，以勤勉、节俭、诚实与对季节变化的敏感为特征；这些品质解释了日本在经济发展与社会稳定方面的成功，而这些传统品质在当代日本社会中有着独特的配置。这种情况从 1970 年代中期开始改变：国学政治与社会思想——所谓本土古道——的学术研究在日本恢复，日本顶尖大学也开始聘任具有这些专长的学者。
+  - id: 119
+    kind: body
+    source: |-
+      Theories of Japaneseness, collectively referred to as *Nihonjinron*, have figured prominently in Japanese popular culture since the 1970s. Notions of Japan as an animistic spirit-infused realm in which humans can commune with animals and other objects and forces of nature are ubiquitous in Japan, coursing through popular *manga* and *anime*. These enjoy not just enormous popular appeal in Japan and worldwide, but also government support as forms of “soft power” fundamental to the representation of Japanese society outside Japan.
+    step1: |-
+      自 1970 年代以来，统称为“日本人论”（Nihonjinron）的日本性理论在日本流行文化中占据显著位置。日本被想象为一个万物有灵、充满灵性的领域，人在其中可以与动物、其他物体及自然力量交流；这种观念在日本无处不在，贯穿于流行漫画（manga）与动画（anime）。这些作品不仅在日本及全世界拥有巨大的流行吸引力，还作为“软实力”形式获得政府支持，而软实力对于对外呈现日本社会至关重要。
+    step2: |-
+      自 1970 年代以来，统称为“日本人论”（Nihonjinron）的日本性理论在日本流行文化中占据显著位置。日本被想象为一个万物有灵、充满灵性的领域，人在其中可以与动物、其他物体及自然力量交流；这种观念在日本无处不在，贯穿于流行漫画（manga）与动画（anime）。这些作品不仅在日本及全世界拥有巨大的流行吸引力，还作为“软实力”形式获得政府支持，而软实力对于对外呈现日本社会至关重要。
+  - id: 120
+    kind: heading
+    source: |-
+      ## References（引用注释）
+    step1: |-
+      ## 参考文献
+    step2: |-
+      ## 参考文献
+  - id: 121
+    kind: quote
+    source: |-
+      > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
+    step1: |-
+      > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
+    step2: |-
+      > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
+  - id: 122
+    kind: body
+    source: |-
+      All the above-mentioned works are cited in the following bibliography, along with the ever-expanding scholarship on Kokugaku in the form of monographs, book chapters, and journal articles. These secondary works provide socio-political, intellectual, and literary contexts for the aforementioned primary sources, while also quoting the work of these Kokugaku scholars. To delve further into Kokugaku scholarship, one can access the many translated primary sources that these scholars read and wrote commentaries on. These classical works include the eighth-century mytho-histories of the *Kojiki*, the *Record of Ancient Matters*, and *Nihon shoki*, the *Chronicles of Japan*, and Waka anthology *Man’yōshū*, *Collection of Ten Thousand Leaves*, as well as the *Tale of Genji* (1008), *Shin Kokinshu* (1205), and tenth-century *Engishiki*.
+    step1: |-
+      上述所有著作都在下列书目中引用，此外还有以专著、书籍章节与期刊论文形式不断扩展的国学研究成果。这些二手著作为此前提到的原始资料提供了社会政治、思想与文学语境，同时也引用了这些国学学者的著作。若要进一步深入国学研究，可以查阅这些学者阅读并加以评论的许多原始资料译本。这些古典著作包括 8 世纪的神话史书《古事记》（Kojiki）与《日本书纪》（Nihon shoki），和歌集《万叶集》（Man’yōshū），以及《源氏物语》（1008）、《新古今和歌集》（1205）与 10 世纪的《延喜式》（Engishiki）。
+    step2: |-
+      上述所有著作都在下列书目中引用，此外还有以专著、书籍章节与期刊论文形式不断扩展的国学研究成果。这些二手著作为此前提到的原始资料提供了社会政治、思想与文学语境，同时也引用了这些国学学者的著作。若要进一步深入国学研究，可以查阅这些学者阅读并加以评论的许多原始资料译本。这些古典著作包括 8 世纪的神话史书《古事记》（Kojiki）与《日本书纪》（Nihon shoki），和歌集《万叶集》（Man’yōshū），以及《源氏物语》（1008）、《新古今和歌集》（1205）与 10 世纪的《延喜式》（Engishiki）。
+  - id: 123
+    kind: heading
+    source: |-
+      ### Primary
+    step1: |-
+      ### 原始文献
+    step2: |-
+      ### 原始文献
+  - id: 124
+    kind: heading
+    source: |-
+      ### Secondary
+    step1: |-
+      ### 二手文献
+    step2: |-
+      ### 二手文献
+  - id: 125
+    kind: heading
+    source: |-
+      ## Academic Tools
+    step1: |-
+      ## 学术工具
+    step2: |-
+      ## 学术工具
+  - id: 126
+    kind: quote
+    source: |-
+      > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=kokugaku-school). |
+      > | --- | --- |
+      > |   | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/kokugaku-school/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+      > |   | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=kokugaku-school&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+      > |   | [Enhanced bibliography for this entry](http://philpapers.org/sep/kokugaku-school/) at [PhilPapers](http://philpapers.org/), with links to its database. |
+    step1: |-
+      * [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=kokugaku-school)。
+      * [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/kokugaku-school/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+      * 在 [InPhO](https://www.inphoproject.org/entity?sep=kokugaku-school&redirect=True) 查找与本词条相关的话题与思想家。
+      * 在 [PhilPapers](http://philpapers.org) 查看本词条的增强文献目录（[直达条目](http://philpapers.org/sep/kokugaku-school/)）及其数据库链接。
+    step2: |-
+      * [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=kokugaku-school)。
+      * [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/kokugaku-school/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+      * 在 [InPhO](https://www.inphoproject.org/entity?sep=kokugaku-school&redirect=True) 查找与本词条相关的话题与思想家。
+      * 在 [PhilPapers](http://philpapers.org) 查看本词条的增强文献目录（[直达条目](http://philpapers.org/sep/kokugaku-school/)）及其数据库链接。
+  - id: 127
+    kind: heading
+    source: |-
+      ## Other Internet Resources
+    step1: |-
+      ## 其他网络资源
+    step2: |-
+      ## 其他网络资源
+  - id: 128
+    kind: body
+    source: |-
+      - [Encyclopedia of Shinto](http://eos.kokugakuin.ac.jp/modules/xwords/), old version of the site (the new site isn’t yet available in English)
+      - [Kokugaku](http://eos.kokugakuin.ac.jp/modules/xwords/entry.php?entryID=1172), entry in the Encyclopedia of Shinto, by Mori Mizue, 13 March 2007.
+      - [Early Modern Kokugaku (National Studies) And New Kokugaku: Their Growth And Significance](https://www2.kokugakuin.ac.jp/ijcc/wp/cimac/uchino.html), by Uchino Goro (1914–1985), Professor of Kokugakuin University.
+      - Burns, Susan, “The Kokugaku (Native Studies) School,” *Stanford Encyclopedia of Philosophy* (Fall 2018 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/fall2018/entries/kokugaku-school/](https://plato.stanford.edu/archives/fall2018/entries/kokugaku-school/)>. [This was the previous entry on this topic in the *Stanford Encyclopedia of Philosophy* — see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=kokugaku-school).]
+    step1: |-
+      * [神道百科全书](http://eos.kokugakuin.ac.jp/modules/xwords/)，该网站旧版（新版尚无英文版）。
+      * [国学](http://eos.kokugakuin.ac.jp/modules/xwords/entry.php?entryID=1172)，《神道百科全书》条目，森瑞枝（Mori Mizue）撰，2007 年 3 月 13 日。
+      * [Early Modern Kokugaku (National Studies) And New Kokugaku: Their Growth And Significance](https://www2.kokugakuin.ac.jp/ijcc/wp/cimac/uchino.html)，内野吾郎（Uchino Goro，1914—1985）撰，国学院大学教授。
+      * Burns, Susan, “The Kokugaku (Native Studies) School,” *Stanford Encyclopedia of Philosophy* (Fall 2018 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/fall2018/entries/kokugaku-school/](https://plato.stanford.edu/archives/fall2018/entries/kokugaku-school/)>. [这是本主题此前在《斯坦福哲学百科全书》中的词条——见[版本历史](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=kokugaku-school)。]
+    step2: |-
+      * [神道百科全书](http://eos.kokugakuin.ac.jp/modules/xwords/)，该网站旧版（新版尚无英文版）。
+      * [国学](http://eos.kokugakuin.ac.jp/modules/xwords/entry.php?entryID=1172)，《神道百科全书》条目，森瑞枝（Mori Mizue）撰，2007 年 3 月 13 日。
+      * [Early Modern Kokugaku (National Studies) And New Kokugaku: Their Growth And Significance](https://www2.kokugakuin.ac.jp/ijcc/wp/cimac/uchino.html)，内野吾郎（Uchino Goro，1914—1985）撰，国学院大学教授。
+      * Burns, Susan, “The Kokugaku (Native Studies) School,” *Stanford Encyclopedia of Philosophy* (Fall 2018 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/fall2018/entries/kokugaku-school/](https://plato.stanford.edu/archives/fall2018/entries/kokugaku-school/)>. [这是本主题此前在《斯坦福哲学百科全书》中的词条——见[版本历史](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=kokugaku-school)。]
+  - id: 129
+    kind: heading
+    source: |-
+      ## Related Entries
+    step1: |-
+      ## 相关词条
+    step2: |-
+      ## 相关词条
+  - id: 130
+    kind: body
+    source: |-
+      Japanese Philosophy | Japanese Philosophy: aesthetics | Japanese Philosophy: Confucian | Japanese Philosophy: Kūkai | Japanese Philosophy: Pure Land | Japanese Philosophy: Zen Buddhism | Watsuji Tetsurō
+    step1: |-
+      日本哲学 | 日本美学 | 日本儒学 | 空海 | 日本哲学：净土 | 日本禅宗哲学 | 和辻哲郎
+    step2: |-
+      日本哲学 | 日本美学 | 日本儒学 | 空海 | 日本哲学：净土 | 日本禅宗哲学 | 和辻哲郎
+  - id: 131
+    kind: footnote
+    source: |-
+      [^kokugaku-1690]: A wealth of primary and secondary readings on Kokugaku are accessible in English owing to the growing scholarship on this important intellectual tradition. John R. Bentley’s *An Anthology of Kokugaku Scholars 1690–1868* introduces 13 key Kokugaku scholars ranging from Keichū to Suzuki Masayuki, and provides their various writings in translation under the categories of poetry, literature, scholarship, and “Japan/Religion.” Published over six decades since 1958, *Sources of Japanese Tradition* offers selected excerpts from representative works by major Kokugaku scholars including Kada no Azumamaro, Kamo no Mabuchi, and Hirata Atsutane. *Japanese Philosophy: A Sourcebook* devotes a section titled “Shinto and Native Studies” to key scholars of the Kokugaku and Shinto traditions. The above primary sources are accompanied by introductions to the authors and their writings. While the above collections demonstrate variety and breadth within the Kokugaku school, several annotated translations of Motoori Norinaga’s major texts allow for further in-depth study on the school’s single-most influential intellectual. These are the book-length *Kojikiden* Book 1 by Ann Wehmeyer and *Tamakatsuma* (*Basket of Jewels*) by Bentley, as well as article-length translations of “Naobi no mitama” (Rectifying Spirit) and “Uiyambumi” (First Steps Into the Mountains) by Sey Nishimura.
+    step1: |-
+      [^kokugaku-1690]: 由于这一重要思想传统的研究日益增长，大量关于国学的原始与二手读物已有英译本可读。John R. Bentley 的 *An Anthology of Kokugaku Scholars 1690–1868* 介绍了从契冲到铃木雅之的 13 位国学大家，并按诗歌、文学、学术与“日本／宗教”分类提供其多种著作的译文。自 1958 年以来六十余年间出版的 *Sources of Japanese Tradition* 收录了包括荷田春满、贺茂真渊与平田笃胤在内的国学大家的代表性作品选段。*Japanese Philosophy: A Sourcebook* 以“神道与本土研究”为题，设专节介绍国学与神道传统的重要学者。上述原始资料均附有作者及其著作的导论。这些文集展示了国学内部的多样性与广度；此外，本居宣长主要文本的若干笺注译本，使对这位学派最具影响力思想家的进一步深入研究成为可能。这些译本包括 Ann Wehmeyer 的整本 *Kojikiden* 第一册，以及 Bentley 的 *Tamakatsuma*（《玉胜间》），还有 Sey Nishimura 翻译的篇幅如论文的“Naobi no mitama”（《直毗灵》）与“Uiyamabumi”（《初山踏》）。
+    step2: |-
+      [^kokugaku-1690]: 由于这一重要思想传统的研究日益增长，大量关于国学的原始与二手读物已有英译本可读。John R. Bentley 的 *An Anthology of Kokugaku Scholars 1690–1868* 介绍了从契冲到铃木雅之的 13 位国学大家，并按诗歌、文学、学术与“日本／宗教”分类提供其多种著作的译文。自 1958 年以来六十余年间出版的 *Sources of Japanese Tradition* 收录了包括荷田春满、贺茂真渊与平田笃胤在内的国学大家的代表性作品选段。*Japanese Philosophy: A Sourcebook* 以“神道与本土研究”为题，设专节介绍国学与神道传统的重要学者。上述原始资料均附有作者及其著作的导论。这些文集展示了国学内部的多样性与广度；此外，本居宣长主要文本的若干笺注译本，使对这位学派最具影响力思想家的进一步深入研究成为可能。这些译本包括 Ann Wehmeyer 的整本 *Kojikiden* 第一册，以及 Bentley 的 *Tamakatsuma*（《玉胜间》），还有 Sey Nishimura 翻译的篇幅如论文的“Naobi no mitama”（《直毗灵》）与“Uiyamabumi”（《初山踏》）。
+  - id: 132
+    kind: footnote
+    source: |-
+      [^de-2006]: [SJTa] De Bary, Wm Theodore, Carol Gluck, Arthur E. Tiedemann, W. J. J. Boot, and William M. Bodiford (eds.), 2006, *Volume Two Sources of Japanese Tradition: 1600 to 2000: Part One: 1600 to 1868*, second edition, abridged, (Introduction to Asian Civilizations), New York: Columbia University Press.
+    step1: |-
+      [^de-2006]: [SJTa] De Bary, Wm Theodore, Carol Gluck, Arthur E. Tiedemann, W. J. J. Boot, and William M. Bodiford (eds.), 2006, *Volume Two Sources of Japanese Tradition: 1600 to 2000: Part One: 1600 to 1868*, second edition, abridged, (Introduction to Asian Civilizations), New York: Columbia University Press.
+    step2: |-
+      [^de-2006]: [SJTa] De Bary, Wm Theodore, Carol Gluck, Arthur E. Tiedemann, W. J. J. Boot, and William M. Bodiford (eds.), 2006, *Volume Two Sources of Japanese Tradition: 1600 to 2000: Part One: 1600 to 1868*, second edition, abridged, (Introduction to Asian Civilizations), New York: Columbia University Press.
+  - id: 133
+    kind: footnote
+    source: |-
+      [^tsunoda-1964]: [SJT] Tsunoda, Ryūsaku, Wm. Theodore de Bary, and Donald Keene (eds.), 1964, *Sources of Japanese Tradition*, volume two, first edition, New York: Columbia University Press.
+    step1: |-
+      [^tsunoda-1964]: [SJT] Tsunoda, Ryūsaku, Wm. Theodore de Bary, and Donald Keene (eds.), 1964, *Sources of Japanese Tradition*, volume two, first edition, New York: Columbia University Press.
+    step2: |-
+      [^tsunoda-1964]: [SJT] Tsunoda, Ryūsaku, Wm. Theodore de Bary, and Donald Keene (eds.), 1964, *Sources of Japanese Tradition*, volume two, first edition, New York: Columbia University Press.
+  - id: 134
+    kind: footnote
+    source: |-
+      [^haga-1971]: [H&M] Haga Noboru and Matsumoto Sannosuke (eds), 1971 *Kokugaku undō no shisō*, (Nihon Shisō Taikei, vol. 51), Tokyo: Iwanami shoten.
+    step1: |-
+      [^haga-1971]: [H&M] Haga Noboru and Matsumoto Sannosuke (eds), 1971 *Kokugaku undō no shisō*, (Nihon Shisō Taikei, vol. 51), Tokyo: Iwanami shoten.
+    step2: |-
+      [^haga-1971]: [H&M] Haga Noboru and Matsumoto Sannosuke (eds), 1971 *Kokugaku undō no shisō*, (Nihon Shisō Taikei, vol. 51), Tokyo: Iwanami shoten.
+  - id: 135
+    kind: footnote
+    source: |-
+      [^heisig-2011]: [JPS] Heisig, James W., Thomas P. Kasulis, and John C. Maraldo (eds.), 2011, *Japanese Philosophy: A Sourcebook*, Honolulu: University of Hawai‘i Press.
+    step1: |-
+      [^heisig-2011]: [JPS] Heisig, James W., Thomas P. Kasulis, and John C. Maraldo (eds.), 2011, *Japanese Philosophy: A Sourcebook*, Honolulu: University of Hawai‘i Press.
+    step2: |-
+      [^heisig-2011]: [JPS] Heisig, James W., Thomas P. Kasulis, and John C. Maraldo (eds.), 2011, *Japanese Philosophy: A Sourcebook*, Honolulu: University of Hawai‘i Press.
+  - id: 136
+    kind: footnote
+    source: |-
+      [^hirata-1911]: [HAZ] Hirata Atsutane, 1911–1918, *Hirata Atsutane zenshū*, Muromatsu Iwao (comp.), Tokyo: Itchidō Shoten.
+    step1: |-
+      [^hirata-1911]: [HAZ] Hirata Atsutane, 1911–1918, *Hirata Atsutane zenshū*, Muromatsu Iwao (comp.), Tokyo: Itchidō Shoten.
+    step2: |-
+      [^hirata-1911]: [HAZ] Hirata Atsutane, 1911–1918, *Hirata Atsutane zenshū*, Muromatsu Iwao (comp.), Tokyo: Itchidō Shoten.
+  - id: 137
+    kind: footnote
+    source: |-
+      [^kamo-1942]: [KKMZ:SH] Kamo no Mabuchi, 1942, *Kōhon Kamo no Mabuchi zenshū: shisō hen*, Yamamoto Yutaka (comp.), Tokyo: Kōbundō.
+    step1: |-
+      [^kamo-1942]: [KKMZ:SH] Kamo no Mabuchi, 1942, *Kōhon Kamo no Mabuchi zenshū: shisō hen*, Yamamoto Yutaka (comp.), Tokyo: Kōbundō.
+    step2: |-
+      [^kamo-1942]: [KKMZ:SH] Kamo no Mabuchi, 1942, *Kōhon Kamo no Mabuchi zenshū: shisō hen*, Yamamoto Yutaka (comp.), Tokyo: Kōbundō.
+  - id: 138
+    kind: footnote
+    source: |-
+      [^kamo-1765]: –––, 1765, *Kokui kō* (Inquiry into the Idea of the Nation), adapted from SJT: 404–408.
+    step1: |-
+      [^kamo-1765]: –––, 1765, *Kokui kō* (Inquiry into the Idea of the Nation), adapted from SJT: 404–408.
+    step2: |-
+      [^kamo-1765]: –––, 1765, *Kokui kō* (Inquiry into the Idea of the Nation), adapted from SJT: 404–408.
+  - id: 139
+    kind: footnote
+    source: |-
+      [^keichū-1690]: Keichū, c. 1690, *Man’yō daishōki: zassetsu* in SJT: 395.
+    step1: |-
+      [^keichū-1690]: Keichū, c. 1690, *Man’yō daishōki: zassetsu* in SJT: 395.
+    step2: |-
+      [^keichū-1690]: Keichū, c. 1690, *Man’yō daishōki: zassetsu* in SJT: 395.
+  - id: 140
+    kind: footnote
+    source: |-
+      [^miyahiro-nd]: [KH] Miyahiro Sadao, *Kokueki honron*, in H&M.
+    step1: |-
+      [^miyahiro-nd]: [KH] Miyahiro Sadao, *Kokueki honron*, in H&M.
+    step2: |-
+      [^miyahiro-nd]: [KH] Miyahiro Sadao, *Kokueki honron*, in H&M.
+  - id: 141
+    kind: footnote
+    source: |-
+      [^motoori-1790]: Motoori Norinaga, 1790 [1991], “The Way of the Gods: Motoori Norinaga’s *Naobi no mitama*”, Nishimura Sey (trans.), *Monumenta Nipponica*, 46(1): 21–41. doi:10.2307/2385145
+    step1: |-
+      [^motoori-1790]: Motoori Norinaga, 1790 [1991], “The Way of the Gods: Motoori Norinaga’s *Naobi no mitama*”, Nishimura Sey (trans.), *Monumenta Nipponica*, 46(1): 21–41. doi:10.2307/2385145
+    step2: |-
+      [^motoori-1790]: Motoori Norinaga, 1790 [1991], “The Way of the Gods: Motoori Norinaga’s *Naobi no mitama*”, Nishimura Sey (trans.), *Monumenta Nipponica*, 46(1): 21–41. doi:10.2307/2385145
+  - id: 142
+    kind: footnote
+    source: |-
+      [^motoori-1798]: –––, 1798 [1987], “First Steps into the Mountains: Motoori Norinaga’s *Uiyamabumi*”, Nishimura Sey (trans.), *Monumenta Nipponica*, 42(4): 449–493. doi:10.2307/2384988 (intro) doi:10.2307/2384989 (translation)
+    step1: |-
+      [^motoori-1798]: –––, 1798 [1987], “First Steps into the Mountains: Motoori Norinaga’s *Uiyamabumi*”, Nishimura Sey (trans.), *Monumenta Nipponica*, 42(4): 449–493. doi:10.2307/2384988 (intro) doi:10.2307/2384989 (translation)
+    step2: |-
+      [^motoori-1798]: –––, 1798 [1987], “First Steps into the Mountains: Motoori Norinaga’s *Uiyamabumi*”, Nishimura Sey (trans.), *Monumenta Nipponica*, 42(4): 449–493. doi:10.2307/2384988 (intro) doi:10.2307/2384989 (translation)
+  - id: 143
+    kind: footnote
+    source: |-
+      [^motoori-1799]: –––, 1799, *Tama no ogushi* (The Exquisite Comb), extracts in SJT: 420–421.
+    step1: |-
+      [^motoori-1799]: –––, 1799, *Tama no ogushi* (The Exquisite Comb), extracts in SJT: 420–421.
+    step2: |-
+      [^motoori-1799]: –––, 1799, *Tama no ogushi* (The Exquisite Comb), extracts in SJT: 420–421.
+  - id: 144
+    kind: footnote
+    source: |-
+      [^motoori-1798-2]: –––, 1798, *Kojiki-den*, translation adapted from Holtom, Daniel Clarence, 1938, *The National Faith of Japan: A Study of Modern Shinto*, pp. 23–24, quoted in de Bary, et al., *Sources of Japanese Tradition*, second edition, Vol. 1 (Columbia University Press 2001), 18.
+    step1: |-
+      [^motoori-1798-2]: –––, 1798, *Kojiki-den*, translation adapted from Holtom, Daniel Clarence, 1938, *The National Faith of Japan: A Study of Modern Shinto*, pp. 23–24, quoted in de Bary, et al., *Sources of Japanese Tradition*, second edition, Vol. 1 (Columbia University Press 2001), 18.
+    step2: |-
+      [^motoori-1798-2]: –––, 1798, *Kojiki-den*, translation adapted from Holtom, Daniel Clarence, 1938, *The National Faith of Japan: A Study of Modern Shinto*, pp. 23–24, quoted in de Bary, et al., *Sources of Japanese Tradition*, second edition, Vol. 1 (Columbia University Press 2001), 18.
+  - id: 145
+    kind: footnote
+    source: |-
+      [^motoori-2013]: –––, 2013, *Tamakatsuma*, Introduced and Translated by John R. Bentley. Ithaca, NY: Cornell University East Asia Program.
+    step1: |-
+      [^motoori-2013]: –––, 2013, *Tamakatsuma*, Introduced and Translated by John R. Bentley. Ithaca, NY: Cornell University East Asia Program.
+    step2: |-
+      [^motoori-2013]: –––, 2013, *Tamakatsuma*, Introduced and Translated by John R. Bentley. Ithaca, NY: Cornell University East Asia Program.
+  - id: 146
+    kind: footnote
+    source: |-
+      [^motoori-1780]: –––, 1780, *Kuzubana* in Ōno Susumu and Ōkubo Tadashi (comps), *Motoori Norinaga zenshū*, Chikuma Shobo 1968–75, Vol. 8, 123–181.
+    step1: |-
+      [^motoori-1780]: –––, 1780, *Kuzubana* in Ōno Susumu and Ōkubo Tadashi (comps), *Motoori Norinaga zenshū*, Chikuma Shobo 1968–75, Vol. 8, 123–181.
+    step2: |-
+      [^motoori-1780]: –––, 1780, *Kuzubana* in Ōno Susumu and Ōkubo Tadashi (comps), *Motoori Norinaga zenshū*, Chikuma Shobo 1968–75, Vol. 8, 123–181.
+  - id: 147
+    kind: footnote
+    source: |-
+      [^muraoka-1946]: Muraoka Tsunetsugu [d. 1946], 1964, *Studies in Shinto Thought*, Delmer M. Brown and James T. Araki (trans.), Tokyo: Japanese National Commission for UNESCO. From his *Nihon shisō shi kenkyū*.
+    step1: |-
+      [^muraoka-1946]: Muraoka Tsunetsugu [d. 1946], 1964, *Studies in Shinto Thought*, Delmer M. Brown and James T. Araki (trans.), Tokyo: Japanese National Commission for UNESCO. From his *Nihon shisō shi kenkyū*.
+    step2: |-
+      [^muraoka-1946]: Muraoka Tsunetsugu [d. 1946], 1964, *Studies in Shinto Thought*, Delmer M. Brown and James T. Araki (trans.), Tokyo: Japanese National Commission for UNESCO. From his *Nihon shisō shi kenkyū*.
+  - id: 148
+    kind: footnote
+    source: |-
+      [^takamasa-1855]: Ōkuni Takamasa, 1855 [1971], *Hongaku kyoyō*, Vol. 1, in *Hirata Atsutane, Ban Nobutomo, Ōkuni Takamasa*, (Nihon Shisō Taikei, vol. 50), Tahara Tsuguo, Seki Akira, Saeki Arikiyo, and Haga Noboru (eds), Tokyo: Iwanami shoten.
+    step1: |-
+      [^takamasa-1855]: Ōkuni Takamasa, 1855 [1971], *Hongaku kyoyō*, Vol. 1, in *Hirata Atsutane, Ban Nobutomo, Ōkuni Takamasa*, (Nihon Shisō Taikei, vol. 50), Tahara Tsuguo, Seki Akira, Saeki Arikiyo, and Haga Noboru (eds), Tokyo: Iwanami shoten.
+    step2: |-
+      [^takamasa-1855]: Ōkuni Takamasa, 1855 [1971], *Hongaku kyoyō*, Vol. 1, in *Hirata Atsutane, Ban Nobutomo, Ōkuni Takamasa*, (Nihon Shisō Taikei, vol. 50), Tahara Tsuguo, Seki Akira, Saeki Arikiyo, and Haga Noboru (eds), Tokyo: Iwanami shoten.
+  - id: 149
+    kind: footnote
+    source: |-
+      [^yano-1867]: Yano Gendō, 1867, *Kenkin Sengo* in H&M: 547–585.
+    step1: |-
+      [^yano-1867]: Yano Gendō, 1867, *Kenkin Sengo* in H&M: 547–585.
+    step2: |-
+      [^yano-1867]: Yano Gendō, 1867, *Kenkin Sengo* in H&M: 547–585.
+  - id: 150
+    kind: footnote
+    source: |-
+      [^bentley-2017]: Bentley, John R. (ed.), 2017, *An Anthology of Kokugaku Scholars 1690–1868*, Ithaca, NY: Cornell University East Asia Program.
+    step1: |-
+      [^bentley-2017]: Bentley, John R. (ed.), 2017, *An Anthology of Kokugaku Scholars 1690–1868*, Ithaca, NY: Cornell University East Asia Program.
+    step2: |-
+      [^bentley-2017]: Bentley, John R. (ed.), 2017, *An Anthology of Kokugaku Scholars 1690–1868*, Ithaca, NY: Cornell University East Asia Program.
+  - id: 151
+    kind: footnote
+    source: |-
+      [^bowring-2017]: Bowring, Richard, 2017, *In Search of the Way: Thought and Religion in Early-Modern Japan, 1582–1860*, Oxford: Oxford University Press.
+    step1: |-
+      [^bowring-2017]: Bowring, Richard, 2017, *In Search of the Way: Thought and Religion in Early-Modern Japan, 1582–1860*, Oxford: Oxford University Press.
+    step2: |-
+      [^bowring-2017]: Bowring, Richard, 2017, *In Search of the Way: Thought and Religion in Early-Modern Japan, 1582–1860*, Oxford: Oxford University Press.
+  - id: 152
+    kind: footnote
+    source: |-
+      [^brownlee-1997]: Brownlee, John S., 1997, *Japanese Historians and the National Myths, 1600–1945: The Age of the Gods and Emperor Jimmu*, Vancouver: University of British Columbia Press.
+    step1: |-
+      [^brownlee-1997]: Brownlee, John S., 1997, *Japanese Historians and the National Myths, 1600–1945: The Age of the Gods and Emperor Jimmu*, Vancouver: University of British Columbia Press.
+    step2: |-
+      [^brownlee-1997]: Brownlee, John S., 1997, *Japanese Historians and the National Myths, 1600–1945: The Age of the Gods and Emperor Jimmu*, Vancouver: University of British Columbia Press.
+  - id: 153
+    kind: footnote
+    source: |-
+      [^burns-2003]: Burns, Susan L., 2003, *Before the Nation: Kokugaku and the Imagining of Community in Modern Japan*, Durham, NC: Duke University Press.
+    step1: |-
+      [^burns-2003]: Burns, Susan L., 2003, *Before the Nation: Kokugaku and the Imagining of Community in Modern Japan*, Durham, NC: Duke University Press.
+    step2: |-
+      [^burns-2003]: Burns, Susan L., 2003, *Before the Nation: Kokugaku and the Imagining of Community in Modern Japan*, Durham, NC: Duke University Press.
+  - id: 154
+    kind: footnote
+    source: |-
+      [^flueckiger-2008]: Flueckiger, Peter, 2008, “Reflections on the Meaning of Our Country: Kamo No Mabuchi’s ‘Kokuikō’”, *Monumenta Nipponica*, 63(2): 211–263.
+    step1: |-
+      [^flueckiger-2008]: Flueckiger, Peter, 2008, “Reflections on the Meaning of Our Country: Kamo No Mabuchi’s ‘Kokuikō’”, *Monumenta Nipponica*, 63(2): 211–263.
+    step2: |-
+      [^flueckiger-2008]: Flueckiger, Peter, 2008, “Reflections on the Meaning of Our Country: Kamo No Mabuchi’s ‘Kokuikō’”, *Monumenta Nipponica*, 63(2): 211–263.
+  - id: 155
+    kind: footnote
+    source: |-
+      [^flueckiger-2011]: –––, 2011, *Imagining Harmony: Poetry, Empathy, and Community in Mid-Tokugawa Confucianism and Nativism*, Stanford: Stanford University Press.
+    step1: |-
+      [^flueckiger-2011]: –––, 2011, *Imagining Harmony: Poetry, Empathy, and Community in Mid-Tokugawa Confucianism and Nativism*, Stanford: Stanford University Press.
+    step2: |-
+      [^flueckiger-2011]: –––, 2011, *Imagining Harmony: Poetry, Empathy, and Community in Mid-Tokugawa Confucianism and Nativism*, Stanford: Stanford University Press.
+  - id: 156
+    kind: footnote
+    source: |-
+      [^flueckiger-2014]: –––, 2014, “National Learning”, *The Oxford Handbook of Japanese Philosophy*, Oxford: Oxford University Press.
+    step1: |-
+      [^flueckiger-2014]: –––, 2014, “National Learning”, *The Oxford Handbook of Japanese Philosophy*, Oxford: Oxford University Press.
+    step2: |-
+      [^flueckiger-2014]: –––, 2014, “National Learning”, *The Oxford Handbook of Japanese Philosophy*, Oxford: Oxford University Press.
+  - id: 157
+    kind: footnote
+    source: |-
+      [^fujiwara-2021]: Fujiwara, Gideon, 2021, *From Country to Nation*: *Ethnographic Studies*, Kokugaku, *and Spirits in Nineteenth-Century Japan*, Ithaca, NY: Cornell East Asia Series of Cornell University Press.
+    step1: |-
+      [^fujiwara-2021]: Fujiwara, Gideon, 2021, *From Country to Nation*: *Ethnographic Studies*, Kokugaku, *and Spirits in Nineteenth-Century Japan*, Ithaca, NY: Cornell East Asia Series of Cornell University Press.
+    step2: |-
+      [^fujiwara-2021]: Fujiwara, Gideon, 2021, *From Country to Nation*: *Ethnographic Studies*, Kokugaku, *and Spirits in Nineteenth-Century Japan*, Ithaca, NY: Cornell East Asia Series of Cornell University Press.
+  - id: 158
+    kind: footnote
+    source: |-
+      [^fujiwara-2015]: –––, 2015, “Rebirth of a Hirata School Nativist: Tsuruya Ariyo and His *Kaganabe* Journal”, Nosco, Ketelaar, and Kojima 2015: 134–158.
+    step1: |-
+      [^fujiwara-2015]: –––, 2015, “Rebirth of a Hirata School Nativist: Tsuruya Ariyo and His *Kaganabe* Journal”, Nosco, Ketelaar, and Kojima 2015: 134–158.
+    step2: |-
+      [^fujiwara-2015]: –––, 2015, “Rebirth of a Hirata School Nativist: Tsuruya Ariyo and His *Kaganabe* Journal”, Nosco, Ketelaar, and Kojima 2015: 134–158.
+  - id: 159
+    kind: footnote
+    source: |-
+      [^hansen-2008]: Hansen, Wilburn, 2008, *When Tengu Talk: Hirata Atsutane’s Ethnography of the Other World*, Honolulu: University of Hawai‘i Press.
+    step1: |-
+      [^hansen-2008]: Hansen, Wilburn, 2008, *When Tengu Talk: Hirata Atsutane’s Ethnography of the Other World*, Honolulu: University of Hawai‘i Press.
+    step2: |-
+      [^hansen-2008]: Hansen, Wilburn, 2008, *When Tengu Talk: Hirata Atsutane’s Ethnography of the Other World*, Honolulu: University of Hawai‘i Press.
+  - id: 160
+    kind: footnote
+    source: |-
+      [^hardacre-2017]: Hardacre, Helen, 2017, *Shinto: A History*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780190621711.001.0001
+    step1: |-
+      [^hardacre-2017]: Hardacre, Helen, 2017, *Shinto: A History*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780190621711.001.0001
+    step2: |-
+      [^hardacre-2017]: Hardacre, Helen, 2017, *Shinto: A History*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780190621711.001.0001
+  - id: 161
+    kind: footnote
+    source: |-
+      [^hardacre-1989]: –––, 1989, *Shinto and the State, 1868–1988*, Princeton: Princeton University Press.
+    step1: |-
+      [^hardacre-1989]: –––, 1989, *Shinto and the State, 1868–1988*, Princeton: Princeton University Press.
+    step2: |-
+      [^hardacre-1989]: –––, 1989, *Shinto and the State, 1868–1988*, Princeton: Princeton University Press.
+  - id: 162
+    kind: footnote
+    source: |-
+      [^harootunian-1988]: Harootunian, Harry D., 1988, *Things Seen and Unseen: Discourse and Ideology in Tokugawa Nativism*, Chicago: University of Chicago Press.
+    step1: |-
+      [^harootunian-1988]: Harootunian, Harry D., 1988, *Things Seen and Unseen: Discourse and Ideology in Tokugawa Nativism*, Chicago: University of Chicago Press.
+    step2: |-
+      [^harootunian-1988]: Harootunian, Harry D., 1988, *Things Seen and Unseen: Discourse and Ideology in Tokugawa Nativism*, Chicago: University of Chicago Press.
+  - id: 163
+    kind: footnote
+    source: |-
+      [^itō-1982]: Itō Tasaburō, 1982, *Sōmō no Kokugaku*, Tokyo: Meicho shuppan.
+    step1: |-
+      [^itō-1982]: Itō Tasaburō, 1982, *Sōmō no Kokugaku*, Tokyo: Meicho shuppan.
+    step2: |-
+      [^itō-1982]: Itō Tasaburō, 1982, *Sōmō no Kokugaku*, Tokyo: Meicho shuppan.
+  - id: 164
+    kind: footnote
+    source: |-
+      [^kasulis-2017]: Kasulis, Thomas P., 2017, *Engaging Japanese Philosophy: A Short History*, Honolulu: University of Hawai‘i Press.
+    step1: |-
+      [^kasulis-2017]: Kasulis, Thomas P., 2017, *Engaging Japanese Philosophy: A Short History*, Honolulu: University of Hawai‘i Press.
+    step2: |-
+      [^kasulis-2017]: Kasulis, Thomas P., 2017, *Engaging Japanese Philosophy: A Short History*, Honolulu: University of Hawai‘i Press.
+  - id: 165
+    kind: footnote
+    source: |-
+      [^katsurajima-2005]: Katsurajima, Nobuhiro, 2005, *Bakumatsu minshū shisō no kenkyū: bakumatsu Kokugaku to minshū shūkyō*, Kyōto-shi : Bunrikaku.
+    step1: |-
+      [^katsurajima-2005]: Katsurajima, Nobuhiro, 2005, *Bakumatsu minshū shisō no kenkyū: bakumatsu Kokugaku to minshū shūkyō*, Kyōto-shi : Bunrikaku.
+    step2: |-
+      [^katsurajima-2005]: Katsurajima, Nobuhiro, 2005, *Bakumatsu minshū shisō no kenkyū: bakumatsu Kokugaku to minshū shūkyō*, Kyōto-shi : Bunrikaku.
+  - id: 166
+    kind: footnote
+    source: |-
+      [^marra-1998]: Marra, Michael, 1998, “Nativist Hermeneutics: The Interpretive Strategies of Motoori Norinaga and Fujitani Mitsue”, *Japan Review*, 10: 17–52.
+    step1: |-
+      [^marra-1998]: Marra, Michael, 1998, “Nativist Hermeneutics: The Interpretive Strategies of Motoori Norinaga and Fujitani Mitsue”, *Japan Review*, 10: 17–52.
+    step2: |-
+      [^marra-1998]: Marra, Michael, 1998, “Nativist Hermeneutics: The Interpretive Strategies of Motoori Norinaga and Fujitani Mitsue”, *Japan Review*, 10: 17–52.
+  - id: 167
+    kind: footnote
+    source: |-
+      [^marra-2007]: –––, 2007, *The Poetics of Motoori Norinaga*, Honolulu: University of Hawai‘i Press.
+    step1: |-
+      [^marra-2007]: –––, 2007, *The Poetics of Motoori Norinaga*, Honolulu: University of Hawai‘i Press.
+    step2: |-
+      [^marra-2007]: –––, 2007, *The Poetics of Motoori Norinaga*, Honolulu: University of Hawai‘i Press.
+  - id: 168
+    kind: footnote
+    source: |-
+      [^matsumoto-1970]: Matsumoto, Shigeru, 1970, *Motoori Norinaga, 1730–1801*, Cambridge, MA: Harvard University Press.
+    step1: |-
+      [^matsumoto-1970]: Matsumoto, Shigeru, 1970, *Motoori Norinaga, 1730–1801*, Cambridge, MA: Harvard University Press.
+    step2: |-
+      [^matsumoto-1970]: Matsumoto, Shigeru, 1970, *Motoori Norinaga, 1730–1801*, Cambridge, MA: Harvard University Press.
+  - id: 169
+    kind: footnote
+    source: |-
+      [^mcnally-2005]: McNally, Mark, 2005, *Proving The Way: Conflict and Practice in the History of Japanese Nativism*, (Harvard East Asian monographs, 245), Cambridge, MA: Harvard University Asia Center.
+    step1: |-
+      [^mcnally-2005]: McNally, Mark, 2005, *Proving The Way: Conflict and Practice in the History of Japanese Nativism*, (Harvard East Asian monographs, 245), Cambridge, MA: Harvard University Asia Center.
+    step2: |-
+      [^mcnally-2005]: McNally, Mark, 2005, *Proving The Way: Conflict and Practice in the History of Japanese Nativism*, (Harvard East Asian monographs, 245), Cambridge, MA: Harvard University Asia Center.
+  - id: 170
+    kind: footnote
+    source: |-
+      [^mcnally-2015]: –––, 2015, *Like No Other: Exceptionalism and Nativism in Early Modern Japan*, Honolulu: University of Hawai‘i Press.
+    step1: |-
+      [^mcnally-2015]: –––, 2015, *Like No Other: Exceptionalism and Nativism in Early Modern Japan*, Honolulu: University of Hawai‘i Press.
+    step2: |-
+      [^mcnally-2015]: –––, 2015, *Like No Other: Exceptionalism and Nativism in Early Modern Japan*, Honolulu: University of Hawai‘i Press.
+  - id: 171
+    kind: footnote
+    source: |-
+      [^najita-1991]: Najita, Tetsuo, 1991, “History and Nature in Eighteenth-Century Tokugawa Thought”, in *The Cambridge History of Japan, Volume 4: Early Modern Japan*, edited by John Whitney Hall. Cambridge: Cambridge University Press, 596–659. doi:10.1017/CHOL9780521223553.013
+    step1: |-
+      [^najita-1991]: Najita, Tetsuo, 1991, “History and Nature in Eighteenth-Century Tokugawa Thought”, in *The Cambridge History of Japan, Volume 4: Early Modern Japan*, edited by John Whitney Hall. Cambridge: Cambridge University Press, 596–659. doi:10.1017/CHOL9780521223553.013
+    step2: |-
+      [^najita-1991]: Najita, Tetsuo, 1991, “History and Nature in Eighteenth-Century Tokugawa Thought”, in *The Cambridge History of Japan, Volume 4: Early Modern Japan*, edited by John Whitney Hall. Cambridge: Cambridge University Press, 596–659. doi:10.1017/CHOL9780521223553.013
+  - id: 172
+    kind: footnote
+    source: |-
+      [^nosco-1981]: Nosco, Peter, 1981, “Nature, Invention, and National Learning: The *Kokka hachiron* Controversy, 1742–46”, *Harvard Journal of Asiatic Studies*, 41(1): 75–91. doi:10.2307/2719001
+    step1: |-
+      [^nosco-1981]: Nosco, Peter, 1981, “Nature, Invention, and National Learning: The *Kokka hachiron* Controversy, 1742–46”, *Harvard Journal of Asiatic Studies*, 41(1): 75–91. doi:10.2307/2719001
+    step2: |-
+      [^nosco-1981]: Nosco, Peter, 1981, “Nature, Invention, and National Learning: The *Kokka hachiron* Controversy, 1742–46”, *Harvard Journal of Asiatic Studies*, 41(1): 75–91. doi:10.2307/2719001
+  - id: 173
+    kind: footnote
+    source: |-
+      [^nosco-1990]: –––, 1990, *Remembering Paradise: Nativism and Nostalgia in Eighteenth-Century Japan*, Cambridge, MA: Harvard University Press.
+    step1: |-
+      [^nosco-1990]: –––, 1990, *Remembering Paradise: Nativism and Nostalgia in Eighteenth-Century Japan*, Cambridge, MA: Harvard University Press.
+    step2: |-
+      [^nosco-1990]: –––, 1990, *Remembering Paradise: Nativism and Nostalgia in Eighteenth-Century Japan*, Cambridge, MA: Harvard University Press.
+  - id: 174
+    kind: footnote
+    source: |-
+      [^nosco-2018]: –––, 2018, *Individuality in Early Modern Japan: Thinking for Oneself*, New York: Routledge.
+    step1: |-
+      [^nosco-2018]: –––, 2018, *Individuality in Early Modern Japan: Thinking for Oneself*, New York: Routledge.
+    step2: |-
+      [^nosco-2018]: –––, 2018, *Individuality in Early Modern Japan: Thinking for Oneself*, New York: Routledge.
+  - id: 175
+    kind: footnote
+    source: |-
+      [^nosco-2015]: Nosco, Peter, James Edward Ketelaar, and Yasunori Kojima (eds.), 2015, *Values, Identity, and Equality in Eighteenth- and Nineteenth-Century Japan*, (Brill’s Japanese Studies Library, volume 52), Leiden: Brill.
+    step1: |-
+      [^nosco-2015]: Nosco, Peter, James Edward Ketelaar, and Yasunori Kojima (eds.), 2015, *Values, Identity, and Equality in Eighteenth- and Nineteenth-Century Japan*, (Brill’s Japanese Studies Library, volume 52), Leiden: Brill.
+    step2: |-
+      [^nosco-2015]: Nosco, Peter, James Edward Ketelaar, and Yasunori Kojima (eds.), 2015, *Values, Identity, and Equality in Eighteenth- and Nineteenth-Century Japan*, (Brill’s Japanese Studies Library, volume 52), Leiden: Brill.
+  - id: 176
+    kind: footnote
+    source: |-
+      [^sakai-1991]: Sakai, Naoki, 1991, *Voices of the Past: The Status of Language in Eighteenth-Century Japanese Discourse*, Ithaca, NY: Cornell University Press.
+    step1: |-
+      [^sakai-1991]: Sakai, Naoki, 1991, *Voices of the Past: The Status of Language in Eighteenth-Century Japanese Discourse*, Ithaca, NY: Cornell University Press.
+    step2: |-
+      [^sakai-1991]: Sakai, Naoki, 1991, *Voices of the Past: The Status of Language in Eighteenth-Century Japanese Discourse*, Ithaca, NY: Cornell University Press.
+  - id: 177
+    kind: footnote
+    source: |-
+      [^teeuwen-2006]: Teeuwen, Mark, 2006, “Kokugaku vs. Nativism”, *Monumenta Nipponica*, 61(2): 227–242.
+    step1: |-
+      [^teeuwen-2006]: Teeuwen, Mark, 2006, “Kokugaku vs. Nativism”, *Monumenta Nipponica*, 61(2): 227–242.
+    step2: |-
+      [^teeuwen-2006]: Teeuwen, Mark, 2006, “Kokugaku vs. Nativism”, *Monumenta Nipponica*, 61(2): 227–242.
+  - id: 178
+    kind: footnote
+    source: |-
+      [^wachutka-2013]: Wachutka, Michael, 2013, *Kokugaku in Meiji-Period Japan: The Modern Transformation of “National Learning” and the Formation of Scholarly Societies*, Boston & Leiden: Brill.
+    step1: |-
+      [^wachutka-2013]: Wachutka, Michael, 2013, *Kokugaku in Meiji-Period Japan: The Modern Transformation of “National Learning” and the Formation of Scholarly Societies*, Boston & Leiden: Brill.
+    step2: |-
+      [^wachutka-2013]: Wachutka, Michael, 2013, *Kokugaku in Meiji-Period Japan: The Modern Transformation of “National Learning” and the Formation of Scholarly Societies*, Boston & Leiden: Brill.
+  - id: 179
+    kind: footnote
+    source: |-
+      [^walthall-1998]: Walthall, Anne, 1998, *The Weak Body of a Useless Woman: Matsuo Taseko and the Meiji Restoration*, Chicago: University of Chicago Press.
+    step1: |-
+      [^walthall-1998]: Walthall, Anne, 1998, *The Weak Body of a Useless Woman: Matsuo Taseko and the Meiji Restoration*, Chicago: University of Chicago Press.
+    step2: |-
+      [^walthall-1998]: Walthall, Anne, 1998, *The Weak Body of a Useless Woman: Matsuo Taseko and the Meiji Restoration*, Chicago: University of Chicago Press.
+  - id: 180
+    kind: footnote
+    source: |-
+      [^wehmeyer-1997]: Wehmeyer, Ann, 1997, *Motoori: Kojiki-den, Book 1*, Ithaca, NY: Cornell East Asia Series.
+    step1: |-
+      [^wehmeyer-1997]: Wehmeyer, Ann, 1997, *Motoori: Kojiki-den, Book 1*, Ithaca, NY: Cornell East Asia Series.
+    step2: |-
+      [^wehmeyer-1997]: Wehmeyer, Ann, 1997, *Motoori: Kojiki-den, Book 1*, Ithaca, NY: Cornell East Asia Series.
+  - id: 181
+    kind: footnote
+    source: |-
+      [^yoshikawa-1983]: Yoshikawa, Kojiro, 1983, *Jinsai, Sorai, Norinaga*, Tokyo: Toho Gakkai.
+    step1: |-
+      [^yoshikawa-1983]: Yoshikawa, Kojiro, 1983, *Jinsai, Sorai, Norinaga*, Tokyo: Toho Gakkai.
+    step2: |-
+      [^yoshikawa-1983]: Yoshikawa, Kojiro, 1983, *Jinsai, Sorai, Norinaga*, Tokyo: Toho Gakkai.

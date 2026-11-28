@@ -2,7 +2,21 @@
   "slug": "kokugaku-school",
   "kind": "retranslate",
   "zh_doc": "zh/k/kokugaku-school.md",
-  "state": "ex-04_checked",
+  "state": "tr-02_checked",
+  "translation_mode": "llm-pe",
+  "project_spec": {
+    "audience": "中文哲学读者（研究者与研究生为主）",
+    "purpose": "学术阅读与引用（SEP 词条简体中文译本）",
+    "register": "现代汉语学术书面语",
+    "terminology_basis": "shu-yu-biao.md／ren-ming-biao.md／baseline/term-concepts.md",
+    "delivery": "GitBook Markdown＋VitePress 双语站",
+    "qa_level": "CY/T 266＋ISO 5060（六轴机检＋人工复核）"
+  },
+  "pe": {
+    "level": "full",
+    "system": "DeepSeek-V4.1-Flash",
+    "disclosure": "任务 evidence 与词条译后编辑记录"
+  },
   "steps": [
     {
       "step": "ex-04",
@@ -10,6 +24,13 @@
       "actor": "trae-main",
       "at": "2026-11-28T04:57:47Z",
       "evidence": "T252 ex-04：en_integrity clean 1/1；en_source_audit hard 0／warn 2（heading_skip 为站尾导航、fall2018 为 URL 段，均假阳性）；fetch_audit 资产 0 缺件 0；51 脚注定义（50 书目＋1 导读注）、5 处正文引用；6 表 47 行、0 图 0 公式；版本钉 Jun 21, 2021／Fall 2021／640fe38e…1d3 一致。新发现 3 类文字缺陷入 en-errata 第二十二节（§2.2 节题 1666→1669 译注①；§3.1 方括号；§3.2 两处花括号）；松平义昭行待 T255 落地。证据 specs/064-flow-spec-audit/results/t252-review.md、t252-en-integrity.json、t252-en-source-audit.json。"
+    },
+    {
+      "step": "tr-02",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-28T05:18:38Z",
+      "evidence": "T256 tr-02：译后编辑（PE）全量入库；§5–§6＋尾节＋51 脚注定义；全文 431 行／12,515 汉字；账本 181 段（en/zh 181/181）；51 定义键集与 en 一致，5 处正文 marker 闭合；尾序为参考文献>原始文献>二手文献>学术工具>其他网络资源>相关词条>脚注定义>译者注释；新增 10 条术语（养老馆、《本学举要》、古事、思兼神、太政官、天之御中主神、《延喜式》、神佛分离、《教育敕语》、《玉胜间》）；check_style／quotes 0、check_terms 硬 0（0 告警）、check_pairs 0、check_academic 无硬错误、check_all 23/23。证据 specs/064-flow-spec-audit/results/t256-review.md。"
     }
   ],
   "blockers": [],
