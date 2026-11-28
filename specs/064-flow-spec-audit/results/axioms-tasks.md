@@ -686,3 +686,15 @@
 | TA7–TA8 | 工作包 38；原子项 130；0 处预写门禁号／ADR 号 | 通过 |
 
 **rev101 说明**：T249 完成并勾选，勾选 91→92、未开始 77→76；tr-03 逐节对照 en，Critical 0／Major 0／Minor 1（致谢 Section 7 实为 §10，入勘误第二十一节并加译者注释①）；tr-04 `check_prose` 48→0（long-sentence 8、de-chain 36、weak-verb 3、passive-bei 1），全部改写无豁免；尾序修正（译者注释移至脚注定义之后末节）；check_style／quotes／math_zh／terms 0、academic 无硬错误、pairs hard 0／out_of_scope 0、images 悬空 0；账本 120 段、13,492 汉字；japanese-aesthetics 推进 `tr-04_checked`。
+
+## 96 rev102 复核（T250 rv 全链完成；计数 168）
+
+| 项 | 复算 | 结论 |
+| ---- | ---- | ---- |
+| TA1–TA3 | 168 定义、0 重复、0 悬空；16 分区和 168 | 通过 |
+| TA4–TA5 | 验收 168/168；Kahn 168/168 | 通过 |
+| TA6 状态一致 | 勾选 93（新增 T250）；容器 T138／T140／T142／T144／T154／T155／T156／T157／T158／T159 未勾；japanese-aesthetics `rv-09_checked` | 通过 |
+| TA7–TA8 | 工作包 38；原子项 130；0 处预写门禁号／ADR 号 | 通过 |
+
+**rev102 说明**：T250 完成并勾选，勾选 92→93、未开始 76→75；rv-01 术语 8 处 D2→D1 落地（武士道／茶寄合／意地／荒废／夏尔·波德莱尔／亨利·大卫·梭罗／丰臣秀吉／西田几多郎）、体例三轴 0；rv-02 120 段对齐＋全局计数（44 脚注／8 引用／33 图／6 子文档）；rv-03 42 条引文（38 pass／4 waived，hash 守恒）；rv-04 376 骨架（72 裁定 equivalent、24 候选无漂移）；rv-05 22 条 G-19 主题术语 waived；rv-06 10 节 R-1、1 条 R-d 误报；rv-07 0 量值对、10 条 M-4 误报；rv-08 标点 28→0（27 处 en dash→一字线、1 处双冒号）；rv-09 全量机检＋markdownlint 0；结构 341 行／13,513 汉字／120 段账本；japanese-aesthetics 推进 `rv-09_checked`。
+
