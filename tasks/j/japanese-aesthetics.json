@@ -2,7 +2,7 @@
   "slug": "japanese-aesthetics",
   "kind": "retranslate",
   "zh_doc": "zh/j/japanese-aesthetics.md",
-  "state": "tr-02_checked",
+  "state": "tr-04_checked",
   "translation_mode": "llm-pe",
   "project_spec": {
     "audience": "中文哲学读者（研究者与研究生为主）",
@@ -31,6 +31,20 @@
       "actor": "trae-main",
       "at": "2026-11-28T01:36:03Z",
       "evidence": "T248 tr-02 全量完成（results/t248-review.md）：译后编辑（PE）全量入库；正文＋尾节＋致谢 13,509 汉字、120 段账本、33 图、44 脚注定义、6 件补充子文档；check_style/quotes/math_zh/terms 0、academic 无硬错误、check_pairs hard 0／out_of_scope 0（dangling 0）；check_all 23/23 全绿。"
+    },
+    {
+      "step": "tr-03",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-28T02:09:10Z",
+      "evidence": "T249 一校（results/t249-tr03.md）：逐节对照 en 全篇（§1–§10、尾节、致谢、44 定义、6 子文档）；Critical 0／Major 0／Minor 1（致谢 Section 7 实为 §10，已改正入勘误第二十一节并加译者注释①）；残留外文 0（日文罗马字／英文书名／机构名除外）；check_style/quotes/math_zh/terms 0、academic 无硬错误、check_pairs 0（errata-apply／note-anchor 过）；账本 120 段。"
+    },
+    {
+      "step": "tr-04",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-28T02:20:03Z",
+      "evidence": "T249 tr-04 二校（results/t249-tr04.md）：check_prose 48→0（long-sentence 8、de-chain 36、weak-verb 3、passive-bei 1），全部改写无豁免；语体结论：现代汉语学术书面语，无文言仿古，破折号 59 对（原文 43）均承担插入或转折功能，未见滥用；一个 30 处无冗赘；尾序修正：译者注释移至脚注定义之后末节；check_style 0、check_quotes 0、check_math_zh 硬 0、check_terms 硬 0、check_academic --strict 无硬错误、check_pairs --gate hard 0/out_of_scope 0、check_images 悬空 0；账本 120 段守恒。"
     }
   ],
   "blockers": [],

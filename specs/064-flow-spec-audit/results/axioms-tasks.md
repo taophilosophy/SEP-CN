@@ -675,3 +675,14 @@
 | TA7–TA8 | 工作包 38；原子项 130；0 处预写门禁号／ADR 号 | 通过 |
 
 **rev100 说明**：T248 完成并勾选，勾选 90→91、未开始 78→77；尾节＋致谢＋44 脚注＋6 补充子文档入库；账本 110→120 段、主文件 13,509 汉字；33 幅大图复制入 assets（33→66），dangling 33→0；`check_quotes` 的 ALLOW_FILES 补 `zh/j/japanese-aesthetics.md`；check_style／quotes／math_zh／terms 0、academic 无硬错误、pairs 0、check_all 23/23；japanese-aesthetics 推进 `tr-02_checked`。
+
+## 95 rev101 复核（T249 tr-03／tr-04 完成；计数 168）
+
+| 项 | 复算 | 结论 |
+| ---- | ---- | ---- |
+| TA1–TA3 | 168 定义、0 重复、0 悬空；16 分区和 168 | 通过 |
+| TA4–TA5 | 验收 168/168；Kahn 168/168 | 通过 |
+| TA6 状态一致 | 勾选 92（新增 T249）；容器 T138／T140／T142／T144／T154／T155／T156／T157／T158／T159 未勾；japanese-aesthetics `tr-04_checked` | 通过 |
+| TA7–TA8 | 工作包 38；原子项 130；0 处预写门禁号／ADR 号 | 通过 |
+
+**rev101 说明**：T249 完成并勾选，勾选 91→92、未开始 77→76；tr-03 逐节对照 en，Critical 0／Major 0／Minor 1（致谢 Section 7 实为 §10，入勘误第二十一节并加译者注释①）；tr-04 `check_prose` 48→0（long-sentence 8、de-chain 36、weak-verb 3、passive-bei 1），全部改写无豁免；尾序修正（译者注释移至脚注定义之后末节）；check_style／quotes／math_zh／terms 0、academic 无硬错误、pairs hard 0／out_of_scope 0、images 悬空 0；账本 120 段、13,492 汉字；japanese-aesthetics 推进 `tr-04_checked`。

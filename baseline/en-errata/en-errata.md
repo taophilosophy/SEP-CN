@@ -701,3 +701,11 @@
 | logic-dynamic | §4.3（en L364） | `and proved that` | ①语法／排印（缺主语） | `and they proved that` | 中文译“并证明了”，语义自足，无需译注 | 第二处 and 后缺主语（2026-11-27 核对） |
 | logic-dynamic | §3.3（en L326） | `\{x: $` | 格式（行内定界符内侧空白） | `\{x:$` | 译文按格式规范去除空白，无需译注 | 行内公式闭合前多一空格（2026-11-28 核对） |
 | logic-dynamic | §2.1（en L68） | `V((A\lor B) = V(A) \cup V(B)` | ①排印／手误（括号误植：多一左括号、缺一右括号） | `V(A\lor B) = V(A) \cup V(B)` | 译文按参考读法更正，无需译注 | 2026-11-28 一校核对 |
+
+## 二十一、2026-11-28 T249 japanese-aesthetics 新发现
+
+**来源**：`specs/064-flow-spec-audit/results/t249-tr03.md`；`html/` 冻结不改，`en/j/japanese-aesthetics.md` 忠实照录。纯排版／语法者只入表。
+
+| slug | 位置 | 上游原文 | 缺陷定性 | 参考读法 | 中文承载 | 凭证 |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| japanese-aesthetics | Acknowledgments | `the films discussed in Section 7` | ②同页自相矛盾（影片实见 §10） | `the films discussed in Section 10` | 译文作“第 10 节”，译者注释① | 2026-11-28 一校核对 |
