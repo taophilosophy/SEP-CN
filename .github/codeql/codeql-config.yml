@@ -1,10 +1,11 @@
 name: "SEP-CN CodeQL configuration"
 
 # 只分析仓库自身维护的代码，不扫原始网页与生成物。
+# 注意：script/ 是本机专用目录（不入库），CI checkout 中不存在，
+# 不能写进 paths，否则 Python autobuild 会因 os.listdir('script') 失败。
 paths:
   - .github/workflows
   - .vitepress
-  - script
   - tools
   - specs
 
