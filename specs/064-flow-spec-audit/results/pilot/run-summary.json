@@ -1,0 +1,567 @@
+{
+ "run": "pilot-01-preflight",
+ "date": "2026-11-28",
+ "entries": [
+  {
+   "slug": "habermas",
+   "e2e_task": "tasks\\h\\habermas.json",
+   "state": "done",
+   "boundary": "internal",
+   "P0": {
+    "status": "pass",
+    "fields": 16,
+    "missing": []
+   },
+   "P1": {
+    "status": "pass",
+    "ex04": true,
+    "tbx": "baseline/termbase-sample.tbx（概念条目待补）"
+   },
+   "P2": {
+    "status": "pass",
+    "translation_mode": "llm-pe",
+    "pe": {
+     "level": "full",
+     "system": "DeepSeek-V4.1-Flash",
+     "disclosure": "任务 evidence 与词条译后编辑记录"
+    },
+    "model_id": "deepseek-v4.1-flash",
+    "pe_evidence": true
+   },
+   "P3": {
+    "status": "blocked",
+    "actors": {
+     "tr-02": "trae-main",
+     "sg-01": "trae-main",
+     "sg-02": "trae-main",
+     "sg-03": "user"
+    },
+    "competences": 0,
+    "reason": "审校 actor 未四分离或缺 competence；单代理不能伪造独立审校"
+   },
+   "P4": {
+    "status": "planned",
+    "sample_plan": "specs/064-flow-spec-audit/results/pilot/samples/habermas.json",
+    "scorecard": "pending_manual_evaluation"
+   },
+   "P5": {
+    "status": "blocked",
+    "reason": "无件级编校样本；八项清单待 P5 人工"
+   },
+   "P6": {
+    "status": "blocked",
+    "reason": "无 release sign-off／件级归档；G5 未过"
+   }
+  },
+  {
+   "slug": "logic-preference",
+   "e2e_task": "tasks\\l\\logic-preference.json",
+   "state": "done",
+   "boundary": "internal",
+   "P0": {
+    "status": "pass",
+    "fields": 16,
+    "missing": []
+   },
+   "P1": {
+    "status": "pass",
+    "ex04": true,
+    "tbx": "baseline/termbase-sample.tbx（概念条目待补）"
+   },
+   "P2": {
+    "status": "pass",
+    "translation_mode": "llm-pe",
+    "pe": {
+     "level": "full",
+     "system": "DeepSeek-V4.1-Flash",
+     "disclosure": "任务 evidence 与词条译后编辑记录"
+    },
+    "model_id": "deepseek-v4.1-flash",
+    "pe_evidence": true
+   },
+   "P3": {
+    "status": "blocked",
+    "actors": {
+     "tr-02": "trae-main",
+     "sg-01": "trae-main",
+     "sg-02": "trae-main",
+     "sg-03": "user"
+    },
+    "competences": 0,
+    "reason": "审校 actor 未四分离或缺 competence；单代理不能伪造独立审校"
+   },
+   "P4": {
+    "status": "planned",
+    "sample_plan": "specs/064-flow-spec-audit/results/pilot/samples/logic-preference.json",
+    "scorecard": "pending_manual_evaluation"
+   },
+   "P5": {
+    "status": "blocked",
+    "reason": "无件级编校样本；八项清单待 P5 人工"
+   },
+   "P6": {
+    "status": "blocked",
+    "reason": "无 release sign-off／件级归档；G5 未过"
+   }
+  },
+  {
+   "slug": "environmental-aesthetics",
+   "e2e_task": "tasks\\e\\environmental-aesthetics.json",
+   "state": "done",
+   "boundary": "internal",
+   "P0": {
+    "status": "pass",
+    "fields": 16,
+    "missing": []
+   },
+   "P1": {
+    "status": "pass",
+    "ex04": true,
+    "tbx": "baseline/termbase-sample.tbx（概念条目待补）"
+   },
+   "P2": {
+    "status": "pass",
+    "translation_mode": "llm-pe",
+    "pe": {
+     "level": "full",
+     "system": "DeepSeek-V4.1-Flash",
+     "disclosure": "任务 evidence 与词条译后编辑记录"
+    },
+    "model_id": "deepseek-v4.1-flash",
+    "pe_evidence": true
+   },
+   "P3": {
+    "status": "blocked",
+    "actors": {
+     "tr-02": "trae-main",
+     "sg-01": "trae-main",
+     "sg-02": "trae-main",
+     "sg-03": "user"
+    },
+    "competences": 0,
+    "reason": "审校 actor 未四分离或缺 competence；单代理不能伪造独立审校"
+   },
+   "P4": {
+    "status": "planned",
+    "sample_plan": "specs/064-flow-spec-audit/results/pilot/samples/environmental-aesthetics.json",
+    "scorecard": "pending_manual_evaluation"
+   },
+   "P5": {
+    "status": "blocked",
+    "reason": "无件级编校样本；八项清单待 P5 人工"
+   },
+   "P6": {
+    "status": "blocked",
+    "reason": "无 release sign-off／件级归档；G5 未过"
+   }
+  },
+  {
+   "slug": "imprecise-probabilities",
+   "e2e_task": "tasks\\i\\imprecise-probabilities.json",
+   "state": "done",
+   "boundary": "internal",
+   "P0": {
+    "status": "pass",
+    "fields": 16,
+    "missing": []
+   },
+   "P1": {
+    "status": "pass",
+    "ex04": true,
+    "tbx": "baseline/termbase-sample.tbx（概念条目待补）"
+   },
+   "P2": {
+    "status": "pass",
+    "translation_mode": "llm-pe",
+    "pe": {
+     "level": "full",
+     "system": "DeepSeek-V4.1-Flash",
+     "disclosure": "任务 evidence 与词条译后编辑记录"
+    },
+    "model_id": "deepseek-v4.1-flash",
+    "pe_evidence": true
+   },
+   "P3": {
+    "status": "blocked",
+    "actors": {
+     "tr-02": "trae-main",
+     "sg-01": "trae-main",
+     "sg-02": "trae-main",
+     "sg-03": "user"
+    },
+    "competences": 0,
+    "reason": "审校 actor 未四分离或缺 competence；单代理不能伪造独立审校"
+   },
+   "P4": {
+    "status": "planned",
+    "sample_plan": "specs/064-flow-spec-audit/results/pilot/samples/imprecise-probabilities.json",
+    "scorecard": "pending_manual_evaluation"
+   },
+   "P5": {
+    "status": "blocked",
+    "reason": "无件级编校样本；八项清单待 P5 人工"
+   },
+   "P6": {
+    "status": "blocked",
+    "reason": "无 release sign-off／件级归档；G5 未过"
+   }
+  },
+  {
+   "slug": "action",
+   "e2e_task": "tasks\\a\\action.json",
+   "state": "done",
+   "boundary": "internal",
+   "P0": {
+    "status": "pass",
+    "fields": 16,
+    "missing": []
+   },
+   "P1": {
+    "status": "pass",
+    "ex04": true,
+    "tbx": "baseline/termbase-sample.tbx（概念条目待补）"
+   },
+   "P2": {
+    "status": "pass",
+    "translation_mode": "llm-pe",
+    "pe": {
+     "level": "full",
+     "system": "DeepSeek-V4.1-Flash",
+     "disclosure": "任务 evidence 与词条译后编辑记录"
+    },
+    "model_id": "deepseek-v4.1-flash",
+    "pe_evidence": true
+   },
+   "P3": {
+    "status": "blocked",
+    "actors": {
+     "tr-02": "trae-main",
+     "sg-01": "trae-main",
+     "sg-02": "trae-main",
+     "sg-03": "user"
+    },
+    "competences": 0,
+    "reason": "审校 actor 未四分离或缺 competence；单代理不能伪造独立审校"
+   },
+   "P4": {
+    "status": "planned",
+    "sample_plan": "specs/064-flow-spec-audit/results/pilot/samples/action.json",
+    "scorecard": "pending_manual_evaluation"
+   },
+   "P5": {
+    "status": "blocked",
+    "reason": "无件级编校样本；八项清单待 P5 人工"
+   },
+   "P6": {
+    "status": "blocked",
+    "reason": "无 release sign-off／件级归档；G5 未过"
+   }
+  },
+  {
+   "slug": "axiom-choice",
+   "e2e_task": "tasks\\a\\axiom-choice.json",
+   "state": "done",
+   "boundary": "internal",
+   "P0": {
+    "status": "pass",
+    "fields": 16,
+    "missing": []
+   },
+   "P1": {
+    "status": "pass",
+    "ex04": true,
+    "tbx": "baseline/termbase-sample.tbx（概念条目待补）"
+   },
+   "P2": {
+    "status": "pass",
+    "translation_mode": "llm-pe",
+    "pe": {
+     "level": "full",
+     "system": "DeepSeek-V4.1-Flash",
+     "disclosure": "任务 evidence 与词条译后编辑记录"
+    },
+    "model_id": "deepseek-v4.1-flash",
+    "pe_evidence": true
+   },
+   "P3": {
+    "status": "blocked",
+    "actors": {
+     "tr-02": "trae-main",
+     "sg-01": "trae-main",
+     "sg-02": "trae-main",
+     "sg-03": "user"
+    },
+    "competences": 0,
+    "reason": "审校 actor 未四分离或缺 competence；单代理不能伪造独立审校"
+   },
+   "P4": {
+    "status": "planned",
+    "sample_plan": "specs/064-flow-spec-audit/results/pilot/samples/axiom-choice.json",
+    "scorecard": "pending_manual_evaluation"
+   },
+   "P5": {
+    "status": "blocked",
+    "reason": "无件级编校样本；八项清单待 P5 人工"
+   },
+   "P6": {
+    "status": "blocked",
+    "reason": "无 release sign-off／件级归档；G5 未过"
+   }
+  },
+  {
+   "slug": "newton-principia",
+   "e2e_task": "tasks\\n\\newton-principia.json",
+   "state": "done",
+   "boundary": "internal",
+   "P0": {
+    "status": "pass",
+    "fields": 16,
+    "missing": []
+   },
+   "P1": {
+    "status": "pass",
+    "ex04": true,
+    "tbx": "baseline/termbase-sample.tbx（概念条目待补）"
+   },
+   "P2": {
+    "status": "pass",
+    "translation_mode": "llm-pe",
+    "pe": {
+     "level": "full",
+     "system": "DeepSeek-V4.1-Flash",
+     "disclosure": "任务 evidence 与词条译后编辑记录"
+    },
+    "model_id": "deepseek-v4.1-flash",
+    "pe_evidence": true
+   },
+   "P3": {
+    "status": "blocked",
+    "actors": {
+     "tr-02": "trae-main",
+     "sg-01": "trae-main",
+     "sg-02": "trae-main",
+     "sg-03": "user"
+    },
+    "competences": 0,
+    "reason": "审校 actor 未四分离或缺 competence；单代理不能伪造独立审校"
+   },
+   "P4": {
+    "status": "planned",
+    "sample_plan": "specs/064-flow-spec-audit/results/pilot/samples/newton-principia.json",
+    "scorecard": "pending_manual_evaluation"
+   },
+   "P5": {
+    "status": "blocked",
+    "reason": "无件级编校样本；八项清单待 P5 人工"
+   },
+   "P6": {
+    "status": "blocked",
+    "reason": "无 release sign-off／件级归档；G5 未过"
+   }
+  },
+  {
+   "slug": "logic-dynamic",
+   "e2e_task": "tasks\\l\\logic-dynamic.json",
+   "state": "done",
+   "boundary": "internal",
+   "P0": {
+    "status": "pass",
+    "fields": 16,
+    "missing": []
+   },
+   "P1": {
+    "status": "pass",
+    "ex04": true,
+    "tbx": "baseline/termbase-sample.tbx（概念条目待补）"
+   },
+   "P2": {
+    "status": "pass",
+    "translation_mode": "llm-pe",
+    "pe": {
+     "level": "full",
+     "system": "DeepSeek-V4.1-Flash",
+     "disclosure": "任务 evidence 与词条译后编辑记录"
+    },
+    "model_id": "deepseek-v4.1-flash",
+    "pe_evidence": true
+   },
+   "P3": {
+    "status": "blocked",
+    "actors": {
+     "tr-02": "trae-main",
+     "sg-01": "trae-main",
+     "sg-02": "trae-main",
+     "sg-03": "user"
+    },
+    "competences": 0,
+    "reason": "审校 actor 未四分离或缺 competence；单代理不能伪造独立审校"
+   },
+   "P4": {
+    "status": "planned",
+    "sample_plan": "specs/064-flow-spec-audit/results/pilot/samples/logic-dynamic.json",
+    "scorecard": "pending_manual_evaluation"
+   },
+   "P5": {
+    "status": "blocked",
+    "reason": "无件级编校样本；八项清单待 P5 人工"
+   },
+   "P6": {
+    "status": "blocked",
+    "reason": "无 release sign-off／件级归档；G5 未过"
+   }
+  },
+  {
+   "slug": "japanese-aesthetics",
+   "e2e_task": "tasks\\j\\japanese-aesthetics.json",
+   "state": "done",
+   "boundary": "internal",
+   "P0": {
+    "status": "pass",
+    "fields": 16,
+    "missing": []
+   },
+   "P1": {
+    "status": "pass",
+    "ex04": true,
+    "tbx": "baseline/termbase-sample.tbx（概念条目待补）"
+   },
+   "P2": {
+    "status": "pass",
+    "translation_mode": "llm-pe",
+    "pe": {
+     "level": "full",
+     "system": "DeepSeek-V4.1-Flash",
+     "disclosure": "任务 evidence 与词条译后编辑记录"
+    },
+    "model_id": "deepseek-v4.1-flash",
+    "pe_evidence": true
+   },
+   "P3": {
+    "status": "blocked",
+    "actors": {
+     "tr-02": "trae-main",
+     "sg-01": "trae-main",
+     "sg-02": "trae-main",
+     "sg-03": "user"
+    },
+    "competences": 0,
+    "reason": "审校 actor 未四分离或缺 competence；单代理不能伪造独立审校"
+   },
+   "P4": {
+    "status": "planned",
+    "sample_plan": "specs/064-flow-spec-audit/results/pilot/samples/japanese-aesthetics.json",
+    "scorecard": "pending_manual_evaluation"
+   },
+   "P5": {
+    "status": "blocked",
+    "reason": "无件级编校样本；八项清单待 P5 人工"
+   },
+   "P6": {
+    "status": "blocked",
+    "reason": "无 release sign-off／件级归档；G5 未过"
+   }
+  },
+  {
+   "slug": "kokugaku-school",
+   "e2e_task": "tasks\\k\\kokugaku-school.json",
+   "state": "done",
+   "boundary": "internal",
+   "P0": {
+    "status": "pass",
+    "fields": 16,
+    "missing": []
+   },
+   "P1": {
+    "status": "pass",
+    "ex04": true,
+    "tbx": "baseline/termbase-sample.tbx（概念条目待补）"
+   },
+   "P2": {
+    "status": "pass",
+    "translation_mode": "llm-pe",
+    "pe": {
+     "level": "full",
+     "system": "DeepSeek-V4.1-Flash",
+     "disclosure": "任务 evidence 与词条译后编辑记录"
+    },
+    "model_id": "deepseek-v4.1-flash",
+    "pe_evidence": true
+   },
+   "P3": {
+    "status": "blocked",
+    "actors": {
+     "tr-02": "trae-main",
+     "sg-01": "trae-main",
+     "sg-02": "trae-main",
+     "sg-03": "user"
+    },
+    "competences": 0,
+    "reason": "审校 actor 未四分离或缺 competence；单代理不能伪造独立审校"
+   },
+   "P4": {
+    "status": "planned",
+    "sample_plan": "specs/064-flow-spec-audit/results/pilot/samples/kokugaku-school.json",
+    "scorecard": "pending_manual_evaluation"
+   },
+   "P5": {
+    "status": "blocked",
+    "reason": "无件级编校样本；八项清单待 P5 人工"
+   },
+   "P6": {
+    "status": "blocked",
+    "reason": "无 release sign-off／件级归档；G5 未过"
+   }
+  },
+  {
+   "slug": "digital-art",
+   "e2e_task": "tasks\\d\\digital-art.json",
+   "state": "done",
+   "boundary": "internal",
+   "P0": {
+    "status": "pass",
+    "fields": 16,
+    "missing": []
+   },
+   "P1": {
+    "status": "pass",
+    "ex04": true,
+    "tbx": "baseline/termbase-sample.tbx（概念条目待补）"
+   },
+   "P2": {
+    "status": "pass",
+    "translation_mode": "llm-pe",
+    "pe": {
+     "level": "full",
+     "system": "DeepSeek-V4.1-Flash",
+     "disclosure": "任务 evidence 与词条译后编辑记录"
+    },
+    "model_id": "deepseek-v4.1-flash",
+    "pe_evidence": true
+   },
+   "P3": {
+    "status": "blocked",
+    "actors": {
+     "tr-02": "trae-main",
+     "sg-01": "trae-main",
+     "sg-02": "trae-main",
+     "sg-03": "user"
+    },
+    "competences": 0,
+    "reason": "审校 actor 未四分离或缺 competence；单代理不能伪造独立审校"
+   },
+   "P4": {
+    "status": "planned",
+    "sample_plan": "specs/064-flow-spec-audit/results/pilot/samples/digital-art.json",
+    "scorecard": "pending_manual_evaluation"
+   },
+   "P5": {
+    "status": "blocked",
+    "reason": "无件级编校样本；八项清单待 P5 人工"
+   },
+   "P6": {
+    "status": "blocked",
+    "reason": "无 release sign-off／件级归档；G5 未过"
+   }
+  }
+ ]
+}

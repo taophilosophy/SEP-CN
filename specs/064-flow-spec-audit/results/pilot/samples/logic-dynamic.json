@@ -1,0 +1,158 @@
+{
+ "slug": "logic-dynamic",
+ "total": 243,
+ "target": 25,
+ "sections": 10,
+ "selected": [
+  {
+   "section": "全文",
+   "index": 1,
+   "hash": "7d8acdfe74197dfe83375e676ed7995e1713dd907ceab2d6a933d1d28d87888f",
+   "preview": "程序逻辑是模态逻辑，源于这样一个想法：为程序设计语言中的每个计算机程序 *α* "
+  },
+  {
+   "section": "1. 引言",
+   "index": 2,
+   "hash": "27ed408197dee1e7303b8e7bbcaae0f3be15d81d88ab9acbb2b76b15ddd55ace",
+   "preview": "动态逻辑（DL）是用于表示动态系统的状态与事件的模态逻辑。DL 的语言既是一种断"
+  },
+  {
+   "section": "2. 定义与基本结果",
+   "index": 27,
+   "hash": "0484e18f11a597c823568bf0a9dfb0960ecb182d876d6db73121bc518cae8b21",
+   "preview": "称上图中左侧的标记转移系统为 $M$，右侧的标记转移系统为 $M'$。形式地定义"
+  },
+  {
+   "section": "2. 定义与基本结果",
+   "index": 29,
+   "hash": "02d6d0a17a2e859230b1be08181f5d8421be82593315f022da86404fa2753278",
+   "preview": "现在考虑一个公式 $A$。若对所有世界 $x$ 都有 $x \\in V(A)$，"
+  },
+  {
+   "section": "2. 定义与基本结果",
+   "index": 55,
+   "hash": "12726345e8f7af8b3424d857a91d2b6b2fbf98d3a68de3a3f27c96b102a6f534",
+   "preview": "$[\\alpha;\\beta]A \\leftrightarrow [\\alpha"
+  },
+  {
+   "section": "2. 定义与基本结果",
+   "index": 56,
+   "hash": "09865314af1e29ef21d698a8f44aa6d0f74f9b4accef8595b89fc3b6f3675794",
+   "preview": "**(A2)**"
+  },
+  {
+   "section": "2. 定义与基本结果",
+   "index": 62,
+   "hash": "12dde9544f2f1606dcc3c1955e6a34928d889fe018c5e92add96d2cfeafd7751",
+   "preview": "并且在下述推理规则（**循环不变性** 规则）下封闭："
+  },
+  {
+   "section": "2. 定义与基本结果",
+   "index": 71,
+   "hash": "104ee4e55b09479ad6041aa44368a19750a145b38157653614d0bf6898926e4d",
+   "preview": "| 1. | $[\\alpha^*](A \\rightarrow [\\alpha"
+  },
+  {
+   "section": "2. 定义与基本结果",
+   "index": 82,
+   "hash": "0feb0fb10d2211f7a22aa736dffb892e1be3192d49d30f5ebee586d35cbb08fa",
+   "preview": "对一切公式 $A$，$\\vdash' A$ 当且仅当 $\\models A$。"
+  },
+  {
+   "section": "2. 定义与基本结果",
+   "index": 86,
+   "hash": "0645afe0cc220f79088dd63079f89046ac06210959d4da6ffd458de5f6742750",
+   "preview": "**(L-SAT)**"
+  },
+  {
+   "section": "2. 定义与基本结果",
+   "index": 98,
+   "hash": "0ff0bc40d7e8b86aa247dae24ed51a20aeddd1b056f608097285e082c5dc7c3a",
+   "preview": "这意味着，在过程 (SP2) 中我们如今知道何时应停止寻找满足某公式的模型。因此"
+  },
+  {
+   "section": "3. 结构化程序设计与程序的正确性",
+   "index": 133,
+   "hash": "080910537d82764a14d5138d34e40c1e637ab51942ba74face71fb1affeec27f",
+   "preview": "该猜想的证明由 Sakalauskaite 与 Valiev [1990] 给出"
+  },
+  {
+   "section": "4. 若干变体",
+   "index": 149,
+   "hash": "14f94fdc073de1452b57f54b33b16a3e5e51ea9d7176e45c33f6e06d5670fb98",
+   "preview": "逆构造使我们能够表述关于当前状态之前诸状态的事实，并对程序作反向推理。例如，$["
+  },
+  {
+   "section": "4. 若干变体",
+   "index": 157,
+   "hash": "1166edd894fa4433802f46afcc5d2946ed6e184175557ec5f7b004200e056031",
+   "preview": "容易看出，CPDL 的表达力强于 PDL。为见这一点，考察 CPDL 公式 $\\"
+  },
+  {
+   "section": "4. 若干变体",
+   "index": 158,
+   "hash": "14532bce871bf3e1df58b501d83a037bf990cf16d1aae45d182b00bedba3a9f0",
+   "preview": "### 4.3 带重复与循环的 PDL"
+  },
+  {
+   "section": "4. 若干变体",
+   "index": 160,
+   "hash": "0873c914b907be92b1cc1cea4721b19ac00c2f842ba9fbf2210ed86eb916695d",
+   "preview": "就 RPDL 的复杂性理论而言，Streett [1982] 已经确立了 RPD"
+  },
+  {
+   "section": "4. 若干变体",
+   "index": 167,
+   "hash": "0d23ee17a6e7f87e51af76096488bf48079cef5c13789d81ef1955e03faae670",
+   "preview": "$V(\\mathsf{sloop}(\\alpha)) = \\{x: xR(\\al"
+  },
+  {
+   "section": "4. 若干变体",
+   "index": 170,
+   "hash": "07e911639d6e404721dfa1a93a07df10b559acf97a8cce9e7b1031274d4c2f57",
+   "preview": "只在无穷 LTS 中可满足。尽管如此，Danecki [1984a] 确立了 ("
+  },
+  {
+   "section": "5. 结论",
+   "index": 183,
+   "hash": "8fb22c41c533639f63698c4f247a54ec46edebb3aa17d6057d7631943501efea",
+   "preview": "本文聚焦于命题动态逻辑及其若干重要变体。迄今为止已有多部著作——Goldblat"
+  },
+  {
+   "section": "参考文献",
+   "index": 184,
+   "hash": "48548c91b4e74e572c3b30ce1c9bd3219655372084e325c3f7220b9a538a222e",
+   "preview": "> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记"
+  },
+  {
+   "section": "学术工具",
+   "index": 185,
+   "hash": "89f82dcfb32c5d137fdba6ed8b47d88e22078ae89ae4f082cb3a841a5961dbd5",
+   "preview": "* [如何引用本词条](https://plato.stanford.edu/c"
+  },
+  {
+   "section": "其他网络资源",
+   "index": 186,
+   "hash": "ded196c0fd286573872a4d92f1a0965363b1936360ce0e950645d2c1342f1b04",
+   "preview": "[请联系作者提出建议。]"
+  },
+  {
+   "section": "相关词条",
+   "index": 208,
+   "hash": "081dcd09dacfb2625f0b1b9991fd386f33e763b9116467ec69b557814ba5108d",
+   "preview": "[^harel-1979]: Harel, D., 1979, *First-O"
+  },
+  {
+   "section": "相关词条",
+   "index": 213,
+   "hash": "14d549bb068dc3a6044e72d46f011082a922c8e2bd5ec81d44b91cbde05c9545",
+   "preview": "[^hoare-1969]: Hoare, C., 1969, “An axio"
+  },
+  {
+   "section": "相关词条",
+   "index": 240,
+   "hash": "063b9f72bb5461d63402739a0d8cbe94ccf1ddc68bfaad8dc9bf251af6cdcb21",
+   "preview": "[^vardi-1998]: –––, 1998, “Reasoning abo"
+  }
+ ]
+}

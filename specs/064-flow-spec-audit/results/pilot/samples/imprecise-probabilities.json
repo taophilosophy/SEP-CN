@@ -1,0 +1,224 @@
+{
+ "slug": "imprecise-probabilities",
+ "total": 359,
+ "target": 36,
+ "sections": 11,
+ "selected": [
+  {
+   "section": "全文",
+   "index": 0,
+   "hash": "857cbf0e8e54a732e897b7d50650fe667840384beb3a95b054a36f23223e3e17",
+   "preview": "> *首次发表于 2014 年 12 月 20 日；2019 年 2 月 19 "
+  },
+  {
+   "section": "1. 引言",
+   "index": 7,
+   "hash": "0ba86ff7326415010f7d9fb1637304908ca82cef1441e97ba6fa065980017ac9",
+   "preview": "### 1.1 术语概述"
+  },
+  {
+   "section": "1. 引言",
+   "index": 12,
+   "hash": "14418d1a580051b9027ea9038034a1934dcbf9e8686fc1e0cc96c80e89bedc63",
+   "preview": "因此，若你的信念状态或信态由 $p$ 表征，则你对 $X$ 的置信度就是 $p$"
+  },
+  {
+   "section": "1. 引言",
+   "index": 25,
+   "hash": "057879b0f4357694b68a38b7d28ae72dd23edd57ece3530c9b944a2e86ffa0a6",
+   "preview": "IP 理论的一个重要参数，是该理论被设定具有的规范力量。非精确是义务性的，还是仅"
+  },
+  {
+   "section": "2. 动机",
+   "index": 40,
+   "hash": "083f4b7ff64c53f691c0e86334997a4f73571161e19148485a613df4ed56adbe",
+   "preview": "非精确概率论者可以这样建模：$P(R)=1/3, P(B)=P(Y)=[0,2/"
+  },
+  {
+   "section": "2. 动机",
+   "index": 56,
+   "hash": "16c13ba1b458ab3f40695593615b7022704aba846f6d0d6bc73c062c7b9e02fc",
+   "preview": "证据影响信念。Joyce（2005）[^joyce-2005] 提出，证据权重与"
+  },
+  {
+   "section": "2. 动机",
+   "index": 66,
+   "hash": "01b85a6587baf921df348d2eea8e3d065ea30b95d85ac72a65f579c4add67cf8",
+   "preview": "精确概率论者可以通过指出 **弹性**（resiliency，Skyrms 20"
+  },
+  {
+   "section": "2. 动机",
+   "index": 84,
+   "hash": "0b5d3528e7ca369ce0f5d91688a28ca97ba0ca8d2bccef87f28bb0d18415b4c2",
+   "preview": "例如，你知道 $p(X \\cap Y)$ 以 $p(X)$ 为上界、也以 $p("
+  },
+  {
+   "section": "2. 动机",
+   "index": 93,
+   "hash": "141738739d06e23027c30f7d2123cd1ab4c27513079b68e208a8d36a74c4746b",
+   "preview": "### 2.7 群体信念"
+  },
+  {
+   "section": "3. 关于 IP 的哲学问题",
+   "index": 138,
+   "hash": "0d4a48749fe547324048f318b31f8b72f4d44d62de14145a303390a93a89fdb6",
+   "preview": "即使 Elga 的论证成立，且不存在好的非精确决策规则，那也不能表明 IP 是错"
+  },
+  {
+   "section": "3. 关于 IP 的哲学问题",
+   "index": 155,
+   "hash": "0b9b7b64bc48b16383e3c4f5cafbb14d798276eda12315ae67c68cd92afe4d1f",
+   "preview": "上文已看到一些论证，表明 IP 在表征悬置判断、证据权重与平衡的差异等方面确实优"
+  },
+  {
+   "section": "4. 总结",
+   "index": 161,
+   "hash": "c6c9e445957ffd3cd7e468b49bb7a2750a437f0950a9cc2b171dec41432253f6",
+   "preview": "非精确概率提供了一种理性信念模型，它去除了正统精确概率进路所要求的某些理想化。人"
+  },
+  {
+   "section": "参考文献",
+   "index": 162,
+   "hash": "c7b0acff387154cc6b09deb793e80b40e3773304b7a9f7433552b20bb9b0aee3",
+   "preview": "> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记"
+  },
+  {
+   "section": "学术工具",
+   "index": 163,
+   "hash": "2bc04a28083441ac2c080daa4d9761d409a287effbd99766344ba6c5a9e7e8b0",
+   "preview": "* [如何引用本词条](https://plato.stanford.edu/c"
+  },
+  {
+   "section": "其他网络资源",
+   "index": 164,
+   "hash": "c6ef1b4e8dcfaee07c50d028f34543cae32451109830551ebe9e9345f64e6f77",
+   "preview": "- Bradley, Seamus, 2013, “[Weak rational"
+  },
+  {
+   "section": "相关词条",
+   "index": 167,
+   "hash": "2f785245e9e543841fc68ae0426bc896bb49a87937560e8cd0a2ebe3c0dccdb0",
+   "preview": "感谢 Teddy Seidenfeld、Greg Wheeler、Paul Pe"
+  },
+  {
+   "section": "脚注",
+   "index": 171,
+   "hash": "117446ed25a78f1a2633f125e16516eaf889eb45ed0d3bd4f2ed42fc1be6a1d1",
+   "preview": "[^binmore-2012]: Binmore, Ken and Lisa S"
+  },
+  {
+   "section": "脚注",
+   "index": 179,
+   "hash": "1416af731588c0b7673156016272849fcc811d25e3aee6b57373793bf902c912",
+   "preview": "[^bradley-2016]: –––, 2016, “Vague chanc"
+  },
+  {
+   "section": "脚注",
+   "index": 181,
+   "hash": "15dd80232af26814be6c920afa6589f32bb615ef2a06b4be47256850b0dc0c5c",
+   "preview": "[^bradley-2014a]: Bradley, Seamus, and K"
+  },
+  {
+   "section": "脚注",
+   "index": 194,
+   "hash": "0a5c0ec20f7d0a533fbe15df38a1d0e0849c86b047076f1a446ef3a511727f36",
+   "preview": "[^chandler-2014]: Chandler, Jacob, 2014,"
+  },
+  {
+   "section": "脚注",
+   "index": 202,
+   "hash": "128bb64146eac7aa6317e21abbf4f18312f111146ba36f02aa75ed1759d54758",
+   "preview": "[^dardashti-2014]: Dardashti, Radin, Luk"
+  },
+  {
+   "section": "脚注",
+   "index": 209,
+   "hash": "143c5c0c610a48dbeaa04df52eaca99ed3f18a0ca0347e27937d2bdb61038324",
+   "preview": "[^ferson-2004]: Ferson, Scott and Janos "
+  },
+  {
+   "section": "脚注",
+   "index": 228,
+   "hash": "08f50228d9f98b78ba68f3883e60ab462bcd5ff230f6107147130f565a94467d",
+   "preview": "[^good-1974]: –––, 1974, “A little learn"
+  },
+  {
+   "section": "脚注",
+   "index": 243,
+   "hash": "0be669265ef0f103fa62ed808975bf87beda798a80d474e649e74122aa735104",
+   "preview": "[^herron-1994]: Herron, Timothy, Teddy S"
+  },
+  {
+   "section": "脚注",
+   "index": 265,
+   "hash": "0e1549952df12c475f46e92e07bdd08ac62ecf2de2ca5586ff8e9cd2412d0904",
+   "preview": "[^konek-nd]: Konek, Jason, forthcoming “"
+  },
+  {
+   "section": "脚注",
+   "index": 280,
+   "hash": "10a9084838845d6ec6a9a38e7da3a390d52dc35d4df824784b0b696cdd985ace",
+   "preview": "[^levinstein-nd]: Levinstein, Ben, forth"
+  },
+  {
+   "section": "脚注",
+   "index": 282,
+   "hash": "0c4f6ca2d5e7d1b1facb9f28bda2b29c8848e42174fcf9d25aae6af71f9d3b28",
+   "preview": "[^lewis-1994]: –––, 1994, “Humean Superv"
+  },
+  {
+   "section": "脚注",
+   "index": 286,
+   "hash": "110a39577bbc2f534ee1e6c28fe6cf8223fc442a117ef1e08976bdd1662ac2f1",
+   "preview": "[^machina-1989]: Machina, Mark J., 1989,"
+  },
+  {
+   "section": "脚注",
+   "index": 292,
+   "hash": "1391c55e78403d5555430f23360880398ad395acf0ff74f91d2d9c21f0c5d271",
+   "preview": "[^norton-2007]: Norton, John, 2007, “Pro"
+  },
+  {
+   "section": "脚注",
+   "index": 308,
+   "hash": "10f2e3722bdb24165b26e3e524b35058c89b8658e361f97b2040c2d4b0131708",
+   "preview": "[^savage-1971]: –––, 1971, “Elicitation "
+  },
+  {
+   "section": "脚注",
+   "index": 321,
+   "hash": "044573d74c8dc1fbdcdc6a949bf9e141e7703d1f11ce4851607c7a6d0a5dc61d",
+   "preview": "[^skyrms-2011]: Skyrms, Brian, 2011, “Re"
+  },
+  {
+   "section": "脚注",
+   "index": 329,
+   "hash": "0c2897dcb7ef3f7352d938f86be146cefe7660d3dc0574bff207e04d99ff9c5b",
+   "preview": "[^sturgeon-2008]: Sturgeon, Scott, 2008,"
+  },
+  {
+   "section": "脚注",
+   "index": 332,
+   "hash": "03e4a3c3bcabed284418e8bee27ddb594a693a016702e58bdfa98492e1dc0f7d",
+   "preview": "[^suppes-1991]: Suppes, Patrick, and Mar"
+  },
+  {
+   "section": "脚注",
+   "index": 339,
+   "hash": "0587e66ff207aba7b84877991383c57c564babfaf00210ccfb02098793f3e097",
+   "preview": "[^vicig-2007]: Vicig, Paolo, Marco Zaffa"
+  },
+  {
+   "section": "脚注",
+   "index": 341,
+   "hash": "0af0e996f9ec06dcc26b1ff37477c52783b27403d4c0bfd18f9e3c16a63c3804",
+   "preview": "[^voorhoeve-2016]: Voorhoeve, Alex, Ken "
+  },
+  {
+   "section": "译者注释",
+   "index": 357,
+   "hash": "4481fa6ffbc52c68b76f7beebb5258686b0a158970c81544a817e44d78af409e",
+   "preview": "① 上游原文 §2.3 首段作 “C.S. Pierce”，系 C.S. Pei"
+  }
+ ]
+}

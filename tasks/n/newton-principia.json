@@ -145,7 +145,17 @@
     "register": "现代汉语学术书面语",
     "terminology_basis": "shu-yu-biao.md／ren-ming-biao.md／baseline/term-concepts.md",
     "delivery": "GitBook Markdown＋VitePress 双语站",
-    "qa_level": "CY/T 266＋ISO 5060（六轴机检＋人工复核）"
+    "qa_level": "CY/T 266＋ISO 5060（六轴机检＋人工复核）",
+    "language_pair": "en → zh-Hans",
+    "content_type": "学术百科词条（SEP）",
+    "subject_field": "哲学（按词条分支）",
+    "workflow": "retranslate 22 节点（rules/04）",
+    "pe_level": "full",
+    "pre_edit": "源审计后按 tr-01 术语摘录与提示词准备",
+    "risk_level": "B 中",
+    "confidentiality": "公开源；未公开草稿与审稿意见不入模型",
+    "communication": "任务 evidence＋journal",
+    "qualifications": "见 task.competences（ISO 17100 3.1.3–3.1.7）"
   },
   "pe": {
     "level": "full",

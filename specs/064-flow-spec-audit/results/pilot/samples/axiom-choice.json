@@ -1,0 +1,176 @@
+{
+ "slug": "axiom-choice",
+ "total": 274,
+ "target": 28,
+ "sections": 12,
+ "selected": [
+  {
+   "section": "全文",
+   "index": 0,
+   "hash": "7da07f6b6b7699b70770775b20c276e2d6664c19c891d302a0ab4d365601898d",
+   "preview": "> *首次发表于 2008 年 1 月 8 日；实质修订于 2021 年 12 "
+  },
+  {
+   "section": "1. 选择公理的起源与年表",
+   "index": 10,
+   "hash": "0892fa4cdedb639a55fd60402d2137cdf1d5426a2c62ff1a4e314f4e1053e0a5",
+   "preview": "**AC1** 也可以用 **索引集族** 或 **变元集** 来重新表述。集合"
+  },
+  {
+   "section": "1. 选择公理的起源与年表",
+   "index": 17,
+   "hash": "0b6078ddeb566fa6e75b73c7e8d7341c1a1978570c842f0a76d005cc7f6fb492",
+   "preview": "最后，**AC3** 很容易被证明（在通常的集合论中）等价于：[^note-2]"
+  },
+  {
+   "section": "1. 选择公理的起源与年表",
+   "index": 21,
+   "hash": "0ce8ecfb0cb6e2b6a48705f4c8a7ba5615f398d843467aeee1ae67d0d1a4d819",
+   "preview": "Zermelo 断言，这一原则“纯客观的特性”“是显而易见的”。作此断言时，Ze"
+  },
+  {
+   "section": "2. 选择公理的独立性与相容性",
+   "index": 36,
+   "hash": "0ec5d2bd3870828fc8f2351d080e31adbdebb8987cd5fde7d95215f4d01981b5",
+   "preview": "这一论证表明，**由原子构成的集合** 所组成的族未必都有选择函数；但它未能对数"
+  },
+  {
+   "section": "2. 选择公理的独立性与相容性",
+   "index": 41,
+   "hash": "072f870c072a200f945d3f081300c7f8e9ac373061ba6d4825f793d1eda8ac4b",
+   "preview": "**可构造宇宙** 是类 $L = \\bigcup_{\\alpha\\in \\ma"
+  },
+  {
+   "section": "3. 极大原理与佐恩引理",
+   "index": 46,
+   "hash": "0bc4236f42b5c4db0259cb896d763ecc852e66d210088f727c7391e3cc075bd1",
+   "preview": "**佐恩引理**（**ZL**）：每个非空归纳偏序集都有极大元。"
+  },
+  {
+   "section": "3. 极大原理与佐恩引理",
+   "index": 54,
+   "hash": "0bdad92ae563eb26289110366390da5c32a0007df4788692007e30eb217c2c8b",
+   "preview": "| 1909 | Hausdorff 首次明确表述了一种极大原理，并由 *AC*"
+  },
+  {
+   "section": "4. 选择公理的数学应用",
+   "index": 64,
+   "hash": "079a4416761bcd47b063d5c2e1b6b662fcd8bfbc85666fd6068f438c6eeac0cf",
+   "preview": "$$ \\bigcap_{i\\in I} \\bigcup_{j\\in J} M_{"
+  },
+  {
+   "section": "4. 选择公理的数学应用",
+   "index": 65,
+   "hash": "02332ede22adefd47d1ca805b2626f50c25f2a3c29a86f1938560f340c602be7",
+   "preview": "*AC* 的一个被广泛研究的特例是"
+  },
+  {
+   "section": "4. 选择公理的数学应用",
+   "index": 66,
+   "hash": "0e48425bec92b2e382daacbc5937e9635f5c29fcb090774a95fc5c806392f559",
+   "preview": "**依赖性选择原理**（Bernays 1942, Tarski 1948）[^"
+  },
+  {
+   "section": "4. 选择公理的数学应用",
+   "index": 72,
+   "hash": "0036878312438b8dd7be8ac0d1085c8dbe2ff7819b76567e964658748592d391",
+   "preview": "- **布尔代数的西科尔斯基扩张定理**（Sikorski 1949）①：每个完"
+  },
+  {
+   "section": "5. 选择公理与逻辑",
+   "index": 93,
+   "hash": "0829e48c7a99e8a0261221dde7ecd3ff1f3c6cbf3afce6ebcd23a4dc832c9986",
+   "preview": "由 $0 \\ne 1$ 这一预设即知"
+  },
+  {
+   "section": "5. 选择公理与逻辑",
+   "index": 102,
+   "hash": "05316a7e38b18ebb1f55f7d631bded9e478a8de0cb48fcb5418c4f813552c8f6",
+   "preview": "首先，给定 $U \\subseteq A$，$U$（在 $A$ 中）的一个 **"
+  },
+  {
+   "section": "5. 选择公理与逻辑",
+   "index": 107,
+   "hash": "0a292943d4076f156634c2269d3f7b4cc996664c043ead7c59eebfb86bb0b781",
+   "preview": "$$ R = \\{ ((x,0),(x,0)) : x \\in A \\} \\cu"
+  },
+  {
+   "section": "5. 选择公理与逻辑",
+   "index": 118,
+   "hash": "095053e5ce53acf5f2bdb9bc14e3ce9f93c77ae8553ae0467d6079c55ab5f4bd",
+   "preview": "| **SLEM** | $\\alpha \\vee \\neg \\alpha$（*"
+  },
+  {
+   "section": "参考文献",
+   "index": 143,
+   "hash": "078a5b89a06ca36ea954862e097ad51ce3cb4442b0d74c59e334d17301b7c377",
+   "preview": "> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记"
+  },
+  {
+   "section": "学术工具",
+   "index": 144,
+   "hash": "2093cb3b9d3ee564145ae9138b871c7212e0835d14238f2eb3dc5eb10f22a52a",
+   "preview": "* [如何引用本词条](https://plato.stanford.edu/c"
+  },
+  {
+   "section": "其他网络资源",
+   "index": 145,
+   "hash": "32ee6549b1d8c63851ca446cba59034e0944ad786416fe7647776f113e0632a2",
+   "preview": "- [选择公理主页](http://www.math.vanderbilt.ed"
+  },
+  {
+   "section": "相关词条",
+   "index": 146,
+   "hash": "04cc06d6d52a20bc41fc915d59445c64fe98401d4147a221489d87cc89b7b97f",
+   "preview": "范畴论 | 哥德尔，库尔特 | 逻辑史：直觉主义逻辑 | 逻辑：直觉主义 | 数"
+  },
+  {
+   "section": "脚注",
+   "index": 157,
+   "hash": "0d2911551d1bf424665a20841fb091208e8b36cc63aa27a6d51964707cfa9056",
+   "preview": "[^note-6]: For a detailed history of the"
+  },
+  {
+   "section": "脚注",
+   "index": 217,
+   "hash": "0c33a9a6cdfa4b580a22489c18ee44586a2675becc886cbdc9b211eaf5363b83",
+   "preview": "[^hausdorff-1914]: –––, 1914. *Grundzüge"
+  },
+  {
+   "section": "脚注",
+   "index": 226,
+   "hash": "0aed6f101c15543641ae86f04fbc82682f7fe7a613034b30a33db2de2cab091f",
+   "preview": "[^klimovsky-1958]: Klimovsky, G., 1958. "
+  },
+  {
+   "section": "脚注",
+   "index": 229,
+   "hash": "04779df9bf8112a43206aac893ca21de3a1831e005734d7931bb0c6e49eb4d92",
+   "preview": "[^lindenbaum-1938]: Lindenbaum, A., and "
+  },
+  {
+   "section": "脚注",
+   "index": 245,
+   "hash": "06a506d95fa219a405a872923785c432dcd74a5816fd0f1ac93548ebdc3cbad5",
+   "preview": "[^russell-1906]: Russell, B., 1906. “On "
+  },
+  {
+   "section": "脚注",
+   "index": 248,
+   "hash": "0b8be143dff574e3c56e7325d42afb453d82c23957996470419f3595b26410b1",
+   "preview": "[^solovay-1970]: Solovay, R., 1970. “A m"
+  },
+  {
+   "section": "脚注",
+   "index": 253,
+   "hash": "043ceb4aae97a7b267cc451fd7db8230c03a556bbfa8a48ab87558604bfeda93",
+   "preview": "[^takeuti-1961]: Takeuti, G., 1961. “Rem"
+  },
+  {
+   "section": "译者注释",
+   "index": 273,
+   "hash": "396378d0bdb68aad78ceb7e0ea999f9bf6e578876cde231be5c41b566bbf13b6",
+   "preview": "③ 上游关系式 $R$ 的括号残缺，且第三、四组条件作 $x\\in A$；按上下"
+  }
+ ]
+}

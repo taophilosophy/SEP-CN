@@ -1,0 +1,230 @@
+{
+ "slug": "logic-preference",
+ "total": 365,
+ "target": 37,
+ "sections": 15,
+ "selected": [
+  {
+   "section": "全文",
+   "index": 0,
+   "hash": "2e1724bc0c55c43aff06c812e6f34cacb885cd257944291afc4aa022885caebf",
+   "preview": "> *首次发表于 2025 年 7 月 28 日。*"
+  },
+  {
+   "section": "1. 引言",
+   "index": 6,
+   "hash": "211389485f162aa3d588782b4d32d874d69f280e546d8f7ebabcab319b7ab11c",
+   "preview": "偏好逻辑的另一关键主题是偏好改变，这与纳入新信息的更广泛趋势相一致。正如知识、信"
+  },
+  {
+   "section": "2. 偏好逻辑的句法进路",
+   "index": 25,
+   "hash": "0baed62e21901057a6c4edd6d9c9038d75e4f9a6bf1030712b02b253b5d44e49",
+   "preview": "理论 B 由公设与规则组成，见图 2。公设 $B_1–B_5$ 与 $A_1–A"
+  },
+  {
+   "section": "2. 偏好逻辑的句法进路",
+   "index": 34,
+   "hash": "169170e1c73ab20d8f4f5c2ea091cefc0422069e06c7b06c28e64098026eba35",
+   "preview": "$$\\begin{gather*} p\\equiv \\neg p\\land q\\"
+  },
+  {
+   "section": "2. 偏好逻辑的句法进路",
+   "index": 48,
+   "hash": "0c0fde9a02f0c41407fff1bdfce8a32199d2b4041ee80b1318fa7492699c287c",
+   "preview": "由于原子偏好中没有析取，分配是空泛的。第三步“放大”给出范式"
+  },
+  {
+   "section": "2. 偏好逻辑的句法进路",
+   "index": 54,
+   "hash": "11f22ed7edbdadbe7a4f295e3b472faec06ef4b9b51d55e0a9efe0d141162eca",
+   "preview": "**冯·赖特的五项偏好原则**"
+  },
+  {
+   "section": "2. 偏好逻辑的句法进路",
+   "index": 57,
+   "hash": "0bac78a29efd15e51adec39e2bd729cb5fac8236480668757082543c04cc79a7",
+   "preview": "冯·赖特的另一贡献是尝试用“变化”来理解偏好的意义。他的分析揭示了一种独特的偏好"
+  },
+  {
+   "section": "2. 偏好逻辑的句法进路",
+   "index": 68,
+   "hash": "0be1a6e935bc40d3aca8944fd4256eef7315cb78620e3e9f805ae84c52f87deb",
+   "preview": "*图 4：* 更多偏好原则"
+  },
+  {
+   "section": "3. 偏好逻辑的语义进路",
+   "index": 86,
+   "hash": "054e4810a7d79076841d267a0660feba0bc9350c92d7c88ef7e3365cf190dcd4",
+   "preview": "公理 P1、P2（只施用肯定前件规则）"
+  },
+  {
+   "section": "3. 偏好逻辑的语义进路",
+   "index": 111,
+   "hash": "0956432c981c3ce572faefa9bef1f0b9de62e6566a6d6f14f7d66886b60c45dd",
+   "preview": "$$\\begin{align*} p\\geq^{\\forall\\forall}q"
+  },
+  {
+   "section": "3. 偏好逻辑的语义进路",
+   "index": 122,
+   "hash": "15b5005179cfd6d097464d5d8f26d71b9a119f1b6d119df4e55d7a373971b0fc",
+   "preview": "> $\\mathcal{M} \\models \\varphi > \\psi$ 当"
+  },
+  {
+   "section": "4. 基于理由的偏好",
+   "index": 133,
+   "hash": "0e64fd9ca27b0dc46f4bde3c98e238eb7265efafb84d4769a0d65495eb0f37fb",
+   "preview": "基于理由的偏好概念源于冯·赖特（1963）[^wright-1963] 提出的著"
+  },
+  {
+   "section": "4. 基于理由的偏好",
+   "index": 138,
+   "hash": "1393d04ade3f86f5ca9412e8457147b1284d30ce8ce6b04ce16b29bc89add48b",
+   "preview": "#### 4.2.1 优先性与偏好"
+  },
+  {
+   "section": "5. 偏好改变",
+   "index": 177,
+   "hash": "13136f4be4bb7e41ab7b59d2201be8935b3ee3358766e16e33abd91a9ce4803e",
+   "preview": "偏好会因多种触发因素而改变，因此偏好改变是一个自然会纳入考虑的现象。逻辑建模因而"
+  },
+  {
+   "section": "5. 偏好改变",
+   "index": 188,
+   "hash": "0cc19020cbd0f43e8fcd0d61d8997e84c5743197d9735324b3c408966d0501ab",
+   "preview": "更一般地，在此框架中，建议 $\\sharp(\\varphi)$ 可理解为命题动态"
+  },
+  {
+   "section": "5. 偏好改变",
+   "index": 193,
+   "hash": "1833a8da74422e49d599b56a010373042d3185099af9d27ff17da0e38e430cfb",
+   "preview": "$$\\Uparrow \\varphi(R) := (?\\varphi;R;?\\v"
+  },
+  {
+   "section": "5. 偏好改变",
+   "index": 205,
+   "hash": "0ef1a696dc02b2b373a8bcdeabf55874e41714be028bcceb3a0333bbb4ae8b0d",
+   "preview": "总之，信念更新驱动偏好改变，这表明两者关系密切。AGM 理论与动态逻辑系统等框架"
+  },
+  {
+   "section": "5. 偏好改变",
+   "index": 233,
+   "hash": "12e4f810b0911e6e1b74b1d1c1da2f944cb609a5866f767ed7212dc7bd17e472",
+   "preview": "在涉及不确定性的情形中，“决策策略”通过优先考虑每个选项被相信满足的最重要标准来"
+  },
+  {
+   "section": "6. 其他条件不变偏好与 CP 网",
+   "index": 241,
+   "hash": "101e2fbb4ee72a5c452e5c3ecd211e0b9492b35af70f304a4cd2910c005e187c",
+   "preview": "形式上，设 $\\Omega$ 为状态集，$\\mathcal{E}(\\Omega)"
+  },
+  {
+   "section": "6. 其他条件不变偏好与 CP 网",
+   "index": 261,
+   "hash": "0c17fad912a73c52d3d1472ff886aee0487fd0a3333f52e4da797d86c82f0a36",
+   "preview": "设 $V = \\{X_1, X_2, \\ldots, X_n\\}$ 是变量集，其"
+  },
+  {
+   "section": "7. 跨研究领域的偏好",
+   "index": 274,
+   "hash": "11ffaac6523494f92e040016b088c1eaf0e99631bd7464e31704c405b5b4076e",
+   "preview": "### 7.1 偏好与条件逻辑"
+  },
+  {
+   "section": "7. 跨研究领域的偏好",
+   "index": 285,
+   "hash": "0c68d01fb6cb50f9e9cc39af852028915ee0797ca582869ebd308ca51f60c001",
+   "preview": "Makinson（1999）[^makinson-1999] 强调规范（无真值的"
+  },
+  {
+   "section": "8. 结论",
+   "index": 291,
+   "hash": "838dda63dd96bda8350dec12a262cc7d417b0dbde5e202f854b7a021ea299426",
+   "preview": "偏好逻辑为理解行动者如何比较情境并决策提供了一个多用途框架。本词条综述了该领域的"
+  },
+  {
+   "section": "参考文献",
+   "index": 293,
+   "hash": "58d6d257f118e06c5f6db420a59103e36764e860909717fdcb58d1d4a89410c8",
+   "preview": "> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记"
+  },
+  {
+   "section": "学术工具",
+   "index": 294,
+   "hash": "e137e12ddb273501680ed6e11ac24a0f0bf3ba35f828f85e6abeb63005d02f5c",
+   "preview": "* [如何引用本词条](https://plato.stanford.edu/c"
+  },
+  {
+   "section": "其他网络资源",
+   "index": 295,
+   "hash": "0acfe8d712bf9bc26ce9d2c0f21fbf7cb8d2c04bf8ccb674eb86a39a1da18f1e",
+   "preview": "[请与作者联系提供建议。]"
+  },
+  {
+   "section": "相关词条",
+   "index": 296,
+   "hash": "e2544504a462f0e52e140a8359528a059a425ea1268391be90bed3baceca8344",
+   "preview": "动态认知逻辑 | 模态逻辑 | 信念修正的逻辑 | 偏好 | 社会选择理论"
+  },
+  {
+   "section": "脚注",
+   "index": 301,
+   "hash": "0089fab04ba033c9cb167021f7d1f459247ead97500a4dbaef81e9c72c1dbfee",
+   "preview": "[^rescher-1966]: Rescher, Nicholas, 1966"
+  },
+  {
+   "section": "脚注",
+   "index": 314,
+   "hash": "16edc2086b555c02289a4db51f7e41106a35d9af7f1455f79228eb1ee0e62bb2",
+   "preview": "[^liu-2008]: Liu, Fenrong, 2008, *Changi"
+  },
+  {
+   "section": "脚注",
+   "index": 322,
+   "hash": "10cc134c0814cbf808c322cbd499208fd57e50a8faa259be1560750865a5895a",
+   "preview": "[^harel-2000]: Harel, David, Dexter Koze"
+  },
+  {
+   "section": "脚注",
+   "index": 328,
+   "hash": "022987ae47e26416c224d02ccba916331d844e735d74ea44a02ce50d73e14bf2",
+   "preview": "[^wilson-2004]: Wilson, Nic, 2004, “Exte"
+  },
+  {
+   "section": "脚注",
+   "index": 341,
+   "hash": "0326d5dfbc2d19a9f30f352a9f5d0d9d57a76313bf0593b852a986e3515579c4",
+   "preview": "[^benzmüller-2020]: Benzmüller, Christop"
+  },
+  {
+   "section": "脚注",
+   "index": 344,
+   "hash": "0088c74c58c961b722aacf5b63dcbd4b64df328dccc945b7dd881f2b724e2ced",
+   "preview": "[^cai-2023]: Cai, Jianlong, Jieyu Zhan, "
+  },
+  {
+   "section": "脚注",
+   "index": 352,
+   "hash": "0c606e312973c39a3324ad1ca83eb692f39c097c6829c5600d93cc68905618ee",
+   "preview": "[^fu-2020]: Fu, Xiaoxuan, 2020, “Prefere"
+  },
+  {
+   "section": "脚注",
+   "index": 354,
+   "hash": "0644726d29fc69e38675ba48d77bcefe01d4d435bb0eecaaa07038482ec0fd6d",
+   "preview": "[^grossi-2022]: Grossi, Davide, Wiebe va"
+  },
+  {
+   "section": "脚注",
+   "index": 356,
+   "hash": "0ff88890fbc4bb3697f1b11bcbee01f0ee8da599c08dbe7d447307ba850065ed",
+   "preview": "[^horty-2012]: Horty, John Francis, 2012"
+  },
+  {
+   "section": "译者注释",
+   "index": 364,
+   "hash": "e14bc96c2b618b3d7963507efa4738acdc00e8ca7dede734e276cfb07999c8dd",
+   "preview": "① 上游原文“严格子关系”条作 $\\trianglerighteq_{\\Gamm"
+  }
+ ]
+}
