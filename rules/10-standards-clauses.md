@@ -84,6 +84,17 @@
 
 **评估者能力**（ISO 5060 §4）：评估者须登记资质依据与所属角色；终审评估者不得是初译者（D1=C，`sg-03` 强制分离）；双评不一致由第三人仲裁，仲裁结论写入 `evidence`。
 
+**机读与工具（T173／ADR-0095）**：
+
+* 评分卡：`rules/qa-scorecard.json`（七类、严重度权重、公式、阈值、抽样）；校验与计分 `python tools/check_qa_scorecard.py [--score findings.json]`。
+* 抽样：`python tools/qa_sample.py <zh-doc>`；H2 分层、每层≥1 段、总量≥max(20, 10%)、`sha256(slug+段序号)` 定序；任一样本 Critical 即转全量复核。
+* 评估者：`rules/evaluator-registry.json`；资格记录沿用 T171 `competences`；校准模板见 `results/t173-calibration-template.md`，阈值先测后定。
+* 口径分写：出版编校用 CY/T 266-2023 的 1/10000；GB/T 19682-2005 的 1.5‰ 只作服务基线，不作出版门；`project_spec.qa_level` 须写明所用门。
+
+## 10.8 学术编校清单（T173）
+
+P5 G-Proof 按 `results/t173-academic-checklist.md` 逐项验收：copyedit、page proofs、索引／译名对照、图表、注释、参考文献、出版信息、译者署名；每项须有样本与验收证据，未过不得进 P6。本清单不设权利／许可门（7.1 权利线不采纳）。
+
 ## 10.5 不采纳与不适用（单一事实源在登记册）
 
 * `not_adopted` 层（`rules/standards.json`）：ISO 999:1996、GB/T 22466-2023（索引，网页词条无对象；CY/T 123 5.11.4 允许以译名对照表替代，本库以 `shu-yu-biao`／`ren-ming-biao` 承担）、ISO 20771:2020、ISO 20252:2026、ASTM F2575-25、SAE J2450_201608、GB 45438-2025。

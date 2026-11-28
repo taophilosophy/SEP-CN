@@ -1,0 +1,88 @@
+{
+  "version": "2026-11-28",
+  "standard": "ISO 5060:2024",
+  "categories": {
+    "terminology": {
+      "name": "术语",
+      "process": ["rv-01"],
+      "severity": "Major",
+      "weight": 5
+    },
+    "accuracy": {
+      "name": "准确性",
+      "process": ["tr-03", "rv-02", "q1", "q2"],
+      "severity": "Critical",
+      "weight": 10
+    },
+    "linguistic": {
+      "name": "语言规范",
+      "process": ["q3", "tr-04"],
+      "severity": "Major",
+      "weight": 5
+    },
+    "style": {
+      "name": "风格",
+      "process": ["q4", "tr-04"],
+      "severity": "Major",
+      "weight": 3
+    },
+    "locale": {
+      "name": "地区惯例",
+      "process": ["q5", "q6", "rv-09"],
+      "severity": "Minor",
+      "weight": 1
+    },
+    "audience": {
+      "name": "受众适宜",
+      "process": ["sg-01", "sg-02"],
+      "severity": "Major",
+      "weight": 3
+    },
+    "design": {
+      "name": "设计与标记",
+      "process": ["ex-05", "rv-09"],
+      "severity": "Minor",
+      "weight": 1
+    }
+  },
+  "severity": {
+    "Critical": 10,
+    "Major": 5,
+    "Minor": 1
+  },
+  "formula": "score = max(0, 100 - sum(category_weight * severity_weight * count) / words * 1000)",
+  "thresholds": {
+    "publication": {
+      "critical": 0,
+      "min_score": 90
+    },
+    "service": {
+      "critical": 0,
+      "min_score": 80
+    }
+  },
+  "metrics": {
+    "publication": {
+      "standard": "CY/T 266-2023",
+      "limit": "1/10000",
+      "use": "出版编校"
+    },
+    "service": {
+      "standard": "GB/T 19682-2005",
+      "limit": "1.5‰",
+      "use": "服务基线，不作出版门"
+    }
+  },
+  "sampling": {
+    "machine": "all",
+    "manual": {
+      "strata": "H2",
+      "min_per_stratum": 1,
+      "min_ratio": 0.1,
+      "min_segments": 20,
+      "order": "sha256(slug+segment)",
+      "critical_escalation": "full"
+    }
+  },
+  "scorecard_evidence": "results/qa/<slug>-<date>.json"
+}

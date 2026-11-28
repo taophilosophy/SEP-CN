@@ -179,6 +179,8 @@
 
 三个口径不得互相替代；`project_spec` 须写明哪个门用哪个口径。抽样只用于度量与抽审，不替代出版前必要审校。
 
+> 落点（T173）：机读评分卡 `rules/qa-scorecard.json`；计分 `tools/check_qa_scorecard.py --score`；抽样 `tools/qa_sample.py`；评估者 `rules/evaluator-registry.json`。
+
 ## 10 学术出版与编校
 
 按 CY/T 123 与学术出版社流程补齐：
@@ -189,6 +191,8 @@
 - 生产：排版、page proofs、cross-references、running heads、脚注、图表、e-book navigation。
 - 发布：metadata、稳定 URL／DOI、无障碍、归档。
 - 发布后：勘误、读者反馈、上游更新、版本记录、抽审。
+
+> 落点（T173）：八项编校清单见 `results/t173-academic-checklist.md`；P5 G-Proof 逐项验收，不设权利门。
 
 ## 11 记录、度量、AI 治理、发布后
 

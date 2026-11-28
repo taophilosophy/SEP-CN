@@ -1,0 +1,23 @@
+{
+  "version": "2026-11-28",
+  "roles": {
+    "evaluator": {
+      "required": ["qualification", "experience", "domain", "training"],
+      "independence": "not-translator",
+      "calibration": "double"
+    },
+    "arbiter": {
+      "required": ["qualification", "experience", "domain", "training"],
+      "independence": "not-evaluator-a-or-b",
+      "calibration": "third"
+    }
+  },
+  "calibration": {
+    "method": "double",
+    "agreement_metric": "percent_agreement",
+    "threshold": null,
+    "threshold_status": "pending_pilot",
+    "record_fields": ["slug", "scorecard_version", "evaluator_a", "evaluator_b",
+                      "scores", "agreement", "arbiter", "conclusion", "date"]
+  }
+}

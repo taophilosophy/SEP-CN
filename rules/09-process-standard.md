@@ -132,6 +132,7 @@
 ## 5. 度量与测量过程（ISO/IEC 15939）
 
 * 测量三要素应成对登记：**指标—数据源—判定阈值**。已运行指标：门禁硬错误数（check_all，门禁清单以 `--list-gates` 为准）、灭错率候选（校对规程 75%/75%/≤1‱ 模型）、差错率候选（CY/T 266 四档）、密度统计（破折号/“一个”/AI 词）。
+* 评分卡与抽样（T173）：`rules/qa-scorecard.json`；计分 `python tools/check_qa_scorecard.py --score <findings>`；抽样 `python tools/qa_sample.py <zh-doc>`；评估者登记 `rules/evaluator-registry.json`。
 * 新指标入 rules/05 登记表并声明：数据源（哪份信息项）、采集命令、阈值来源（标准条款或基线报告）；无阈值来源的指标只报告不判定。
 * 量化验收线研究（specs/028 校者）产出基线报告后方可立判定阈值；不以无基线的阈值设门。
 
