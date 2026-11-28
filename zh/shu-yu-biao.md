@@ -11,10 +11,12 @@
 
 ## A
 
+| AI art | — | AI 艺术 | digital-art | 学界惯例（艺术哲学通行（人工智能艺术））；凭证 2026-11-28 | 2026-11-28 |
 | Ajari | 阿闍梨 | 阿阇梨 | kokugaku-school | 真言宗汉语传统（高僧位阶）；学界通行 | 2026-11-28 |
 | Amaterasu | 天照 | 天照大神 | kokugaku-school | 学界通行；日本神话太阳神 | 2026-11-28 |
 | Ame-no-Minakanushi | 天之御中主神 | 天之御中主神 | kokugaku-school | 日本神话三创造神之一；汉字原样 | 2026-11-28 |
 | arahaniyo | 現し世 | 显世 | kokugaku-school | 日本神道语境（可见世界）；学界通行 | 2026-11-28 |
+| artbot | — | 艺术机器人 | digital-art | 学界惯例（AI 艺术语境（MidJourney 一类；首现括注原文））；凭证 2026-11-28 | 2026-11-28 |
 | ASCII art | — | ASCII 艺术 | digital-art | 学界惯例（计算机艺术与美学通行译名（ASCII＝美国信息交换标准代码））；凭证 2026-11-28 | 2026-11-28 |
 | Ashihara no nakatsu kuni | 葦原の中つ国 | 苇原中国 | kokugaku-school | 日本神话地名；学界通行汉译 | 2026-11-28 |
 | aspect ratio | — | 宽高比 | digital-art | 学界惯例（影像技术通行）；凭证 2026-11-28 | 2026-11-28 |
@@ -30,7 +32,11 @@
 | computer art | — | 计算机艺术 | digital-art | 学界惯例（艺术学通行（computer art 与 digital art 对举））；凭证 2026-11-28 | 2026-11-28 |
 | converse (program) | — | 逆 | logic-dynamic | 学界惯例（程序逻辑义；与 converse 逆命题（传统逻辑）分列，撞形豁免）；凭证 2026-11-27 | 2026-11-27 |
 | copyability / replicability | — | 可复制性 | digital-art | 学界惯例（豪格兰德数字系统讨论通行）；凭证 2026-11-28；2026-11-28 并键（replicability 为 §2 异形，旧键 copyability，首现 digital-art） | 2026-11-28 |
+| creative agency | — | 创造性能动性 | digital-art | 学界惯例（艺术哲学通行（与 agency 能动性同族））；凭证 2026-11-28 | 2026-11-28 |
+| creative attribution | — | 创造性归属 | digital-art | 学界惯例（艺术哲学通行（与 creative agency 创造性能动性同族））；凭证 2026-11-28 | 2026-11-28 |
+| creative control | — | 创造性控制 | digital-art | 学界惯例（艺术哲学通行）；凭证 2026-11-28 | 2026-11-28 |
 | data-output | — | 数据输出 | digital-art | 学界惯例（罗多维克术语（与 isomorphic transcription 同构转录对举））；凭证 2026-11-28 | 2026-11-28 |
+| dataset | — | 数据集 | digital-art | 学界惯例（计算机科学通行）；凭证 2026-11-28 | 2026-11-28 |
 | dense | — | 稠密的 | digital-art | 学界惯例（古德曼术语（与 differentiated 分立的对举））；凭证 2026-11-28 | 2026-11-28 |
 | deterministic | — | 确定的 | logic-dynamic | 学界惯例（程序语义通行（与 non-deterministic 非确定的对举））；凭证 2026-11-27 | 2026-11-27 |
 | differentiated | — | 分立的 | digital-art | 学界惯例（古德曼术语（与 dense 稠密的对举）；与 finite differentiation 有限分立同族）；凭证 2026-11-28 | 2026-11-28 |
@@ -51,6 +57,7 @@
 | extension (semantics) | — | 外延（语义学） | digital-art | 学界惯例（逻辑学通行；与 extension 广延（笛卡尔物理学义）分列，同形异义）；凭证 2026-11-28 | 2026-11-28 |
 | finite automaton | — | 有限自动机 | logic-dynamic | 学界惯例（计算机科学通行）；凭证 2026-11-27 | 2026-11-27 |
 | formula | — | 公式 | logic-dynamic | 学界惯例（数理逻辑通行）；凭证 2026-11-27 | 2026-11-27 |
+| generative algorithm | — | 生成算法 | digital-art | 学界惯例（计算机科学通行（与 deep learning 深度学习同族））；凭证 2026-11-28 | 2026-11-28 |
 | Hoare calculus | — | 霍尔演算 | logic-dynamic | 学界惯例（程序验证通行）；凭证 2026-11-27 | 2026-11-27 |
 | immersion | — | 沉浸 | digital-art | 学界惯例（游戏与新媒体研究通行）；凭证 2026-11-28 | 2026-11-28 |
 | input-output system | — | 输入—输出系统 | digital-art | 学界惯例（计算机科学通行）；凭证 2026-11-28 | 2026-11-28 |
@@ -62,16 +69,21 @@
 | isomorphic transcription | — | 同构转录 | digital-art | 学界惯例（罗多维克术语（与 data-output 数据输出对举）；首现括注原文）；凭证 2026-11-28 | 2026-11-28 |
 | iteration | — | 迭代 | logic-dynamic | 学界惯例（程序逻辑通行（unbounded iteration 无界迭代））；凭证 2026-11-27 | 2026-11-27 |
 | Kripke frame | — | 克里普克框架 | logic-dynamic | 学界惯例（模态逻辑通行（与 Kripke model 克里普克模型同族））；凭证 2026-11-27 | 2026-11-27 |
+| locative project | — | 定位项目 | digital-art | 学界惯例（定位媒介研究通行（与 locative art 定位艺术同族））；凭证 2026-11-28 | 2026-11-28 |
 | medium | — | 媒介 | digital-art | 学界惯例（艺术哲学通行（artistic medium 艺术媒介；复数 media 同））；凭证 2026-11-28 | 2026-11-28 |
 | medium-based appreciation | — | 基于媒介的欣赏 | digital-art | 学界惯例（艺术哲学通行（与 medium-free 无媒介对举））；凭证 2026-11-28 | 2026-11-28 |
 | medium-free art | — | 无媒介艺术 | digital-art | 学界惯例（媒介理论通行（与 medium-based appreciation 对举））；凭证 2026-11-28 | 2026-11-28 |
+| mixed reality | — | 混合现实 | digital-art | 学界惯例（新媒体研究通行）；凭证 2026-11-28 | 2026-11-28 |
 | multiple | — | 多件（艺术本体论） | digital-art | 学界惯例（艺术本体论通行（与 singular 单件对举））；凭证 2026-11-28 | 2026-11-28 |
 | musical notation | — | 音乐记谱法 | digital-art | 学界惯例（音乐哲学通行（古德曼记法理论语境）；与 notational relativity 记法相对性同族）；凭证 2026-11-28 | 2026-11-28 |
+| navigation system | — | 导航系统 | digital-art | 学界惯例（计算机与地理信息通行）；凭证 2026-11-28 | 2026-11-28 |
 | nested media | — | 嵌套媒介 | digital-art | 学界惯例（数字艺术理论通行（Gaut 用语））；凭证 2026-11-28 | 2026-11-28 |
 | NFT art | — | NFT 艺术 | digital-art | 学界惯例（艺术界通行（NFT＝non-fungible token，缩写照录））；凭证 2026-11-28 | 2026-11-28 |
 | non-deterministic | — | 非确定的 | logic-dynamic | 学界惯例（程序逻辑通行（与 non-deterministic choice 非确定选择同族））；凭证 2026-11-27 | 2026-11-27 |
 | object-based | — | 基于对象的 | digital-art | 学界惯例（艺术本体论通行（与 process-based 基于过程的对举））；凭证 2026-11-28 | 2026-11-28 |
 | ontological pluralism | — | 本体论多元论 | digital-art | 学界惯例（艺术本体论通行）；凭证 2026-11-28 | 2026-11-28 |
+| playability | — | 可玩性 | digital-art | 学界惯例（游戏研究通行）；凭证 2026-11-28 | 2026-11-28 |
+| playable | — | 可玩的／可玩 | digital-art | 学界惯例（游戏研究通行（与 playability 可玩性同族））；凭证 2026-11-28 | 2026-11-28 |
 | process-based | — | 基于过程的 | digital-art | 学界惯例（艺术本体论通行（Nguyen；与 object-based 基于对象的对举））；凭证 2026-11-28 | 2026-11-28 |
 | program | — | 程序 | logic-dynamic | 学界惯例（程序逻辑通行（PDL 两大句法范畴之一））；凭证 2026-11-27 | 2026-11-27 |
 | program construct | — | 程序构造 | logic-dynamic | 学界惯例（程序逻辑通行）；凭证 2026-11-27 | 2026-11-27 |
@@ -83,6 +95,7 @@
 | satisfiable | — | 可满足的 | logic-dynamic | 学界惯例（数理逻辑通行（与 satisfiability 可满足性同族））；凭证 2026-11-27 | 2026-11-27 |
 | semantic differentiation | — | 语义分立 | digital-art | 学界惯例（古德曼《艺术语言》术语）；凭证 2026-11-28 | 2026-11-28 |
 | sequence (program) | — | 顺序 | logic-dynamic | 学界惯例（程序构造义（α;β 顺序复合）；与一般“序列”分列）；凭证 2026-11-27 | 2026-11-27 |
+| sequencer | — | 音序器 | digital-art | 学界惯例（音乐技术通行）；凭证 2026-11-28 | 2026-11-28 |
 | singular | — | 单件（艺术本体论） | digital-art | 学界惯例（艺术本体论通行（与 multiple 多件对举））；凭证 2026-11-28 | 2026-11-28 |
 | singularity (art) | — | 独一性（艺术本体论） | digital-art | 学界惯例（艺术本体论通行；与 singularity (cosmological) 奇点分列，同形异义）；凭证 2026-11-28 | 2026-11-28 |
 | state (PDL) | — | 状态 | logic-dynamic | 学界惯例（程序逻辑义；与 state (action ontology) 状态 分列，撞形豁免 2026-11-27：同形异义）；凭证 2026-11-27 | 2026-11-27 |
@@ -94,6 +107,7 @@
 | translatability | — | 可转译性 | digital-art | 学界惯例（媒介理论通行（medium 转译义））；凭证 2026-11-28 | 2026-11-28 |
 | ultrasubjective | — | 超主观的 | digital-art | 学界惯例（TeamLab 术语；首现括注原文）；凭证 2026-11-28 | 2026-11-28 |
 | video game | — | 电子游戏 | digital-art | 学界惯例（游戏研究通行（videogame 同义拼写））；凭证 2026-11-28 | 2026-11-28 |
+| virtual player | — | 虚拟玩家 | digital-art | 学界惯例（游戏研究通行）；凭证 2026-11-28 | 2026-11-28 |
 | world (modal logic) | — | 世界 | logic-dynamic | 学界惯例（模态逻辑义；与《世界》Le Monde 分列，撞形豁免 2026-11-27：同形异义）；凭证 2026-11-27 | 2026-11-27 |
 | 键 | 原文 | 译法 | 首现（slug 或书目） | 依据 | 裁定日期 |
 | --- | --- | --- | --- | --- | --- |
@@ -7589,7 +7603,7 @@
 | sequential composition; parallel composition | — | 顺序复合；并行复合 | logic-preference | 学界惯例；动态逻辑/进程代数通行 | 2026-11-08 |
 | sequential decision | — | 序贯决策 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·数学·运筹学·决策论·价值论，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | sequential priority rule | — | 序列优先规则 | belief-merging | 学界通行（判断聚合文献）；凭证 2026-11-10 | 2026-11-10 |
-| serious play | — | 严肃游戏 | digital-art 首译 | 学界惯例；游戏研究通行（serious game 严肃游戏同族）；凭证 2026-11-10 | 2026-11-10 |
+| serious play | — | 严肃游玩（亦作“严肃游戏”） | digital-art 首译 | 学界惯例；游戏研究通行；2026-11-28 回炉改定：play 义取“严肃游玩”，与 serious game 严肃游戏分列（源文 §5 “serious play occurs when…” 论游玩而非游戏类型） | 2026-11-10 |
 | sermo communis | sermo communis | 日常言谈 | vives | 拉丁术语义译（ordinary discourse），与形而上学抽象语言对举 | 2026-11-25 |
 | set abstraction | — | 集合抽象 | quine-nf | 学界惯例；数理逻辑通行译法（set abstract 集合抽象式）；凭证 2026-11-09 | 2026-11-09 |
 | set exponentiation | — | 集合指数运算 | axiom-choice（补充材料） | 本词条译名（幂集型运算 BA 语境） | 2026-11-13 |

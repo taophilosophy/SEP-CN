@@ -588,3 +588,173 @@ segments:
       关于上述概念，一个值得注意之点是，它们都是在考虑传统艺术与艺术实践规范的情况下构想的，也就是说，艺术作品主要基于对象。然而，如前所述，交互数字作品可以说具有基于规定交互的“行为”。传统艺术作品通常强调在观众参与之前即已完成的作品，而交互作品则强调作品通过观众参与而逐刻展开。近来一种艺术本体论进路认为，交互作品（以及其他种类）最好在基于过程而非基于对象的模型上构想（Nguyen 2020）。两种模型的一个关键区别是，前者关注使用者的行动与经验或“内向美学”，而后者关注自足对象的“外向”审美特征（Nguyen 2020: 25）。尽管基于过程的说明优先考虑使用者行动的可内化性，它并未完全放弃艺术对象的观念。相反，它使对象的意义成为次要的，因为对作品对象性的任何欣赏都服务于它所允许的活动（Nguyen 2020: 20）。
     step2: |-
       关于上述概念，一个值得注意之点是，它们都是在考虑传统艺术与艺术实践规范的情况下构想的，也就是说，艺术作品主要基于对象。然而，如前所述，交互数字作品可以说具有基于规定交互的“行为”。传统艺术作品通常强调在观众参与之前即已完成的作品，而交互作品则强调作品通过观众参与而逐刻展开。近来一种艺术本体论进路认为，交互作品（以及其他种类）最好在基于过程而非基于对象的模型上构想（Nguyen 2020）[^nguyen-2020]。两种模型的一个关键区别是，前者关注使用者的行动与经验或“内向美学”，而后者关注自足对象的“外向”审美特征（Nguyen 2020: 25）[^nguyen-2020]。尽管基于过程的说明优先考虑使用者行动的可内化性，它并未完全放弃艺术对象的观念。相反，它使对象的意义成为次要的，因为对作品对象性的任何欣赏都服务于它所允许的活动（Nguyen 2020: 20）[^nguyen-2020]。
+  - id: 71
+    kind: heading
+    source: |-
+      ### 4.3 Interactivity and Creativity
+    step1: |-
+      ### 4.3 交互与创造力
+    step2: |-
+      ### 4.3 交互与创造力
+  - id: 72
+    kind: body
+    source: |-
+      Just as the case of digital art can enrich our understanding of interactivity, so it can enrich our understanding of artistic creativity and creative attribution. This is in part because the issues of interactivity and creativity are closely related. In making a work that is strongly interactive, an artist cedes to the user a certain amount of control in determining the look, sound, or structure of the work’s display(s). This raises a question about the user’s opportunities to be creative — to engage in creative interactions with a work — and how these opportunities can be supported or constrained by the artist’s design. In order to answer this question, we need to unpack the notion of creative control. In addition, we need to consider how creativity can be attributed to multiple agents involved at different stages of a work’s production. As it turns out, the case of AI art is particularly useful when considering the conditions of creativity and creative collaboration.
+    step1: |-
+      正如数字艺术的情形可以丰富我们对交互性的理解，它也可以丰富我们对艺术创造力与创造性归属的理解。部分原因是交互性与创造力问题密切相关。在制作一件强交互作品时，艺术家把确定作品显示的外观、声音或结构的某种控制权让渡给使用者。这引出了一个问题：使用者有哪些机会进行创造——与作品进行创造性交互——以及这些机会如何能由艺术家的设计所支持或约束。为回答这个问题，我们需要解析创造性控制的概念。此外，我们还需要考虑创造力如何归属于在作品生产不同阶段参与的多个行动者。事实证明，AI 艺术的情形在考虑创造力与创造性合作的条件时特别有用。
+    step2: |-
+      正如数字艺术的情形可以丰富我们对交互性的理解，它也可以丰富我们对艺术创造力与创造性归属的理解。部分原因是交互性与创造力问题密切相关。在制作一件强交互作品时，艺术家把确定作品显示的外观、声音或结构的某种控制权让渡给使用者。这引出了一个问题：使用者有哪些机会进行创造——与作品进行创造性交互——以及这些机会如何能由艺术家的设计所支持或约束。为回答这个问题，我们需要解析创造性控制的概念。此外，我们还需要考虑创造力如何归属于在作品生产不同阶段参与的多个行动者。事实证明，AI 艺术的情形在考虑创造力与创造性合作的条件时特别有用。
+  - id: 73
+    kind: body
+    source: |-
+      There is already a robust debate about the nature of creativity as it occurs in many different areas of human activity (see, e.g., Gaut & Kieran, eds., 2018; Paul & Kaufman, eds., 2014)[^gaut-2018] There is a case to be made, however, that this debate can be enriched by drawing on work in the philosophy of AI. In everyday life, sophisticated AI systems are now being used for all kinds of purposes: We rely on these systems when we use Internet search engines, play strategic videogames, accept purchasing recommendations from online retailers, and check for viruses on our computers. In addition, we can use AI to generate new images and text, some of which can be incorporated into works of art. One can type a series of prompts into a chatbot like ChatGPT in order to generate a new screenplay in a certain genre. Similarly, one can assemble a set of images on which to train an “artbot” like MidJourney in order to generate paintings, drawings, or what look like photographs. It is common to attribute creative agency to the person who purposively initiates, and then monitors, the program used to generate the images or text that make up a work of AI art. A question remains, however, as to whether this should be the *sole* creative attribution when AI is involved. Some artists describe the AI system with which they work as a creative “partner”, and not just a sophisticated artistic tool. This is particularly the case with recent artworks that rely on “Deep Learning” (DL) to generate images or text in a remarkably independent way. Both chatbots and artbots rely on deep learning to categorize huge datasets (images or text) according to previously undetected patterns. To do this, a DL system must give itself new instructions — ones that depart from the initial instructions of the program — for the kind of image or text segment, and for the particular image or text segment, to be produced.
+    step1: |-
+      关于创造力在许多不同人类活动领域中发生时的本性，已经有一场活跃的争论（例如见 Gaut & Kieran 编，2018；Paul & Kaufman 编，2014）。然而，有理由认为，这场争论可以借助 AI 哲学的研究而得到丰富。在日常生活中，复杂的 AI 系统如今被用于各种目的：我们使用互联网搜索引擎、玩策略电子游戏、接受在线零售商的购买推荐、检查计算机病毒时，都依赖这些系统。此外，我们可以用 AI 生成新的图像与文本，其中一些可以被纳入艺术作品。人们可以在 ChatGPT 这样的聊天机器人中输入一系列提示，以生成某种类型的新剧本。同样，人们可以汇集一组图像来训练 MidJourney 这样的“艺术机器人”，以生成绘画、素描或看似照片的图像。通常，人们会把创造性能动性归于那位有目的地启动并随后监控程序的人，而该程序用于生成构成 AI 艺术作品的图像或文本。然而仍有一个问题：当涉及 AI 时，这是否应当是 **唯一** 的创造性归属？一些艺术家把他们与之合作的 AI 系统描述为创造性的“伙伴”，而不仅仅是复杂的艺术工具。对于近来依赖“深度学习”（DL）以极其独立的方式生成图像或文本的艺术作品，情况尤其如此。聊天机器人与艺术机器人都依赖深度学习，按照此前未被察觉的模式对庞大数据集（图像或文本）进行分类。为此，深度学习系统必须给自己新的指令——偏离程序初始指令的指令——以规定要生成的图像或文本片段的种类，以及特定的图像或文本片段。
+    step2: |-
+      关于创造力在许多不同人类活动领域中发生时的本性，已经有一场活跃的争论（例如见 Gaut & Kieran 编，2018；Paul & Kaufman 编，2014）[^gaut-2018]。然而，有理由认为，这场争论可以借助 AI 哲学的研究而得到丰富。在日常生活中，复杂的 AI 系统如今被用于各种目的：我们使用互联网搜索引擎、玩策略电子游戏、接受在线零售商的购买推荐、检查计算机病毒时，都依赖这些系统。此外，我们可以用 AI 生成新的图像与文本，其中一些可以被纳入艺术作品。人们可以在 ChatGPT 这样的聊天机器人中输入一系列提示，以生成某种类型的新剧本。同样，人们可以汇集一组图像来训练 MidJourney 这样的“艺术机器人”（artbot），以生成绘画、素描或看似照片的图像。通常，人们会把创造性能动性归于那位有目的地启动并随后监控程序的人，而该程序用于生成构成 AI 艺术作品的图像或文本。然而仍有一个问题：当涉及 AI 时，这是否应当是 **唯一** 的创造性归属？一些艺术家把他们与之合作的 AI 系统描述为创造性的“伙伴”，而不仅仅是复杂的艺术工具。对于近来依赖“深度学习”（DL）以极其独立的方式生成图像或文本的艺术作品，情况尤其如此。聊天机器人与艺术机器人都依赖深度学习，按照此前未被察觉的模式对庞大数据集（图像或文本）进行分类。为此，深度学习系统必须给自己新的指令——偏离程序初始指令的指令——以规定要生成的图像或文本片段的种类，以及特定的图像或文本片段。
+  - id: 74
+    kind: body
+    source: |-
+      Among AI artists, the ones who write their own DL programs are the most likely to describe AI as a creative partner rather than just a creative tool. This seems particularly fitting when there is a synchronous collaboration between the artist and their DL system. For example, the works of Sougwen Chun are the result of Chun drawing alongside and in response to the actions of a mechanical drawing arm that is controlled by Chun’s custom-made program, D.O.U.G. (short for “Drawing Operations Unity Generation *X*”). Chun and D.O.U.G. take turns adding to a single drawing. During this process, it is harder than one might think to say what makes the difference such that Chun is a creative agent, engaged in a creative drawing process, and D.O.U.G. is not. This is the case even though it is Chun alone who comes up with the idea for the work and initiates the drawing program.
+    step1: |-
+      在 AI 艺术家中，那些自己编写深度学习程序的人最可能把 AI 描述为创造性伙伴而非仅仅是创造性工具。当艺术家与其深度学习系统之间存在同步合作时，这似乎尤其贴切。例如，Sougwen Chung 的作品，是 Chung 与一只由她定制程序 D.O.U.G.（“Drawing Operations Unity Generation *X*”的缩写）控制的机械绘图臂一道、并回应其动作而作画的结果。Chung 与 D.O.U.G. 轮流为同一幅画添加内容。在这一过程中，要说出是什么差异使 Chung 成为从事创造性绘画过程的创造性能动者、而 D.O.U.G. 不是，比人们想象的要难。即便只有 Chung 独自构思作品并启动绘图程序，情况也是如此。
+    step2: |-
+      在 AI 艺术家中，那些自己编写深度学习程序的人最可能把 AI 描述为创造性伙伴而非仅仅是创造性工具。当艺术家与其深度学习系统之间存在同步合作时，这似乎尤其贴切。例如，Sougwen Chung 的作品，是 Chung 与一只由她定制程序 D.O.U.G.（“Drawing Operations Unity Generation *X*”的缩写）控制的机械绘图臂一道、并回应其动作而作画的结果。Chung 与 D.O.U.G. 轮流为同一幅画添加内容。在这一过程中，要说出是什么差异使 Chung 成为从事创造性绘画过程的创造性能动者、而 D.O.U.G. 不是，比人们想象的要难。即便只有 Chung 独自构思作品并启动绘图程序，情况也是如此。
+  - id: 75
+    kind: body
+    source: |-
+      As Margaret Boden has argued (2014), when philosophers deny the possibility of a computer ever being creative, they tend to underestimate the capacities of computers to produce items that are genuinely new as well as valuable in some domain. Still, many creativity theorists argue that novelty and value are insufficient for creativity; a third condition is needed, one concerning the manner of production. In order for something novel and valuable to count as creative, it must have been produced in a way that is agent-driven. The agency condition can be filled out, or broken down, in a variety of ways. At its core, however, the notion of agency is generally assumed to be opposed to the notion of having been ‘programmed’, or simply instructed, to perform certain tasks in a “mechanical”, or blind, fashion. Thus, the most basic objection to the possibility of creative computers is that they can only do what they are programmed to do, according to the intentions of a human agent. This objection needs clarification, however, since no set of rules completely determines the actions involved in following that set of rules. Since the advent of DL and other kinds of generative algorithm, it is possible for a computer program to change itself, to detect independent phenomena other than the ones that it was designed to detect, and to mimic spontaneity through randomness. Is this an instance of creative rule-following? If it is, we might expand our notion of creative collaboration. Perhaps creative collaboration is found, not just between human beings, but also between human beings and machines. In so far as the machines in question support strong interactivity, a work of digital art might involve three-part collaborations between human artists, human users, and AI.
+    step1: |-
+      正如玛格丽特·博登所论证的（2014），当哲学家否认计算机有可能具有创造力时，他们往往低估了计算机生产在某些领域中既真正新颖又有价值的项目的能力。尽管如此，许多创造力理论家主张，新颖性与价值不足以构成创造力；还需要第三个条件，即关于生产方式的条件。要使某种新颖且有价值的东西算作创造性的，它必须以行动者驱动的方式被生产出来。能动性条件可以以多种方式充实或分解。然而，其核心在于，能动性概念通常被假定为与“被编程”或仅仅被指示以“机械的”或盲目的方式执行某些任务的概念相对立。因此，对创造性计算机之可能性最基本的反对意见是：它们只能按照人类行动者的意图，做被编程去做的事。然而，这一反对意见需要澄清，因为没有任何一套规则完全决定遵循该规则所涉及的行动。自深度学习及其他生成算法出现以来，计算机程序有可能改变自身，检测其被设计来检测的现象之外的独立现象，并通过随机性模仿自发性。这是创造性遵循规则的实例吗？如果是，我们或许可以扩展创造性合作的概念。也许创造性合作不仅存在于人与人之间，也存在于人与机器之间。就所讨论的机器支持强交互性而言，一件数字艺术作品可能涉及人类艺术家、人类使用者与 AI 之间的三方合作。
+    step2: |-
+      正如玛格丽特·博登（Margaret Boden）所论证的（2014），当哲学家否认计算机有可能具有创造力时，他们往往低估了计算机生产在某些领域中既真正新颖又有价值的项目的能力。尽管如此，许多创造力理论家主张，新颖性与价值不足以构成创造力；还需要第三个条件，即关于生产方式的条件。要使某种新颖且有价值的东西算作创造性的，它必须以行动者驱动的方式被生产出来。能动性条件可以以多种方式充实或分解。然而，其核心在于，能动性概念通常被假定为与“被编程”或仅仅被指示以“机械的”或盲目的方式执行某些任务的概念相对立。因此，对创造性计算机之可能性最基本的反对意见是：它们只能按照人类行动者的意图，做被编程去做的事。然而，这一反对意见需要澄清，因为没有任何一套规则完全决定遵循该规则所涉及的行动。自深度学习及其他生成算法出现以来，计算机程序有可能改变自身，检测其被设计来检测的现象之外的独立现象，并通过随机性模仿自发性。这是创造性遵循规则的实例吗？如果是，我们或许可以扩展创造性合作的概念。也许创造性合作不仅存在于人与人之间，也存在于人与机器之间。就所讨论的机器支持强交互性而言，一件数字艺术作品可能涉及人类艺术家、人类使用者与 AI 之间的三方合作。
+  - id: 76
+    kind: heading
+    source: |-
+      ## 5. Locative Art
+    step1: |-
+      ## 5. 定位艺术
+    step2: |-
+      ## 5. 定位艺术
+  - id: 77
+    kind: body
+    source: |-
+      Digital media can also be used for the purpose of connecting physical locations to virtual ones by using locative media. The phrase “locative art” is traced to Karlis Kalnins who applied the phrase to experimental projects coming from Locative Media Lab, a collective of international researchers and practitioners working with locative media. (Galloway & Ward 2005 )[^galloway-2005]. Since the term “locative” is connected to location, site-specificity plays a significant role in our appreciation of locative works. Unlike with non-digital cases, however, site-specificity in locative art is both physical and virtual. The general concept is this: locative-specific media connect physical spaces with virtual ones, the perceptual features of which are generated from a digital device by human interactions. We often experience locative media in our ordinary and daily lives through navigation systems like Google Maps or Waze, and also creatively through augmented reality apps like Pokemon Go, AR graffiti (an app that allows users to visualize what their graffiti will look like *in situ*), architectural simulators, and more. These are location-based works, often called locative projects or locative art, that use locative media. While locative technology has been around for decades, it is a relatively new subcategory to be recognized within the arts. Even so, locative art is more broadly acknowledged in the fields of technology, games, and sociology.
+    step1: |-
+      数字媒介也可以用于借助定位媒介把物理位置与虚拟位置连接起来。“定位艺术”一词可追溯到卡利斯·卡尔宁斯，他把这一说法用于定位媒介实验室的实验项目，该实验室是一个由研究者和实践者组成的国际集体，从事定位媒介工作（Galloway & Ward 2005）。由于“定位的”一词与位置相关，特定场域性在我们对定位作品的欣赏中扮演重要角色。然而，与非数字情形不同，定位艺术中的特定场域性既是物理的又是虚拟的。一般概念是这样的：定位特定媒介把物理空间与虚拟空间连接起来，后者的感知特征由数字设备通过人的交互生成。我们在日常生活中经常通过 Google Maps 或 Waze 这样的导航系统体验定位媒介，也通过 Pokemon Go、AR 涂鸦（一种让用户可视化其涂鸦在现场看起来如何的应用）、建筑模拟器等增强现实应用创造性地体验。这些都是基于位置的作品，常被称为定位项目或定位艺术，它们使用定位媒介。尽管定位技术已存在数十年，它仍是艺术界相对较新的子范畴。即便如此，定位艺术在技术、游戏与社会学领域得到更广泛的承认。
+    step2: |-
+      数字媒介也可以用于借助定位媒介把物理位置与虚拟位置连接起来。“定位艺术”一词可追溯到卡利斯·卡尔宁斯（Karlis Kalnins），他把这一说法用于定位媒介实验室（Locative Media Lab）的实验项目，该实验室是一个由研究者和实践者组成的国际集体，从事定位媒介工作（Galloway & Ward 2005）[^galloway-2005]。由于“定位的”一词与位置相关，特定场域性在我们对定位作品的欣赏中扮演重要角色。然而，与非数字情形不同，定位艺术中的特定场域性既是物理的又是虚拟的。一般概念是这样的：定位特定媒介把物理空间与虚拟空间连接起来，后者的感知特征由数字设备通过人的交互生成。我们在日常生活中经常通过 Google Maps 或 Waze 这样的导航系统体验定位媒介，也通过 Pokemon Go、AR 涂鸦（一种让用户可视化其涂鸦在现场看起来如何的应用）、建筑模拟器等增强现实应用创造性地体验。这些都是基于位置的作品，常被称为定位项目或定位艺术，它们使用定位媒介。尽管定位技术已存在数十年，它仍是艺术界相对较新的子范畴。即便如此，定位艺术在技术、游戏与社会学领域得到更广泛的承认。
+  - id: 78
+    kind: body
+    source: |-
+      To understand the many ways locative media might be used for artistic practice, consider the following three examples.
+    step1: |-
+      为了解定位媒介可用于艺术实践的许多方式，考虑以下三个例子。
+    step2: |-
+      为了解定位媒介可用于艺术实践的许多方式，考虑以下三个例子。
+  - id: 79
+    kind: list
+    source: |-
+      - What Was There (2010–2023) was a website that allows users to type in the coordinates of their current location (via their digital device) to see how certain geographical locations look throughout history. By typing a specific address into the application, the user experiences the physical location in front of them and represented images and facts of that location as they appeared in the past, from the same vantage point. Data on the site relies on regular citizens to upload historic images and connect them to specific locations, making them accessible to others; the greater the participation the richer the experience when navigating a particular place. Not only can guests gain a deeper connection to their specific localized places, but such applications motivate people to explore and appreciate locations outside of their normal destinations.
+      - The Transborder Immigrant Tool has been used in a number of artworks and exhibitions.
+    step1: |-
+      - 《昔日此地》（2010–2023）是一个网站，允许用户输入当前位置的坐标（通过其数字设备），查看某些地理位置在历史中的样貌。通过在应用中输入特定地址，用户从同一视点体验眼前的物理位置，以及该位置过去呈现的图像与事实。网站数据依赖普通公民上传历史图像并将其连接到特定位置，使他人可以访问；参与越多，在特定地点导航时的体验就越丰富。访客不仅能与自己的特定地方建立更深的联系，此类应用还激励人们探索和欣赏其日常目的地之外的地点。
+      - 《跨境移民工具》已在若干艺术作品与展览中使用。
+    step2: |-
+      - 《昔日此地》（What Was There，2010–2023）是一个网站，允许用户输入当前位置的坐标（通过其数字设备），查看某些地理位置在历史中的样貌。通过在应用中输入特定地址，用户从同一视点体验眼前的物理位置，以及该位置过去呈现的图像与事实。网站数据依赖普通公民上传历史图像并将其连接到特定位置，使他人可以访问；参与越多，在特定地点导航时的体验就越丰富。访客不仅能与自己的特定地方建立更深的联系，此类应用还激励人们探索和欣赏其日常目的地之外的地点。
+      - 《跨境移民工具》（The Transborder Immigrant Tool）已在若干艺术作品与展览中使用。
+  - id: 80
+    kind: quote
+    source: |-
+      > The Transborder Immigrant Tool, devised by Electronic Disturbance Theater 2.0/b.a.n.g. lab, was a mobile phone application intended to guide individuals who were making their way to the United States through the deserts of the U.S./Mexico borderlands to water. The application delivered poetry to its users in an effort to assist in their emotional and mental well-being while offering information about survival during the dangerous journey.
+      >
+      > The creators of The Transborder Immigrant Tool considered it to be a performance intervention that included the app itself, its API, public reactions, and an ensuing government investigation. By the time TBT was ready for distribution in 2011, the border crossing had become more dangerous, presenting the risk that carrying a TBT phone might put users in danger. While the project was never distributed to its intended users, it still succeeded in confounding systems of political control, creating a call to action that resonated internationally, and using poetry to “dissolve” the US-Mexico border (Electronic Disturbance Theater 2.0 et al 2007)[^electronic-2007].
+    step1: |-
+      > 《跨境移民工具》由电子干扰剧场 2.0／b.a.n.g. 实验室设计，是一款手机应用，旨在为穿越美墨边境沙漠前往美国的人指引水源。该应用向用户发送诗歌，以帮助其在危险旅程中的情感与心理健康，同时提供生存信息。
+      >
+      > 《跨境移民工具》的创作者认为它是一场表演干预，包括应用本身、其 API、公众反应以及随后的政府调查。到 2011 年 TBT 准备分发时，边境穿越已变得更加危险，携带 TBT 手机可能使用户陷入危险。尽管该项目从未分发给目标用户，它仍然成功地扰乱了政治控制体系，引发了引起国际共鸣的行动号召，并用诗歌“消解”了美墨边境（Electronic Disturbance Theater 2.0 et al 2007）。
+    step2: |-
+      > 《跨境移民工具》由电子干扰剧场 2.0／b.a.n.g. 实验室设计，是一款手机应用，旨在为穿越美墨边境沙漠前往美国的人指引水源。该应用向用户发送诗歌，以帮助其在危险旅程中的情感与心理健康，同时提供生存信息。
+      >
+      > 《跨境移民工具》的创作者认为它是一场表演干预，包括应用本身、其 API、公众反应以及随后的政府调查。到 2011 年 TBT 准备分发时，边境穿越已变得更加危险，携带 TBT 手机可能使用户陷入危险。尽管该项目从未分发给目标用户，它仍然成功地扰乱了政治控制体系，引发了引起国际共鸣的行动号召，并用诗歌“消解”了美墨边境（Electronic Disturbance Theater 2.0 et al 2007）[^electronic-2007]。
+  - id: 81
+    kind: list
+    source: |-
+      - KlingKlangKlong is played with smartphones that translate the players’ locations into sound. This is achieved in a straightforward manner: By moving through the physical space, the players simultaneously move on the surface of a virtual sequencer. One dimension (usually the latitude of the player) corresponds to pitch, the other dimension (longitude) is mapped to the time-position on the sequencer. The interface allows a manual switch to other audio parameters, although this feature is experimental. Each device receives the location and state changes of the currently active players almost instantly. The devices are connected by a central server, which also sets the boundaries of the playing field and manages the virtual players.
+    step1: |-
+      - 《叮当咚》用智能手机游玩，手机把玩家的位置转换为声音。实现方式很直接：玩家在物理空间中移动时，也同时在虚拟音序器的表面上移动。一个维度（通常是玩家的纬度）对应音高，另一个维度（经度）映射到音序器上的时间位置。界面允许手动切换到其他音频参数，尽管这一功能是实验性的。每台设备几乎即时接收当前活跃玩家的位置与状态变化。设备由中央服务器连接，服务器还设定游戏场地的边界并管理虚拟玩家。
+    step2: |-
+      - 《叮当咚》（KlingKlangKlong）用智能手机游玩，手机把玩家的位置转换为声音。实现方式很直接：玩家在物理空间中移动时，也同时在虚拟音序器的表面上移动。一个维度（通常是玩家的纬度）对应音高，另一个维度（经度）映射到音序器上的时间位置。界面允许手动切换到其他音频参数，尽管这一功能是实验性的。每台设备几乎即时接收当前活跃玩家的位置与状态变化。设备由中央服务器连接，服务器还设定游戏场地的边界并管理虚拟玩家。
+  - id: 82
+    kind: quote
+    source: |-
+      > KlingKlangKlong serves as an experimental arrangement to explore the idea of playful (social) systems, a construction where human and virtual subsystems play with each other. In addition to the human participants, it therefore deploys a number of virtual players (»Virtuals«). Humans and Virtuals meet each other in mixed reality, a concept that was realized in early locative games. The commonly created soundtrack is the primary medium of communication between the players. Musical structures may temporarily arise through synchronized movements or be destroyed by any player’s intervention (Straeubig & Quack 2016)[^straeubig-2016].
+    step1: |-
+      > 《叮当咚》作为一个实验性安排，探索好玩的（社会）系统这一观念，即一种人类子系统与虚拟子系统彼此游戏的构造。因此，除了人类参与者，它还部署了一些虚拟玩家（“Virtuals”）。人类与虚拟玩家在混合现实中相遇，这一概念在早期的定位游戏中得到实现。共同创造的音轨是玩家之间主要的交流媒介。音乐结构可能通过同步运动暂时出现，也可能被任何玩家的干预破坏（Straeubig & Quack 2016）。
+    step2: |-
+      > 《叮当咚》作为一个实验性安排，探索好玩的（社会）系统这一观念，即一种人类子系统与虚拟子系统彼此游戏的构造。因此，除了人类参与者，它还部署了一些虚拟玩家（“Virtuals”）。人类与虚拟玩家在混合现实中相遇，这一概念在早期的定位游戏中得到实现。共同创造的音轨是玩家之间主要的交流媒介。音乐结构可能通过同步运动暂时出现，也可能被任何玩家的干预破坏（Straeubig & Quack 2016）[^straeubig-2016]。
+  - id: 83
+    kind: body
+    source: |-
+      In each of these examples, users synchronize geographical locations with virtual ones, granting mobility for users while also further challenging the paradigm of museum-driven works and art appreciation. The interactivity described in section 4 factors significantly into each of these projects, but also of importance are the social, economic, environmental, and political implications that factor in the design, development, and use of such works. Most of these projects are intended to bring about positive change, one way or another, by using locative media and by borrowing certain gaming mechanics for the purpose of engagement and interactivity. In fact, much of what is written about locative art is from fields within digital media studies on the media’s ‘playable’ qualities (avoiding the idea that artists are trying to merely gamify public spaces).
+    step1: |-
+      在这些例子中，用户把地理位置与虚拟位置同步，赋予用户流动性，同时进一步挑战博物馆驱动的作品与艺术欣赏范式。第 4 节所述的交互性在每个项目中都起重要作用，但同样重要的是社会、经济、环境与政治意涵，它们参与此类作品的设计、开发与使用。这些项目大多意在通过使用定位媒介并借用某些游戏机制以促进参与和交互，从而以某种方式带来积极变化。事实上，关于定位艺术的许多论述来自数字媒介研究领域，关注媒介的“可玩”品质（避免认为艺术家只是试图把公共空间游戏化）。
+    step2: |-
+      在这些例子中，用户把地理位置与虚拟位置同步，赋予用户流动性，同时进一步挑战博物馆驱动的作品与艺术欣赏范式。第 4 节所述的交互性在每个项目中都起重要作用，但同样重要的是社会、经济、环境与政治意涵，它们参与此类作品的设计、开发与使用。这些项目大多意在通过使用定位媒介并借用某些游戏机制以促进参与和交互，从而以某种方式带来积极变化。事实上，关于定位艺术的许多论述来自数字媒介研究领域，关注媒介的“可玩”品质（避免认为艺术家只是试图把公共空间游戏化）。
+  - id: 84
+    kind: body
+    source: |-
+      On the playable nature of locative art, Miguel Sicart says,
+    step1: |-
+      关于定位艺术的可玩本性，米格尔·西卡尔特说：
+    step2: |-
+      关于定位艺术的可玩本性，米格尔·西卡尔特（Miguel Sicart）说：
+  - id: 85
+    kind: quote
+    source: |-
+      >
+      > the data produced and used in smart cities should not necessarily be presented as a utility for citizens. It should be presented as a prop for play, as games but also as the source for toys and playgrounds. Data-rich cities can become playable cities, and, by becoming such, they can become more human, more inclusive spaces (Ackermann: 2016, 27)[^ackermann-2016].
+    step1: |-
+      > 智慧城市中生产与使用的数据不一定应作为公民的公用事业来呈现。它应作为游戏的道具来呈现，既作为游戏，也作为玩具与游乐场的来源。数据丰富的城市可以成为可玩城市，而通过成为可玩城市，它们可以成为更人性、更具包容性的空间（Ackermann: 2016, 27）。
+    step2: |-
+      > 智慧城市中生产与使用的数据不一定应作为公民的公用事业来呈现。它应作为游戏的道具来呈现，既作为游戏，也作为玩具与游乐场的来源。数据丰富的城市可以成为可玩城市，而通过成为可玩城市，它们可以成为更人性、更具包容性的空间（Ackermann: 2016, 27）[^ackermann-2016]。
+  - id: 86
+    kind: body
+    source: |-
+      Once again, the process-oriented and performative nature of locative works is central to appreciating the spaces they create. In connection with the playability of locative media, locative projects are also modifiable and typically intended to be hackable by the public in the communities where they are displayed. While the terms “hacker” and “hacking” may carry negative connotations, in its original conception, the practice of hacking was meant to improve upon existing computer programs, acknowledging the achievements of both the original creator and subsequent revisionists (Levy:1984)[^levy-1984]. It is in this vein that locative projects are usually intended to change and improve over time given how users “play” with the data and inputs. In other words, local communities can play with these projects and even modify them, making locative works as relevant and reflective of the community as possible.
+    step1: |-
+      定位作品面向过程与表演性的本性，再次成为欣赏其所创造空间的核心。与定位媒介的可玩性相关，定位项目也可修改，且通常意在由展示地社区的公众进行黑客式改造。尽管“黑客”与“黑客行为”这些词可能带有负面含义，但在其原初构想中，黑客实践意在改进现有计算机程序，承认原初创作者与后续修订者双方的成就（Levy 1984）。定位项目通常意在以这种方式随时间改变和改进，取决于用户如何“玩”数据与输入。换言之，地方社区可以玩这些项目甚至修改它们，使定位作品尽可能与社区相关并反映社区。
+    step2: |-
+      定位作品面向过程与表演性的本性，再次成为欣赏其所创造空间的核心。与定位媒介的可玩性相关，定位项目也可修改，且通常意在由展示地社区的公众进行黑客式改造。尽管“黑客”与“黑客行为”这些词可能带有负面含义，但在其原初构想中，黑客实践意在改进现有计算机程序，承认原初创作者与后续修订者双方的成就（Levy 1984）[^levy-1984]。定位项目通常意在以这种方式随时间改变和改进，取决于用户如何“玩”数据与输入。换言之，地方社区可以玩这些项目甚至修改它们，使定位作品尽可能与社区相关并反映社区。
+  - id: 87
+    kind: body
+    source: |-
+      The above suggests that locative projects often have broader goals than mere entertainment. Although often intended to motivate play and playful attitudes, which, as indicated in the examples above can occur to varying degrees, the goal-oriented nature of locative works often makes the kind of play involved a “serious” kind. Serious play occurs when the enjoyment and pleasure that come from play do not just comprise entertainment but also serve some meritorious, real-world goal. A work can be said to support serious play even when users are not aware of the social or political goals of the work.
+    step1: |-
+      上述表明，定位项目往往有比单纯娱乐更广泛的目标。尽管它们常常意在激发游玩与游玩态度（如上文例子所示，这可不同程度地发生），定位作品的目标导向本性往往使所涉及的游玩成为“严肃的”一类。当游玩带来的享受与愉悦不仅构成娱乐，还服务于某种有价值的现实世界目标时，严肃游玩便发生了。即便用户没有意识到作品的社会或政治目标，也可以说一件作品支持严肃游玩。
+    step2: |-
+      上述表明，定位项目往往有比单纯娱乐更广泛的目标。尽管它们常常意在激发游玩与游玩态度（如上文例子所示，这可不同程度地发生），定位作品的目标导向本性往往使所涉及的游玩成为“严肃的”一类。当游玩带来的享受与愉悦不仅构成娱乐，还服务于某种有价值的现实世界目标时，严肃游玩便发生了。即便用户没有意识到作品的社会或政治目标，也可以说一件作品支持严肃游玩。
+  - id: 88
+    kind: body
+    source: |-
+      The customizable nature of locative media lends itself well to the altruistic aims of many locative artists. However, inclusivity, climate protection, social change, and any other desired effect of locative projects requires a given community to have sufficient funds for, access to, and user-knowledge about digital locative technology. This concern can also be understood, not just in terms of community requirements, but also in terms of technological requirements, for successful locative art. One way of putting it is as follows:
+    step1: |-
+      定位媒介的可定制本性，很好地契合许多定位艺术家的利他目标。然而，包容性、气候保护、社会变革以及定位项目任何其他期望效果，都要求特定社区拥有足够的资金、获取渠道以及关于数字定位技术的用户知识。这一关切也可以不仅从社区要求、而且从技术要求的方面来理解，以成就成功的定位艺术。一种说法如下：
+    step2: |-
+      定位媒介的可定制本性，很好地契合许多定位艺术家的利他目标。然而，包容性、气候保护、社会变革以及定位项目任何其他期望效果，都要求特定社区拥有足够的资金、获取渠道以及关于数字定位技术的用户知识。这一关切也可以不仅从社区要求、而且从技术要求的方面来理解，以成就成功的定位艺术。一种说法如下：
+  - id: 89
+    kind: quote
+    source: |-
+      > For any technological device to be “aware” of its context—physical or otherwise—it has to be able to locate, classify, collect, store, and use “relevant” information, as well as to identify and discard or ignore “irrelevant” information (Galloway & Ward 2005)[^galloway-2005].
+    step1: |-
+      > 任何技术设备要“察觉”其语境——物理的或其他方面的——都必须能够定位、分类、收集、存储和使用“相关”信息，并识别和丢弃或忽略“不相关”信息（Galloway & Ward 2005）。
+    step2: |-
+      > 任何技术设备要“察觉”其语境——物理的或其他方面的——都必须能够定位、分类、收集、存储和使用“相关”信息，并识别和丢弃或忽略“不相关”信息（Galloway & Ward 2005）[^galloway-2005]。
+  - id: 90
+    kind: body
+    source: |-
+      There are numerous political and economic factors affecting access to local and global spaces. With locative art, these factors are concerning for both ethical and artistic reasons.
+    step1: |-
+      有许多政治与经济因素影响对地方与全球空间的访问。就定位艺术而言，这些因素在伦理与艺术两方面都令人关切。
+    step2: |-
+      有许多政治与经济因素影响对地方与全球空间的访问。就定位艺术而言，这些因素在伦理与艺术两方面都令人关切。

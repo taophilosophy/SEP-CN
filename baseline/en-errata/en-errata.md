@@ -731,3 +731,4 @@
 | digital-art | 书目 Ackermann 条（en L224） | `Andreas Rauscher, Andreas and Daniel Stein` | ①排印（重复名 `Andreas`） | `Andreas Rauscher, and Daniel Stein` | 译文书目作参考读法，译者注释① | 2026-11-28 核对 html 原串 |
 | digital-art | 书目 Ackermann 条（en L224） | `pp.7-23` | ①排印（缺空格、连接号） | `pp. 7–23` | 纯排版，无需译注 | 2026-11-28 核对 html 原串 |
 | digital-art | 书目 Ackermann 条（en L224） | `Medien-und Kulturwissenschaften` | ①排印（德语并列复合缺空格） | `Medien- und Kulturwissenschaften` | 纯排版，无需译注 | 2026-11-28 核对 html 原串 |
+| digital-art | §4.3（en L157） | `Paul & Kaufman, eds., 2014)` 后缺句号 | ①排印（句末标点缺失） | `…2014).` | 纯排版，无需译注 | 2026-11-28 T266 核对 html 原串 |
