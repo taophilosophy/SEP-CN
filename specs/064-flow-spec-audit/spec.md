@@ -5,7 +5,7 @@
 - 上位：项目宪法（`.specify/memory/constitution.md`）、`rules/` 与其 ADR；机读事实源为 `rules/pipeline.json`（节点与判据）、`rules/naming.json`（标识）、`rules/axioms.json`（P1–P33）、`rules/standards.json`（标准登记）。specs/060–063 是关联工程卡，不凌驾于这些规则事实源
 - 合并对象：rev 1 的“节点文档承载审计”＋specs/063 的候选公理化成果＋全量审计、标准化、规范化、格式化设计
 - 版本：**rev 22**（2026-11-28；rev 10 重审 → rev 11 公理化 → rev 12 补遗 → rev 13 语言规则 → rev 14 案 B 保留 → rev 15 全部批准落库 → rev 16 待执行排程 → rev 17 一致性与测试完备性修订 → rev 18 学术翻译出版流程 v2 并入 → rev 19 探索批准项落卡 → rev 20 迁移轨全部批准 → rev 21 撤销任务删除 → rev 22 E2E findings 回填 G26–G34）
-- 施工图：`plan.md`（目标技术方案与回退）／`tasks.md`（229 个编号；E2E 原子任务 T130–T162／T185–T271 与 S14 T282–T312 已完成，其余已批准待执行）／`results/axioms-v3.md`（候选 AX21–AX30）／`results/axioms-tasks.md`（任务书层 TA1–TA8／TH1–TH8）／`results/schedule.md`（W0–W7 排程；E2E 已完成，W7 进行中）／`results/test-coverage.md`（节点级测试覆盖矩阵，T166 执行前清单）／`results/target-workflow.md`（学术翻译出版流程 v2 详细底表）／`results/s14-checkpoints.md`（S14 细粒度检查点 36 项）／`results/exploration-2026-11-27.md`（独立探索建议书，EP-01–09→S15）／`results/consistency-check.md` §10–§15（A064-26–59）
+- 施工图：`plan.md`（目标技术方案与回退）／`tasks.md`（234 个编号；E2E 原子任务 T130–T162／T185–T271 与 S14 T282–T317 已完成，其余已批准待执行）／`results/axioms-v3.md`（候选 AX21–AX30）／`results/axioms-tasks.md`（任务书层 TA1–TA8／TH1–TH8）／`results/schedule.md`（W0–W7 排程；E2E 已完成，W7 进行中）／`results/test-coverage.md`（节点级测试覆盖矩阵，T166 执行前清单）／`results/target-workflow.md`（学术翻译出版流程 v2 详细底表）／`results/s14-checkpoints.md`（S14 细粒度检查点 36 项）／`results/exploration-2026-11-27.md`（独立探索建议书，EP-01–09→S15）／`results/consistency-check.md` §10–§15（A064-26–59）
 - 事实口径：`current`＝事实源现状；`target`＝拟议目标；`approved`＝用户批准范围；`verified`＝已有验收证据。四者不得互代
 - 最新审计：`results/consistency-check.md` §9（A064-01–25）＋§10（A064-26–41，补遗与排程）＋§11（A064-42–49，rev 17 一致性与测试完备性）＋§12（A064-50–56，rev 18 流程 v2 并入）＋§13（A064-57，rev 19 探索批准项落卡）＋§14（A064-58，rev 20 迁移轨批准）＋§15（A064-59，rev 21 撤销任务删除）；旧版“无结构性缺漏／全部证明成立”不再有效
 
@@ -926,7 +926,7 @@ sep-py（Python 3.15）
 | **W4 汇总** | findings、回填 | T162、T165 | findings 入 §2.7／§18.4 | 未启动 |
 | **W5 规范** | 9 项测试补齐（T166 矩阵）；G6＋G8 ADR | T166、T167 | 测试全绿；ADR 通过 | 未启动 |
 | **W6 阶段轨** | 063 实施；T164 stage_of 联调（依赖 T102） | T100–T104、T164 | schema v2、ST 谓词、stage_of；联调差异有解释 | 未启动 |
-| **W7 流程 v2** | 学术翻译出版流程 v2：目标态、项目规范、角色、TBX、full PE、ISO 5060、编校、记录度量、pilot | T170–T175 | W6 出口 | target-workflow 落地；11 件 pilot 基线；规则卡差异表 | 进行中（T170–T174 完成；T175 待执行） |
+| **W7 流程 v2** | 学术翻译出版流程 v2：目标态、项目规范、角色、TBX、full PE、ISO 5060、编校、记录度量、pilot | T170–T175 | W6 出口 | target-workflow 落地；11 件 pilot 基线；规则卡差异表 | T170–T175 清单完成；G5 未通过（pilot 未执行、P1 差异待同步） |
 
 **闸门**：G0 启动（用户指令＋W0 三项完成；S2 W0b 并行，不阻塞）→ G1 一梯队（3 件至 sg-02）→ G2 E2E-1（11 件至 sg-02）→ G3 回填（T162／T165；T164 移至 W6）→ G4 规范（T166／T167）→ W6 → G5 流程 v2（T170–T175 完成；11 件 pilot 基线；规则卡差异表）→ 扩量。任一闸未过不得推进；sg-03 每件单列 `--mandate`，不计入 E2E-1。
 
