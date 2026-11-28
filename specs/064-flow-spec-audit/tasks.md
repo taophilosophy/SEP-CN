@@ -132,7 +132,7 @@
 - [x] T257 [S-1] tr-03／tr-04 校次——**已完成**（2026-11-28：tr-03 181 段对齐、25 段数字差异逐段判读、30 余人名与登记册核对，Critical／Major／Minor 0；tr-04 `check_prose` 36→7（29 条改写、7 条逐条豁免），语体结论现代汉语学术书面语；check_style／quotes 0、terms 硬 0、pairs 0、academic 无硬错误；证据 `results/t257-tr03.md`、`t257-tr04.md`、`t257-prose.json`；状态 `tr-02_checked → tr-04_checked`）——验收：账本守恒；残留外文 0（书目与日文引文除外）；检查器全绿
 - [x] T258 [S-1] rv-01 三轴（术语＋体例＋勘误）——**已完成**（2026-11-28：术语硬 0／告警 0；Keichū 简体化 D2、Matsudaira 订正 D2、Sanjō 终态 D5、Ōkuni 跨历留痕 D5；体例 check_style／quotes 0、pairs --gate 0；勘误 4 行承载①②，errata-apply／note-anchor 0；证据 `results/t258-rv01.md`；状态 `tr-04_checked → rv-01_checked`）——验收：`check_terms` 硬 0；体例 hard 0；勘误 1 行承载可验
 - [x] T259 [S-1] rv-02＋rv-03–08＋rv-09——**已完成**（2026-11-28：rv-02 181 段对齐、H3/H4/表/定义/引用 12/4/6/51/5 全对齐、H2 11 含译者注释；q1 17 条全 pass、q2 303 句 37 条 equivalent、q3 10→9 处置、q4 六节 R-1、q5 2 量值 pass＋37 范围、q6 1 条页码豁免；六轴 gate 全 0；rv-09 check_style／quotes 0、pairs 0、terms 硬 0、academic 无硬错误；证据 `results/t259-review.md`、`state/axis/kokugaku-school.*`；状态 `rv-01_checked → rv-09_checked`）——验收：各轴凭据落 `state/axis/`；`--gate` 0 或逐条豁免；`check_all` 全绿
-- [ ] T260 [S-1] sg 链：sg-01／sg-02／sg-03（sg-03 须用户 `--mandate`）——验收：sg-01／sg-02 无 Critical／Major；未授权则止于 `sg-02_checked`
+- [x] T260 [S-1] sg 链：sg-01／sg-02／sg-03（sg-03 须用户 `--mandate`）——**已完成（止于 sg-02_checked）**（2026-11-28：sg-01 抽 §1／§3.2／§4.3／§5／§6 五节，四维通过，Minor 3 已改；sg-02 全文六节逻辑链、40 余处代词、跨节数字与专名核对，Minor 2 已改，问题单 0；无 Critical／Major；证据 `results/t260-sg01.md`、`t260-sg02.md`；状态 `rv-09_checked → sg-02_checked`；sg-03 未获 mandate，不执行）——验收：sg-01／sg-02 无 Critical／Major；未授权则止于 `sg-02_checked`
 - [ ] T161 [S-1] `d/digital-art`（唯一代码块）——验收：代码块闭合；拆后方可执行
 
 ### 汇总与回填（全部条目完成后）
