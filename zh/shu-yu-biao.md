@@ -49,18 +49,24 @@
 | finite automaton | — | 有限自动机 | logic-dynamic | 学界惯例（计算机科学通行）；凭证 2026-11-27 | 2026-11-27 |
 | formula | — | 公式 | logic-dynamic | 学界惯例（数理逻辑通行）；凭证 2026-11-27 | 2026-11-27 |
 | Hoare calculus | — | 霍尔演算 | logic-dynamic | 学界惯例（程序验证通行）；凭证 2026-11-27 | 2026-11-27 |
+| input-output system | — | 输入—输出系统 | digital-art | 学界惯例（计算机科学通行）；凭证 2026-11-28 | 2026-11-28 |
 | installation | — | 装置 | digital-art | 学界惯例（当代艺术通行（installation art 装置艺术同族））；凭证 2026-11-28 | 2026-11-28 |
 | intersection (program) | — | 交 | logic-dynamic | 学界惯例（程序逻辑义（intersection of programs 程序交）；与集合交同形）；凭证 2026-11-27 | 2026-11-27 |
 | isomorphic transcription | — | 同构转录 | digital-art | 学界惯例（罗多维克术语（与 data-output 数据输出对举）；首现括注原文）；凭证 2026-11-28 | 2026-11-28 |
 | iteration | — | 迭代 | logic-dynamic | 学界惯例（程序逻辑通行（unbounded iteration 无界迭代））；凭证 2026-11-27 | 2026-11-27 |
 | Kripke frame | — | 克里普克框架 | logic-dynamic | 学界惯例（模态逻辑通行（与 Kripke model 克里普克模型同族））；凭证 2026-11-27 | 2026-11-27 |
+| medium | — | 媒介 | digital-art | 学界惯例（艺术哲学通行（artistic medium 艺术媒介；复数 media 同））；凭证 2026-11-28 | 2026-11-28 |
+| medium-based appreciation | — | 基于媒介的欣赏 | digital-art | 学界惯例（艺术哲学通行（与 medium-free 无媒介对举））；凭证 2026-11-28 | 2026-11-28 |
+| medium-free art | — | 无媒介艺术 | digital-art | 学界惯例（媒介理论通行（与 medium-based appreciation 对举））；凭证 2026-11-28 | 2026-11-28 |
 | multiple | — | 多件（艺术本体论） | digital-art | 学界惯例（艺术本体论通行（与 singular 单件对举））；凭证 2026-11-28 | 2026-11-28 |
 | musical notation | — | 音乐记谱法 | digital-art | 学界惯例（音乐哲学通行（古德曼记法理论语境）；与 notational relativity 记法相对性同族）；凭证 2026-11-28 | 2026-11-28 |
+| nested media | — | 嵌套媒介 | digital-art | 学界惯例（数字艺术理论通行（Gaut 用语））；凭证 2026-11-28 | 2026-11-28 |
 | NFT art | — | NFT 艺术 | digital-art | 学界惯例（艺术界通行（NFT＝non-fungible token，缩写照录））；凭证 2026-11-28 | 2026-11-28 |
 | non-deterministic | — | 非确定的 | logic-dynamic | 学界惯例（程序逻辑通行（与 non-deterministic choice 非确定选择同族））；凭证 2026-11-27 | 2026-11-27 |
 | ontological pluralism | — | 本体论多元论 | digital-art | 学界惯例（艺术本体论通行）；凭证 2026-11-28 | 2026-11-28 |
 | program | — | 程序 | logic-dynamic | 学界惯例（程序逻辑通行（PDL 两大句法范畴之一））；凭证 2026-11-27 | 2026-11-27 |
 | program construct | — | 程序构造 | logic-dynamic | 学界惯例（程序逻辑通行）；凭证 2026-11-27 | 2026-11-27 |
+| realism (film) | — | 写实主义 | digital-art | 学界惯例（电影研究通行（亦作“现实主义”）；与 realism 实在论（共相语境）分列，同形异义）；凭证 2026-11-28 | 2026-11-28 |
 | regular expression | — | 正则表达式 | logic-dynamic | 学界惯例（计算机科学通行）；凭证 2026-11-27 | 2026-11-27 |
 | regular program | — | 正则程序 | logic-dynamic | 学界惯例（程序逻辑通行（正则程序／正则表达式同族））；凭证 2026-11-27 | 2026-11-27 |
 | representational art | — | 再现性艺术 | digital-art | 学界惯例（艺术哲学通行（与抽象艺术对举））；凭证 2026-11-28 | 2026-11-28 |
@@ -69,10 +75,13 @@
 | semantic differentiation | — | 语义分立 | digital-art | 学界惯例（古德曼《艺术语言》术语）；凭证 2026-11-28 | 2026-11-28 |
 | sequence (program) | — | 顺序 | logic-dynamic | 学界惯例（程序构造义（α;β 顺序复合）；与一般“序列”分列）；凭证 2026-11-27 | 2026-11-27 |
 | singular | — | 单件（艺术本体论） | digital-art | 学界惯例（艺术本体论通行（与 multiple 多件对举））；凭证 2026-11-28 | 2026-11-28 |
+| singularity (art) | — | 独一性（艺术本体论） | digital-art | 学界惯例（艺术本体论通行；与 singularity (cosmological) 奇点分列，同形异义）；凭证 2026-11-28 | 2026-11-28 |
 | state (PDL) | — | 状态 | logic-dynamic | 学界惯例（程序逻辑义；与 state (action ontology) 状态 分列，撞形豁免 2026-11-27：同形异义）；凭证 2026-11-27 | 2026-11-27 |
+| sub-media | — | 子媒介 | digital-art | 学界惯例（数字艺术理论通行（与 nested media 嵌套媒介同族））；凭证 2026-11-28 | 2026-11-28 |
 | subphenomenal | — | 亚现象的／亚现象 | digital-art | 学界惯例（知觉哲学与测量技术语境；定语省“的”作“亚现象”）；凭证 2026-11-28 | 2026-11-28 |
 | syntactic differentiation | — | 句法分立 | digital-art | 学界惯例（古德曼《艺术语言》术语）；凭证 2026-11-28 | 2026-11-28 |
 | transition | — | 转移 | logic-dynamic | 学界惯例（模态逻辑与程序语义通行（与 labeled transition system 标记转移系统一致））；凭证 2026-11-27 | 2026-11-27 |
+| translatability | — | 可转译性 | digital-art | 学界惯例（媒介理论通行（medium 转译义））；凭证 2026-11-28 | 2026-11-28 |
 | video game | — | 电子游戏 | digital-art | 学界惯例（游戏研究通行（videogame 同义拼写））；凭证 2026-11-28 | 2026-11-28 |
 | world (modal logic) | — | 世界 | logic-dynamic | 学界惯例（模态逻辑义；与《世界》Le Monde 分列，撞形豁免 2026-11-27：同形异义）；凭证 2026-11-27 | 2026-11-27 |
 | 键 | 原文 | 译法 | 首现（slug 或书目） | 依据 | 裁定日期 |
