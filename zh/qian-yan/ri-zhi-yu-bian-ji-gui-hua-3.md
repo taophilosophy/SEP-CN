@@ -274,3 +274,11 @@
 * **W0 完成**：T001 候选池复算——30 命中＝28 候选补充页（bayes-theorem 1、common-knowledge 13、frege-theorem 10、infinity 1、kochen-specker 3）＋2 题名误命中（proof-theory、proof-theoretic-semantics 正条目 H1）；`$$` 416 件；T002 编目骨架（字段定义／三分类枚举／收口判据）。证据：`results/proof-candidates.tsv`、`results/t001-counts.md`、`results/catalog.md`。
 * **状态**：2 项已验证、13 项未开始；下一批 W1（T003–T008）；W3 T014 受 Mathlib 缓存迁移冻结约束（T013 立 ADR 不受限）。
 * **门禁**：spec_index `--check` 一致（状态行更新）；docsize OK；layout L1 仅 `.mimosa`（外部插件目录）红，L2–L4 零违规。
+
+## 2026-11-28 065 W1 收口（机械化编目 28 件）
+
+* **W1 执行（T003–T007）**：族重映射——原计划 Gödel／模态／集合论族在 T001 实际候选池无对应，按实际族执行（认知逻辑／博弈论、Frege、基数／无限＋确认论、量子语境性）；FFL 的 Gödel／Solovay 成果保留为事实钉与未来扩展源。
+* **编目定稿 28 件**：已机械化 1（infinity.proofs→mathlib `Cardinal.mk_real`／`Cardinal.not_countable_real`／`Infinite.natEmbedding`）、可对接 10（common-knowledge 7→AFP Epistemic Logic；kochen-specker 3→Meta ATLAS＋kscert）、无从对接 17（frege 10＋博弈论 6＋bayes 1）。
+* **关键发现**：显式 Proof 候选池与 FFL 的 Gödel／Solovay 成果无交集，已机械化覆盖率 1／28；编目主价值在 10 件框架声明与 17 件缺口登记（未见≠不存在）。
+* **T008 阻塞登记**：common-knowledge、frege-theorem、infinity、kochen-specker、bayes-theorem 五个 `zh/` 词条均为仅 H1 骨架（nonblank=1），译注无承载；待翻译后按 ADR-0076 通道执行。
+* **门禁**：spec_index 一致、docsize OK、quotes 0 违例；layout L1 仅 `.mimosa`／`.screenshots`（外部插件目录）红。
