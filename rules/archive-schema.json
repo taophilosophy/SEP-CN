@@ -1,0 +1,6 @@
+{
+  "version": "2026-11-28",
+  "required_types": ["spec", "source", "tbx", "model", "review", "scorecard", "editing", "release"],
+  "item_fields": ["type", "path", "sha256", "date", "owner", "status"],
+  "status_values": ["present", "missing"]
+}

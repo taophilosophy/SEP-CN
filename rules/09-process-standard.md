@@ -136,6 +136,14 @@
 * 新指标入 rules/05 登记表并声明：数据源（哪份信息项）、采集命令、阈值来源（标准条款或基线报告）；无阈值来源的指标只报告不判定。
 * 量化验收线研究（specs/028 校者）产出基线报告后方可立判定阈值；不以无基线的阈值设门。
 
+### 5.1 记录、归档、度量与 AI 治理（T174／ADR-0096）
+
+* **归档包**：`rules/archive-schema.json` 定 spec／source／tbx／model／review／scorecard／editing／release 八类；`results/t174-archive-template.json` 为项目级示例；每件须有 path／sha256／date／owner／status，缺项即红；校验 `python tools/check_governance.py`。
+* **留存**：`rules/retention.json` 定八类记录的留存期限、销毁条件、访问级别与责任人；永久留存，销毁只走 ADR；对齐 ISO 15489-1／GB/T 26162。
+* **度量**：`rules/metrics-baseline.json` 定 Critical、出版差错率（1/10000）、Major／Minor 密度、返工率、PE 工时、审校一致性、发布后勘误、周期成本八项；`pending_pilot` 时 baseline／threshold 均为 null，先测基线再定阈值。
+* **AI 治理**：`rules/ai-governance.json` 定风险登记、影响评估、模型变更回归、供应商与数据条款、事件处理；对齐 ISO/IEC 42001／23894；不设公开 AI 披露。
+* **发布后**：`rules/post-publication.json` 定勘误、反馈、上游更新、抽审、版本记录五项；每项有 owner／trigger／evidence。
+
 ## 6. 过程符合性自检
 
 * **批次开工**（P10）：方向声明（含适用规范基线行）｜卡钉基准｜作废条件｜试金石计划｜`check_doc_shape`（形态与作用域）。

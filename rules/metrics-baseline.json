@@ -1,0 +1,14 @@
+{
+  "version": "2026-11-28",
+  "status": "pending_pilot",
+  "metrics": {
+    "critical": {"unit": "count", "baseline": null, "threshold": null, "source": "rules/qa-scorecard.json"},
+    "publication_error_rate": {"unit": "1/10000", "baseline": null, "threshold": null, "source": "CY/T 266-2023"},
+    "major_minor_density": {"unit": "per_10000_chars", "baseline": null, "threshold": null, "source": "rules/qa-scorecard.json"},
+    "rework_rate": {"unit": "ratio", "baseline": null, "threshold": null, "source": "tasks/journal"},
+    "pe_hours": {"unit": "hours_per_1000_chars", "baseline": null, "threshold": null, "source": "ledger/evidence"},
+    "reviewer_consistency": {"unit": "percent_agreement", "baseline": null, "threshold": null, "source": "rules/evaluator-registry.json"},
+    "post_publication_errata": {"unit": "count_per_entry", "baseline": null, "threshold": null, "source": "errata/feedback"},
+    "cycle_cost": {"unit": "hours_per_entry", "baseline": null, "threshold": null, "source": "evidence"}
+  }
+}

@@ -827,6 +827,34 @@
    "owner": "rules/10",
    "source": "iso.org/TC46 目录",
    "checked": "2026-11-25"
+  },
+  {
+   "id": "C63",
+   "std": "ISO/IEC 42001:2023",
+   "std_key": [
+    "ISO/IEC 42001",
+    "ISO 42001"
+   ],
+   "title": "信息技术——人工智能 管理体系",
+   "status": "现行",
+   "domain": "AI 治理",
+   "owner": "rules/09",
+   "source": "iso.org",
+   "checked": "2026-11-28"
+  },
+  {
+   "id": "C64",
+   "std": "ISO/IEC 23894:2023",
+   "std_key": [
+    "ISO/IEC 23894",
+    "ISO 23894"
+   ],
+   "title": "信息技术——人工智能 风险管理指南",
+   "status": "现行",
+   "domain": "AI 治理",
+   "owner": "rules/09",
+   "source": "iso.org",
+   "checked": "2026-11-28"
   }
  ],
  "adopted": [

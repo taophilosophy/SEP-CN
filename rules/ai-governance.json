@@ -1,0 +1,28 @@
+{
+  "version": "2026-11-28",
+  "risk_register": [
+    {"id": "AI-01", "risk": "模型生成或补全引文", "likelihood": "medium", "impact": "high", "mitigation": "q1 引文 hash 锁定＋逐条回源", "owner": "ai-steward", "status": "open"},
+    {"id": "AI-02", "risk": "模型静默升级导致行为漂移", "likelihood": "medium", "impact": "high", "mitigation": "模型／提示登记＋固定样本回归＋评分卡", "owner": "ai-steward", "status": "open"},
+    {"id": "AI-03", "risk": "未公开草稿或审稿意见进入外部模型", "likelihood": "low", "impact": "high", "mitigation": "数据条款审查＋仅公开源入模型", "owner": "ai-steward", "status": "open"}
+  ],
+  "impact_assessment": {
+    "required": true,
+    "triggers": ["新模型", "新数据类别", "提示重大变更"],
+    "record": "results/ai-impact/<date>.md"
+  },
+  "model_change_regression": {
+    "required": true,
+    "sample": "11 件固定样本",
+    "scorecard": "rules/qa-scorecard.json",
+    "record": "journal/model-change"
+  },
+  "vendor_data_terms": {
+    "review": "逐模型登记供应商与数据留存／训练条款",
+    "record": "baseline/model-registry.json#data_terms"
+  },
+  "incident_handling": {
+    "owner": "ai-steward",
+    "record": "journal/incident",
+    "steps": ["停用模型", "隔离产物", "复盘", "回归"]
+  }
+}

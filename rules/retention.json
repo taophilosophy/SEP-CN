@@ -1,0 +1,13 @@
+{
+  "version": "2026-11-28",
+  "items": {
+    "spec": {"retention": "permanent", "destruction": "only_via_adr", "access": "public", "owner": "governance"},
+    "source": {"retention": "permanent", "destruction": "never", "access": "public", "owner": "source-audit"},
+    "tbx": {"retention": "permanent", "destruction": "only_via_adr", "access": "public", "owner": "terminologist"},
+    "model": {"retention": "permanent", "destruction": "only_via_adr", "access": "internal", "owner": "ai-steward"},
+    "review": {"retention": "permanent", "destruction": "only_via_adr", "access": "public", "owner": "review-line"},
+    "scorecard": {"retention": "permanent", "destruction": "only_via_adr", "access": "internal", "owner": "qa-lead"},
+    "editing": {"retention": "permanent", "destruction": "only_via_adr", "access": "public", "owner": "copyeditor"},
+    "release": {"retention": "permanent", "destruction": "only_via_adr", "access": "public", "owner": "editor"}
+  }
+}

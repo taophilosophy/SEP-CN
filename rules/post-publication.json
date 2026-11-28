@@ -1,0 +1,10 @@
+{
+  "version": "2026-11-28",
+  "entries": {
+    "errata": {"owner": "qa-lead", "trigger": "读者报告或抽审发现", "evidence": "baseline/en-errata/en-errata.md＋中文译注"},
+    "feedback": {"owner": "editor", "trigger": "读者反馈／issue", "evidence": "journal/feedback"},
+    "upstream_update": {"owner": "pm", "trigger": "compare 变更文件", "evidence": "reopen --upstream-sync＋变更文件"},
+    "spot_audit": {"owner": "qa-lead", "trigger": "发布后 30 天", "evidence": "rules/qa-scorecard.json 计分"},
+    "version_record": {"owner": "editor", "trigger": "发布或勘误", "evidence": "release sign-off＋journal"}
+  }
+}

@@ -23,7 +23,7 @@
 | ISO/IEC 42001／23894 | 2023／2023 | 现行 | ISO 官网 | AI 治理 | AI 管理体系、风险识别／评估／处置、影响评估、人类监督；不是翻译专用标准 |
 | ACLS《Guidelines for the Translation of Social Science Texts》 | n.d. | 非标准（最佳实践） | ACLS 官网 | 学术翻译 | 选译者看目标语能力＋源语能力＋学科专长；5–10 页样章；风格表；编辑与译者沟通；译者署名；评估译文 |
 
-> 状态口径：现行＝已发布有效；在研＝修订或新版工作项已立项；草案＝DIS／CD 等草案阶段。ISO 条款目录据 ISO OBP 与 BSI／iTeh 预览页复核（检索日 2026-11-28）；`rules/standards.json` 仍是机器事实源，尚未入册的 ISO/IEC 42001／23894 与 ACLS 见 §2 末行，随 T175 回写。
+> 状态口径：现行＝已发布有效；在研＝修订或新版工作项已立项；草案＝DIS／CD 等草案阶段。ISO 条款目录据 ISO OBP 与 BSI／iTeh 预览页复核（检索日 2026-11-28）；`rules/standards.json` 仍是机器事实源，ISO/IEC 42001／23894 已入册（T174），ACLS 待 T175。
 
 ## 1.1 条款锚点
 
@@ -78,7 +78,7 @@
 | 度量 | G21 明确“无基线”；无按错误类别的缺陷密度、返工率、PE 工时、审校一致性 | 11 件先测基线再定阈值；指标含 Critical、1/10000、Major／Minor、返工、PE 工时、一致性、发布后勘误、周期成本 | ISO/IEC 15939；ISO 5060 | T174；P4–P7 |
 | AI 治理 | 有 OWASP LLM01 提示注入防护；无 AI 风险／影响评估、模型变更回归、供应商与数据条款审查 | 风险登记、影响评估、模型变更回归、供应商与数据条款、事件处理五项有记录 | ISO/IEC 42001／23894 | T174；P0／P2 |
 | 发布后 | 有源侧全局勘误；无译文勘误、读者反馈、版本更新、发布后抽审 | P7 每项有入口、责任人、证据；抽审样本可复核；上游更新触发版本记录 | ISO 15489-1；出版实践 | T174；P7 G-Post |
-| 标准登记缺口 | ISO/IEC 42001／23894 与 ACLS 未入 `rules/standards.json`；30042 状态表述与 `rules/10` §10.6 不一致（已在本文件 §1 校正） | 目标态所列标准逐条有 `status`／`source`／`checked`；登记册与 §1 不再冲突 | `rules/standards.json`；§1 | T175；登记回写 |
+| 标准登记缺口 | ACLS 未入 `rules/standards.json`；ISO/IEC 42001／23894 已入册（T174）；30042 状态表述与 `rules/10` §10.6 不一致（已在本文件 §1 校正） | 目标态所列标准逐条有 `status`／`source`／`checked`；登记册与 §1 不再冲突 | `rules/standards.json`；§1 | T175；ACLS 登记回写 |
 | 标准锚点漂移 | `specs/041` 引“ISO 17100 §5.5.4”，`specs/063` §1.3 把 §5.3 当“源文本接受性检查”；`rules/09` 已于 T171 改为 5.3.3。标准目录中 5.3 为翻译过程（5.3.1–5.3.6），无 5.5.4 | 剩余两处改用 §1.1 的锚点；错误条款号清零 | ISO 17100 目录 | T175；规则卡／卡面同步 |
 
 ## 3 两层架构
@@ -200,6 +200,8 @@
 - 度量：Critical＝0；出版编校 ≤1/10000；服务口径 ≤1.5‰（如用）；Major／Minor 密度、返工率、PE 工时、审校一致性、发布后勘误、周期与成本；先测基线再定阈值（ISO/IEC 15939）。
 - AI 治理：按 ISO/IEC 42001／23894 建风险登记、影响评估、模型变更回归、供应商与数据条款审查、事件处理。
 - 发布后：读者反馈、勘误、上游更新、版本记录、抽审；错误分级与回退路径写入项目规范。
+
+> 落点（T174）：归档 `rules/archive-schema.json`＋`results/t174-archive-template.json`；留存 `rules/retention.json`；度量 `rules/metrics-baseline.json`；AI 治理 `rules/ai-governance.json`；发布后 `rules/post-publication.json`；校验 `tools/check_governance.py`。
 
 ## 12 质量门
 
