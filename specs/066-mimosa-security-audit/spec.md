@@ -106,8 +106,9 @@ Mimosa 深扫以仓库根为 project 运行。扫描器原生支持
 | `tools/tl_jwt_crawl.py` | 恢复默认 TLS 证书/主机名校验（JWT 走此通道） | 实测 `api.termonline.cn` 证书链默认上下文可用 |
 | `specs/013-person-attribution/bin/gnd_batch_candidates.py` | 恢复默认 TLS 校验（lobid.org GND） | 实测默认上下文可用 |
 | `specs/058-term-full-reextraction/bin/backfill_auto.py` | 恢复默认 TLS 校验（Wikidata，经本地代理） | 实测代理 + 默认上下文可用 |
-| `tools/fetch.py` | 只允许 `http/https` + `plato.stanford.edu`/`www.plato.stanford.edu`；重定向逐跳同白名单 | 关闭上游数据诱导 SSRF 与重定向绕过 |
-| `tools/common.py` | 新增 `contained_path()`：落盘路径必须位于词条包根内 | 上游 HTML 的资产相对路径是外部输入 |
+| `tools/fetch.py` | 只允许 `http/https` + `plato.stanford.edu`/`www.plato.stanford.edu` + 标准端口；重定向逐跳同白名单；拒绝也写 http-log | 关闭上游数据诱导 SSRF、非标端口与重定向绕过，保留抓取审计轨迹 |
+| `tools/common.py` | 新增 `contained_path()`：落盘路径必须位于词条包根内，且包根必须位于仓库内 | 上游 HTML 的资产相对路径是外部输入；防包根符号链接逃逸 |
+| `tools/net_guard.py` | 新增外部链接公网地址护栏（http/https + 解析地址 `is_global` + 重定向逐跳） | 链接检查器按设计访问任意外链，须拒绝回环/私网/元数据地址 |
 | `tools/fetch_entry.py` | 资产落盘改用 `contained_path()` | 防 `../`/绝对路径带出 `html/<slug>/` |
 | `tools/fetch_audit.py` | 补抓落盘改用 `contained_path()` | 同上 |
 | `tools/en_source_audit.py` | 链接检查只处理 `http/https` | 防 `file:` 等协议被当网络链接 |
@@ -115,7 +116,7 @@ Mimosa 深扫以仓库根为 project 运行。扫描器原生支持
 | `.github/workflows/format.yml` | PR 文件名经 `env` 传入，输出改多行，lint 走文件列表 | 消除 `pull_request` 文件名表达式注入 |
 | `.github/workflows/create-pdf.yml` | `inputs.letters` 经 `env` 传入 Python | 消除 dispatch 输入插值 |
 | `.github/workflows/*.yml`（8 件） | `actions/checkout`、`setup-python`、`upload-artifact`、`codeql-action` 钉到 40 位 commit SHA | 供应链不可变引用 |
-| `tools/tests/test_security_hardening.py` | 新增 7 条回归测试 | 覆盖白名单、包含性、脱敏 |
+| `tools/tests/test_security_hardening.py` | 新增 12 条回归测试 | 覆盖白名单、端口、包含性、公网地址、脱敏 |
 
 ## 5 残余风险与开放项
 
@@ -124,7 +125,7 @@ Mimosa 深扫以仓库根为 project 运行。扫描器原生支持
 3. **`mimosa git-secrets` 本机失败**：`git-log-failed:unknown`、0 commits；已用高信噪模式补偿，但不等价于全历史秘密扫描。建议在 CI 或干净克隆复跑。
 4. **本地未跟踪面**：`script/`（含 `script/tmp/probe` Chrome 用户目录）与 `state/` 有 2096 条 finding，均不入库；建议清理 `script/tmp/probe`，复用一次性脚本前单独审读。
 5. **第三方与派生物**：`public/mathjax/tex-svg.js` 20 条、`.vitepress/dist-*` 未扫；后者是构建产物，源已由 Semgrep 补扫。
-6. **低风险设计项**：`.vitepress/config.mts` dev server `host: 0.0.0.0`（本地预览用，局域网可访问）；`format.yml` 的 `fix` 作业仅 `workflow_dispatch`，不受外部 PR 触发。均记录不修。
+6. **低风险设计项**：`.vitepress/config.mts` dev server `host: 0.0.0.0`（本地预览用，局域网可访问）；`format.yml` 的 `fix` 作业仅 `workflow_dispatch`，不受外部 PR 触发；`contained_path` 的检查与 `open` 之间仍有一个理论 TOCTOU 窗口，需本机另一进程同时改写 `html/<slug>`（能改包目录者已具备仓库写权限），不属本机 CLI 威胁模型。均记录不修。
 
 ## 6 验收证据
 
@@ -132,7 +133,7 @@ Mimosa 深扫以仓库根为 project 运行。扫描器原生支持
 | ---- | ---- |
 | `seal.json` 三件摘要复算 | 全部一致 |
 | `python tools/check_all.py` | 24 项全绿 |
-| `python -m unittest tools.tests.test_security_hardening` | 7/7 OK |
+| `python -m unittest tools.tests.test_security_hardening` | 12/12 OK |
 | 受影响模块测试（fetch_entry/fetch_audit/common/compare/divergence/cnki_query/fetch_all） | 64 项 OK（skip 2） |
 | `mimosa delivery-check`（本分支） | 0 项 |
 | `semgrep` 补扫 `.vitepress` | 21 文件；2 条 INFO/WARNING，均复核为可接受 |

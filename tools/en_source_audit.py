@@ -38,11 +38,12 @@ import sys
 import time
 from collections import Counter
 from urllib.parse import urljoin, urlparse
-from urllib.request import Request, urlopen
+from urllib.request import Request
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from tools.common import load_json, repo_path, utcnow_iso  # noqa: E402
+from tools.net_guard import open_public, validate_public_url  # noqa: E402
 
 SITE = "https://plato.stanford.edu"
 MARKERS = ["attention required", "just a moment", "access denied",
@@ -229,6 +230,11 @@ def _net_check(external, out, refresh=False):
     for url in sorted(set(external)):
         if not url.lower().startswith(("http://", "https://")):
             continue  # 只检查 http(s)；mailto/javascript/file 等不是网络链接
+        try:
+            validate_public_url(url)
+        except ValueError as exc:
+            dead.append({"url": url, "status": "blocked", "error": str(exc)})
+            continue
         rec = cache.get(url)
         if rec and not refresh:
             status = rec.get("status")
@@ -238,14 +244,14 @@ def _net_check(external, out, refresh=False):
                 try:
                     req = Request(url, method="HEAD",
                                   headers={"User-Agent": "SEP-CN-audit/1.0"})
-                    with urlopen(req, timeout=30) as r:
+                    with open_public(req, timeout=30) as r:
                         status = r.status
                     break
                 except Exception as e:  # HTTPError 带 code；其余网络错误退避重试
                     code = getattr(e, "code", None)
                     if code == 405:  # 不支持 HEAD，降级 GET
                         try:
-                            with urlopen(Request(url, headers={
+                            with open_public(Request(url, headers={
                                     "User-Agent": "SEP-CN-audit/1.0"}), timeout=30) as r:
                                 status = r.status
                             break

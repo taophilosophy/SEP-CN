@@ -13,7 +13,7 @@
    * 8 个工作流的 25 处第三方 Action 使用可移动标签，未钉到 commit SHA。
 3. **1 起凭证/隐私事件需用户处置：** 已提交证据文件含一枚服务端已判无效的 JWT 与形似手机号的 username；本 PR 不重写历史、不再次展示该值，须轮换会话并评估历史清理（§5.2）。
 4. **2183 条属范围外或扫描器误报；165 条按威胁模型接受；5 条已修复：** 本地未跟踪件 2096、第三方 MathJax 20、符号碰撞 24、入口摘要 26、固定路径 9、固定主机 6、废弃代码 1、非安全随机 1；操作者路径 165 条按本机 CLI 威胁模型接受；fetch 白名单、协议过滤、包含性校验共 5 条进入修复。
-5. **项目门禁全绿：** `check_all.py` 24 项；新增安全回归 7 条；受影响模块 64 条测试通过。
+5. **项目门禁全绿：** `check_all.py` 24 项；新增安全回归 12 条；受影响模块 78 条测试通过。
 
 ## 2 扫描凭证与覆盖
 
@@ -168,7 +168,7 @@
 
 ### 5.5 CI 注入与供应链（已修）
 
-* `format.yml` 在 `pull_request` 上把 `steps.changed.outputs.all_changed_files` 直接插值进 `run`，并在 lint 步骤把文件列表裸插值给 `bunx`。PR 文件名可由外部贡献者控制，`"`、`$()`、反引号可逃逸。已改为 `env` 传值 + 多行 output + 文件列表 `xargs -d '\n'`。
+* `format.yml` 在 `pull_request` 上把 `steps.changed.outputs.all_changed_files` 直接插值进 `run`，并在 lint 步骤把文件列表裸插值给 `bunx`。PR 文件名可由外部贡献者控制，`"`、`$()`、反引号可逃逸。现已改为 `env` 传值；文件名只落 `$RUNNER_TEMP/lint-files.txt`，`GITHUB_OUTPUT` 只写常量 `has_files=0/1`，避免含换行文件名伪造 heredoc 定界符。
 * `create-pdf.yml` 把 `inputs.letters` 插值进 Python 源码；已改为 `env` + `os.environ`。
 * 25 处 `actions/checkout@v7`、`actions/setup-python@v7`、`actions/upload-artifact@v7`、`github/codeql-action/{init,analyze}@v4` 已钉到 40 位 commit SHA；其余第三方 Action 原本已钉版。
 * 复核：`delivery-check` 从 25 条 medium 降到 **0**；9 个工作流 YAML 语法校验通过。
@@ -186,18 +186,34 @@
 
 `pii-check` 的 422 条全部命中构建产物：414 条“信用卡号”实为 Unix 毫秒时间戳（13 位且偶然通过 Luhn）、archive.org 标识、ISBN/DOI 片段、SHA-256 十六进制片段；8 条“SSN”实为 `978-981-15-4847-5` 一类 ISBN/DOI 的子串。逐文件上下文复核未发现真实卡号或 SSN。该检查 `coverage.truncated=true`（5000 文件上限），结论只覆盖已扫描文件。
 
+### 5.7 Sourcery 复审 8 条处置
+
+PR 建立后 Sourcery 自动复审提出 8 条，逐条处置如下：
+
+| # | 位置 | 意见 | 处置 |
+| ---- | ---- | ---- | ---- |
+| 1 | `format.yml` | 含换行文件名可伪造 heredoc 输出 | 已修：文件名只落临时文件，输出常量布尔 |
+| 2 | `en_source_audit.py` | 外链/重定向可打内网 | 已修：新增 `tools/net_guard.py`，解析地址须 `is_global`，重定向逐跳复验 |
+| 3 | `fetch.py` | 非标端口可绕过主机白名单 | 已修：只允许 80/443 且与协议匹配，拒绝 userinfo |
+| 4 | `common.py` | 检查与 open 之间的并发符号链接替换（TOCTOU） | 接受：需本机另一进程同时改写 `html/<slug>`；能改包目录者已具备仓库写权限，超出本机 CLI 威胁模型 |
+| 5 | `common.py` | `html/<slug>` 自身为符号链接时可指向仓库外 | 已修：`contained_path(..., root=REPO_ROOT)` 要求包根也在仓库内 |
+| 6 | 测试夹具 | 复用了暴露令牌的手机号 username 与到期日 | 已修：换成完全合成的 `fixture-user` / `exp=1600000000` |
+| 7 | `fetch.py` | 白名单拒绝未写 http-log | 已修：首跳与重定向拒绝都写 `url_rejected` 记录 |
+| 8 | 测试 | `token=` 用例被裸 JWT 脱敏掩盖 | 已修：改用非 JWT 的不透明串并断言 `[REDACTED]` |
+
 ## 6 修复的验证
 
 | 验证 | 命令 | 结果 |
 | ---- | ---- | ---- |
 | 全量门禁 | `python tools/check_all.py` | 24 项，失败 0 |
-| 新增安全回归 | `python -m unittest tools.tests.test_security_hardening` | 7/7 OK |
-| 受影响模块 | `python -m unittest tools.tests.test_fetch_entry ...` | 64 项 OK（skip 2） |
+| 新增安全回归 | `python -m unittest tools.tests.test_security_hardening` | 12/12 OK |
+| 受影响模块 | `python -m unittest tools.tests.test_fetch_entry ...` | 78 项 OK（skip 2） |
 | 白名单实测 | `fetch.get(https://plato.stanford.edu/contents.html)` | 200，307144 字节 |
 | 重定向实测 | `fetch.get(http://plato.stanford.edu/contents.html)` | 200，307144 字节 |
-| 拒绝实测 | `file://`、`127.0.0.1`、`evil.example`、`ftp://` | 全部 `FetchError` |
-| 包含性实测 | `contained_path(base, '../x')` 等 | 全部 `ValueError` |
-| 脱敏实测 | 裸 JWT / `token=` | 均替换为 `[REDACTED…]` |
+| 拒绝实测 | `file://`、`127.0.0.1`、`evil.example`、`ftp://`、`:8443` | 全部 `FetchError`，且写入 `url_rejected` 日志 |
+| 包含性实测 | `contained_path(base, '../x')`、包根在仓库外 | 全部 `ValueError` |
+| 公网护栏实测 | `validate_public_url` 公网/回环/`file:` | 公网通过；回环与非 http 拒绝 |
+| 脱敏实测 | 裸 JWT / `token=opaque...` | 分别替换为 `[REDACTED-JWT]` / `[REDACTED]` |
 | 封印复算 | 三件 SHA-256 | 全部一致 |
 | 交付链 | `mimosa delivery-check` | 0 项 |
 

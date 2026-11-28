@@ -39,6 +39,15 @@ def _log(record):
             f.write(json.dumps(record, ensure_ascii=False) + "\n")
 
 
+def _log_rejected(url, detail):
+    """白名单拒绝也留痕；日志目录缺失时不掩盖策略错误。"""
+    try:
+        _log({"at": _now_ms(), "url": url, "status": None, "bytes": 0,
+              "attempt": 0, "error": "url_rejected: %s" % detail})
+    except OSError:
+        pass
+
+
 def get(url, dest=None, retries=3, timeout=60):
     """GET 一个 URL。
 
@@ -47,7 +56,11 @@ def get(url, dest=None, retries=3, timeout=60):
     静默跳过——宪法 V）。成功与失败都写 script/http-log.jsonl。
     """
     last_err = None
-    _validate_url(url)
+    try:
+        _validate_url(url)
+    except FetchError as exc:
+        _log_rejected(url, str(exc))
+        raise
     for attempt in range(retries + 1):
         try:
             req = urllib.request.Request(url, headers={"User-Agent": UA})
@@ -80,6 +93,10 @@ def get(url, dest=None, retries=3, timeout=60):
                 time.sleep(BACKOFF_S * (2 ** attempt))
                 continue
             raise FetchError(url, None, str(last_err))
+        except FetchError as e:
+            # 重定向目标被白名单拒绝：不重试，留痕后原样抛出
+            _log_rejected(e.url, str(e))
+            raise
     raise FetchError(url, None, str(last_err))  # pragma: no cover
 
 
@@ -91,12 +108,19 @@ class FetchError(Exception):
 
 
 def _validate_url(url):
-    """抓取白名单：只允许 http/https 与 SEP 主机，防止目录/词条数据诱导 SSRF。"""
+    """抓取白名单：只允许 http/https、SEP 主机与标准端口，防目录/词条数据诱导 SSRF。"""
     parts = urllib.parse.urlsplit(url)
     host = (parts.hostname or "").lower()
     if parts.scheme not in ALLOWED_SCHEMES or host not in ALLOWED_HOSTS:
         raise FetchError(url, None,
                          "URL 不在抓取白名单（仅 http/https + plato.stanford.edu）")
+    try:
+        port = parts.port
+    except ValueError:
+        port = -1
+    expected = 443 if parts.scheme == "https" else 80
+    if port not in (None, expected) or parts.username or parts.password:
+        raise FetchError(url, None, "URL 端口或用户信息不在抓取白名单")
 
 
 class _SafeRedirect(urllib.request.HTTPRedirectHandler):

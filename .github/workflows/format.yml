@@ -48,23 +48,24 @@ jobs:
         run: |
           files="$(printf '%s\n' "$ALL_CHANGED_FILES" | tr ',' '\n' \
             | grep -Ev '^(en|yuanwen|script|state|\.zcode|\.specify|tools/tests/fixtures)/|^SUMMARY\.md$' || true)"
+          # 文件名不进 GITHUB_OUTPUT（固定 heredoc 定界符可能被含换行文件名伪造）；
+          # 只落 runner 临时文件，输出一个常量布尔。
+          : > "$RUNNER_TEMP/lint-files.txt"
           if [ -n "$files" ]; then
-            { echo "files<<MDLINT_EOF"; printf '%s\n' "$files"; echo "MDLINT_EOF"; } >> "$GITHUB_OUTPUT"
+            printf '%s\n' "$files" | grep -v '^$' > "$RUNNER_TEMP/lint-files.txt"
+            echo "has_files=1" >> "$GITHUB_OUTPUT"
           else
-            echo "files=" >> "$GITHUB_OUTPUT"
+            echo "has_files=0" >> "$GITHUB_OUTPUT"
           fi
 
       - name: Setup Bun
-        if: steps.filter.outputs.files != ''
+        if: steps.filter.outputs.has_files == '1'
         uses: oven-sh/setup-bun@0c5077e51419868618aeaa5fe8019c62421857d6  # v2
 
       - name: markdownlint（只读，告警级）
-        if: steps.filter.outputs.files != ''
+        if: steps.filter.outputs.has_files == '1'
         continue-on-error: true
-        env:
-          FILES: ${{ steps.filter.outputs.files }}
         run: |
-          printf '%s\n' "$FILES" | grep -v '^$' > "$RUNNER_TEMP/lint-files.txt"
           xargs -r -d '\n' bunx markdownlint-cli2 --config .markdownlint-cli2.jsonc < "$RUNNER_TEMP/lint-files.txt"
 
   fix:
