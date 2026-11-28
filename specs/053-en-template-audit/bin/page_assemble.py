@@ -85,7 +85,7 @@ def assemble(lib, slug):
     if not rec:
         return None, {"skipped": "no layout"}
     brec = lib.base.get(slug)
-    md_path = repo_path("yuanwen", (brec or {}).get("zh_doc") or "")
+    md_path = repo_path(((brec or {}).get("yuanwen") or {}).get("md") or "")
     if not os.path.exists(md_path):
         return None, {"skipped": "no yuanwen md"}
     led = lib.led.get(slug) or {}
@@ -113,7 +113,7 @@ def assemble(lib, slug):
 
 
 def judge(lib, slug):
-    p = repo_path("en", slug, "index.html")
+    p = repo_path("html", slug, "index.html")
     if not os.path.exists(p):
         return {"slug": slug, "status": "gap", "skipped": "no en"}
     h0 = PL.read(p)

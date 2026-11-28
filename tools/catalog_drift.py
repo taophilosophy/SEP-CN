@@ -226,8 +226,8 @@ def collect(fetched_path, baseline_path="baseline/catalog.json"):
     text = read_text(fetched_path)
     full = parser.parse_catalog_full(text)
     baseline = load_json(repo_path(*baseline_path.split("/")))
-    summary = _slugs_from_md(read_text(repo_path("SUMMARY.md")))
-    mulu = _slugs_from_md(read_text(repo_path("mu-lu-s.md")))
+    summary = _slugs_from_md(read_text(repo_path("zh", "SUMMARY.md")))
+    mulu = _slugs_from_md(read_text(repo_path("zh", "mu-lu-s.md")))
     rep = drift_report(full, baseline, summary, mulu, suspended_set())
     rep["snapshot"] = os.path.basename(fetched_path)
     return rep
