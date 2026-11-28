@@ -58,6 +58,16 @@
 
 **独立性**：tr-02、sg-01、sg-02、sg-03 的 actor 两两不同；领域审校与校对独立于译者；`sg-01`／`sg-02` 与初译同人的 V01 偏离已撤销（`rules/standards.json` 不再登记），冷置／密度补偿不适用于任何审校环节。
 
+### 2.2 机器／LLM 生产门（T172／ADR-0094）
+
+* 出版件只允许 **full PE**；raw MT／light PE 不得出版。
+* 禁止模型生成、补全或“修正”引文与参考文献；引文须回源，q1 引文 hash 锁定。
+* 必须逐段对照源文；禁止只读译文润色。
+* QE／COMET 只作分流，不作发布门。
+* 风险分级见 `rules/risk-matrix.json`：A 人工为主，B full PE，C 仅内部。
+* 模型／提示／参数登记见 `baseline/model-registry.json`；模型或提示变更须重跑固定样本与评分卡。
+* 校验：`python tools/check_risk_matrix.py`、`python tools/check_model_registry.py`。
+
 ## 3. 信息项规范（15289 对齐）
 
 每类信息项应具备**标识、版本/时点、状态、责任者、保留策略**五属性；缺任一属性的信息项不应作为质量门凭证。

@@ -1,0 +1,31 @@
+{
+  "version": "2026-11-28",
+  "levels": {
+    "A": {
+      "name": "高",
+      "criteria": ["论证密集", "术语新", "引文多", "法律或伦理敏感", "争议概念"],
+      "method": "human-led",
+      "review": ["sg-01", "sg-02", "sg-03", "domain"],
+      "publication": true
+    },
+    "B": {
+      "name": "中",
+      "criteria": ["一般哲学条目", "术语与论证密度中等"],
+      "method": "llm-pe-full",
+      "review": ["sg-01", "sg-02", "sg-03"],
+      "publication": true
+    },
+    "C": {
+      "name": "低／内部",
+      "criteria": ["非出版", "参考资料", "内部阅读"],
+      "method": "llm-light",
+      "review": ["internal"],
+      "publication": false
+    }
+  },
+  "publication": {
+    "pe_level": "full",
+    "forbid": ["raw", "light"],
+    "critical": 0
+  }
+}

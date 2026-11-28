@@ -1,0 +1,20 @@
+{
+  "version": "2026-11-28",
+  "models": [
+    {
+      "id": "deepseek-v4.1-flash",
+      "provider": "DeepSeek",
+      "model": "DeepSeek-V4.1-Flash",
+      "version": "2026-11-28",
+      "date": "2026-11-28",
+      "params": {
+        "temperature": "provider default",
+        "max_tokens": "provider default"
+      },
+      "system_prompt": "specs/005-translation-campaign/fan-yi-mu-ban.md §6（提示词骨架）",
+      "terminology_version": "zh/shu-yu-biao.md＋zh/ren-ming-biao.md（2026-11-28）",
+      "data_terms": "公开 SEP 源；未公开草稿、审稿意见、个人信息不入模型",
+      "change_policy": "模型、提示或参数升级须重跑固定样本与评分卡，禁止静默换模型"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tbx xmlns="urn:iso:std:iso:30042:ed-2" style="dct" type="TBX-Core" xml:lang="en">
+  <tbxHeader>
+    <fileDesc><sourceDesc><p>SEP-CN 术语表（shu-yu-biao.md＋ren-ming-biao.md＋term-concepts.md）</p></sourceDesc></fileDesc>
+  </tbxHeader>
+  <text>
+    <body>
+      <conceptEntry id="AI-art">
+        <descrip type="source">学界惯例（艺术哲学通行（人工智能艺术））；凭证 2026-11-28</descrip>
+        <descrip type="status">current</descrip>
+        <descrip type="date">2026-11-28</descrip>
+        <descrip type="owner">术语员</descrip>
+        <descrip type="view">shu-yu</descrip>
+        <descrip type="section">A</descrip>
+        <descrip type="firstOccurrence">digital-art</descrip>
+        <langSec xml:lang="zh-Hans"><termSec><term>AI 艺术</term></termSec></langSec>
+      </conceptEntry>
+      <conceptEntry id="Ajari">
+        <descrip type="source">真言宗汉语传统（高僧位阶）；学界通行</descrip>
+        <descrip type="status">current</descrip>
+        <descrip type="date">2026-11-28</descrip>
+        <descrip type="owner">术语员</descrip>
+        <descrip type="view">shu-yu</descrip>
+        <descrip type="section">A</descrip>
+        <descrip type="order">1</descrip>
+        <descrip type="firstOccurrence">kokugaku-school</descrip>
+        <langSec xml:lang="en"><termSec><term>阿闍梨</term></termSec></langSec>
+        <langSec xml:lang="zh-Hans"><termSec><term>阿阇梨</term></termSec></langSec>
+      </conceptEntry>
+      <conceptEntry id="Amaterasu">
+        <descrip type="source">学界通行；日本神话太阳神</descrip>
+        <descrip type="status">current</descrip>
+        <descrip type="date">2026-11-28</descrip>
+        <descrip type="owner">术语员</descrip>
+        <descrip type="view">shu-yu</descrip>
+        <descrip type="section">A</descrip>
+        <descrip type="order">2</descrip>
+        <descrip type="firstOccurrence">kokugaku-school</descrip>
+        <langSec xml:lang="en"><termSec><term>天照</term></termSec></langSec>
+        <langSec xml:lang="zh-Hans"><termSec><term>天照大神</term></termSec></langSec>
+      </conceptEntry>
+      <conceptEntry id="Ame-no-Minakanushi">
+        <descrip type="source">日本神话三创造神之一；汉字原样</descrip>
+        <descrip type="status">current</descrip>
+        <descrip type="date">2026-11-28</descrip>
+        <descrip type="owner">术语员</descrip>
+        <descrip type="view">shu-yu</descrip>
+        <descrip type="section">A</descrip>
+        <descrip type="order">3</descrip>
+        <descrip type="firstOccurrence">kokugaku-school</descrip>
+        <langSec xml:lang="en"><termSec><term>天之御中主神</term></termSec></langSec>
+        <langSec xml:lang="zh-Hans"><termSec><term>天之御中主神</term></termSec></langSec>
+      </conceptEntry>
+      <conceptEntry id="arahaniyo">
+        <descrip type="source">日本神道语境（可见世界）；学界通行</descrip>
+        <descrip type="status">current</descrip>
+        <descrip type="date">2026-11-28</descrip>
+        <descrip type="owner">术语员</descrip>
+        <descrip type="view">shu-yu</descrip>
+        <descrip type="section">A</descrip>
+        <descrip type="order">4</descrip>
+        <descrip type="firstOccurrence">kokugaku-school</descrip>
+        <langSec xml:lang="en"><termSec><term>現し世</term></termSec></langSec>
+        <langSec xml:lang="zh-Hans"><termSec><term>显世</term></termSec></langSec>
+      </conceptEntry>
+      <conceptEntry id="A.J.-Ayer">
+        <descrip type="subjectField">人名</descrip>
+        <descrip type="definition">人名条目</descrip>
+        <descrip type="source">学界通行汉译（《语言、真理与逻辑》）；籍属/生卒联网查证：SEP 原文 en/ayer:151（2026-11-20 查，凭证 verify-2026-11-20-people.tsv）</descrip>
+        <descrip type="status">current</descrip>
+        <descrip type="date">2026-11-20</descrip>
+        <descrip type="owner">术语员</descrip>
+        <descrip type="view">ren-ming</descrip>
+        <descrip type="section">A</descrip>
+        <descrip type="firstOccurrence">religious-experience</descrip>
+        <descrip type="nationality">英国</descrip>
+        <descrip type="life">1910–1989</descrip>
+        <langSec xml:lang="en"><termSec><term>A.J. Ayer</term></termSec></langSec>
+        <langSec xml:lang="zh-Hans"><termSec><term>艾耶尔</term></termSec></langSec>
+      </conceptEntry>
+      <conceptEntry id="Aas-Sean">
+        <descrip type="subjectField">人名</descrip>
+        <descrip type="definition">人名条目</descrip>
+        <descrip type="source">ADR-0022：无通行汉名者保留英文（本词条合著者）；凭证 2026-11-09</descrip>
+        <descrip type="status">current</descrip>
+        <descrip type="date">2026-11-09</descrip>
+        <descrip type="owner">术语员</descrip>
+        <descrip type="view">ren-ming</descrip>
+        <descrip type="section">A</descrip>
+        <descrip type="order">1</descrip>
+        <descrip type="firstOccurrence">disability</descrip>
+        <langSec xml:lang="en"><termSec><term>Aas, Sean</term></termSec></langSec>
+        <langSec xml:lang="zh-Hans"><termSec><term>Sean Aas（现代学者，保留英文）</term></termSec></langSec>
+      </conceptEntry>
+      <conceptEntry id="Abe-Masao">
+        <descrip type="subjectField">人名</descrip>
+        <descrip type="definition">人名条目</descrip>
+        <descrip type="source">学界通行译名；籍属/生卒联网查证：Wikidata Q1975693（2026-11-24 查，凭证 people-wikidata-2026-11-24-b14.tsv）；京都学派与禅／基督教对话</descrip>
+        <descrip type="status">current</descrip>
+        <descrip type="date">2026-11-24</descrip>
+        <descrip type="owner">术语员</descrip>
+        <descrip type="view">ren-ming</descrip>
+        <descrip type="section">A</descrip>
+        <descrip type="order">2</descrip>
+        <descrip type="firstOccurrence">语料回收（全目录）</descrip>
+        <descrip type="nationality">日本</descrip>
+        <descrip type="life">1915–2006</descrip>
+        <langSec xml:lang="en"><termSec><term>Abe Masao</term></termSec></langSec>
+        <langSec xml:lang="zh-Hans"><termSec><term>阿部正雄</term></termSec></langSec>
+      </conceptEntry>
+      <conceptEntry id="Abel-Theodor">
+        <descrip type="subjectField">人名</descrip>
+        <descrip type="definition">人名条目</descrip>
+        <descrip type="source">学界通行汉译（《理解的概念》作者，把 Verstehen 还原为“共情性认同”者之一）；凭证 2026-11-11</descrip>
+        <descrip type="status">current</descrip>
+        <descrip type="date">2026-11-11</descrip>
+        <descrip type="owner">术语员</descrip>
+        <descrip type="view">ren-ming</descrip>
+        <descrip type="section">A</descrip>
+        <descrip type="order">3</descrip>
+        <descrip type="firstOccurrence">dilthey</descrip>
+        <descrip type="nationality">美国</descrip>
+        <descrip type="life">1903–1980</descrip>
+        <langSec xml:lang="en"><termSec><term>Abel, Theodor</term></termSec></langSec>
+        <langSec xml:lang="zh-Hans"><termSec><term>西奥多·阿贝尔</term></termSec></langSec>
+      </conceptEntry>
+      <conceptEntry id="Abelard-Peter">
+        <descrip type="subjectField">人名</descrip>
+        <descrip type="definition">人名条目</descrip>
+        <descrip type="source">学界惯例（SUMMARY 定名沿用；学界通行汉译）；凭证 2026-11-04；籍属/生卒联网查证：GND 规范标目 gnd 11850004X（2026-11-13 查，凭证 verify-2026-11-13-gnd-a.tsv）；审定库无相关命中（termonline-all 凭证 2026-11-07）</descrip>
+        <descrip type="status">current</descrip>
+        <descrip type="date">2026-11-13</descrip>
+        <descrip type="owner">术语员</descrip>
+        <descrip type="view">ren-ming</descrip>
+        <descrip type="section">A</descrip>
+        <descrip type="order">4</descrip>
+        <descrip type="firstOccurrence">语料回收（全目录）</descrip>
+        <descrip type="nationality">法国／经院神学</descrip>
+        <descrip type="life">1079–1142</descrip>
+        <langSec xml:lang="en"><termSec><term>Abelard Peter</term></termSec></langSec>
+        <langSec xml:lang="zh-Hans"><termSec><term>彼得·阿伯拉尔</term></termSec></langSec>
+      </conceptEntry>
+    </body>
+  </text>
+</tbx>

@@ -156,6 +156,8 @@
 8. 模型变更回归：模型／提示升级必须重跑固定样本与评分卡；不得静默换模型。
 9. 内部模型／提示登记、AI 风险与变更回归保留。
 
+> 落点（T172）：风险分级 `rules/risk-matrix.json`；模型／提示／参数 `baseline/model-registry.json`；校验 `tools/check_risk_matrix.py`、`tools/check_model_registry.py`。
+
 ## 8 术语库（TBX）
 
 - 术语库为单一事实源；`shu-yu-biao.md`、`ren-ming-biao.md` 改为生成视图。
@@ -163,6 +165,8 @@
 - 人名／地名／机构名按概念类型分列；权威依据与转写标准单列。
 - 流程：候选提取→术语员审定→登记→使用→变更记录；禁止模型自审定。
 - 机检：TBX 结构校验、术语一致性、首现括注、弃用词告警。
+
+> 落点（T172）：schema／校验 `tools/term_tbx.py --check`；迁移样本 `baseline/termbase-sample.tbx`（10 条）＋`results/t172-views/`；全量切换待概念定义补齐与 T175 pilot。
 
 ## 9 质量评估与出版口径
 

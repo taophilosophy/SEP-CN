@@ -93,8 +93,8 @@
 
 * 依据：GB/T 44227-2024（MOD 采用 ISO 30042:2019）；ISO 30042 第 3 版 CD 已通过转 DIS（30.99，2026-09-09），现行仍为 2019 版。
 * 本库只导 **TBX Core（DCT 风格）**，不启用方言模块（TBX-Basic／Min 的模块层暂不引入，避免空壳字段）。
-* 字段映射：键→`conceptEntry/@id`；原文→`langSec[@xml:lang=en]` 的 `term`；译法→`langSec[@xml:lang=zh-Hans]` 的 `term`；定义→`descrip type="definition"`；学科域→`descrip type="subjectField"`；概念关系→`descrip type="relatedConcept"`。
-* 生成：`python tools/term_tbx.py [--out PATH]`；只读两表、确定性排序、XML 良构校验；产物为生成物，**禁手改**。
+* 字段映射：键→`conceptEntry/@id`；原文→`langSec[@xml:lang=en]` 的 `term`；译法→`langSec[@xml:lang=zh-Hans]` 的 `term`；定义→`descrip type="definition"`；学科域→`descrip type="subjectField"`；概念关系→`descrip type="relatedConcept"`；来源→`type="source"`；状态→`type="status"`；日期→`type="date"`；负责人→`type="owner"`；语境／语法／交叉引用→`context`／`grammar`／`crossReference`（T172／ADR-0094）。
+* 生成／校验／样本：`python tools/term_tbx.py [--out PATH]`；`--check PATH` 校验结构、必填、重复与状态；`--sample-out PATH --sample-views DIR` 生成迁移样本（当前样本 `baseline/termbase-sample.tbx`）。只读两表、确定性排序、XML 良构校验；产物为生成物，**禁手改**。
 
 ## 10.7 工程过程标准备注（T169 回写，2026-11-27）
 

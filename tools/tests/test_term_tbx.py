@@ -93,6 +93,50 @@ class TestTermTbx(unittest.TestCase):
         ids = [e.get("id") for e in root.iter("{urn:iso:std:iso:30042:ed-2}conceptEntry")]
         self.assertEqual(len(ids), len(set(ids)))
 
+    def test_schema_fields_and_roundtrip(self):
+        reg = """| 键 | 原文 | 译法 | 首现 | 依据 | 裁定日期 |
+| --- | --- | --- | --- | --- | --- |
+| 此在 | Dasein | 此在 | a/x | ADR | 2026-12-01 |
+"""
+        name = """| 原文 | 别名 | 译法 | 籍属 | 生卒 | 首现 | 依据 | 裁定日期 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Ayer | — | 艾耶尔 | 英国 | 1910–1989 | a/y | ADR | 2026-12-01 |
+"""
+        items = term_tbx.migrate_items(term_tbx.layout_rows(self._write(reg)), [],
+                                      term_tbx.layout_rows(self._write(name)), limit=1)
+        text = term_tbx.render(items)
+        for token in ("subjectField", "definition", "status", "date", "owner", "view"):
+            self.assertIn('type="%s"' % token, text)
+        path = self._write("")
+        with open(path, "w", encoding="utf-8") as f:
+            f.write(text)
+        parsed = term_tbx.parse_tbx(path)
+        self.assertEqual(len(parsed), 2)
+        self.assertEqual(term_tbx.validate(parsed)["errors"], [])
+        self.assertIn("| 此在 | Dasein | 此在 |", term_tbx.render_view(parsed, "shu-yu"))
+        self.assertIn("| Ayer | — | 艾耶尔 |", term_tbx.render_view(parsed, "ren-ming"))
+
+    def test_validate_rejects_structural_errors(self):
+        good = term_tbx._base("k", "en", "zh", status="current",
+                              date="2026-12-01", owner="术语员", view="shu-yu")
+        good["id"] = "k"
+        self.assertEqual(term_tbx.validate([good])["errors"], [])
+        bad_status = dict(good, status="obsolete")
+        self.assertTrue(term_tbx.validate([bad_status])["errors"])
+        bad_date = dict(good, date="2026/12/01")
+        self.assertTrue(term_tbx.validate([bad_date])["errors"])
+        no_term = dict(good, source="", target="")
+        self.assertTrue(term_tbx.validate([no_term])["errors"])
+        dup = [dict(good), dict(good)]
+        self.assertTrue(term_tbx.validate(dup)["errors"])
+
+    def test_repo_sample_validates(self):
+        path = os.path.join(term_tbx.ROOT, "baseline", "termbase-sample.tbx")
+        self.assertTrue(os.path.exists(path))
+        result = term_tbx.validate(term_tbx.parse_tbx(path))
+        self.assertEqual(result["errors"], [])
+        self.assertGreaterEqual(result["count"], 10)
+
 
 if __name__ == "__main__":
     unittest.main()
