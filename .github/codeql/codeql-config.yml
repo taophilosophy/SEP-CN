@@ -1,0 +1,28 @@
+name: "SEP-CN CodeQL configuration"
+
+# 只分析仓库自身维护的代码，不扫原始网页与生成物。
+paths:
+  - .github/workflows
+  - .vitepress
+  - script
+  - tools
+  - specs
+
+paths-ignore:
+  # 原始 SEP 网页冻结区（ADR-0062）：含上游旧版 JS，
+  # html/lewis-metaphysics/local.js 第 6 行缺逗号（上游原样，不可改），
+  # 纳入分析会触发 "Unexpected token" 解析告警。
+  - html/**
+  # 生成物与依赖
+  - .vitepress/dist-*
+  - .vitepress/cache/**
+  - '**/node_modules/**'
+  - '**/dist/**'
+  - '**/coverage/**'
+  - '**/*.min.js'
+  # 规格目录中的运行结果与草稿
+  - specs/**/results/**
+  - .zcode/**
+
+queries:
+  - uses: security-extended
