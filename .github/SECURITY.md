@@ -39,15 +39,15 @@
 | 类别 | 处置 | 依据 |
 | ---- | ---- | ---- |
 | `actions/unpinned-tag`（9） | **修复**：第三方 action 全部改为固定提交 SHA | 供应链完整性；标签可被移动 |
-| `py/regex-injection`（动态 tag／name 共 8 处） | **修复**：`re.escape()` 转义后拼入模式 | 阻断正则元字符注入 |
-| `py/xml-bomb`（1） | **加固**：feed 解析前拒绝 `<!DOCTYPE`／`<!ENTITY` | 阻断实体膨胀与外部实体 |
+| `py/regex-injection`（动态 tag／name 共 8 处） | **修复**：`re.escape()` 转义后拼入模式；余 3 处为 `rules/naming.json` 登记表配置正则，驳回（won't fix） | 阻断正则元字符注入；配置即模式属设计行为 |
+| `py/xml-bomb`（1） | **加固**：feed 解析前拒绝 `<!DOCTYPE`／`<!ENTITY`；余告警按误报关闭 | 阻断实体膨胀与外部实体 |
 | `py/polynomial-redos`（408） | 驳回（won't fix）：本地／CI 对仓库内受信文本运行，输入规模与运行时限受控 | 无可被外部租户触发的服务端入口 |
 | `py/path-injection`（396） | 驳回（won't fix）：CLI 操作者显式指定的仓库内路径，本地读写即工具功能 | 不以服务形式暴露 |
 | `py/partial-ssrf`（6）、`py/full-ssrf`（1） | 驳回（won't fix）：抓取工具按操作者给定或固定上游 URL 请求 | 本地运行，非多租户服务 |
 | `py/command-line-injection`（1） | 驳回（false positive）：`subprocess.run(list)` 不经 shell | 参数不参与 shell 解析 |
 | `js/path-injection`（10）、`js/file-access-to-http`（1）、`js/remote-property-injection`（1） | 驳回（won't fix）：`specs/` 下一次性分析／截图脚本，参数由操作者提供 | 非站点运行时 |
 
-上述驳回均在对应告警内附同口径说明；若仓库未来对外提供网络服务或接受不可信输入，须重新评估并重开相关告警。
+上述驳回均在对应告警内附同口径说明；若仓库未来对外提供网络服务或接受不可信输入，须重新评估并重开相关告警。2026-11-28 处置后，code scanning 开启告警为 0：本批固定第三方 action 9 条、转义动态正则 8 条，其余按上表逐类驳回并留说明。
 
 ## 供应链
 
