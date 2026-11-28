@@ -13,6 +13,8 @@
 # en/ ↔ yuanwen/ 的逐字符一致性（sha256 对不上）。
 /en/** -text
 /yuanwen/** -text
+# html/ 同为原始钉（ADR-0062）：现有件含 mixed/CRLF，eol=lf 会在下次检出时改写字节。
+/html/** -text
 
 *.md linguist-vendored=false
 *.md linguist-generated=false
