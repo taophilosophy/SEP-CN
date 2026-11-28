@@ -87,7 +87,7 @@ export function protectMath(src) {
       if (single !== undefined) return `@@MJ${encodeB64(`$${single}$`)}@@`
       // 非白名单或开闭不平衡的尖括号 → 字面文本（: 为自动链接 <https://…>，放行）
       const bare = (tagName !== undefined ? tagName : tagName2).replace(/^\//, '')
-      if (!safeTags.has(bare) && tagFollow !== ':') return all.replace('<', '&lt;')
+      if (!safeTags.has(bare) && tagFollow !== ':') return all.replaceAll('<', '&lt;')
       return all
     },
   )

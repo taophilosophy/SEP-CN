@@ -624,8 +624,18 @@ export default defineConfig({
           *_splitIntoSections(file, html) {
             const headingRegex = /<h(\d*).*?>(.*?<a.*? href="#.*?".*?>.*?<\/a>)<\/h\1>/gi
             const headingContentRegex = /(.*)<a.*? href="#(.*?)".*?>.*?<\/a>/i
+            // 循环剥离标签，避免单次替换在嵌套/残缺标签上留下 <script（CodeQL
+            // js/incomplete-multi-character-sanitization；输入为构建期可信 HTML）。
+            const stripTags = (s) => {
+              let prev
+              do {
+                prev = s
+                s = s.replace(/<[^>]*>/g, '')
+              } while (s !== prev)
+              return s
+            }
             const clearTags = (s) =>
-              s.replace(/<[^>]*>/g, '').replace(/@@M[A-Z][A-Za-z0-9_-]+@@/g, ' ')
+              stripTags(s).replace(/@@M[A-Z][A-Za-z0-9_-]+@@/g, ' ')
             const PAGE_CAP = 3500
             const SECTION_CAP = 1500
             let total = 0
@@ -635,7 +645,7 @@ export default defineConfig({
             for (let i = 0; i < parts.length; i += 3) {
               const level = parseInt(parts[i]) - 1
               const m = headingContentRegex.exec(parts[i + 1] || '')
-              const title = (m?.[1] ?? '').replace(/<[^>]*>/g, '').trim()
+              const title = stripTags(m?.[1] ?? '').trim()
               const content = parts[i + 2]
               if (!title || !content) continue
               const text = clearTags(content)
