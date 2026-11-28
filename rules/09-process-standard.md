@@ -52,6 +52,12 @@
 
 信息项命名与归置应合 [01](01-repository-structure.md) 与 ADR-0023（散件归 script/state/specs bin|results）；生成物不应承载规则（ADR-0015）。
 
+### 3.1 文档形态与规则作用域
+
+* **形态三分**：单页卡＝仅 `spec.md`（允许 `plan.md` 单存为规划卡）；标准三件＝`spec.md`＋`plan.md`＋`tasks.md`，有 `tasks.md` 必有 `plan.md`；登记／规则类不建 `specs/` 空壳。判据见 [ADR-0092](adr/0092-文档形态三分与规则作用域派生.md)。
+* **作用域派生**：规则作用域只从 `rules/pipeline.json` 的 `criteria_owner`／`criteria_carrier` 派生；`rules/0X-*.md` 头部不得手写 `applies_to`。
+* **机检**：`python tools/check_doc_shape.py`；正反例 `tools/tests/test_doc_shape.py`。
+
 ## 4. 评审体系（IEEE 1028 五类映射）
 
 | 1028 评审类 | 本仓库实体 | 证据要求 |
@@ -76,7 +82,7 @@
 
 ## 6. 过程符合性自检
 
-* **批次开工**（P10）：方向声明（含适用规范基线行）｜卡钉基准｜作废条件｜试金石计划。
+* **批次开工**（P10）：方向声明（含适用规范基线行）｜卡钉基准｜作废条件｜试金石计划｜`check_doc_shape`（形态与作用域）。
 * **阶段推进**（P1–P8）：本表门禁通过｜evidence 五属性齐（§3）｜actor 记名｜禁跳步。
 * **收工**：`check_all.py` 全绿（门禁清单以 `--list-gates` 为准）｜`git log origin/main..main` 为空（提交即推，ADR-0059）｜不留半成品｜本次改变了哪个决策/产物/门禁（[08](08-intent-first.md) §4）。
 * 自检结论入对应信息项（任务 evidence、execution-log）；缺失视为未立项（[06](06-governance.md) 质量门）。
