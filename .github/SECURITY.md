@@ -52,4 +52,5 @@
 ## 供应链
 
 - GitHub Actions 的第三方 action 一律固定到提交 SHA（标签仅作注释），官方 action 按最小必要权限配置。
+- CodeQL 采用 advanced setup（`.github/workflows/codeql.yml`）：`python`／`javascript-typescript`／`actions` 三语言，`security-extended` 查询套件，push、PR 与每周一 02:23 UTC 扫描；默认设置已停用。
 - 发现可疑提交、依赖或工作流权限变更，请按“报告漏洞”一节私密报告。
