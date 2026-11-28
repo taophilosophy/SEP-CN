@@ -182,6 +182,8 @@ ASCII 艺术示例：
 
 > 智慧城市中生产与使用的数据不一定应作为公民的公用事业来呈现。它应作为游戏的道具来呈现，既作为游戏，也作为玩具与游乐场的来源。数据丰富的城市可以成为可玩城市，而通过成为可玩城市，它们可以成为更人性、更具包容性的空间（Ackermann: 2016, 27）[^ackermann-2016]。
 
+（译注：原文书目 Ackermann 条作“Andreas Rauscher, Andreas and Daniel Stein”，重复名 Andreas；译文书目按参考读法作“Andreas Rauscher, and Daniel Stein”。）
+
 定位作品面向过程与表演性的本性，再次成为欣赏其所创造空间的核心。与定位媒介的可玩性相关，定位项目也可修改，且通常意在由展示地社区的公众进行黑客式改造。尽管“黑客”与“黑客行为”这些词可能带有负面含义，但在其原初构想中，黑客实践意在改进现有计算机程序，承认原初创作者与后续修订者双方的成就（Levy 1984）[^levy-1984]。定位项目通常意在以这种方式随时间改变和改进，取决于用户如何“玩”数据与输入。换言之，地方社区可以玩这些项目甚至修改它们，使定位作品尽可能与社区相关并反映社区。
 
 上述表明，定位项目往往有比单纯娱乐更广泛的目标。尽管它们常常意在激发游玩与游玩态度（如上文例子所示，这可不同程度地发生），定位作品的目标导向本性往往使所涉及的游玩成为“严肃的”一类。当游玩带来的享受与愉悦不仅构成娱乐，还服务于某种有价值的现实世界目标时，严肃游玩便发生了。即便用户没有意识到作品的社会或政治目标，也可以说一件作品支持严肃游玩。
@@ -191,3 +193,149 @@ ASCII 艺术示例：
 > 任何技术设备要“察觉”其语境——物理的或其他方面的——都必须能够定位、分类、收集、存储和使用“相关”信息，并识别和丢弃或忽略“不相关”信息（Galloway & Ward 2005）[^galloway-2005]。
 
 有许多政治与经济因素影响对地方与全球空间的访问。就定位艺术而言，这些因素在伦理与艺术两方面都令人关切。
+
+## 参考文献
+
+> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=digital-art)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/digital-art/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=digital-art&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/) 查看本词条的增强文献目录（[直达条目](https://philpapers.org/sep/digital-art/)）及其数据库链接。
+
+## 其他网络资源
+
+* Thomson-Jones, Katherine，2014，[电影哲学](http://www.oxfordbibliographies.com/view/document/obo-9780195396577/obo-9780195396577-0071.xml)，载 *Oxford Bibliographies Online*。
+* Enlighten，“WhatWasThere”（2010—2023）[[WhatWasThere 在线可用](https://www.whatwasthere.com/)] [[存档链接](https://web.archive.org/web/20231210223133/https://www.whatwasthere.com/)]
+* [戈特弗里德·米夏埃尔·柯尼希项目](http://www.koenigproject.nl/indexe.htm)
+* [奥斯汀数字艺术博物馆](https://www.nowplayingaustin.com/organization/austin-museum-of-digital-art/)
+* [数字艺术博物馆](http://www.dam.org)
+* [Rhizome 的艺术基地](http://rhizome.org/artbase/)，最大的新媒体艺术在线档案
+* [数字艺术与设计——维多利亚与艾伯特博物馆](http://www.vam.ac.uk/page/d/digital-art-and-design/)，关于计算机艺术与设计的历史与实践信息。
+* [惠特尼博物馆的艺术港](http://whitney.org/artport/)，提供该馆数字艺术收藏的访问，以及委托网络艺术作品的展览空间。
+
+## 相关词条
+
+计算：现代史 | 创造力 | 电影哲学 | 古德曼，纳尔逊：美学 | 艺术本体论史
+
+[^ackermann-2016]: Ackermann, Judith, Andreas Rauscher, and Daniel Stein, 2016, *Introduction: Playin’ the city. Artistic and Scientific Approaches to Playful Urban Arts*. Navigationen-Zeitschrift für Medien- und Kulturwissenschaften, 16(1), pp. 7–23.
+
+[^atencia-linares-2022]: Atencia-Linares, Paloma and Marc Artiga, 2022, “Deepfakes, shallow graves: On the epistemic robustness of photography and videos in the era of deepfakes”, *Synthese*, 200, article 518.
+
+[^binkley-1998]: Binkley, Timothy, 1998, “Digital Media”, in *Encyclopedia of Aesthetics*, M. Kelly (ed.), New York: Oxford University Press.
+
+[^blachowicz-1997]: Blachowicz, James, 1997, “Analog Representation Beyond Mental Imagery”, *Journal of Philosophy*, 94(2): 55–84.
+
+[^boden-2010]: Boden, Margaret A., 2010, *Creativity and Art: Three Roads to Surprise*, Oxford: Oxford University.
+
+[^chalmers-2017]: Chalmers, David, 2017, “The Virtual and the Real”, *Disputatio*, 9(46): 309–352.
+
+[^currie-1996]: Currie, Gregory, 1996, “Film, Reality, and Illusion”, in *Post Theory: Reconstructing Film Studies*, D. Bordwell and N. Carroll (eds.), Madison: University of Wisconsin Press, pp. 325–44.
+
+[^davies-2004]: Davies, David, 2004, *Art as Performance*, Malden, MA: Blackwell.
+
+[^d’cruz-2014]: D’Cruz, Jason and P.D. Magnus, 2014, “Are Digital Images Allographic?” *Journal of Aesthetics and Art Criticism*, 72(4): 417–27.
+
+[^doane-2007]: Doane, Mary Ann, 2007, “Indexicality: Trace and Sign”, *differences: A Journal of Feminist Cultural Studies*, 18(1): 1–6.
+
+[^dretske-1981]: Dretske, Fred I., 1981, “Sensation and Perception”, in *Knowledge and the Flow of Information*, Cambridge, MA: MIT Press.
+
+[^electronic-2007]: Electronic Disturbance Theater 2.0/b.a.n.g. lab, 2007-ongoing, “Transborder Immigrant Tool”, in *Net Art Anthology* [available [online](https://anthology.rhizome.org/transborder-immigrant-tool)].
+
+[^galili-2011]: Galili, Doron, 2011, “The Post Medium Condition, circa 1895”, presented at the Second International Colloquium of the Permanent Seminar on the History of Film Theory: The Impact of Technological Innovations on the Theory and Historiography of Cinema, Montréal.
+
+[^galloway-2005]: Galloway, Anne and Matt Ward, 2005, “Locative Media as Socialising and Spatialising Practices: Learning from Archaeology”, *Leonardo Electronic Almanac*.
+
+[^gaut-2009]: Gaut, Berys, 2009, “Digital Cinema”, in *The Routledge Companion to Philosophy and Film*, P. Livingston and C. Plantinga (eds.), New York: Routledge, pp. 75–85.
+
+[^gaut-2010]: –––, 2010, *A Philosophy of Cinematic Art*, Cambridge: Cambridge University Press.
+
+[^gaut-2018]: Gaut, Berys and Matthew Kieran (eds.), 2018, *Creativity and Philosophy*, New York: Oxford University Press.
+
+[^goodman-1976]: Goodman, Nelson, 1976, *Languages of Art: An Approach to a Theory of Symbols*, Indianapolis/Cambridge: Hackett Publishing Co.
+
+[^goodman-1988]: Goodman, Nelson and Catherine Z. Elgin, 1988, *Reconceptions in Philosophy*, London: Routledge.
+
+[^grau-2003]: Grau, Oliver, 2003, *Virtual Art: From Illusion to Immersion*, Cambridge, MA: MIT Press.
+
+[^haugeland-1981]: Haugeland, John, 1981, “Analog and Analog”, *Philosophical Topics*, 12: 213–26.
+
+[^heim-1998]: Heim, Michael, 1998, “Virtual Reality”, in *Encyclopedia of Aesthetics*, M. Kelly (ed.), New York: Oxford University Press.
+
+[^irvin-2005]: Irvin, Sherri, 2005, “The Artist’s Sanction in Contemporary Art”, *Journal of Aesthetics and Art Criticism*, 63(4): 315–26.
+
+[^irvin-2008]: –––, 2008, “The Ontological Diversity of Visual Artworks”, in *New Waves in Aesthetics*, K. Stock, and K. Thomson-Jones (eds.), Basingstoke: Palgrave Macmillan, pp. 1–19.
+
+[^kania-2018]: Kania, Andrew, 2018, “Why Gamers Are Not Performers”, *The Journal of Aesthetics and Art Criticism*, 76(2): 187–99.
+
+[^katz-2008]: Katz, Matthew, 2008, “Analog and Digital Representation”, *Minds and Machines*, 18: 403–08.
+
+[^kittler-1999]: Kittler, Friedrich, 1999, *Gramophone, Film, Typewriter*, Stanford, CA: Stanford University Press.
+
+[^levy-1984]: Levy, Stephen, 1984, *Hackers: Heroes of the Computer Revolution* (Volume 14). Garden City, NY: Anchor Press/Doubleday.
+
+[^lewis-1971]: Lewis, David, 1971, “Analog and Digital”, *Noûs*, 5(3): 321–27.
+
+[^lopes-2001]: Lopes, Dominic McIver, 2001, “The Ontology of Interactive Art”, *Journal of Aesthetic Education*, 35(4): 65–81.
+
+[^lopes-2010]: –––, 2010, *A Philosophy of Computer Art*, London/New York: Routledge.
+
+[^maley-2011]: Maley, Corey J., 2011, “Analog and Digital, Continuous and Discrete”, *Philosophical Studies*, 155(1): 117–31.
+
+[^millière-2022]: Millière, Raphaël, 2022, “Deep learning and Synthetic Media”, *Synthese* 200, article 231.
+
+[^moruzzi-2022]: Moruzzi, Caterina, 2022, “Creative Agents: Rethinking Agency and Creativity in Human and Artificial Systems”, *Journal of Aesthetics and Phenomenology,* 9(2): 245–68.
+
+[^moser-2018]: Moser, Shelby, 2018, “Videogame Ontology, Constitutive Rules, and Algorithms”, in *The Aesthetics of Videogames*, London: Routledge, pp. 42–59.
+
+[^mitchell-1994]: Mitchell, William J., 1994, *The Reconfigured Eye: Visual Truth in the Post-Photographic Era*, Cambridge, MA: MIT Press.
+
+[^nguyen-2020]: Nguyen, C. Thi, 2020, “The Arts of Action. ” *Philosopher’s Imprint*, 20(14): 1–27.
+
+[^patridge-2017]: Patridge, Stephanie, 2017, “Video Games and Imaginative Identification”, *The Journal of Aesthetics and Art Criticism*, 75(2): 181–84.
+
+[^paul-2008]: Paul, Christiane, 2008, *Digital Art*, 2nd edition, London/New York: Thames & Hudson.
+
+[^paul-2017]: Paul, Elliot Samuel and Scott Barry Kaufman (eds.), 2017, *The Philosophy of Creativity: New Essays*, New York: Oxford University Press.
+
+[^piccinini-2008]: Piccinini, Gualtiero, 2008, “Computers”, *Pacific Philosophical Quarterly*, 89: 32–73.
+
+[^ponech-2006]: Ponech, Trevor, 2006, “External Realism about Cinematic Motion”, *British Journal of Aesthetics*, 46(4): 349–68.
+
+[^preston-2014]: Preston, Dominic, 2014, “Some Ontology of Interactive Art”, *Philosophy and Technology*, 27(2): 267–78.
+
+[^roberts-2022]: Roberts, T. and Joel Krueger, 2022, “Musical agency and collaboration in the digital age” in *Collaborative Embodied Performance: Ecologies of Skill*, K. Bicknell and J. Sutton (eds.), New York: Bloomsbury: 125–40.
+
+[^robson-2016]: Robson, Jonathan and Aaron Meskin, 2016, “Video Games as Self-Involving Interactive Fictions”, *The Journal of Aesthetics and Art Criticism*, 74(2): 165–77.
+
+[^robson-2018]: Robson, Jonathan and Grant Tavinor (eds.), 2018, *The Aesthetics of Videogames*, London: Routledge.
+
+[^rodowick-2007]: Rodowick, D.N., 2007, *The Virtual Life of Film*, Cambridge, MA: Harvard University Press.
+
+[^rush-2005]: Rush, Michael, 2005, *New Media in Art*, London: Thames & Hudson.
+
+[^saltz-1997]: Saltz, David S., 1997, “The Art of Interaction: Interactivity, Performativity, and Computers”, *Journal of Aesthetics and Art Criticism*, 55(2): 117–27.
+
+[^san-1995]: San Francisco Museum of Modern Art (SF MoMA), n.d., “Craig Kalpakjian: Corridor (1995)—About the Artwork” [Museum Exhibit Label]. San Francisco, CA [[available online](https://www.sfmoma.org/artist/craig_kalpakjian/)].
+
+[^smuts-2009]: Smuts, Aaron, 2009, “What is Interactivity?”, *Journal of Aesthetic Education*, 43(4): 53–73.
+
+[^straeubig-2016]: Straeubig, Michael and Sebastian Quack, 2016, “Playful Locative Ensembles in the Urban Soundscapes ”, *Navigationen-Zeitschrift für Medien- und Kulturwissenschaften* 16(1): 85–100.
+
+[^tavinor-2009]: Tavinor, Grant, 2009, *The Art of Videogames*, Malden, MA: Wiley-Blackwell.
+
+[^tavinor-2019]: –––, 2019, “On Virtual Transparency”. *The Journal of Aesthetics and Art Criticism*, 77(2): 145–156.
+
+[^teamlab-2008]: TeamLab, 2008, “Universe of Water Particles on a Rock where People Gather” [website description], Tokyo: Japan. [[available online](https://borderless.teamlab.art/ew/iwa-waterparticles/)].
+
+[^thomasson-2010]: Thomasson, Amie L., 2010, “Ontological Innovation in Art”, *Journal of Aesthetics and Art Criticism*, 68(2): 119–30.
+
+[^thomson-jones-2013]: Thomson-Jones, Katherine, 2013, “Sensing Motion in Movies”, in *Psychocinematics: Exploring Cognition at the Movies*, A.P. Shimamura (ed.), Oxford: Oxford University Press, pp. 115–32.
+
+[^thomson-jones-2021]: Thomson-Jones, Katherine, 2021, *Image in the Making: Digital Innovation and the Visual Arts*, New York: Oxford University Press.
+
+[^wilken-2019]: Wilken, Rowan, 2019, *Cultural Economies of Locative Media*. Oxford University Press.
+
+[^zeimbekis-2012]: Zeimbekis, John, 2012, “Digital Pictures, Sampling, and Vagueness: The Ontology of Digital Pictures”, *Journal of Aesthetics and Art Criticism*, 70(1): 43–53.
