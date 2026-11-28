@@ -13,6 +13,8 @@
 
 | Ajari | 阿闍梨 | 阿阇梨 | kokugaku-school | 真言宗汉语传统（高僧位阶）；学界通行 | 2026-11-28 |
 | Amaterasu | 天照 | 天照大神 | kokugaku-school | 学界通行；日本神话太阳神 | 2026-11-28 |
+| arahaniyo | 現し世 | 显世 | kokugaku-school | 日本神道语境（可见世界）；学界通行 | 2026-11-28 |
+| Ashihara no nakatsu kuni | 葦原の中つ国 | 苇原中国 | kokugaku-school | 日本神话地名；学界通行汉译 | 2026-11-28 |
 | bisimilar | — | 互模拟的 | logic-dynamic | 学界惯例（模态逻辑通行（与 bisimulation 互模拟同族））；凭证 2026-11-27 | 2026-11-27 |
 | composition | — | 复合 | logic-dynamic | 学界惯例（程序构造通行（sequential composition 顺序复合））；凭证 2026-11-27 | 2026-11-27 |
 | converse (program) | — | 逆 | logic-dynamic | 学界惯例（程序逻辑义；与 converse 逆命题（传统逻辑）分列，撞形豁免）；凭证 2026-11-27 | 2026-11-27 |
@@ -4210,6 +4212,7 @@
 | kalima | — | 词（逻各斯） | 首现（theology-aristotle） | 学界惯例（伊斯兰神学 kalima 兼指'词/言语'）；凭证 2026-11-08；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
 | kalokagathos | καλοκἀγαθός | 美善合一（亦作“美且善者”） | philo | 希腊 καλοκἀγαθός 学界通行（亦作“美且善者”备查）；2026-11-26 核：原记首现词条正文未见该词，按全库精确匹配改记（全库未见）；2026-11-26 核：原记首现未见原词，按源文变体（kalos kagathos（分写））精确匹配改记（philo）；首现待核处置 2026-11-26 | 2026-11-26 |
 | kami | 神 | 神（神道之神） | kokugaku-school | 学界通行；日本神道语境 | 2026-11-28 |
+| kaminarai | 神習い | 向神学习 | kokugaku-school | 平田笃胤用语；源文括注 | 2026-11-28 |
 | Kanhwa Sŏn(看話禪) | 看話禪 | 看话禅 | korean-buddhism | 汉文传统写法（大慧宗杲创、知讷引入韩国）；键形归一 2026-11-21：全角括注／斜线改半角（键须为源语形）；旧键 Kanhwa Sŏn（看話禪） | 2026-11-21 |
 | kannagara | 随神 | 随神而行 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
 | Kanon (Epicurus) | Κανών | 《规范》 | epicurus | 本词条译名（伊壁鸠鲁认识论著作；与 canon 咏礼司铎 分列） | 2026-11-12 |
@@ -4270,6 +4273,7 @@
 | kire-tsuzuki | 切れ続き | 切续 | japanese-aesthetics | 学界惯例（日本美学研究通行译法“切续”）；原文列联网查证：国际美学辞典（Mimesis）Cut-Continuance 条 kire-tsuzuki 切れ続き（2026-11-13 查，凭证 orig-verify-2026-11-13-b2.tsv） | 2026-11-13 |
 | kireji | 切字 | 切字 | japanese-aesthetics | 学界惯例（俳句研究通行译法“切字”） | 2026-11-02 |
 | kishin | 鬼神 | 鬼神（平田学派：有意志与力量的灵） | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
+| Kishin shinron | 新鬼神論 | 《新鬼神论》 | kokugaku-school | 平田笃胤著作；书名汉字 | 2026-11-28 |
 | Kitāb al-burhān | — | 《证明书》 | 语料回收（specs/058 全库提取） | 本库译名（法拉比《证明书》；阿维森纳同名著作在 khunaji 条目作《证明之书》；语料《证明书》5 处、《证明之书》1 处；2026-11-24 核对，凭证 works-batch34-2026-11-24.md） | 2026-11-24 |
 | Kitāb al-Ḥudūd | — | 《定义书》 | 语料回收（specs/058 全库提取） | 本库译名（伊斯拉埃利著，约 10 世纪；语料 9 处一致）（2026-11-24 语料核对，凭证 works-batch28-2026-11-24.md） | 2026-11-24 |
 | Kitāb al-ḥurūf | كتاب الحروف | 《字母之书》（法拉比著；亦译《论字母》） | al-farabi 集群 | 学界通行 | 2026-10-28 |
@@ -4303,10 +4307,13 @@
 | koan | 公案 | 公案 | 语料回收（宗教与科学哲学族扫描 2026-11-25） | 学界惯例；禅宗研究通行（语料 6 次；原文列填汉字）；凭证 2026-11-25 | 2026-11-25 |
 | Kochen-Specker | — | 科亨-施佩克尔 | 语料回收（词汇表并网） | 学界通行（Kochen–Specker 定理语境，双人名连用）；词汇表并网（ADR-0036） | 2026-11-13 |
 | Kochen-Specker theorem | — | 科亨-施佩克尔定理 | quantum-bayesian | 沿词条 k/kochen-specker 定名（H1 同形）；凭证 2026-11-12 | 2026-11-12 |
+| Kodō | 古道 | 古道 | kokugaku-school | 国学核心概念（Ancient Way）；学界通行 | 2026-11-28 |
+| Kodō taii | 古道大意 | 《古道大意》 | kokugaku-school | 平田笃胤著作；书名汉字 | 2026-11-28 |
 | koinai ennoiai (common notions) | κοιναὶ ἔννοιαι | 共同观念（首现括注原文） | olympiodorus | 新柏拉图主义认识论术语（亦作常识）；Tarrant 英译 common notions；凭证 2026-11-08；删亦作“常识”（与他行主译撞形，2026-11-21 撞形处置） | 2026-11-21 |
 | Kojiki | — | 《古事记》 | 语料回收（specs/058 全库提取） | 周作人译，上海人民出版社 2015-08（2001 中国对外翻译出版公司初版，苦雨斋译丛，ISBN 9787500107941）（2026-11-24 语料核对，凭证 works-batch28-2026-11-24.md） | 2026-11-24 |
 | Kojiki-den | 古事記伝 | 《古事记传》 | kokugaku-school | 本居宣长著作；书名汉字 | 2026-11-28 |
 | kokoro | 心 | 心 | kokugaku-school | 学界通行；日本思想语境 | 2026-11-28 |
+| Kokueki honron | 国益本論 | 《国益本论》 | kokugaku-school | 宫贞雄著作；书名汉字 | 2026-11-28 |
 | kokugaku | 国学 | 国学（日本本土研究传统） | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
 | Kokugakuin | 國學院 | 国学院大学 | kokugaku-school | 学界通行；校名汉译 | 2026-11-28 |
 | Kokugakusha | 国学者 | 国学者 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
@@ -4327,6 +4334,7 @@
 | Kripke's schema | — | 克里普克图式（亦作“克里普克模式”） | 首现（intuitionism） | 学界惯例；直觉主义数学通行（**KS**；亦作“克里普克模式”）；凭证 2026-11-10 | 2026-11-10 |
 | Krogh organism | — | Krogh 生物 | model-organisms 首译 | 本词条术语（Green et al. 2018，源自 August Krogh 的极端适应生物选材）；凭证 2026-11-09 | 2026-11-09 |
 | KS Theorem | — | KS 定理 | 语料回收（词汇表并网） | 学界通行（Kochen–Specker 定理缩写形）；词汇表并网（ADR-0036） | 2026-11-13 |
+| kunitsu kami | 国津神 | 国津神 | kokugaku-school | 日本神话术语；汉字原样 | 2026-11-28 |
 | Kuriai Doxai (Principal Doctrines) | Κύριαι Δόξαι |《主要学说》（亦作“主要原理”）| epicurus | 本词条译名（通行亦作“主要原理”“基本要义”） | 2026-11-12 |
 | kuzah | كوزه | 陶壶 | umar-khayyam | 随文义译（《鲁拜集》意象，波斯语 jug） | 2026-11-14 |
 | Kuzari | — | 《库扎里》 | 语料回收（specs/058 全库提取） | 权威译本／学界通行（学界通行（犹太学文献通行音译；未见中译本，语料 39 处一致）；2026-11-24 联网核对，凭证 works-batch19-2026-11-24.md） | 2026-11-24 |
@@ -5283,6 +5291,7 @@
 | my station and its duties | — | 我的岗位及其职责 | bradley-moral 首译 | 学界通行译名（布拉德雷与英国观念论研究文献）；凭证 2026-11-08 | 2026-11-08 |
 | myeloproliferative neoplasms | — | 骨髓增殖性肿瘤 | cancer | 学界通行（血液肿瘤学，MPN）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | myness | — | 我的性 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
+| myōshu | 名主 | 名主 | kokugaku-school | 日本近世村政；学界通行 | 2026-11-28 |
 | mysterium tremendum et fascinans | mysterium tremendum et fascinans | 令人战栗又令人迷恋的奥秘（拉丁原文保留斜体） | 首现（emotion-Christian-tradition） | 学界惯例（奥托研究通行）；凭证 2026-11-04 | 2026-11-04 |
 | mystical experience | — | 神秘经验 | religious-experience | 学界通行（宗教学） | 2026-11-05 |
 | mystical perception | — | 神秘知觉 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
@@ -5307,6 +5316,7 @@
 | Nalendra monastery | — | 那烂陀寺（Nalendra；西藏萨迦派寺院，与印度那烂陀同名异寺，故附英文名防混） | gorampa 首译 | 学界惯例（藏地 gnas ldan 寺，佛学研究文献通行）；凭证 2026-11-09 | 2026-11-09 |
 | nāman | नामन् | 名业 | jaina-philosophy | 耆那业论汉译（定转生种类之业） | 2026-11-25 |
 | Naming and Necessity | — | 《命名与必然性》 | 语料回收（specs/058 全库提取） | 权威译本（克里普克著作通行汉译；审定库仅命中“必然性”概念；审定库无对口条目，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
+| nanushi | 名主 | 村长 | kokugaku-school | 日本近世村政（源文括注 village headman）；学界通行 | 2026-11-28 |
 | narcissism | — | 自恋 | 语料回收（specs/050 候选池） | 海峡两岸名词对照库（termonline-all·心理学，2026-11-18 JWT 直连凭证；非审定公布库） | 2026-11-25 |
 | Narration | — | 叙述 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·档案学·文件管理·公文写作，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | narrative identity | — | 叙事同一性 | ricoeur | 利科术语（identité narrative）；学界通行；凭证 2026-11-11 | 2026-11-11 |
@@ -5469,6 +5479,7 @@
 | nocebo effect | — | 反安慰剂效应 | informed-consent | 学界通行（placebo effect 之反） | 2026-11-12 |
 | nociceptor | — | 伤害感受器 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
 | noetic | — | 理智的 | omniscience | 学界通行译名（noetic faculties）；凭证 2026-11-09 | 2026-11-09 |
+| Nōgyō yōshū | 農業要集 | 《农业要集》 | kokugaku-school | 宫贞雄著作；书名汉字 | 2026-11-28 |
 | nomic condition | — | 律则条件 | necessary-sufficient | 学界惯例；科学哲学通行（nomic 律则的）；凭证 2026-11-08 | 2026-11-08 |
 | nomic expectability | — | 律则可期待性 | 首译（scientific-explanation-20th） | 本库首译（Salmon 1989 之用语；“律则的”nomological）；凭证 2026-11-10 | 2026-11-10 |
 | nomic isomorphism | — | 律则同构 | reasoning-analogy | 学界通行（nomic 律则的） | 2026-11-05 |
@@ -5658,6 +5669,7 @@
 | offerer | — | 提议者（献祭语境作“献祭者”） | justice-moral-psych | 学界惯例；最后通牒博弈文献通行译法；凭证 2026-11-10；FLAG 裁定 2026-11-21：双义：最后通牒博弈提议者与 atonement 献祭者，括注分义 | 2026-11-21 |
 | oikeiôsis | οἰκείωσις | 亲缘感（斯多亚；亦作“亲缘化”） | 语料回收（外文术语审计 2026-11-25） | 斯多亚研究通行（oikeiōsis 亲缘归属说；原文形为通行转写对）；凭证 2026-11-25 | 2026-11-25 |
 | Okularität | Okularität | 目视性 | yorck 首译 | B 档：约克自铸词（ocular 目视之抽象名词；作者英译 ocularity）；凭证 2026-11-11 | 2026-11-11 |
+| Ōkuninushi-no-kami | 大国主神 | 大国主神 | kokugaku-school | 日本神话神名；汉字原样 | 2026-11-28 |
 | old evidence | — | 旧证据（贝叶斯旧证据问题） | 语料回收（标题词） | 学界惯例（科学哲学（贝叶斯确认论）通行）；审定库无相关命中（凭证 2026-10-31；2026-11-26 界面精确匹配复核：0 条） | 2026-11-26 |
 | old quantum theory | — | 旧量子理论 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | Olympiad | — | 奥林匹亚德 | 首现（xenophanes） | 学界通行（古希腊纪年）；凭证 2026-11-07 | 2026-11-07 |
@@ -7170,6 +7182,7 @@
 | Russellianism | — | 罗素主义 | 语料回收（ism 扫描 2026-11-25） | 命题态度与逻辑原子论语境通行（本库罗素形已立）；凭证 2026-11-25 | 2026-11-25 |
 | Russell’s Paradox | — | 罗素悖论 | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定作“罗素悖论”（Russell’s paradox，自然辩证法名词；2026-11-26 界面精确匹配复核改判）；凭证 2026-11-22） | 2026-11-26 |
 | ryōbu mandara | 両部曼荼羅 | 两部曼荼罗 | kukai | 真言宗汉语传统（胎藏/金刚界合称） | 2026-11-09 |
+| ryōshu | 領主 | 领主 | kokugaku-school | 日本近世社会；学界通行 | 2026-11-28 |
 
 ## S
 
@@ -7757,6 +7770,7 @@
 | somatic mutation | — | 体细胞突变 | cancer | 学界通行（遗传学；与 germline mutation 生殖系突变对举）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | somatic mutation theory | — | 体细胞突变学说（亦作“体细胞突变论”） | cancer | 审定名词库（termonline-all·医学名词，2026-11-11 浏览器通道凭证）；本条术语（癌症理论，SMT） | 2026-11-11 |
 | somatoparaphrenia | — | 躯体妄想 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
+| Sōmoku tane erami | 草木種選 | 《草木种选》 | kokugaku-school | 宫贞雄著作；书名汉字 | 2026-11-28 |
 | sŏngjŏk tŭngji(惺寂等持) | 惺寂等持 | 惺寂等持 | korean-buddhism | 汉文传统写法（知讷三门径之一）；键形归一 2026-11-21：全角括注／斜线改半角（键须为源语形）；旧键 sŏngjŏk tŭngji（惺寂等持） | 2026-11-21 |
 | sophism(sophisma) | sophisma | 诡辩句 | richard-sophister | SUMMARY 既有 sophismata=诡辩 的单数派生；学界惯例（中世纪逻辑）；旧键“sophisma-sentence”并入（2026-11-21 逐行研判；旧键首现：peter-spain）；键形归一 2026-11-21：全角括注／斜线改半角（键须为源语形）；旧键 sophism（sophisma） | 2026-11-21 |
 | sophisma/sophismata | sophisma/sophismata | 诡辩题 | kilvington | 主会话直译收口 de6bb4b1；凭证 2026-11-04；旧键“sophismata”并入（2026-11-21 逐行研判；旧键首现：obligationes 首译） | 2026-11-21 |
@@ -8223,6 +8237,7 @@
 | taklīf | تکلیف | 义务（taklīf 诫命义） | umar-khayyam | 本条作者英译 obligation；伊斯兰教义学语境（mukallaf 受责成者同根）；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
 | talking stick | — | 发言棒 | s/social-procedures 首译 | 构词直译（北美原住民议事习俗）；凭证 2026-11-07 | 2026-11-07 |
 | Talmud | — | 塔木德 | delmedigo | 学界通行（犹太教经典定译） | 2026-11-06 |
+| Tama no mihashira | 霊能真柱 | 《灵能真柱》 | kokugaku-school | 平田笃胤著作；书名汉字（学界通行） | 2026-11-28 |
 | Tama no ogushi | 玉の小櫛 | 《源氏物语玉之小栉》 | kokugaku-school | 本居宣长著作；学界通行（亦作《玉之小栉》） | 2026-11-28 |
 | Tamhīdāt | — | 《铺路集》 | 语料回收（specs/058 全库提取） | 本库译名（艾因·古达特波斯语杰作，1127；英译选本见 Rustom 2023；语料 34 处一致；池 held 项随之解禁）（2026-11-24 联网／语料核对，凭证 works-batch25-2026-11-24.md） | 2026-11-24 |
 | tamthīl | تمثيل | 比附 | ibn-taymiyya | 首译（与 tashbīh 同化近义；与 tanzīh 不可比拟对举） | 2026-11-12 |
@@ -8308,6 +8323,7 @@
 | tensor field | — | 张量场 | geometry-19th.supplement | 数学/几何学界通行译名；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
 | tensor product | — | 张量积 | qm | 审定名词库（数学名词 04.0859）；凭证 2026-11-10 | 2026-11-11 |
 | term | — | 词项 | 首现（william-jevons） | 学界通行（逻辑学标准译名） | 2026-11-07 |
+| terakoya | 寺子屋 | 寺子屋 | kokugaku-school | 日本近世教育机构；学界通行 | 2026-11-28 |
 | term logics | — | 词项逻辑 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | terminal sedation | — |终末镇静（亦作“临终镇静”）| euthanasia-voluntary 首译 | 学界惯例（生命伦理学；亦作“临终镇静”） | 2026-11-11 |
 | terminism | — | 词项主义 | lorenzo-valla | 中世纪逻辑史学界通行（奥卡姆派语义学） | 2026-11-04 |
