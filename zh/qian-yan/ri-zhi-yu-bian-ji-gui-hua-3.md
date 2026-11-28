@@ -282,3 +282,11 @@
 * **关键发现**：显式 Proof 候选池与 FFL 的 Gödel／Solovay 成果无交集，已机械化覆盖率 1／28；编目主价值在 10 件框架声明与 17 件缺口登记（未见≠不存在）。
 * **T008 阻塞登记**：common-knowledge、frege-theorem、infinity、kochen-specker、bayes-theorem 五个 `zh/` 词条均为仅 H1 骨架（nonblank=1），译注无承载；待翻译后按 ADR-0076 通道执行。
 * **门禁**：spec_index 一致、docsize OK、quotes 0 违例；layout L1 仅 `.mimosa`／`.screenshots`（外部插件目录）红。
+
+## 2026-11-28 065 归档（裁定：不做 SEP 条目论文正确性）
+
+* **用户裁定**：不需要证明 SEP 条目本身的论文正确性；W2 也停，整体归档。
+* **处置**：W1 终止（28 件编目证据留档，T008 撤销）；W2 撤销（T009–T012；半成品 `tools/tests/test_pbt_065.py`、`results/t009-pbt-plan.md` 未提交删除，CI 未改）；W3 撤销（T013–T015，不立 ADR）；065 rev 4 归档。
+* **归因**：065 立卡前提 D-3（编目为唯一正当衍生形态）误把“SEP 内容形式化”当项目收益；用户划线后该前提撤销。D-1／D-2（不引入 Lean 工程线的结论）保留为历史。
+* **环境**：hypothesis 6.170.23 本地已装（用户 2026-11-28 授权），项目未引入该依赖。
+* **门禁**：spec_index 一致、docsize OK、junk 无新增越界。

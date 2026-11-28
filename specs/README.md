@@ -69,6 +69,6 @@
 | [062-phase12-recheck](062-phase12-recheck/spec.md) | 062 — 阶段 1.1／1.2：目录四方互转复核与 HTML 重抓·基线·转换补丁复核 | — | ✓ | ✓ | — |
 | [063-stage-naming](063-stage-naming/spec.md) | 063 — 阶段轨命名与线级标记登记（rev 3：四段纯流程＋独立战役块） | — | — | ✓ | — |
 | [064-flow-spec-audit](064-flow-spec-audit/spec.md) | 064 — 翻译全流程全要素审计、公理化、标准化与规范化任务书 | — | — | ✓ | — |
-| [065-lean-formalization](065-lean-formalization/spec.md) | 065 — Lean 引入处置与机械化编目任务书 | rev 3 全部批准（W0–W1 已执行；T008 阻塞待翻译；W2–W3 待开工） | — | ✓ | — |
+| [065-lean-formalization](065-lean-formalization/spec.md) | 065 — Lean 引入处置与机械化编目任务书 | rev 4 归档（2026-11-28 用户裁定：不做 SEP 条目论文正确性；W1–W3 全部停止，证据留档） | — | ✓ | — |
 
 共 64 个规格目录。
