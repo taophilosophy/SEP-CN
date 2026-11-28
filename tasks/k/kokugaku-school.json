@@ -1,165 +1,180 @@
 {
-  "slug": "kokugaku-school",
-  "kind": "retranslate",
-  "zh_doc": "zh/k/kokugaku-school.md",
-  "state": "done",
-  "translation_mode": "llm-pe",
-  "project_spec": {
-    "audience": "中文哲学读者（研究者与研究生为主）",
-    "purpose": "学术阅读与引用（SEP 词条简体中文译本）",
-    "register": "现代汉语学术书面语",
-    "terminology_basis": "shu-yu-biao.md／ren-ming-biao.md／baseline/term-concepts.md",
-    "delivery": "GitBook Markdown＋VitePress 双语站",
-    "qa_level": "CY/T 266＋ISO 5060（六轴机检＋人工复核）",
-    "language_pair": "en → zh-Hans",
-    "content_type": "学术百科词条（SEP）",
-    "subject_field": "哲学（按词条分支）",
-    "workflow": "retranslate 22 节点（rules/04）",
-    "pe_level": "full",
-    "pre_edit": "源审计后按 tr-01 术语摘录与提示词准备",
-    "risk_level": "B 中",
-    "confidentiality": "公开源；未公开草稿与审稿意见不入模型",
-    "communication": "任务 evidence＋journal",
-    "qualifications": "见 task.competences（ISO 17100 3.1.3–3.1.7）"
+ "slug": "kokugaku-school",
+ "kind": "retranslate",
+ "zh_doc": "zh/k/kokugaku-school.md",
+ "state": "done",
+ "translation_mode": "llm-pe",
+ "project_spec": {
+  "audience": "中文哲学读者（研究者与研究生为主）",
+  "purpose": "学术阅读与引用（SEP 词条简体中文译本）",
+  "register": "现代汉语学术书面语",
+  "terminology_basis": "shu-yu-biao.md／ren-ming-biao.md／baseline/term-concepts.md",
+  "delivery": "GitBook Markdown＋VitePress 双语站",
+  "qa_level": "CY/T 266＋ISO 5060（六轴机检＋人工复核）",
+  "language_pair": "en → zh-Hans",
+  "content_type": "学术百科词条（SEP）",
+  "subject_field": "哲学（按词条分支）",
+  "workflow": "retranslate 22 节点（rules/04）",
+  "pe_level": "full",
+  "pre_edit": "源审计后按 tr-01 术语摘录与提示词准备",
+  "risk_level": "B 中",
+  "confidentiality": "公开源；未公开草稿与审稿意见不入模型",
+  "communication": "任务 evidence＋journal",
+  "qualifications": "见 task.competences（ISO 17100 3.1.3–3.1.7）"
+ },
+ "pe": {
+  "level": "full",
+  "system": "DeepSeek-V4.1-Flash",
+  "disclosure": "任务 evidence 与词条译后编辑记录"
+ },
+ "steps": [
+  {
+   "step": "ex-04",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-28T04:57:47Z",
+   "evidence": "T252 ex-04：en_integrity clean 1/1；en_source_audit hard 0／warn 2（heading_skip 为站尾导航、fall2018 为 URL 段，均假阳性）；fetch_audit 资产 0 缺件 0；51 脚注定义（50 书目＋1 导读注）、5 处正文引用；6 表 47 行、0 图 0 公式；版本钉 Jun 21, 2021／Fall 2021／640fe38e…1d3 一致。新发现 3 类文字缺陷入 en-errata 第二十二节（§2.2 节题 1666→1669 译注①；§3.1 方括号；§3.2 两处花括号）；松平义昭行待 T255 落地。证据 specs/064-flow-spec-audit/results/t252-review.md、t252-en-integrity.json、t252-en-source-audit.json。"
   },
-  "pe": {
-    "level": "full",
-    "system": "DeepSeek-V4.1-Flash",
-    "disclosure": "任务 evidence 与词条译后编辑记录"
+  {
+   "step": "tr-02",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-28T05:18:38Z",
+   "evidence": "T256 tr-02：译后编辑（PE）全量入库；§5–§6＋尾节＋51 脚注定义；全文 431 行／12,515 汉字；账本 181 段（en/zh 181/181）；51 定义键集与 en 一致，5 处正文 marker 闭合；尾序为参考文献>原始文献>二手文献>学术工具>其他网络资源>相关词条>脚注定义>译者注释；新增 10 条术语（养老馆、《本学举要》、古事、思兼神、太政官、天之御中主神、《延喜式》、神佛分离、《教育敕语》、《玉胜间》）；check_style／quotes 0、check_terms 硬 0（0 告警）、check_pairs 0、check_academic 无硬错误、check_all 23/23。证据 specs/064-flow-spec-audit/results/t256-review.md。"
   },
-  "steps": [
-    {
-      "step": "ex-04",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-28T04:57:47Z",
-      "evidence": "T252 ex-04：en_integrity clean 1/1；en_source_audit hard 0／warn 2（heading_skip 为站尾导航、fall2018 为 URL 段，均假阳性）；fetch_audit 资产 0 缺件 0；51 脚注定义（50 书目＋1 导读注）、5 处正文引用；6 表 47 行、0 图 0 公式；版本钉 Jun 21, 2021／Fall 2021／640fe38e…1d3 一致。新发现 3 类文字缺陷入 en-errata 第二十二节（§2.2 节题 1666→1669 译注①；§3.1 方括号；§3.2 两处花括号）；松平义昭行待 T255 落地。证据 specs/064-flow-spec-audit/results/t252-review.md、t252-en-integrity.json、t252-en-source-audit.json。"
-    },
-    {
-      "step": "tr-02",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-28T05:18:38Z",
-      "evidence": "T256 tr-02：译后编辑（PE）全量入库；§5–§6＋尾节＋51 脚注定义；全文 431 行／12,515 汉字；账本 181 段（en/zh 181/181）；51 定义键集与 en 一致，5 处正文 marker 闭合；尾序为参考文献>原始文献>二手文献>学术工具>其他网络资源>相关词条>脚注定义>译者注释；新增 10 条术语（养老馆、《本学举要》、古事、思兼神、太政官、天之御中主神、《延喜式》、神佛分离、《教育敕语》、《玉胜间》）；check_style／quotes 0、check_terms 硬 0（0 告警）、check_pairs 0、check_academic 无硬错误、check_all 23/23。证据 specs/064-flow-spec-audit/results/t256-review.md。"
-    },
-    {
-      "step": "tr-03",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-28T05:24:07Z",
-      "evidence": "T257 tr-03 一校（results/t257-tr03.md）：181 段账本逐块对齐 en，导论至 §6、尾节、51 脚注定义逐节核销；数字 token 差异 25 段逐段判读，全部为中文数词、缩年段展开（1945–52→1952 等）、有意勘误（1666→1669、1824–83→1800—1862）与千分位格式，无未解释分歧；人名 30 余个与登记册及源括注一致；书名、6 张和歌表归属逐条核对；51 定义键集与 en 相同、5 处 marker 闭合；残留外文仅 H1、罗马字术语、和歌右列、英文书名与 OIR 著录；Critical 0／Major 0／Minor 0；2 类上游缺陷按勘误第二十二节承载（译注①②）；Ōkuni 生年 1792 随源、登记册 1793 差异留 rv-01。"
-    },
-    {
-      "step": "tr-04",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-28T05:24:11Z",
-      "evidence": "T257 tr-04 二校（results/t257-tr04.md）：check_prose 36→7；long-sentence 7→1、passive-bei 3→0、weak-verb 4→0、de-chain 20→5、conj-he-verb 1→1、chenggong-de 1→0；29 条改写逐项留痕，余 7 条逐条豁免（术语“和歌”误报 1、“有的”结构 2、和歌／引文内部 4）；语体结论：现代汉语学术书面语，无文言仿古与 AI 腔，破折号 25 对均承担插入／转折／解释，“一个”19 处均数量义；check_style／quotes 0、terms 硬 0、pairs 0、academic 无硬错误；账本 181 段守恒。"
-    },
-    {
-      "step": "rv-01",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-28T05:26:56Z",
-      "evidence": "T258 rv-01 三轴（results/t258-rv01.md）：术语轴 check_terms 硬 0（自洽 0）、正文缺登记译法 0、人名缺籍属/生卒 0（终态 768）；登记册改动：Keichū 契沖→契冲（D2）、Matsudaira 松平义建 1800–1862（D2＋勘误）、Sanjō 终态（D5，源文未具名）、Ōkuni 1793／1792 跨历留痕（D5，译文随源 1792）；术语 60 条、人名 29 条覆盖。体例轴 check_style 0、check_quotes 0、check_pairs --gate hard 0/out_of_scope 0；尾序、编号、H1、pubinfo、51 定义闭合。勘误轴 4 行（松平②、荷田春满①、§3.1 方括号、§3.2 花括号），errata-apply 与 note-anchor 0。账本 181 段。"
-    },
-    {
-      "step": "rv-02",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-28T05:32:55Z",
-      "evidence": "T259 rv-02 两轴审计（results/t259-review.md）：账本 181 段与 en 逐块对齐（79 正文／51 脚注／26 标题／19 引块／6 表）；H3 12/12、H4 4/4、表 6/6、定义 51/51、引用 5/5、图 0、公式 0；H2 11 比 en 多译者注释（ADR-0065 允许）；密度破折号 25 对、“一个”19 处均数量义，无 AI 腔；check_math_zh 0、check_style 0、check_academic 无硬错误。"
-    },
-    {
-      "step": "rv-03",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-28T05:32:55Z",
-      "evidence": "T259 rv-03 q1 引文轴（results/t259-review.md）：cite_audit 17 条直引全部 pass；origin_lang=ja、original_status=unavailable、english_source=sep-inline；anchor 指向 en L32–L271；--gate 0、--check-hash 0；日文原著不可得，译文据 SEP 英文引文转译，未代造原文。"
-    },
-    {
-      "step": "rv-04",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-28T05:32:55Z",
-      "evidence": "T259 rv-04 q2 逻辑轴（results/t259-review.md）：logic_audit 303 散句，37 条 logic_bearing 全部 equivalent（reviewer=trae-main）；7 条算子候选逐条复核（all 1、no 5、align 1），均语义等价或词形误报；align 跳过 §3／§4 两节，已由 rv-02 逐段核与 tr-03 逐节核覆盖；--gate 0；q1 hash 不变。"
-    },
-    {
-      "step": "rv-05",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-28T05:32:56Z",
-      "evidence": "T259 rv-05 q3 语法轴（results/t259-review.md）：grammar_audit 10 条告警，G-7@216 删“无论如何”fixed；G-14@27 术语“和歌”假阳性；G-11@85 两处“有的”假阳性；G-11@141／167×2／226 引文内部 waived；G-19@71／75“物哀”已登记术语 waived；G-1／G-5 0、G-7 已修；--gate 0。"
-    },
-    {
-      "step": "rv-06",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-28T05:32:56Z",
-      "evidence": "T259 rv-06 q4 语域轴（results/t259-review.md）：六节全部 R-1，无 R-4／R-5 越界；R-e“蛮”2 条为历史语境蛮夷，false-positive；R-d 0；R-f 称谓统一；样章基准 baseline/register-baseline.md 缺失（全库缺口，已登记 I1）；--gate 0。"
-    },
-    {
-      "step": "rv-07",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-28T05:32:56Z",
-      "evidence": "T259 rv-07 q5 计量轴（results/t259-review.md）：measure_audit 量值 2 条（10%、80%）pass；范围 37 条，36 条一字线，1 条 en dash 为引文页码 SJTa: 401–402（ADR-0041 豁免）；M-6 连接号混用 false-positive；--gate 0。"
-    },
-    {
-      "step": "rv-08",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-28T05:32:56Z",
-      "evidence": "T259 rv-08 q6 标点轴（results/t259-review.md）：punct_audit 1 条 P-13@45（401–402）waived（引文页码）；其余 P 规则 0；check_style 0、check_quotes 0；--gate 0。"
-    },
-    {
-      "step": "rv-09",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-28T05:32:57Z",
-      "evidence": "T259 rv-09 体例终校（results/t259-review.md）：GB/T 15834／15835、CY/T 266、GB 3100 基线筛查无冲突；431 行／12,451 汉字、181 段、51 定义、5 引用、6 表；尾序正典；check_style／quotes 0、pairs --gate 0、terms 硬 0／告警 0、academic --strict 无硬错误、math_zh 0、prose 7 条已豁免；六轴 gate 全 0。"
-    },
-    {
-      "step": "sg-01",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-28T05:35:15Z",
-      "evidence": "T260 sg-01 初审（results/t260-sg01.md）：假设读者哲学专业本科生；抽 §1、§3.2、§4.3、§5、§6 五节，可读性／术语习惯／背景提示／语体一致四维均通过；Minor 3 处已改（“宗师”→“笃胤”、“他国学”→“其国学”、“三条卿”→“三条卿（Sanjō）”）；无 Critical／Major；改后 check_style 0、terms 硬 0、pairs --gate 0；语体结论现代汉语学术书面语，引文与叙述分层清楚。"
-    },
-    {
-      "step": "sg-02",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-28T05:36:05Z",
-      "evidence": "T260 sg-02 复审（results/t260-sg02.md）：全文六节逻辑链完整（定义→兴起→文献学→民间→明治→之后），§1 末承诺在 §2–§5 兑现；代词 40 余处逐组回指无悬空，无“前者／后者”；正文无显式跨节引用，译者注释①②指向明确；数字与专名跨节一致；Minor 2 处已修（§4.3 句式杂糅、§4.2 “1826 年同年”重复）；Critical 0／Major 0／Minor 0（遗留）；改后 check_style／quotes 0、terms 硬 0、pairs --gate 0、academic 无硬错误；账本 181 段。未获 sg-03 mandate，止于 sg-02_checked。"
-    },
-    {
-      "step": "sg-03",
-      "status": "ok",
-      "actor": "user",
-      "at": "2026-11-28T06:09:33Z",
-      "evidence": "T260 sg-03 终审（results/t260-sg03.md）：用户 2026-11-28 本会话明确授权（mandate 已记）。终稿 431 行／12,453 汉字、181 段账本、51 脚注定义（键集与 en 相同）／5 引用、6 张和歌表、2 条译者注释；H2 11／H3 12／H4 4，尾序正典；4 行勘误承载①②；术语 60 条、人名 29 条覆盖；版本钉 Jun 21, 2021／Fall 2021，HTML 主件 SHA-256 640fe38e…1d3 与任务账一致；check_all 23/23，check_style／quotes 0、terms 硬 0、pairs --gate 0、academic --strict 无硬错误、math_zh 0、六轴 gate 全 0；checks 46114491257 success、CodeQL 46114491265 success、开放告警 0。终审通过，置 done。",
-      "mandate": "2026-11-28 用户在本会话明确授权：执行 kokugaku-school sg-03 终审（全件终审与 done 签字）"
-    },
-    {
-      "step": "done",
-      "status": "ok",
-      "actor": "user",
-      "at": "2026-11-28T06:09:33Z",
-      "evidence": "T260 终审通过并完成交付：431 行／12,453 汉字、181 段账本、51 脚注定义／5 引用、6 表、2 条译者注释；版本钉 Jun 21, 2021／Fall 2021、HTML 主件 SHA-256 640fe38e…1d3 一致；check_all 23/23；checks 46114491257 success、CodeQL 46114491265 success。"
-    }
-  ],
-  "blockers": [],
-  "created_at": "2026-11-01T17:40:59Z",
-  "version_pin": {
-    "pubinfo_date": "Jun 21, 2021",
-    "archive_edition": "Fall 2021",
-    "sha256": "640fe38ece65b9bc1f8108f0799d28bc5ecb4271c836416d5258fddd1bdc71d3"
+  {
+   "step": "tr-03",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-28T05:24:07Z",
+   "evidence": "T257 tr-03 一校（results/t257-tr03.md）：181 段账本逐块对齐 en，导论至 §6、尾节、51 脚注定义逐节核销；数字 token 差异 25 段逐段判读，全部为中文数词、缩年段展开（1945–52→1952 等）、有意勘误（1666→1669、1824–83→1800—1862）与千分位格式，无未解释分歧；人名 30 余个与登记册及源括注一致；书名、6 张和歌表归属逐条核对；51 定义键集与 en 相同、5 处 marker 闭合；残留外文仅 H1、罗马字术语、和歌右列、英文书名与 OIR 著录；Critical 0／Major 0／Minor 0；2 类上游缺陷按勘误第二十二节承载（译注①②）；Ōkuni 生年 1792 随源、登记册 1793 差异留 rv-01。"
   },
-  "state_migrated": {
-    "at": "2026-11-25T00:31:40Z",
-    "from": "s2.4_termchecked",
-    "to": "rv-01_checked",
-    "by": "ADR-0080"
+  {
+   "step": "tr-04",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-28T05:24:11Z",
+   "evidence": "T257 tr-04 二校（results/t257-tr04.md）：check_prose 36→7；long-sentence 7→1、passive-bei 3→0、weak-verb 4→0、de-chain 20→5、conj-he-verb 1→1、chenggong-de 1→0；29 条改写逐项留痕，余 7 条逐条豁免（术语“和歌”误报 1、“有的”结构 2、和歌／引文内部 4）；语体结论：现代汉语学术书面语，无文言仿古与 AI 腔，破折号 25 对均承担插入／转折／解释，“一个”19 处均数量义；check_style／quotes 0、terms 硬 0、pairs 0、academic 无硬错误；账本 181 段守恒。"
+  },
+  {
+   "step": "rv-01",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-28T05:26:56Z",
+   "evidence": "T258 rv-01 三轴（results/t258-rv01.md）：术语轴 check_terms 硬 0（自洽 0）、正文缺登记译法 0、人名缺籍属/生卒 0（终态 768）；登记册改动：Keichū 契沖→契冲（D2）、Matsudaira 松平义建 1800–1862（D2＋勘误）、Sanjō 终态（D5，源文未具名）、Ōkuni 1793／1792 跨历留痕（D5，译文随源 1792）；术语 60 条、人名 29 条覆盖。体例轴 check_style 0、check_quotes 0、check_pairs --gate hard 0/out_of_scope 0；尾序、编号、H1、pubinfo、51 定义闭合。勘误轴 4 行（松平②、荷田春满①、§3.1 方括号、§3.2 花括号），errata-apply 与 note-anchor 0。账本 181 段。"
+  },
+  {
+   "step": "rv-02",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-28T05:32:55Z",
+   "evidence": "T259 rv-02 两轴审计（results/t259-review.md）：账本 181 段与 en 逐块对齐（79 正文／51 脚注／26 标题／19 引块／6 表）；H3 12/12、H4 4/4、表 6/6、定义 51/51、引用 5/5、图 0、公式 0；H2 11 比 en 多译者注释（ADR-0065 允许）；密度破折号 25 对、“一个”19 处均数量义，无 AI 腔；check_math_zh 0、check_style 0、check_academic 无硬错误。"
+  },
+  {
+   "step": "rv-03",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-28T05:32:55Z",
+   "evidence": "T259 rv-03 q1 引文轴（results/t259-review.md）：cite_audit 17 条直引全部 pass；origin_lang=ja、original_status=unavailable、english_source=sep-inline；anchor 指向 en L32–L271；--gate 0、--check-hash 0；日文原著不可得，译文据 SEP 英文引文转译，未代造原文。"
+  },
+  {
+   "step": "rv-04",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-28T05:32:55Z",
+   "evidence": "T259 rv-04 q2 逻辑轴（results/t259-review.md）：logic_audit 303 散句，37 条 logic_bearing 全部 equivalent（reviewer=trae-main）；7 条算子候选逐条复核（all 1、no 5、align 1），均语义等价或词形误报；align 跳过 §3／§4 两节，已由 rv-02 逐段核与 tr-03 逐节核覆盖；--gate 0；q1 hash 不变。"
+  },
+  {
+   "step": "rv-05",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-28T05:32:56Z",
+   "evidence": "T259 rv-05 q3 语法轴（results/t259-review.md）：grammar_audit 10 条告警，G-7@216 删“无论如何”fixed；G-14@27 术语“和歌”假阳性；G-11@85 两处“有的”假阳性；G-11@141／167×2／226 引文内部 waived；G-19@71／75“物哀”已登记术语 waived；G-1／G-5 0、G-7 已修；--gate 0。"
+  },
+  {
+   "step": "rv-06",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-28T05:32:56Z",
+   "evidence": "T259 rv-06 q4 语域轴（results/t259-review.md）：六节全部 R-1，无 R-4／R-5 越界；R-e“蛮”2 条为历史语境蛮夷，false-positive；R-d 0；R-f 称谓统一；样章基准 baseline/register-baseline.md 缺失（全库缺口，已登记 I1）；--gate 0。"
+  },
+  {
+   "step": "rv-07",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-28T05:32:56Z",
+   "evidence": "T259 rv-07 q5 计量轴（results/t259-review.md）：measure_audit 量值 2 条（10%、80%）pass；范围 37 条，36 条一字线，1 条 en dash 为引文页码 SJTa: 401–402（ADR-0041 豁免）；M-6 连接号混用 false-positive；--gate 0。"
+  },
+  {
+   "step": "rv-08",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-28T05:32:56Z",
+   "evidence": "T259 rv-08 q6 标点轴（results/t259-review.md）：punct_audit 1 条 P-13@45（401–402）waived（引文页码）；其余 P 规则 0；check_style 0、check_quotes 0；--gate 0。"
+  },
+  {
+   "step": "rv-09",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-28T05:32:57Z",
+   "evidence": "T259 rv-09 体例终校（results/t259-review.md）：GB/T 15834／15835、CY/T 266、GB 3100 基线筛查无冲突；431 行／12,451 汉字、181 段、51 定义、5 引用、6 表；尾序正典；check_style／quotes 0、pairs --gate 0、terms 硬 0／告警 0、academic --strict 无硬错误、math_zh 0、prose 7 条已豁免；六轴 gate 全 0。"
+  },
+  {
+   "step": "sg-01",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-28T05:35:15Z",
+   "evidence": "T260 sg-01 初审（results/t260-sg01.md）：假设读者哲学专业本科生；抽 §1、§3.2、§4.3、§5、§6 五节，可读性／术语习惯／背景提示／语体一致四维均通过；Minor 3 处已改（“宗师”→“笃胤”、“他国学”→“其国学”、“三条卿”→“三条卿（Sanjō）”）；无 Critical／Major；改后 check_style 0、terms 硬 0、pairs --gate 0；语体结论现代汉语学术书面语，引文与叙述分层清楚。"
+  },
+  {
+   "step": "sg-02",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-28T05:36:05Z",
+   "evidence": "T260 sg-02 复审（results/t260-sg02.md）：全文六节逻辑链完整（定义→兴起→文献学→民间→明治→之后），§1 末承诺在 §2–§5 兑现；代词 40 余处逐组回指无悬空，无“前者／后者”；正文无显式跨节引用，译者注释①②指向明确；数字与专名跨节一致；Minor 2 处已修（§4.3 句式杂糅、§4.2 “1826 年同年”重复）；Critical 0／Major 0／Minor 0（遗留）；改后 check_style／quotes 0、terms 硬 0、pairs --gate 0、academic 无硬错误；账本 181 段。未获 sg-03 mandate，止于 sg-02_checked。"
+  },
+  {
+   "step": "sg-03",
+   "status": "ok",
+   "actor": "user",
+   "at": "2026-11-28T06:09:33Z",
+   "evidence": "T260 sg-03 终审（results/t260-sg03.md）：用户 2026-11-28 本会话明确授权（mandate 已记）。终稿 431 行／12,453 汉字、181 段账本、51 脚注定义（键集与 en 相同）／5 引用、6 张和歌表、2 条译者注释；H2 11／H3 12／H4 4，尾序正典；4 行勘误承载①②；术语 60 条、人名 29 条覆盖；版本钉 Jun 21, 2021／Fall 2021，HTML 主件 SHA-256 640fe38e…1d3 与任务账一致；check_all 23/23，check_style／quotes 0、terms 硬 0、pairs --gate 0、academic --strict 无硬错误、math_zh 0、六轴 gate 全 0；checks 46114491257 success、CodeQL 46114491265 success、开放告警 0。终审通过，置 done。",
+   "mandate": "2026-11-28 用户在本会话明确授权：执行 kokugaku-school sg-03 终审（全件终审与 done 签字）"
+  },
+  {
+   "step": "done",
+   "status": "ok",
+   "actor": "user",
+   "at": "2026-11-28T06:09:33Z",
+   "evidence": "T260 终审通过并完成交付：431 行／12,453 汉字、181 段账本、51 脚注定义／5 引用、6 表、2 条译者注释；版本钉 Jun 21, 2021／Fall 2021、HTML 主件 SHA-256 640fe38e…1d3 一致；check_all 23/23；checks 46114491257 success、CodeQL 46114491265 success。"
+  },
+  {
+   "step": "sg-01",
+   "status": "ok",
+   "actor": "glm-main",
+   "at": "2026-11-28T12:29:44Z",
+   "evidence": "sg-01 全量初审通过：zh 正文全量逐段对照 en 审读（非抽样）；四维结论、Minor 清单与移交项见 specs/064-flow-spec-audit/results/pilot/sg01-kokugaku-school.md；未改文；取代同日抽审记录（用户裁定禁止抽审） 语体：现代汉语学术书面语，全文一致（四维结论详见 sg01 详录）。"
   }
+ ],
+ "blockers": [],
+ "created_at": "2026-11-01T17:40:59Z",
+ "version_pin": {
+  "pubinfo_date": "Jun 21, 2021",
+  "archive_edition": "Fall 2021",
+  "sha256": "640fe38ece65b9bc1f8108f0799d28bc5ecb4271c836416d5258fddd1bdc71d3"
+ },
+ "state_migrated": {
+  "at": "2026-11-25T00:31:40Z",
+  "from": "s2.4_termchecked",
+  "to": "rv-01_checked",
+  "by": "ADR-0080"
+ },
+ "competences": {
+  "glm-main": {
+   "qualification": "GLM-5.3-Flash 会话（LLM）；用户 2026-11-28 指定接任独立审校，接替 DeepSeek 会话（trae-main）",
+   "experience": "SEP-CN v2 规则（rules/02–10）全量熟悉；本项目 11 件 pilot 独立审校执行者",
+   "domain": "日本思想史审校（国学、神道、德川与明治思想）",
+   "training": "MQM／ISO 5060 严重度分级；对照源逐段审校方法；中文哲学界术语习惯"
+  }
+ }
 }

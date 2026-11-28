@@ -1,165 +1,180 @@
 {
-  "slug": "newton-principia",
-  "kind": "retranslate",
-  "zh_doc": "zh/n/newton-principia.md",
-  "state": "done",
-  "steps": [
-    {
-      "step": "ex-04",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T18:31:20Z",
-      "evidence": "T229 ex-04 源审计完成（results/t229-review.md）：en_integrity clean 1/1、hard 0；en_source_audit hard 0、warn 3（heading_skip 为页面模板 h4、orphan_note 为 notes.html 数字锚点口径、pp. 31-70.. 为 D 类真候选）；check_math 0 公式；96 脚注定义（59 编号注 59/59 闭合＋37 书目键，其中 35 条按设计无文内引用）；3 图与文件哈希同基线，fetch_audit complete 缺件 0；版本钉 Winter 2024／Dec 20, 2007 一致；勘误第十九节 1 条"
-    },
-    {
-      "step": "tr-02",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T18:51:20Z",
-      "evidence": "T231 tr-02 全量（译后编辑 PE）：255 段／35,900 汉字／96 脚注定义／3 图；check_pairs 0、terms 硬 0；证据 results/t231-review.md"
-    },
-    {
-      "step": "tr-03",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T18:57:10Z",
-      "evidence": "T232 tr-03 一校：255 段配对、96 脚注键一致、10 处重点段回源；修正 3 项；证据 results/t232-tr03.md"
-    },
-    {
-      "step": "tr-04",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T18:57:10Z",
-      "evidence": "T232 tr-04 二校：check_prose 184→156，弱动词 17→0，余量逐条豁免；语体：学术书面语；证据 results/t232-tr04.md"
-    },
-    {
-      "step": "rv-01",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T18:59:29Z",
-      "evidence": "T233 rv-01：术语硬 0、体例 hard 0、勘误 5 条；证据 results/t233-rv01.md"
-    },
-    {
-      "step": "rv-02",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T18:59:29Z",
-      "evidence": "T233 rv-02：冷置回读＋密度统计 255 段／96 定义；两轴一致；证据 results/t233-rv02.md"
-    },
-    {
-      "step": "rv-03",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T19:02:48Z",
-      "evidence": "T233 rv-03 q1：89 候选 waived，gate 0；证据 results/t233-rv03.md"
-    },
-    {
-      "step": "rv-04",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T19:02:49Z",
-      "evidence": "T233 rv-04 q2：708 句／249 承载均 equivalent，gate 0；证据 results/t233-rv04.md"
-    },
-    {
-      "step": "rv-05",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T19:02:49Z",
-      "evidence": "T233 rv-05 q3：157 告警 waived，gate 0；证据 results/t233-rv05.md"
-    },
-    {
-      "step": "rv-06",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T19:02:56Z",
-      "evidence": "T233 rv-06 q4：10 节 R-1，gate 0；证据 results/t233-rv06.md"
-    },
-    {
-      "step": "rv-07",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T19:02:57Z",
-      "evidence": "T233 rv-07 q5：5 量值 pass，2 条 M-4 false-positive，gate 0；证据 results/t233-rv07.md"
-    },
-    {
-      "step": "rv-08",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T19:02:57Z",
-      "evidence": "T233 rv-08 q6：P-13 7 处改一字线、P-7 拆句、P-5 4 条 false-positive，gate 0；证据 results/t233-rv08.md"
-    },
-    {
-      "step": "rv-09",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T19:02:59Z",
-      "evidence": "T233 rv-09：冷置回读＋密度统计，六轴 gate 全 0；证据 results/t233-rv09.md"
-    },
-    {
-      "step": "sg-01",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T19:06:46Z",
-      "evidence": "T234 sg-01：五段四维无 Critical／Major，m1／m2 已采纳；证据 results/t234-sg01.md；语体：学术书面语一致"
-    },
-    {
-      "step": "sg-02",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T19:06:46Z",
-      "evidence": "T234 sg-02：逻辑链、20 组指代、10 处跨节引用通过；证据 results/t234-sg02.md"
-    },
-    {
-      "step": "sg-03",
-      "status": "ok",
-      "actor": "user",
-      "at": "2026-11-27T19:14:21Z",
-      "evidence": "T234 sg-03 终审通过（results/t234-sg03.md）：用户授权签字；537 行／35,900 汉字、255 段账本、96 脚注定义、3 图、23 引块、12 链接；check_all 23/23、check_pairs hard 0、六轴 gate 全 0、terms 硬 0、academic 无硬错误；Critical／Major 全结案；状态 sg-02_checked → sg-03_checked",
-      "mandate": "2026-11-27 用户答复：批准终审（推荐）（授权 trae-main 本会话执行 newton-principia 终审）"
-    },
-    {
-      "step": "done",
-      "status": "ok",
-      "actor": "user",
-      "at": "2026-11-27T19:14:21Z",
-      "evidence": "T234 sg-03 用户签字后置 done（results/t234-sg03.md）：全文入库、96 脚注定义闭合、3 图完整、六轴 gate 全 0、check_all 23/23；T157 容器按 TA7 不整体勾选"
-    }
-  ],
-  "blockers": [],
-  "created_at": "2026-11-11T03:29:37Z",
-  "version_pin": {
-    "pubinfo_date": "Dec 20, 2007",
-    "archive_edition": "Winter 2024",
-    "sha256": "05a4a2b2ef2bbca8eda188bc2bc705767bb7183f6132cfc05adfa316a3ee6f38"
+ "slug": "newton-principia",
+ "kind": "retranslate",
+ "zh_doc": "zh/n/newton-principia.md",
+ "state": "done",
+ "steps": [
+  {
+   "step": "ex-04",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T18:31:20Z",
+   "evidence": "T229 ex-04 源审计完成（results/t229-review.md）：en_integrity clean 1/1、hard 0；en_source_audit hard 0、warn 3（heading_skip 为页面模板 h4、orphan_note 为 notes.html 数字锚点口径、pp. 31-70.. 为 D 类真候选）；check_math 0 公式；96 脚注定义（59 编号注 59/59 闭合＋37 书目键，其中 35 条按设计无文内引用）；3 图与文件哈希同基线，fetch_audit complete 缺件 0；版本钉 Winter 2024／Dec 20, 2007 一致；勘误第十九节 1 条"
   },
-  "state_migrated": {
-    "at": "2026-11-25T00:31:41Z",
-    "from": "s2.4_termchecked",
-    "to": "rv-01_checked",
-    "by": "ADR-0080"
+  {
+   "step": "tr-02",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T18:51:20Z",
+   "evidence": "T231 tr-02 全量（译后编辑 PE）：255 段／35,900 汉字／96 脚注定义／3 图；check_pairs 0、terms 硬 0；证据 results/t231-review.md"
   },
-  "translation_mode": "llm-pe",
-  "project_spec": {
-    "audience": "中文哲学读者（研究者与研究生为主）",
-    "purpose": "学术阅读与引用（SEP 词条简体中文译本）",
-    "register": "现代汉语学术书面语",
-    "terminology_basis": "shu-yu-biao.md／ren-ming-biao.md／baseline/term-concepts.md",
-    "delivery": "GitBook Markdown＋VitePress 双语站",
-    "qa_level": "CY/T 266＋ISO 5060（六轴机检＋人工复核）",
-    "language_pair": "en → zh-Hans",
-    "content_type": "学术百科词条（SEP）",
-    "subject_field": "哲学（按词条分支）",
-    "workflow": "retranslate 22 节点（rules/04）",
-    "pe_level": "full",
-    "pre_edit": "源审计后按 tr-01 术语摘录与提示词准备",
-    "risk_level": "B 中",
-    "confidentiality": "公开源；未公开草稿与审稿意见不入模型",
-    "communication": "任务 evidence＋journal",
-    "qualifications": "见 task.competences（ISO 17100 3.1.3–3.1.7）"
+  {
+   "step": "tr-03",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T18:57:10Z",
+   "evidence": "T232 tr-03 一校：255 段配对、96 脚注键一致、10 处重点段回源；修正 3 项；证据 results/t232-tr03.md"
   },
-  "pe": {
-    "level": "full",
-    "system": "DeepSeek-V4.1-Flash",
-    "disclosure": "任务 evidence 与词条译后编辑记录"
+  {
+   "step": "tr-04",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T18:57:10Z",
+   "evidence": "T232 tr-04 二校：check_prose 184→156，弱动词 17→0，余量逐条豁免；语体：学术书面语；证据 results/t232-tr04.md"
+  },
+  {
+   "step": "rv-01",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T18:59:29Z",
+   "evidence": "T233 rv-01：术语硬 0、体例 hard 0、勘误 5 条；证据 results/t233-rv01.md"
+  },
+  {
+   "step": "rv-02",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T18:59:29Z",
+   "evidence": "T233 rv-02：冷置回读＋密度统计 255 段／96 定义；两轴一致；证据 results/t233-rv02.md"
+  },
+  {
+   "step": "rv-03",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T19:02:48Z",
+   "evidence": "T233 rv-03 q1：89 候选 waived，gate 0；证据 results/t233-rv03.md"
+  },
+  {
+   "step": "rv-04",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T19:02:49Z",
+   "evidence": "T233 rv-04 q2：708 句／249 承载均 equivalent，gate 0；证据 results/t233-rv04.md"
+  },
+  {
+   "step": "rv-05",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T19:02:49Z",
+   "evidence": "T233 rv-05 q3：157 告警 waived，gate 0；证据 results/t233-rv05.md"
+  },
+  {
+   "step": "rv-06",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T19:02:56Z",
+   "evidence": "T233 rv-06 q4：10 节 R-1，gate 0；证据 results/t233-rv06.md"
+  },
+  {
+   "step": "rv-07",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T19:02:57Z",
+   "evidence": "T233 rv-07 q5：5 量值 pass，2 条 M-4 false-positive，gate 0；证据 results/t233-rv07.md"
+  },
+  {
+   "step": "rv-08",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T19:02:57Z",
+   "evidence": "T233 rv-08 q6：P-13 7 处改一字线、P-7 拆句、P-5 4 条 false-positive，gate 0；证据 results/t233-rv08.md"
+  },
+  {
+   "step": "rv-09",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T19:02:59Z",
+   "evidence": "T233 rv-09：冷置回读＋密度统计，六轴 gate 全 0；证据 results/t233-rv09.md"
+  },
+  {
+   "step": "sg-01",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T19:06:46Z",
+   "evidence": "T234 sg-01：五段四维无 Critical／Major，m1／m2 已采纳；证据 results/t234-sg01.md；语体：学术书面语一致"
+  },
+  {
+   "step": "sg-02",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T19:06:46Z",
+   "evidence": "T234 sg-02：逻辑链、20 组指代、10 处跨节引用通过；证据 results/t234-sg02.md"
+  },
+  {
+   "step": "sg-03",
+   "status": "ok",
+   "actor": "user",
+   "at": "2026-11-27T19:14:21Z",
+   "evidence": "T234 sg-03 终审通过（results/t234-sg03.md）：用户授权签字；537 行／35,900 汉字、255 段账本、96 脚注定义、3 图、23 引块、12 链接；check_all 23/23、check_pairs hard 0、六轴 gate 全 0、terms 硬 0、academic 无硬错误；Critical／Major 全结案；状态 sg-02_checked → sg-03_checked",
+   "mandate": "2026-11-27 用户答复：批准终审（推荐）（授权 trae-main 本会话执行 newton-principia 终审）"
+  },
+  {
+   "step": "done",
+   "status": "ok",
+   "actor": "user",
+   "at": "2026-11-27T19:14:21Z",
+   "evidence": "T234 sg-03 用户签字后置 done（results/t234-sg03.md）：全文入库、96 脚注定义闭合、3 图完整、六轴 gate 全 0、check_all 23/23；T157 容器按 TA7 不整体勾选"
+  },
+  {
+   "step": "sg-01",
+   "status": "ok",
+   "actor": "glm-main",
+   "at": "2026-11-28T11:48:46Z",
+   "evidence": "sg-01 全量初审通过：zh 正文全量逐段对照 en 审读（非抽样）；四维结论、Minor 清单与移交项见 specs/064-flow-spec-audit/results/pilot/sg01-newton-principia.md；未改文；取代同日抽审记录（用户裁定禁止抽审） 语体：现代汉语学术书面语，全文一致（四维结论详见 sg01 详录）。"
   }
+ ],
+ "blockers": [],
+ "created_at": "2026-11-11T03:29:37Z",
+ "version_pin": {
+  "pubinfo_date": "Dec 20, 2007",
+  "archive_edition": "Winter 2024",
+  "sha256": "05a4a2b2ef2bbca8eda188bc2bc705767bb7183f6132cfc05adfa316a3ee6f38"
+ },
+ "state_migrated": {
+  "at": "2026-11-25T00:31:41Z",
+  "from": "s2.4_termchecked",
+  "to": "rv-01_checked",
+  "by": "ADR-0080"
+ },
+ "translation_mode": "llm-pe",
+ "project_spec": {
+  "audience": "中文哲学读者（研究者与研究生为主）",
+  "purpose": "学术阅读与引用（SEP 词条简体中文译本）",
+  "register": "现代汉语学术书面语",
+  "terminology_basis": "shu-yu-biao.md／ren-ming-biao.md／baseline/term-concepts.md",
+  "delivery": "GitBook Markdown＋VitePress 双语站",
+  "qa_level": "CY/T 266＋ISO 5060（六轴机检＋人工复核）",
+  "language_pair": "en → zh-Hans",
+  "content_type": "学术百科词条（SEP）",
+  "subject_field": "哲学（按词条分支）",
+  "workflow": "retranslate 22 节点（rules/04）",
+  "pe_level": "full",
+  "pre_edit": "源审计后按 tr-01 术语摘录与提示词准备",
+  "risk_level": "B 中",
+  "confidentiality": "公开源；未公开草稿与审稿意见不入模型",
+  "communication": "任务 evidence＋journal",
+  "qualifications": "见 task.competences（ISO 17100 3.1.3–3.1.7）"
+ },
+ "pe": {
+  "level": "full",
+  "system": "DeepSeek-V4.1-Flash",
+  "disclosure": "任务 evidence 与词条译后编辑记录"
+ },
+ "competences": {
+  "glm-main": {
+   "qualification": "GLM-5.3-Flash 会话（LLM）；用户 2026-11-28 指定接任独立审校，接替 DeepSeek 会话（trae-main）",
+   "experience": "SEP-CN v2 规则（rules/02–10）全量熟悉；本项目 11 件 pilot 独立审校执行者",
+   "domain": "科学史与科学哲学审校（牛顿研究、天文学史、力学史）",
+   "training": "MQM／ISO 5060 严重度分级；对照源逐段审校方法；中文哲学界术语习惯"
+  }
+ }
 }

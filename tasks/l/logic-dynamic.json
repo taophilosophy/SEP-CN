@@ -1,165 +1,180 @@
 {
-  "slug": "logic-dynamic",
-  "kind": "retranslate",
-  "zh_doc": "zh/l/logic-dynamic.md",
-  "state": "done",
-  "steps": [
-    {
-      "step": "ex-04",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T19:34:00Z",
-      "evidence": "T235 ex-04 源审计完成（results/t235-review.md）：en_integrity clean 1/1、hard 0；en_source_audit hard 0、warn 5（4 条 sat sat 为 HTML 列表剥离数学后误报，1 条 and and 为真候选入勘误第二十节）；fetch_audit complete 缺件 0；55 脚注定义（0 真实引用，54 书目键＋[^key] 说明）、2 图哈希同基线；版本钉 Fall 2023／Feb 16, 2023 一致；14 类命中 12"
-    },
-    {
-      "step": "tr-02",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T20:47:51Z",
-      "evidence": "T240 tr-02 全量完成（results/t240-review.md）：逐段译后编辑（PE），573 行／9,702 汉字、251 块／251 段账本、602 行内公式、4 display 对、55 脚注定义、2 图；check_style/quotes/math_zh 0 硬错误，check_pairs hard_in_scope 0／out_of_scope 0，check_terms 硬 0，check_academic 无硬错误"
-    },
-    {
-      "step": "tr-03",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T21:29:50Z",
-      "evidence": "T241 一校（results/t241-tr03.md）：逐节对照 en 全篇（§1–§5、尾节、55 脚注）；Critical 0／Major 1（“对合的分配性”误译已改为“关于合取 ∧ 的分配性”）／Minor 6（上游括号误植入勘误、iff 与规则标签英改中、引用名统一等）；残留外文 0（书目与记号除外）；check_style/quotes/math_zh/terms 硬 0、academic 无硬错误、check_pairs hard 0／out_of_scope 0；账本 251 段守恒"
-    },
-    {
-      "step": "tr-04",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T21:30:12Z",
-      "evidence": "T241 二校（results/t241-tr04.md）：check_prose 13 条全部改写落地，13→0（无豁免；weak-verb 2、de-chain 8、long-sentence 3）；语体结论：现代汉语学术书面语、无文言仿古、破折号 25 对未滥用、一个 65 处无冗余；公式与引用未动；check_style/quotes/math_zh/terms 硬 0、academic 无硬错误、check_pairs hard 0；账本 251 段守恒，9683 汉字"
-    },
-    {
-      "step": "rv-01",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T23:48:52Z",
-      "evidence": "rv-01 三轴（T242a）：术语轴 check_terms 硬错误 0、词条告警 0；人工对照 22 条 PDL 登记术语与核心术语，D1 两处（复杂度混形 5 处→复杂性；确定→是确定的 1 处）已逐处修复，无 D2–D5；mech_audit pure/conn/susp 均 0。体例轴 check_pairs hard_in_scope 0／out_of_scope 0、check_style 0、check_quotes 0；尾节顺序、编号、H1、pubinfo 均过。勘误轴 3 行（and proved that／定界符空白／V((A 括号）承载均无需译注，落点已核。"
-    },
-    {
-      "step": "rv-02",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T23:50:33Z",
-      "evidence": "rv-02 审计已译（T242b）：译文轴逐段回 en 全篇复核（§1–§5、尾节），Critical 0／Major 0／Minor 0；tr-03 后冷置回读抽核 §2.2–§4.4 六处锚点一致。全局：H2 9／H3 10 与 en 同构，55 脚注键同序，表行 6/6/8/15 与 en 一致，图 2 路径基座正确，书目键闭合。密度：破折号 25 对（en 23），一个 65 处，AI 套话 0。同源盲区补偿：单会话形态，以全局密度统计＋冷置回读补偿（ADR-0020／specs-004 W11）。机检：check_math_zh 0、check_style 0、check_pairs 0、check_academic strict 无硬错误。语体结论：现代汉语学术书面语，破折号与一个未见滥用。"
-    },
-    {
-      "step": "rv-03",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T23:51:07Z",
-      "evidence": "rv-03 引文锁定（T242c）：cite_audit 直引级候选 10，经人审全部为语义读法或记法括注，非成句直引（q1 §1 边界），逐条 verdict=waived 并注 self-gloss/self-notation 与理由；无 origin/原文补入义务；hash 10/10 与当前文本一致；cite_audit --gate 问题 0。"
-    },
-    {
-      "step": "rv-04",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T23:51:44Z",
-      "evidence": "rv-04 逻辑一致性（T242c）：logic_audit 骨架 365 句，逻辑承载 104 句逐句人审，全部 equivalent（L-1 命题数、L-2 论元、L-3/4 量化与否定辖域、L-5 条件方向、L-6 模态、L-9 并列、L-10 指代均未见漂移）；261 句 trivial。算子候选 3 处均为假阳性：no 译作不使用（否定等价）、some 译作某一次（读法括注）、if 译作当…时（条件等价）。logic_audit --gate 问题 0。"
-    },
-    {
-      "step": "rv-05",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T23:52:00Z",
-      "evidence": "rv-05 语法（T242c）：grammar_audit 告警 0、问题 0；人审 G-1／G-3／G-5／G-7 无命中，G-9–G-16 反欧化 0（check_prose 0），G-17–G-19 仅用定型词（命题、范畴、逻辑等），无未定形日源生造词；分句主语隐现与羡余判例未误判。grammar_audit --gate 问题 0。"
-    },
-    {
-      "step": "rv-06",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T23:52:32Z",
-      "evidence": "rv-06 语域（T242d）：register_audit 5 节全部 R-1 学术书面语（说明段 R-2），无 R-4／R-5 越界；R-d 候选 1 处（总是以 B 为后条件）判 false-positive；R-b／R-e／R-f 0；AI 套话 0；baseline 样章未建，R-g 以 rules/02 替代判定，未见偏离；register_audit --gate 问题 0。"
-    },
-    {
-      "step": "rv-07",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T23:52:51Z",
-      "evidence": "rv-07 计量（T242d）：measure_audit 量值-单位对 0、范围 0；18 处 M-4 候选均为 model2／A2／A3／SP2 等标识符，判 false-positive；日期年份照录源，无英制换算；M-1／M-2／M-3／M-9 零硬错误；measure_audit --gate 问题 0。"
-    },
-    {
-      "step": "rv-08",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T23:53:48Z",
-      "evidence": "rv-08 标点（T242d）：punct_audit 命中 P-7 冒号套用 1 处已改为逗号；P-18 引号邻接 2 处经核为公式剥离假阳性（A 紧贴引号）；P-8／P-9／P-11／P-13／P-15／P-20 零硬错误；check_style 0、check_quotes 0；punct_audit --gate 退出码 0。"
-    },
-    {
-      "step": "rv-09",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T23:54:02Z",
-      "evidence": "rv-09 体例终校（T242e）：尾节序 参考文献＞学术工具＞其他网络资源＞相关词条，脚注恒末位；H1 中英题＋作者括号、pubinfo 引块、编号点号式均过；check_style 0、check_quotes 0、check_pairs hard 0／out_of_scope 0、check_math_zh 0、check_terms 硬 0、check_academic strict 无硬错误；账本 251 段、9685 汉字、602 行内公式、4 display、55 定义；勘误 3 行承载无误。"
-    },
-    {
-      "step": "sg-01",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-28T00:35:43Z",
-      "evidence": "sg-01 初审（results/t243-sg01.md）：对照 en 自审并通读语体；Critical 0／Major 0／Minor 3（计算复杂度→计算复杂性、诸 DL→各种 DL、集中于推理→集中讨论…推理）均已改；语体结论：现代汉语学术书面语、无文言仿古、破折号与一个未滥用；55 脚注定义与 en 逐字一致；check_prose/style/quotes/math_zh/terms 0、academic 无硬错误、pairs 0；账本 251 段。"
-    },
-    {
-      "step": "sg-02",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-28T00:36:23Z",
-      "evidence": "sg-02 复审（results/t243-sg02.md）：全篇逐句回核 en 与逻辑，覆盖 573 行／251 段；问题单 Critical 0／Major 0／Minor 0（初审 3 处已修，本轮不复查旧错）；量化否定辖域、条件方向、模态强度、引注书目、公式图表逐项核对一致；check_pairs/math_zh/style/quotes/terms/academic/prose 全 0；账本 251 段。"
-    },
-    {
-      "step": "sg-03",
-      "status": "ok",
-      "actor": "user",
-      "at": "2026-11-28T00:37:59Z",
-      "evidence": "sg-03 终审（results/t243-sg03.md）：用户 2026-11-28 授权 sg-03（范围 logic-dynamic）；终稿 573 行／9685 汉字、251 段、602 行内公式、4 display、55 定义、2 图；Critical／Major／Minor 0；check_all 23/23 全绿；体例与术语轴全过；签字通过。",
-      "mandate": "2026-11-28 用户会话明确授权：开始 T243 并授权 sg-03 终审，范围 logic-dynamic"
-    },
-    {
-      "step": "done",
-      "status": "ok",
-      "actor": "user",
-      "at": "2026-11-28T00:38:03Z",
-      "evidence": "logic-dynamic 终审通过置 done（2026-11-28）：sg-03 用户授权签字（results/t243-sg03.md）；check_all 23/23 全绿；573 行／9685 汉字、251 段账本、602 行内公式、4 display、55 定义、2 图；Critical／Major／Minor 0。"
-    }
-  ],
-  "blockers": [],
-  "created_at": "2026-11-09T19:49:07Z",
-  "version_pin": {
-    "pubinfo_date": "Feb 16, 2023",
-    "archive_edition": "Fall 2023",
-    "sha256": "bb7c36ae9f82ba0c7e5bc8c15382ff1572a79e9e3f394bfbff59677efdb35cf9"
+ "slug": "logic-dynamic",
+ "kind": "retranslate",
+ "zh_doc": "zh/l/logic-dynamic.md",
+ "state": "done",
+ "steps": [
+  {
+   "step": "ex-04",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T19:34:00Z",
+   "evidence": "T235 ex-04 源审计完成（results/t235-review.md）：en_integrity clean 1/1、hard 0；en_source_audit hard 0、warn 5（4 条 sat sat 为 HTML 列表剥离数学后误报，1 条 and and 为真候选入勘误第二十节）；fetch_audit complete 缺件 0；55 脚注定义（0 真实引用，54 书目键＋[^key] 说明）、2 图哈希同基线；版本钉 Fall 2023／Feb 16, 2023 一致；14 类命中 12"
   },
-  "state_migrated": {
-    "at": "2026-11-25T00:31:40Z",
-    "from": "s2.4_termchecked",
-    "to": "rv-01_checked",
-    "by": "ADR-0080"
+  {
+   "step": "tr-02",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T20:47:51Z",
+   "evidence": "T240 tr-02 全量完成（results/t240-review.md）：逐段译后编辑（PE），573 行／9,702 汉字、251 块／251 段账本、602 行内公式、4 display 对、55 脚注定义、2 图；check_style/quotes/math_zh 0 硬错误，check_pairs hard_in_scope 0／out_of_scope 0，check_terms 硬 0，check_academic 无硬错误"
   },
-  "translation_mode": "llm-pe",
-  "project_spec": {
-    "audience": "中文哲学读者（研究者与研究生为主）",
-    "purpose": "学术阅读与引用（SEP 词条简体中文译本）",
-    "register": "现代汉语学术书面语",
-    "terminology_basis": "shu-yu-biao.md／ren-ming-biao.md／baseline/term-concepts.md",
-    "delivery": "GitBook Markdown＋VitePress 双语站",
-    "qa_level": "CY/T 266＋ISO 5060（六轴机检＋人工复核）",
-    "language_pair": "en → zh-Hans",
-    "content_type": "学术百科词条（SEP）",
-    "subject_field": "哲学（按词条分支）",
-    "workflow": "retranslate 22 节点（rules/04）",
-    "pe_level": "full",
-    "pre_edit": "源审计后按 tr-01 术语摘录与提示词准备",
-    "risk_level": "B 中",
-    "confidentiality": "公开源；未公开草稿与审稿意见不入模型",
-    "communication": "任务 evidence＋journal",
-    "qualifications": "见 task.competences（ISO 17100 3.1.3–3.1.7）"
+  {
+   "step": "tr-03",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T21:29:50Z",
+   "evidence": "T241 一校（results/t241-tr03.md）：逐节对照 en 全篇（§1–§5、尾节、55 脚注）；Critical 0／Major 1（“对合的分配性”误译已改为“关于合取 ∧ 的分配性”）／Minor 6（上游括号误植入勘误、iff 与规则标签英改中、引用名统一等）；残留外文 0（书目与记号除外）；check_style/quotes/math_zh/terms 硬 0、academic 无硬错误、check_pairs hard 0／out_of_scope 0；账本 251 段守恒"
   },
-  "pe": {
-    "level": "full",
-    "system": "DeepSeek-V4.1-Flash",
-    "disclosure": "任务 evidence 与词条译后编辑记录"
+  {
+   "step": "tr-04",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T21:30:12Z",
+   "evidence": "T241 二校（results/t241-tr04.md）：check_prose 13 条全部改写落地，13→0（无豁免；weak-verb 2、de-chain 8、long-sentence 3）；语体结论：现代汉语学术书面语、无文言仿古、破折号 25 对未滥用、一个 65 处无冗余；公式与引用未动；check_style/quotes/math_zh/terms 硬 0、academic 无硬错误、check_pairs hard 0；账本 251 段守恒，9683 汉字"
+  },
+  {
+   "step": "rv-01",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T23:48:52Z",
+   "evidence": "rv-01 三轴（T242a）：术语轴 check_terms 硬错误 0、词条告警 0；人工对照 22 条 PDL 登记术语与核心术语，D1 两处（复杂度混形 5 处→复杂性；确定→是确定的 1 处）已逐处修复，无 D2–D5；mech_audit pure/conn/susp 均 0。体例轴 check_pairs hard_in_scope 0／out_of_scope 0、check_style 0、check_quotes 0；尾节顺序、编号、H1、pubinfo 均过。勘误轴 3 行（and proved that／定界符空白／V((A 括号）承载均无需译注，落点已核。"
+  },
+  {
+   "step": "rv-02",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T23:50:33Z",
+   "evidence": "rv-02 审计已译（T242b）：译文轴逐段回 en 全篇复核（§1–§5、尾节），Critical 0／Major 0／Minor 0；tr-03 后冷置回读抽核 §2.2–§4.4 六处锚点一致。全局：H2 9／H3 10 与 en 同构，55 脚注键同序，表行 6/6/8/15 与 en 一致，图 2 路径基座正确，书目键闭合。密度：破折号 25 对（en 23），一个 65 处，AI 套话 0。同源盲区补偿：单会话形态，以全局密度统计＋冷置回读补偿（ADR-0020／specs-004 W11）。机检：check_math_zh 0、check_style 0、check_pairs 0、check_academic strict 无硬错误。语体结论：现代汉语学术书面语，破折号与一个未见滥用。"
+  },
+  {
+   "step": "rv-03",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T23:51:07Z",
+   "evidence": "rv-03 引文锁定（T242c）：cite_audit 直引级候选 10，经人审全部为语义读法或记法括注，非成句直引（q1 §1 边界），逐条 verdict=waived 并注 self-gloss/self-notation 与理由；无 origin/原文补入义务；hash 10/10 与当前文本一致；cite_audit --gate 问题 0。"
+  },
+  {
+   "step": "rv-04",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T23:51:44Z",
+   "evidence": "rv-04 逻辑一致性（T242c）：logic_audit 骨架 365 句，逻辑承载 104 句逐句人审，全部 equivalent（L-1 命题数、L-2 论元、L-3/4 量化与否定辖域、L-5 条件方向、L-6 模态、L-9 并列、L-10 指代均未见漂移）；261 句 trivial。算子候选 3 处均为假阳性：no 译作不使用（否定等价）、some 译作某一次（读法括注）、if 译作当…时（条件等价）。logic_audit --gate 问题 0。"
+  },
+  {
+   "step": "rv-05",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T23:52:00Z",
+   "evidence": "rv-05 语法（T242c）：grammar_audit 告警 0、问题 0；人审 G-1／G-3／G-5／G-7 无命中，G-9–G-16 反欧化 0（check_prose 0），G-17–G-19 仅用定型词（命题、范畴、逻辑等），无未定形日源生造词；分句主语隐现与羡余判例未误判。grammar_audit --gate 问题 0。"
+  },
+  {
+   "step": "rv-06",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T23:52:32Z",
+   "evidence": "rv-06 语域（T242d）：register_audit 5 节全部 R-1 学术书面语（说明段 R-2），无 R-4／R-5 越界；R-d 候选 1 处（总是以 B 为后条件）判 false-positive；R-b／R-e／R-f 0；AI 套话 0；baseline 样章未建，R-g 以 rules/02 替代判定，未见偏离；register_audit --gate 问题 0。"
+  },
+  {
+   "step": "rv-07",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T23:52:51Z",
+   "evidence": "rv-07 计量（T242d）：measure_audit 量值-单位对 0、范围 0；18 处 M-4 候选均为 model2／A2／A3／SP2 等标识符，判 false-positive；日期年份照录源，无英制换算；M-1／M-2／M-3／M-9 零硬错误；measure_audit --gate 问题 0。"
+  },
+  {
+   "step": "rv-08",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T23:53:48Z",
+   "evidence": "rv-08 标点（T242d）：punct_audit 命中 P-7 冒号套用 1 处已改为逗号；P-18 引号邻接 2 处经核为公式剥离假阳性（A 紧贴引号）；P-8／P-9／P-11／P-13／P-15／P-20 零硬错误；check_style 0、check_quotes 0；punct_audit --gate 退出码 0。"
+  },
+  {
+   "step": "rv-09",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T23:54:02Z",
+   "evidence": "rv-09 体例终校（T242e）：尾节序 参考文献＞学术工具＞其他网络资源＞相关词条，脚注恒末位；H1 中英题＋作者括号、pubinfo 引块、编号点号式均过；check_style 0、check_quotes 0、check_pairs hard 0／out_of_scope 0、check_math_zh 0、check_terms 硬 0、check_academic strict 无硬错误；账本 251 段、9685 汉字、602 行内公式、4 display、55 定义；勘误 3 行承载无误。"
+  },
+  {
+   "step": "sg-01",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-28T00:35:43Z",
+   "evidence": "sg-01 初审（results/t243-sg01.md）：对照 en 自审并通读语体；Critical 0／Major 0／Minor 3（计算复杂度→计算复杂性、诸 DL→各种 DL、集中于推理→集中讨论…推理）均已改；语体结论：现代汉语学术书面语、无文言仿古、破折号与一个未滥用；55 脚注定义与 en 逐字一致；check_prose/style/quotes/math_zh/terms 0、academic 无硬错误、pairs 0；账本 251 段。"
+  },
+  {
+   "step": "sg-02",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-28T00:36:23Z",
+   "evidence": "sg-02 复审（results/t243-sg02.md）：全篇逐句回核 en 与逻辑，覆盖 573 行／251 段；问题单 Critical 0／Major 0／Minor 0（初审 3 处已修，本轮不复查旧错）；量化否定辖域、条件方向、模态强度、引注书目、公式图表逐项核对一致；check_pairs/math_zh/style/quotes/terms/academic/prose 全 0；账本 251 段。"
+  },
+  {
+   "step": "sg-03",
+   "status": "ok",
+   "actor": "user",
+   "at": "2026-11-28T00:37:59Z",
+   "evidence": "sg-03 终审（results/t243-sg03.md）：用户 2026-11-28 授权 sg-03（范围 logic-dynamic）；终稿 573 行／9685 汉字、251 段、602 行内公式、4 display、55 定义、2 图；Critical／Major／Minor 0；check_all 23/23 全绿；体例与术语轴全过；签字通过。",
+   "mandate": "2026-11-28 用户会话明确授权：开始 T243 并授权 sg-03 终审，范围 logic-dynamic"
+  },
+  {
+   "step": "done",
+   "status": "ok",
+   "actor": "user",
+   "at": "2026-11-28T00:38:03Z",
+   "evidence": "logic-dynamic 终审通过置 done（2026-11-28）：sg-03 用户授权签字（results/t243-sg03.md）；check_all 23/23 全绿；573 行／9685 汉字、251 段账本、602 行内公式、4 display、55 定义、2 图；Critical／Major／Minor 0。"
+  },
+  {
+   "step": "sg-01",
+   "status": "ok",
+   "actor": "glm-main",
+   "at": "2026-11-28T12:05:03Z",
+   "evidence": "sg-01 全量初审通过：zh 正文全量逐段对照 en 审读（非抽样）；四维结论、Minor 清单与移交项见 specs/064-flow-spec-audit/results/pilot/sg01-logic-dynamic.md；未改文；取代同日抽审记录（用户裁定禁止抽审） 语体：现代汉语学术书面语，全文一致（四维结论详见 sg01 详录）。"
   }
+ ],
+ "blockers": [],
+ "created_at": "2026-11-09T19:49:07Z",
+ "version_pin": {
+  "pubinfo_date": "Feb 16, 2023",
+  "archive_edition": "Fall 2023",
+  "sha256": "bb7c36ae9f82ba0c7e5bc8c15382ff1572a79e9e3f394bfbff59677efdb35cf9"
+ },
+ "state_migrated": {
+  "at": "2026-11-25T00:31:40Z",
+  "from": "s2.4_termchecked",
+  "to": "rv-01_checked",
+  "by": "ADR-0080"
+ },
+ "translation_mode": "llm-pe",
+ "project_spec": {
+  "audience": "中文哲学读者（研究者与研究生为主）",
+  "purpose": "学术阅读与引用（SEP 词条简体中文译本）",
+  "register": "现代汉语学术书面语",
+  "terminology_basis": "shu-yu-biao.md／ren-ming-biao.md／baseline/term-concepts.md",
+  "delivery": "GitBook Markdown＋VitePress 双语站",
+  "qa_level": "CY/T 266＋ISO 5060（六轴机检＋人工复核）",
+  "language_pair": "en → zh-Hans",
+  "content_type": "学术百科词条（SEP）",
+  "subject_field": "哲学（按词条分支）",
+  "workflow": "retranslate 22 节点（rules/04）",
+  "pe_level": "full",
+  "pre_edit": "源审计后按 tr-01 术语摘录与提示词准备",
+  "risk_level": "B 中",
+  "confidentiality": "公开源；未公开草稿与审稿意见不入模型",
+  "communication": "任务 evidence＋journal",
+  "qualifications": "见 task.competences（ISO 17100 3.1.3–3.1.7）"
+ },
+ "pe": {
+  "level": "full",
+  "system": "DeepSeek-V4.1-Flash",
+  "disclosure": "任务 evidence 与词条译后编辑记录"
+ },
+ "competences": {
+  "glm-main": {
+   "qualification": "GLM-5.3-Flash 会话（LLM）；用户 2026-11-28 指定接任独立审校，接替 DeepSeek 会话（trae-main）",
+   "experience": "SEP-CN v2 规则（rules/02–10）全量熟悉；本项目 11 件 pilot 独立审校执行者",
+   "domain": "计算机科学与逻辑审校（动态逻辑、程序验证、模态逻辑）",
+   "training": "MQM／ISO 5060 严重度分级；对照源逐段审校方法；中文哲学界术语习惯"
+  }
+ }
 }

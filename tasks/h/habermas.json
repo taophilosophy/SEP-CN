@@ -1,166 +1,244 @@
 {
-  "slug": "habermas",
-  "kind": "retranslate",
-  "zh_doc": "zh/h/habermas.md",
-  "translation_mode": "llm-pe",
-  "project_spec": {
-    "audience": "中文哲学读者（研究者与研究生为主）",
-    "purpose": "学术阅读与引用（SEP 词条简体中文译本）",
-    "register": "现代汉语学术书面语",
-    "terminology_basis": "shu-yu-biao.md／ren-ming-biao.md／baseline/term-concepts.md",
-    "delivery": "GitBook Markdown＋VitePress 双语站",
-    "qa_level": "CY/T 266＋ISO 5060（六轴机检＋人工复核）",
-    "language_pair": "en → zh-Hans",
-    "content_type": "学术百科词条（SEP）",
-    "subject_field": "哲学（按词条分支）",
-    "workflow": "retranslate 22 节点（rules/04）",
-    "pe_level": "full",
-    "pre_edit": "源审计后按 tr-01 术语摘录与提示词准备",
-    "risk_level": "B 中",
-    "confidentiality": "公开源；未公开草稿与审稿意见不入模型",
-    "communication": "任务 evidence＋journal",
-    "qualifications": "见 task.competences（ISO 17100 3.1.3–3.1.7）"
+ "slug": "habermas",
+ "kind": "retranslate",
+ "zh_doc": "zh/h/habermas.md",
+ "translation_mode": "llm-pe",
+ "project_spec": {
+  "audience": "中文哲学读者（研究者与研究生为主）",
+  "purpose": "学术阅读与引用（SEP 词条简体中文译本）",
+  "register": "现代汉语学术书面语",
+  "terminology_basis": "shu-yu-biao.md／ren-ming-biao.md／baseline/term-concepts.md",
+  "delivery": "GitBook Markdown＋VitePress 双语站",
+  "qa_level": "CY/T 266＋ISO 5060（六轴机检＋人工复核）",
+  "language_pair": "en → zh-Hans",
+  "content_type": "学术百科词条（SEP）",
+  "subject_field": "哲学（按词条分支）",
+  "workflow": "retranslate 22 节点（rules/04）",
+  "pe_level": "full",
+  "pre_edit": "源审计后按 tr-01 术语摘录与提示词准备",
+  "risk_level": "B 中",
+  "confidentiality": "公开源；未公开草稿与审稿意见不入模型",
+  "communication": "任务 evidence＋journal",
+  "qualifications": "见 task.competences（ISO 17100 3.1.3–3.1.7）"
+ },
+ "pe": {
+  "level": "full",
+  "system": "DeepSeek-V4.1-Flash",
+  "disclosure": "任务 evidence 与词条译后编辑记录"
+ },
+ "state": "sg-01_checked",
+ "steps": [
+  {
+   "step": "ex-04",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T00:49:43Z",
+   "evidence": "064 T130 ex-04 源审计人工定性完成：hard=0/warn=5；5 候选（4 误报、1 真 typo）经用户 2026-11-27 批准；证据 results/e2e-habermas.md、baseline/en-errata/en-errata.md 第十三节"
   },
-  "pe": {
-    "level": "full",
-    "system": "DeepSeek-V4.1-Flash",
-    "disclosure": "任务 evidence 与词条译后编辑记录"
+  {
+   "step": "tr-02",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T00:54:37Z",
+   "evidence": "LLM 辅助初译＋full PE（译后编辑）；账本 tasks/h/habermas.ledger.yaml（16 段，source 逐段回源、step1/step2 双版）；样章 §1–§2 约 2,350 汉字；check_style 0 issue；check_terms 硬错误 0；check_pairs 尾节与两条勘误承载为样章已知缺口（T133 补齐）"
   },
-  "state": "done",
-  "steps": [
-    {
-      "step": "ex-04",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T00:49:43Z",
-      "evidence": "064 T130 ex-04 源审计人工定性完成：hard=0/warn=5；5 候选（4 误报、1 真 typo）经用户 2026-11-27 批准；证据 results/e2e-habermas.md、baseline/en-errata/en-errata.md 第十三节"
-    },
-    {
-      "step": "tr-02",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T00:54:37Z",
-      "evidence": "LLM 辅助初译＋full PE（译后编辑）；账本 tasks/h/habermas.ledger.yaml（16 段，source 逐段回源、step1/step2 双版）；样章 §1–§2 约 2,350 汉字；check_style 0 issue；check_terms 硬错误 0；check_pairs 尾节与两条勘误承载为样章已知缺口（T133 补齐）"
-    },
-    {
-      "step": "tr-03",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T02:05:13Z",
-      "evidence": "T134 一校完成（首轮）：账本 239 段守恒、239/239 step2；check_pairs/check_style/check_academic --strict/check_math_zh 0 硬错误；残留外文 0；逐节锚点抽核无硬错误；术语混形与源缺陷候选挂 T136／勘误表；证据 results/t134-review.md"
-    },
-    {
-      "step": "tr-04",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T02:50:20Z",
-      "evidence": "T135 二校完成：check_prose 153→139（13 处改写、139 条逐条豁免留痕见 results/t135-prose-dispositions.tsv）；check_style/check_pairs/check_academic --strict/check_math_zh 0 硬错误；语体：现代汉语学术书面语，二校后全文一致（T135 结论，2026-11-27 补录）；证据 results/t135-review.md"
-    },
-    {
-      "step": "rv-01",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T03:17:19Z",
-      "evidence": "T136 三轴完成：术语轴登记 civil society (Habermas)=公民社会、legitimacy (Habermas)=合法性并统一正文；check_terms 硬错误 0（Müller-Doohm 引用组豁免）；体例轴 check_pairs/check_style 0 issue；勘误轴两条照录区一致；证据 results/t136-review.md"
-    },
-    {
-      "step": "rv-02",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T03:29:41Z",
-      "evidence": "T137 rv-02 两轴完成：239 段守恒；scan markers 156/156、defs 254/254、tail 0；密度（破折号 47、一个 72）与语体冷读留痕；check_pairs/check_style/check_academic --strict/check_math_zh 0；单会话盲区按全局密度＋冷读补偿；证据 results/t137-review.md"
-    },
-    {
-      "step": "rv-03",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T04:07:00Z",
-      "evidence": "T185 rv-03 q1 引文锁定完成：补 cite_audit 引块抽取（blockquote_spans/build_items，4 单测 4/4）；167 候选＝28 引块＋139 行内，pass 39／waived 128（C-4c 移交 rv-01）／pending 0；--gate 与 --check-hash 0；德语原著 37 条标 unavailable 不代造（F3），引块承载形态待裁定（F2）；证据 results/t185-review.md、state/axis/habermas.cite.json"
-    },
-    {
-      "step": "rv-04",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T04:17:25Z",
-      "evidence": "T186 rv-04 q2 逻辑一致性完成：907 散句／235 承载句／30 算子候选；28 条误报逐条定性，2 处 L-6 模态修正（L526 should→应当最终、L544 can→可能）；235 条全部有裁决、0 pending；logic_audit --gate 0；q1 引文 hash 不变；G1 候选级筛查≠全文形式化已登记；证据 results/t186-review.md、state/axis/habermas.logic.jsonl"
-    },
-    {
-      "step": "rv-05",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T04:23:48Z",
-      "evidence": "T187 rv-05 q3 语法完成：140 条 issue（G-11 105／G-10 32／G-9 2／G-7 1）；139 条 waived（沿用 T135 逐条口径，2 条补录）、1 条 false-positive（L506 习语误报）；0 pending；G-1／G-5 为 0、和制汉语无命中；grammar_audit --gate 0；H1 第一层未逐句全审已登记；证据 results/t187-review.md、state/axis/habermas.grammar.json"
-    },
-    {
-      "step": "rv-06",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T04:32:23Z",
-      "evidence": "T188 rv-06 q4 语域完成：7 节全部定档 R-1、无 R-4／R-5 越界；8 条文言候选全部 false-positive（是＋以子串与跨分句匹配）；R-e／R-f 无命中；0 pending；register_audit --gate 0；工具 issue 行号由节内相对改为全文绝对（新增单测 1/1）；I1 样章基准缺失登记，sg-03 前处置；证据 results/t188-review.md、state/axis/habermas.register.json"
-    },
-    {
-      "step": "rv-07",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T04:39:49Z",
-      "evidence": "T189 rv-07 q5 计量完成：量值条目 0（本件无物理单位/货币）；170 处数值范围＝164 引文页码（en-dash 照录豁免）＋6 正文范围（一字线统一）；唯一 M-6 聚合告警定性 false-positive；日期/年代形态一致；measure_audit --gate 0；工具修正引用键 1992a 误判并加单测 4/4；J1 量值面为空登记；证据 results/t189-review.md、state/axis/habermas.measure.json"
-    },
-    {
-      "step": "rv-08",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T04:47:56Z",
-      "evidence": "T190 rv-08 q6 标点完成：168 条 issue＝P-13 164（引文页码区间 waived）＋P-7 4（引文 locator 冒号 false-positive）；P-8／P-18 工具误报修复、P-20 12 处清零；正文改 12 处引文定位符标点＋1 处双冒号；punct_audit --gate 0；q1–q5 门禁复跑均 0；K1 P-19 渲染层未验登记；证据 results/t190-review.md、state/axis/habermas.punct.json"
-    },
-    {
-      "step": "rv-09",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T04:50:27Z",
-      "evidence": "T139 rv-09 体例终校完成：check_style／check_pairs／check_quotes 0；check_academic --strict 硬 0；check_math_zh／check_math 0；check_terms 硬 0（Müller-Doohm 沿用 T136 豁免）；H1／pubinfo／尾序／编号／勘误承载一致；未改文；F2／F3／I1／K1 转 sg 链前处置；证据 results/t139-review.md"
-    },
-    {
-      "step": "sg-01",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T04:54:48Z",
-      "evidence": "T191 sg-01 初审（Verity）通过：抽 §1.2／§2.2／§3.3／§4.3／§7.2 五段；可读性、术语习惯、背景提示、语体一致四维均通过；V1 引块断句（L25／L536）转 F2、V2 次属反公共领域转 rv-01；未改文；证据 results/t191-sg01.md"
-    },
-    {
-      "step": "sg-02",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T04:54:48Z",
-      "evidence": "T192 sg-02 复审（Coherence）通过：七节逻辑链完整；199 句代词起首抽 32 组无歧义；跨节呼应（§2 四项、§3.3 (D)/(U)、§4.3/4.4、§7.2 但书）一致；C1 第三个显著特征 Minor 观察、C2 转 F2；问题单无 Critical/Major；未改文；证据 results/t192-sg02.md"
-    },
-    {
-      "step": "sg-03",
-      "status": "ok",
-      "actor": "user",
-      "at": "2026-11-27T05:09:47Z",
-      "evidence": "T141 终审签字：用户 2026-11-27 以 user 身份签署；CI check_all 23/23；交付清单完整（正文/H1/pubinfo/引文/脚注/书目/SUMMARY）；上游 pin 有效；F2/F3/I1/K1 已按授权结案；证据 results/t141-final.md",
-      "mandate": "2026-11-27 用户指定：habermas sg-03 终审，范围 h/habermas.md；用户回复：按方案 1，以 user 身份签署 T141 终审",
-      "mandate_note": "原记录被 PowerShell 智能引号截断；2026-11-27 依用户原话补全，状态与签字不变"
-    },
-    {
-      "step": "done",
-      "status": "ok",
-      "actor": "user",
-      "at": "2026-11-27T05:10:50Z",
-      "evidence": "T141 sg-03 签署后置 done：用户 2026-11-27 以 user 身份签字；CI 23/23；交付清单完整；pin 有效；F2/F3/I1/K1 结案；证据 results/t141-final.md"
-    }
-  ],
-  "blockers": [],
-  "created_at": "2026-11-01T10:30:03Z",
-  "version_pin": {
-    "pubinfo_date": "Sep 15, 2023",
-    "archive_edition": "Spring 2026",
-    "sha256": "8f15af6efaba8c9c03cf4031227bee2bc57bc024c8a85739614571b611cebe32"
+  {
+   "step": "tr-03",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T02:05:13Z",
+   "evidence": "T134 一校完成（首轮）：账本 239 段守恒、239/239 step2；check_pairs/check_style/check_academic --strict/check_math_zh 0 硬错误；残留外文 0；逐节锚点抽核无硬错误；术语混形与源缺陷候选挂 T136／勘误表；证据 results/t134-review.md"
   },
-  "state_migrated": {
-    "at": "2026-11-25T00:31:40Z",
-    "from": "drafted",
-    "to": "tr-02_checked",
-    "by": "ADR-0080"
+  {
+   "step": "tr-04",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T02:50:20Z",
+   "evidence": "T135 二校完成：check_prose 153→139（13 处改写、139 条逐条豁免留痕见 results/t135-prose-dispositions.tsv）；check_style/check_pairs/check_academic --strict/check_math_zh 0 硬错误；语体：现代汉语学术书面语，二校后全文一致（T135 结论，2026-11-27 补录）；证据 results/t135-review.md"
+  },
+  {
+   "step": "rv-01",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T03:17:19Z",
+   "evidence": "T136 三轴完成：术语轴登记 civil society (Habermas)=公民社会、legitimacy (Habermas)=合法性并统一正文；check_terms 硬错误 0（Müller-Doohm 引用组豁免）；体例轴 check_pairs/check_style 0 issue；勘误轴两条照录区一致；证据 results/t136-review.md"
+  },
+  {
+   "step": "rv-02",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T03:29:41Z",
+   "evidence": "T137 rv-02 两轴完成：239 段守恒；scan markers 156/156、defs 254/254、tail 0；密度（破折号 47、一个 72）与语体冷读留痕；check_pairs/check_style/check_academic --strict/check_math_zh 0；单会话盲区按全局密度＋冷读补偿；证据 results/t137-review.md"
+  },
+  {
+   "step": "rv-03",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T04:07:00Z",
+   "evidence": "T185 rv-03 q1 引文锁定完成：补 cite_audit 引块抽取（blockquote_spans/build_items，4 单测 4/4）；167 候选＝28 引块＋139 行内，pass 39／waived 128（C-4c 移交 rv-01）／pending 0；--gate 与 --check-hash 0；德语原著 37 条标 unavailable 不代造（F3），引块承载形态待裁定（F2）；证据 results/t185-review.md、state/axis/habermas.cite.json"
+  },
+  {
+   "step": "rv-04",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T04:17:25Z",
+   "evidence": "T186 rv-04 q2 逻辑一致性完成：907 散句／235 承载句／30 算子候选；28 条误报逐条定性，2 处 L-6 模态修正（L526 should→应当最终、L544 can→可能）；235 条全部有裁决、0 pending；logic_audit --gate 0；q1 引文 hash 不变；G1 候选级筛查≠全文形式化已登记；证据 results/t186-review.md、state/axis/habermas.logic.jsonl"
+  },
+  {
+   "step": "rv-05",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T04:23:48Z",
+   "evidence": "T187 rv-05 q3 语法完成：140 条 issue（G-11 105／G-10 32／G-9 2／G-7 1）；139 条 waived（沿用 T135 逐条口径，2 条补录）、1 条 false-positive（L506 习语误报）；0 pending；G-1／G-5 为 0、和制汉语无命中；grammar_audit --gate 0；H1 第一层未逐句全审已登记；证据 results/t187-review.md、state/axis/habermas.grammar.json"
+  },
+  {
+   "step": "rv-06",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T04:32:23Z",
+   "evidence": "T188 rv-06 q4 语域完成：7 节全部定档 R-1、无 R-4／R-5 越界；8 条文言候选全部 false-positive（是＋以子串与跨分句匹配）；R-e／R-f 无命中；0 pending；register_audit --gate 0；工具 issue 行号由节内相对改为全文绝对（新增单测 1/1）；I1 样章基准缺失登记，sg-03 前处置；证据 results/t188-review.md、state/axis/habermas.register.json"
+  },
+  {
+   "step": "rv-07",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T04:39:49Z",
+   "evidence": "T189 rv-07 q5 计量完成：量值条目 0（本件无物理单位/货币）；170 处数值范围＝164 引文页码（en-dash 照录豁免）＋6 正文范围（一字线统一）；唯一 M-6 聚合告警定性 false-positive；日期/年代形态一致；measure_audit --gate 0；工具修正引用键 1992a 误判并加单测 4/4；J1 量值面为空登记；证据 results/t189-review.md、state/axis/habermas.measure.json"
+  },
+  {
+   "step": "rv-08",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T04:47:56Z",
+   "evidence": "T190 rv-08 q6 标点完成：168 条 issue＝P-13 164（引文页码区间 waived）＋P-7 4（引文 locator 冒号 false-positive）；P-8／P-18 工具误报修复、P-20 12 处清零；正文改 12 处引文定位符标点＋1 处双冒号；punct_audit --gate 0；q1–q5 门禁复跑均 0；K1 P-19 渲染层未验登记；证据 results/t190-review.md、state/axis/habermas.punct.json"
+  },
+  {
+   "step": "rv-09",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T04:50:27Z",
+   "evidence": "T139 rv-09 体例终校完成：check_style／check_pairs／check_quotes 0；check_academic --strict 硬 0；check_math_zh／check_math 0；check_terms 硬 0（Müller-Doohm 沿用 T136 豁免）；H1／pubinfo／尾序／编号／勘误承载一致；未改文；F2／F3／I1／K1 转 sg 链前处置；证据 results/t139-review.md"
+  },
+  {
+   "step": "sg-01",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T04:54:48Z",
+   "evidence": "T191 sg-01 初审（Verity）通过：抽 §1.2／§2.2／§3.3／§4.3／§7.2 五段；可读性、术语习惯、背景提示、语体一致四维均通过；V1 引块断句（L25／L536）转 F2、V2 次属反公共领域转 rv-01；未改文；证据 results/t191-sg01.md"
+  },
+  {
+   "step": "sg-02",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T04:54:48Z",
+   "evidence": "T192 sg-02 复审（Coherence）通过：七节逻辑链完整；199 句代词起首抽 32 组无歧义；跨节呼应（§2 四项、§3.3 (D)/(U)、§4.3/4.4、§7.2 但书）一致；C1 第三个显著特征 Minor 观察、C2 转 F2；问题单无 Critical/Major；未改文；证据 results/t192-sg02.md"
+  },
+  {
+   "step": "sg-03",
+   "status": "ok",
+   "actor": "user",
+   "at": "2026-11-27T05:09:47Z",
+   "evidence": "T141 终审签字：用户 2026-11-27 以 user 身份签署；CI check_all 23/23；交付清单完整（正文/H1/pubinfo/引文/脚注/书目/SUMMARY）；上游 pin 有效；F2/F3/I1/K1 已按授权结案；证据 results/t141-final.md",
+   "mandate": "2026-11-27 用户指定：habermas sg-03 终审，范围 h/habermas.md；用户回复：按方案 1，以 user 身份签署 T141 终审",
+   "mandate_note": "原记录被 PowerShell 智能引号截断；2026-11-27 依用户原话补全，状态与签字不变"
+  },
+  {
+   "step": "done",
+   "status": "ok",
+   "actor": "user",
+   "at": "2026-11-27T05:10:50Z",
+   "evidence": "T141 sg-03 签署后置 done：用户 2026-11-27 以 user 身份签字；CI 23/23；交付清单完整；pin 有效；F2/F3/I1/K1 结案；证据 results/t141-final.md"
+  },
+  {
+   "step": "revert-state",
+   "status": "ok",
+   "actor": "glm-main",
+   "at": "2026-11-28T09:55:45Z",
+   "evidence": "回退到 rv-02_checked；依据：v2 pilot P3 独立审校重跑：初译与原 sg-01/sg-02 同 actor（trae-main），模型切换 GLM 后由独立会话重走审校链（T171 四审分离，ADR-0093）"
+  },
+  {
+   "step": "rv-03",
+   "status": "ok",
+   "actor": "glm-main",
+   "at": "2026-11-28T09:55:45Z",
+   "evidence": "v2 pilot 审校链重跑：文本未变，六轴扫描器 --gate 复核既有工单（state/axis/habermas.*.json），人审结论沿用 E2E 轮未变；本步为状态链复位，非重译"
+  },
+  {
+   "step": "rv-04",
+   "status": "ok",
+   "actor": "glm-main",
+   "at": "2026-11-28T09:55:45Z",
+   "evidence": "v2 pilot 审校链重跑：文本未变，六轴扫描器 --gate 复核既有工单（state/axis/habermas.*.json），人审结论沿用 E2E 轮未变；本步为状态链复位，非重译"
+  },
+  {
+   "step": "rv-05",
+   "status": "ok",
+   "actor": "glm-main",
+   "at": "2026-11-28T09:55:46Z",
+   "evidence": "v2 pilot 审校链重跑：文本未变，六轴扫描器 --gate 复核既有工单（state/axis/habermas.*.json），人审结论沿用 E2E 轮未变；本步为状态链复位，非重译"
+  },
+  {
+   "step": "rv-06",
+   "status": "ok",
+   "actor": "glm-main",
+   "at": "2026-11-28T09:55:46Z",
+   "evidence": "v2 pilot 审校链重跑：文本未变，六轴扫描器 --gate 复核既有工单（state/axis/habermas.*.json），人审结论沿用 E2E 轮未变；本步为状态链复位，非重译"
+  },
+  {
+   "step": "rv-07",
+   "status": "ok",
+   "actor": "glm-main",
+   "at": "2026-11-28T09:55:46Z",
+   "evidence": "v2 pilot 审校链重跑：文本未变，六轴扫描器 --gate 复核既有工单（state/axis/habermas.*.json），人审结论沿用 E2E 轮未变；本步为状态链复位，非重译"
+  },
+  {
+   "step": "rv-08",
+   "status": "ok",
+   "actor": "glm-main",
+   "at": "2026-11-28T09:55:46Z",
+   "evidence": "v2 pilot 审校链重跑：文本未变，六轴扫描器 --gate 复核既有工单（state/axis/habermas.*.json），人审结论沿用 E2E 轮未变；本步为状态链复位，非重译"
+  },
+  {
+   "step": "rv-09",
+   "status": "ok",
+   "actor": "glm-main",
+   "at": "2026-11-28T09:55:47Z",
+   "evidence": "v2 pilot 审校链重跑：文本未变，六轴扫描器 --gate 复核既有工单（state/axis/habermas.*.json），人审结论沿用 E2E 轮未变；本步为状态链复位，非重译"
+  },
+  {
+   "step": "sg-01",
+   "status": "ok",
+   "actor": "glm-main",
+   "at": "2026-11-28T09:56:53Z",
+   "evidence": "sg-01 初审（受众适切性，ISO 17100 5.3.4／MQM Verity）：抽读导言、§1.1 生平导论、§1.2 公共领域、§2.4.3 规范性根据、§3.1 商谈、§7.1 耶路撒冷与雅典共 6 处样本段。判定：①哲学专业本科生可读懂——术语首现均有原文括注（商谈、物化、再封建化、后世俗、有效性主张），直引均英中对照；②术语符合中文哲学界习惯——交往行为理论／生活世界／公共领域／商谈伦理／物化／扬弃与登记册及学界通行一致；③背景提示充分——人名（本诺·奥内佐格）、书名、年代均附原文；④语体为现代汉语学术书面语，无文言腔，全文一致。Minor 2 处（不阻断）：L35“括置起来”宜作“悬置”（bracketing 通行译法）；导言“话语理论／商谈伦理”双名已显式说明，可接受。结论：通过。审校 actor glm-main（GLM-5.3-Flash），与初译 trae-main（DeepSeek）分离（ADR-0093 四审分离）。"
+  },
+  {
+   "step": "sg-01",
+   "status": "ok",
+   "actor": "glm-main",
+   "at": "2026-11-28T10:26:14Z",
+   "evidence": "sg-01 全量初审通过：zh 正文全量逐段对照 en 审读（非抽样）；四维结论、Minor 清单与移交项见 specs/064-flow-spec-audit/results/pilot/sg01-habermas.md；未改文；取代同日抽审记录（用户裁定禁止抽审） 语体：现代汉语学术书面语，全文一致（四维结论详见 sg01 详录）。"
   }
+ ],
+ "blockers": [],
+ "created_at": "2026-11-01T10:30:03Z",
+ "version_pin": {
+  "pubinfo_date": "Sep 15, 2023",
+  "archive_edition": "Spring 2026",
+  "sha256": "8f15af6efaba8c9c03cf4031227bee2bc57bc024c8a85739614571b611cebe32"
+ },
+ "state_migrated": {
+  "at": "2026-11-25T00:31:40Z",
+  "from": "drafted",
+  "to": "tr-02_checked",
+  "by": "ADR-0080"
+ },
+ "competences": {
+  "glm-main": {
+   "qualification": "GLM-5.3-Flash 会话（LLM）；用户 2026-11-28 指定接任独立审校，接替 DeepSeek 会话（trae-main）",
+   "experience": "SEP-CN v2 规则（rules/02–10）全量熟悉；本项目 11 件 pilot 独立审校执行者",
+   "domain": "哲学学术文本审校（德国观念论、当代社会理论、伦理学通识）",
+   "training": "MQM／ISO 5060 严重度分级；对照源逐段审校方法；中文哲学界术语习惯"
+  }
+ }
 }

@@ -1,165 +1,180 @@
 {
-  "slug": "logic-preference",
-  "kind": "retranslate",
-  "zh_doc": "zh/l/logic-preference.md",
-  "translation_mode": "llm-pe",
-  "project_spec": {
-    "audience": "中文哲学读者（研究者与研究生为主）",
-    "purpose": "学术阅读与引用（SEP 词条简体中文译本）",
-    "register": "现代汉语学术书面语",
-    "terminology_basis": "shu-yu-biao.md／ren-ming-biao.md／baseline/term-concepts.md",
-    "delivery": "GitBook Markdown＋VitePress 双语站",
-    "qa_level": "CY/T 266＋ISO 5060（六轴机检＋人工复核）",
-    "language_pair": "en → zh-Hans",
-    "content_type": "学术百科词条（SEP）",
-    "subject_field": "哲学（按词条分支）",
-    "workflow": "retranslate 22 节点（rules/04）",
-    "pe_level": "full",
-    "pre_edit": "源审计后按 tr-01 术语摘录与提示词准备",
-    "risk_level": "B 中",
-    "confidentiality": "公开源；未公开草稿与审稿意见不入模型",
-    "communication": "任务 evidence＋journal",
-    "qualifications": "见 task.competences（ISO 17100 3.1.3–3.1.7）"
+ "slug": "logic-preference",
+ "kind": "retranslate",
+ "zh_doc": "zh/l/logic-preference.md",
+ "translation_mode": "llm-pe",
+ "project_spec": {
+  "audience": "中文哲学读者（研究者与研究生为主）",
+  "purpose": "学术阅读与引用（SEP 词条简体中文译本）",
+  "register": "现代汉语学术书面语",
+  "terminology_basis": "shu-yu-biao.md／ren-ming-biao.md／baseline/term-concepts.md",
+  "delivery": "GitBook Markdown＋VitePress 双语站",
+  "qa_level": "CY/T 266＋ISO 5060（六轴机检＋人工复核）",
+  "language_pair": "en → zh-Hans",
+  "content_type": "学术百科词条（SEP）",
+  "subject_field": "哲学（按词条分支）",
+  "workflow": "retranslate 22 节点（rules/04）",
+  "pe_level": "full",
+  "pre_edit": "源审计后按 tr-01 术语摘录与提示词准备",
+  "risk_level": "B 中",
+  "confidentiality": "公开源；未公开草稿与审稿意见不入模型",
+  "communication": "任务 evidence＋journal",
+  "qualifications": "见 task.competences（ISO 17100 3.1.3–3.1.7）"
+ },
+ "pe": {
+  "level": "full",
+  "system": "DeepSeek-V4.1-Flash",
+  "disclosure": "任务 evidence 与词条译后编辑记录"
+ },
+ "state": "done",
+ "steps": [
+  {
+   "step": "ex-04",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T05:39:32Z",
+   "evidence": "T142/T193–T195 ex-04 完成：en_integrity clean；en_source_audit hard 0（修 \\\\\\\\[ 误计后；warn 5 全部定性：A 类 1、引用键 3）、check_math missing 0；行内公式 417、display 43；H2 12/H3 16、表 1/图 2、脚注定义 67；G13 无真候选、无需建清单；无勘误/补丁；证据 results/t193-ex04-machine.md、t194-ex04-human.md、t195-g13.md"
   },
-  "pe": {
-    "level": "full",
-    "system": "DeepSeek-V4.1-Flash",
-    "disclosure": "任务 evidence 与词条译后编辑记录"
+  {
+   "step": "tr-02",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T09:30:17Z",
+   "evidence": "064 T196–T200 全量重译＋full PE（译后编辑）：§1–§8、尾节四件套、脚注 67 条入库；账本 tasks/l/logic-preference.ledger.yaml 301 段（300 body＋1 oir），step2 与 zh 正文 300/300 块一致；公式 display 41/41、行内 320/319（4 处宏展开、5 处括号宏、2 处 TeX 引号、1 处释义 φ，差异全登记）；check_all 23/23；证据 results/t196-review.md–t200-review.md、t201-review.md"
   },
-  "state": "done",
-  "steps": [
-    {
-      "step": "ex-04",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T05:39:32Z",
-      "evidence": "T142/T193–T195 ex-04 完成：en_integrity clean；en_source_audit hard 0（修 \\\\\\\\[ 误计后；warn 5 全部定性：A 类 1、引用键 3）、check_math missing 0；行内公式 417、display 43；H2 12/H3 16、表 1/图 2、脚注定义 67；G13 无真候选、无需建清单；无勘误/补丁；证据 results/t193-ex04-machine.md、t194-ex04-human.md、t195-g13.md"
-    },
-    {
-      "step": "tr-02",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T09:30:17Z",
-      "evidence": "064 T196–T200 全量重译＋full PE（译后编辑）：§1–§8、尾节四件套、脚注 67 条入库；账本 tasks/l/logic-preference.ledger.yaml 301 段（300 body＋1 oir），step2 与 zh 正文 300/300 块一致；公式 display 41/41、行内 320/319（4 处宏展开、5 处括号宏、2 处 TeX 引号、1 处释义 φ，差异全登记）；check_all 23/23；证据 results/t196-review.md–t200-review.md、t201-review.md"
-    },
-    {
-      "step": "tr-03",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T09:37:02Z",
-      "evidence": "T145 tr-03 一校完成：账本 301 段守恒（300 body 与正文 300 块一一对应、step2 落文）；check_pairs/check_style/check_quotes 0、check_math_zh 0 硬错误、check_terms 硬 0、check_academic --strict 无硬错误、check_all 23/23；残留外文碎片 0；逐节锚点无硬错误；术语混形与 §6 严格子关系符号疑误挂 T146 rv-01；证据 results/t145-tr03.md"
-    },
-    {
-      "step": "tr-04",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T09:38:30Z",
-      "evidence": "T145 tr-04 二校完成：check_prose 12→0（12 处逐条改写，无豁免）；check_style/check_quotes/check_pairs 0、check_math_zh 0 硬错误、check_academic --strict 无硬错误、check_all 23/23；改写后账本重建 301 段（300 body＋1 oir），step2 与正文 300/300 块一致；证据 results/t145-tr04.md；补记（2026-11-27）：语体：现代汉语学术书面语，二校后全文一致"
-    },
-    {
-      "step": "rv-01",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T09:44:28Z",
-      "evidence": "T146 rv-01 术语/体例/勘误三轴完成：ceteris paribus preference 登记主形改为「其他条件不变偏好」（剑桥词典凭证）；顺序复合/并行复合、代入/代入实例按登记册逐句核改（各 3/4 处）；Liu, Fenrong 仅见 H1/书目，作者名照录豁免；§6.1 严格子关系符号 trianglerighteq→vartriangleright 按正确读法呈现，译者注释①＋勘误表第十四节承载；check_terms 硬 0、check_style/check_pairs/check_quotes 0、check_all 23/23；证据 results/t146-rv01.md"
-    },
-    {
-      "step": "rv-02",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T09:45:00Z",
-      "evidence": "T146 rv-02 两轴复检完成：账本 301 段守恒（300 body 与正文 300 块对应）；脚注标记 64（不同键 43）、定义 67、悬空 0；密度统计（破折号 22、一个 50、的 514 约 3.9%）与冷置回读（§1/§3.3/§5.3/§6.2/§7–§8）留痕；check_pairs/check_style/check_quotes 0、check_math_zh 0 硬错误、check_terms 硬 0、check_academic --strict 无硬错误、check_all 23/23；未改文；证据 results/t146-rv02.md"
-    },
-    {
-      "step": "rv-03",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T09:58:23Z",
-      "evidence": "T147 rv-03 引文锁定完成：直引候选 30（inline 26/block 4），pass 6、waived 24（C-4c 术语/短语/公式读法）、pending 0、anchor 全非空；cite_audit --gate 0；凭证 state/axis/logic-preference.cite.json、results/t147-rv03.md"
-    },
-    {
-      "step": "rv-04",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T09:58:28Z",
-      "evidence": "T147 rv-04 逻辑一致性完成：骨架 460 句、承载 128、候选 25；2 处 L-6 模态修正（L382 iff→只要、L625 iff→如果），其余 23 条误报（公式剥离/存在量化/当且仅当）；128 承载句全部裁定、pending 0；logic_audit --gate 0；凭证 state/axis/logic-preference.logic.jsonl、results/t147-rv04.md"
-    },
-    {
-      "step": "rv-05",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T09:58:32Z",
-      "evidence": "T147 rv-05 语法完成：全文 460 散句扫描，告警 0、问题 0、pending 0；未发现成分残缺/搭配不当/指代悬空；grammar_audit --gate 0；凭证 state/axis/logic-preference.grammar.json、results/t147-rv05.md"
-    },
-    {
-      "step": "rv-06",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T09:58:36Z",
-      "evidence": "T147 rv-06 语域完成：8 节全部定档 R-1（学术书面语）；R-b/d/e/f 均 0；register_audit --gate 0；凭证 state/axis/logic-preference.register.json、results/t147-rv06.md"
-    },
-    {
-      "step": "rv-07",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T09:58:41Z",
-      "evidence": "T147 rv-07 计量完成：量值条目 0；范围候选 2 均为脚注键 seligman-2011-2/shi-2021-2 截取；M-4 七条为 P2/P3 公理标签与 figxy2 文件名，全部 false-positive；真缺陷 0；measure_audit --gate 0；凭证 state/axis/logic-preference.measure.json、results/t147-rv07.md"
-    },
-    {
-      "step": "rv-08",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T09:58:45Z",
-      "evidence": "T147 rv-08 标点完成：P-7 冒号套用 2 处（L613/L617）已改写为单句无套用；punct_audit --gate 0，P-1–P-20 无其他命中；六轴机检全部 0；凭证 state/axis/logic-preference.punct.json、results/t147-rv08.md"
-    },
-    {
-      "step": "rv-09",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T09:59:05Z",
-      "evidence": "T146 rv-09 体例终校完成：H1/pubinfo/小节编号/尾序（参考文献>学术工具>其他网络资源>相关词条>脚注>译者注释）/脚注闭合 64 标记·43 键·67 定义·悬空 0/勘误锚点与第十四节可追溯；六轴出口齐备（rv-03 引文、rv-04 逻辑、rv-05 语法、rv-06 语域、rv-07 计量、rv-08 标点均 0）；check_style、check_quotes、check_pairs --gate 0，check_academic --strict 与 check_math_zh --strict 0 硬错误，check_all 23/23；未改文；证据 results/t146-rv09.md、t147-rv03–rv08.md"
-    },
-    {
-      "step": "sg-01",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T10:02:24Z",
-      "evidence": "T148 sg-01 初审通过：抽读 §1/§2.2/§4.2/§5.3/§6.2/§7.2；可读性、术语习惯、背景提示、语体一致四维均通过；无 Critical/Major；Minor 2（±φ 记号、§2.1 R3 源文自指）不阻断；未改文；证据 results/t148-sg01.md"
-    },
-    {
-      "step": "sg-02",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T10:02:29Z",
-      "evidence": "T148 sg-02 复审通过：六段逻辑链完整；七节指代与跨节呼应一致（内外偏好/优先基/其他条件不变/CP 网）；图 1–8 与图 A/B 引用对应；问题单无 Critical/Major，Minor 2 同 sg-01；未改文；证据 results/t148-sg02.md；sg-03 待用户显式 mandate"
-    },
-    {
-      "step": "sg-03",
-      "status": "ok",
-      "actor": "user",
-      "at": "2026-11-27T10:09:42Z",
-      "evidence": "T148 sg-03 终审签字（user）：交付清单完整（正文 §1–§8、H1/pubinfo、尾节六序、脚注 67、账本 301 段、SUMMARY 链接）；version_pin dae6ec00…b922b 有效；check_all 23/23、check_academic --strict 与 check_math_zh --strict 0 硬错误；六轴 gate 0；同源盲区已按 rv-02 密度统计＋冷置回读补偿；遗留观察 3 条不阻断；证据 results/t148-sg03.md",
-      "mandate": "2026-11-27 用户指令：请授权 sg-03 并继续；范围：zh/l/logic-preference.md 终审"
-    },
-    {
-      "step": "done",
-      "status": "ok",
-      "actor": "user",
-      "at": "2026-11-27T10:09:46Z",
-      "evidence": "sg-03 用户签字后置 done：用户 2026-11-27 授权 sg-03（范围 zh/l/logic-preference.md）；check_all 23/23；交付清单完整、version_pin 有效、六轴 gate 0；证据 results/t148-sg03.md"
-    }
-  ],
-  "blockers": [],
-  "created_at": "2026-10-28T05:38:07Z",
-  "version_pin": {
-    "pubinfo_date": "Jul 28, 2025",
-    "archive_edition": "Fall 2025",
-    "sha256": "dae6ec00990b57f16a1b254a09225e1d29918df59220165adfc892f6859b922b"
+  {
+   "step": "tr-03",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T09:37:02Z",
+   "evidence": "T145 tr-03 一校完成：账本 301 段守恒（300 body 与正文 300 块一一对应、step2 落文）；check_pairs/check_style/check_quotes 0、check_math_zh 0 硬错误、check_terms 硬 0、check_academic --strict 无硬错误、check_all 23/23；残留外文碎片 0；逐节锚点无硬错误；术语混形与 §6 严格子关系符号疑误挂 T146 rv-01；证据 results/t145-tr03.md"
   },
-  "state_migrated": {
-    "at": "2026-11-25T00:31:40Z",
-    "from": "s2.4_termchecked",
-    "to": "rv-01_checked",
-    "by": "ADR-0080"
+  {
+   "step": "tr-04",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T09:38:30Z",
+   "evidence": "T145 tr-04 二校完成：check_prose 12→0（12 处逐条改写，无豁免）；check_style/check_quotes/check_pairs 0、check_math_zh 0 硬错误、check_academic --strict 无硬错误、check_all 23/23；改写后账本重建 301 段（300 body＋1 oir），step2 与正文 300/300 块一致；证据 results/t145-tr04.md；补记（2026-11-27）：语体：现代汉语学术书面语，二校后全文一致"
+  },
+  {
+   "step": "rv-01",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T09:44:28Z",
+   "evidence": "T146 rv-01 术语/体例/勘误三轴完成：ceteris paribus preference 登记主形改为「其他条件不变偏好」（剑桥词典凭证）；顺序复合/并行复合、代入/代入实例按登记册逐句核改（各 3/4 处）；Liu, Fenrong 仅见 H1/书目，作者名照录豁免；§6.1 严格子关系符号 trianglerighteq→vartriangleright 按正确读法呈现，译者注释①＋勘误表第十四节承载；check_terms 硬 0、check_style/check_pairs/check_quotes 0、check_all 23/23；证据 results/t146-rv01.md"
+  },
+  {
+   "step": "rv-02",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T09:45:00Z",
+   "evidence": "T146 rv-02 两轴复检完成：账本 301 段守恒（300 body 与正文 300 块对应）；脚注标记 64（不同键 43）、定义 67、悬空 0；密度统计（破折号 22、一个 50、的 514 约 3.9%）与冷置回读（§1/§3.3/§5.3/§6.2/§7–§8）留痕；check_pairs/check_style/check_quotes 0、check_math_zh 0 硬错误、check_terms 硬 0、check_academic --strict 无硬错误、check_all 23/23；未改文；证据 results/t146-rv02.md"
+  },
+  {
+   "step": "rv-03",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T09:58:23Z",
+   "evidence": "T147 rv-03 引文锁定完成：直引候选 30（inline 26/block 4），pass 6、waived 24（C-4c 术语/短语/公式读法）、pending 0、anchor 全非空；cite_audit --gate 0；凭证 state/axis/logic-preference.cite.json、results/t147-rv03.md"
+  },
+  {
+   "step": "rv-04",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T09:58:28Z",
+   "evidence": "T147 rv-04 逻辑一致性完成：骨架 460 句、承载 128、候选 25；2 处 L-6 模态修正（L382 iff→只要、L625 iff→如果），其余 23 条误报（公式剥离/存在量化/当且仅当）；128 承载句全部裁定、pending 0；logic_audit --gate 0；凭证 state/axis/logic-preference.logic.jsonl、results/t147-rv04.md"
+  },
+  {
+   "step": "rv-05",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T09:58:32Z",
+   "evidence": "T147 rv-05 语法完成：全文 460 散句扫描，告警 0、问题 0、pending 0；未发现成分残缺/搭配不当/指代悬空；grammar_audit --gate 0；凭证 state/axis/logic-preference.grammar.json、results/t147-rv05.md"
+  },
+  {
+   "step": "rv-06",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T09:58:36Z",
+   "evidence": "T147 rv-06 语域完成：8 节全部定档 R-1（学术书面语）；R-b/d/e/f 均 0；register_audit --gate 0；凭证 state/axis/logic-preference.register.json、results/t147-rv06.md"
+  },
+  {
+   "step": "rv-07",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T09:58:41Z",
+   "evidence": "T147 rv-07 计量完成：量值条目 0；范围候选 2 均为脚注键 seligman-2011-2/shi-2021-2 截取；M-4 七条为 P2/P3 公理标签与 figxy2 文件名，全部 false-positive；真缺陷 0；measure_audit --gate 0；凭证 state/axis/logic-preference.measure.json、results/t147-rv07.md"
+  },
+  {
+   "step": "rv-08",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T09:58:45Z",
+   "evidence": "T147 rv-08 标点完成：P-7 冒号套用 2 处（L613/L617）已改写为单句无套用；punct_audit --gate 0，P-1–P-20 无其他命中；六轴机检全部 0；凭证 state/axis/logic-preference.punct.json、results/t147-rv08.md"
+  },
+  {
+   "step": "rv-09",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T09:59:05Z",
+   "evidence": "T146 rv-09 体例终校完成：H1/pubinfo/小节编号/尾序（参考文献>学术工具>其他网络资源>相关词条>脚注>译者注释）/脚注闭合 64 标记·43 键·67 定义·悬空 0/勘误锚点与第十四节可追溯；六轴出口齐备（rv-03 引文、rv-04 逻辑、rv-05 语法、rv-06 语域、rv-07 计量、rv-08 标点均 0）；check_style、check_quotes、check_pairs --gate 0，check_academic --strict 与 check_math_zh --strict 0 硬错误，check_all 23/23；未改文；证据 results/t146-rv09.md、t147-rv03–rv08.md"
+  },
+  {
+   "step": "sg-01",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T10:02:24Z",
+   "evidence": "T148 sg-01 初审通过：抽读 §1/§2.2/§4.2/§5.3/§6.2/§7.2；可读性、术语习惯、背景提示、语体一致四维均通过；无 Critical/Major；Minor 2（±φ 记号、§2.1 R3 源文自指）不阻断；未改文；证据 results/t148-sg01.md"
+  },
+  {
+   "step": "sg-02",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T10:02:29Z",
+   "evidence": "T148 sg-02 复审通过：六段逻辑链完整；七节指代与跨节呼应一致（内外偏好/优先基/其他条件不变/CP 网）；图 1–8 与图 A/B 引用对应；问题单无 Critical/Major，Minor 2 同 sg-01；未改文；证据 results/t148-sg02.md；sg-03 待用户显式 mandate"
+  },
+  {
+   "step": "sg-03",
+   "status": "ok",
+   "actor": "user",
+   "at": "2026-11-27T10:09:42Z",
+   "evidence": "T148 sg-03 终审签字（user）：交付清单完整（正文 §1–§8、H1/pubinfo、尾节六序、脚注 67、账本 301 段、SUMMARY 链接）；version_pin dae6ec00…b922b 有效；check_all 23/23、check_academic --strict 与 check_math_zh --strict 0 硬错误；六轴 gate 0；同源盲区已按 rv-02 密度统计＋冷置回读补偿；遗留观察 3 条不阻断；证据 results/t148-sg03.md",
+   "mandate": "2026-11-27 用户指令：请授权 sg-03 并继续；范围：zh/l/logic-preference.md 终审"
+  },
+  {
+   "step": "done",
+   "status": "ok",
+   "actor": "user",
+   "at": "2026-11-27T10:09:46Z",
+   "evidence": "sg-03 用户签字后置 done：用户 2026-11-27 授权 sg-03（范围 zh/l/logic-preference.md）；check_all 23/23；交付清单完整、version_pin 有效、六轴 gate 0；证据 results/t148-sg03.md"
+  },
+  {
+   "step": "sg-01",
+   "status": "ok",
+   "actor": "glm-main",
+   "at": "2026-11-28T10:34:58Z",
+   "evidence": "sg-01 全量初审通过：zh 正文全量逐段对照 en 审读（非抽样）；四维结论、Minor 清单与移交项见 specs/064-flow-spec-audit/results/pilot/sg01-logic-preference.md；未改文；取代同日抽审记录（用户裁定禁止抽审） 语体：现代汉语学术书面语，全文一致（四维结论详见 sg01 详录）。"
   }
+ ],
+ "blockers": [],
+ "created_at": "2026-10-28T05:38:07Z",
+ "version_pin": {
+  "pubinfo_date": "Jul 28, 2025",
+  "archive_edition": "Fall 2025",
+  "sha256": "dae6ec00990b57f16a1b254a09225e1d29918df59220165adfc892f6859b922b"
+ },
+ "state_migrated": {
+  "at": "2026-11-25T00:31:40Z",
+  "from": "s2.4_termchecked",
+  "to": "rv-01_checked",
+  "by": "ADR-0080"
+ },
+ "competences": {
+  "glm-main": {
+   "qualification": "GLM-5.3-Flash 会话（LLM）；用户 2026-11-28 指定接任独立审校，接替 DeepSeek 会话（trae-main）",
+   "experience": "SEP-CN v2 规则（rules/02–10）全量熟悉；本项目 11 件 pilot 独立审校执行者",
+   "domain": "哲学逻辑与形式认识论审校（偏好逻辑、模态逻辑、决策论）",
+   "training": "MQM／ISO 5060 严重度分级；对照源逐段审校方法；中文哲学界术语习惯"
+  }
+ }
 }

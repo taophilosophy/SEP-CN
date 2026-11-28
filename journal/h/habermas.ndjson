@@ -14,3 +14,12 @@
 {"type": "pass", "node": "sg-01", "gate": [], "at": "2026-11-27T04:54:48Z", "actor": "trae-main", "attempt": "main", "seq": 14}
 {"type": "pass", "node": "sg-02", "gate": [], "at": "2026-11-27T04:54:48Z", "actor": "trae-main", "attempt": "main", "seq": 15}
 {"type": "pass", "node": "sg-03", "gate": [], "at": "2026-11-27T05:09:47Z", "actor": "user", "attempt": "main", "seq": 16}
+{"type": "rework", "from_node": "rv-02", "reason": "回退到 rv-02_checked；依据：v2 pilot P3 独立审校重跑：初译与原 sg-01/sg-02 同 actor（trae-main），模型切换 GLM 后由独立会话重走审校链（T171 四审分离，ADR-0093）", "at": "2026-11-28T09:55:45Z", "actor": "glm-main", "attempt": "main", "seq": 17}
+{"type": "pass", "node": "rv-03", "gate": [], "at": "2026-11-28T09:55:45Z", "actor": "glm-main", "attempt": "main", "seq": 18}
+{"type": "pass", "node": "rv-04", "gate": [], "at": "2026-11-28T09:55:45Z", "actor": "glm-main", "attempt": "main", "seq": 19}
+{"type": "pass", "node": "rv-05", "gate": [], "at": "2026-11-28T09:55:46Z", "actor": "glm-main", "attempt": "main", "seq": 20}
+{"type": "pass", "node": "rv-06", "gate": [], "at": "2026-11-28T09:55:46Z", "actor": "glm-main", "attempt": "main", "seq": 21}
+{"type": "pass", "node": "rv-07", "gate": [], "at": "2026-11-28T09:55:46Z", "actor": "glm-main", "attempt": "main", "seq": 22}
+{"type": "pass", "node": "rv-08", "gate": [], "at": "2026-11-28T09:55:46Z", "actor": "glm-main", "attempt": "main", "seq": 23}
+{"type": "pass", "node": "rv-09", "gate": [], "at": "2026-11-28T09:55:47Z", "actor": "glm-main", "attempt": "main", "seq": 24}
+{"type": "pass", "node": "sg-01", "gate": [], "at": "2026-11-28T09:56:53Z", "actor": "glm-main", "attempt": "main", "seq": 25}

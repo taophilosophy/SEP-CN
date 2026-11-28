@@ -1,714 +1,753 @@
 {
-  "version": 1,
-  "updated": "2026-11-27",
-  "adr": "ADR-0067",
-  "note": "根级条目与二级容器的唯一事实源。check_junk 由此生成白名单；check_layout 校验 rules/01 表与本文件同源。新增条目须先在此登记并走 ADR。",
-  "fields": [
-    "path",
-    "domain",
-    "role",
-    "naming",
-    "lifecycle",
-    "retention",
-    "writer",
-    "gate",
-    "index",
-    "tracked",
-    "desc"
+ "version": 1,
+ "updated": "2026-11-27",
+ "adr": "ADR-0067",
+ "note": "根级条目与二级容器的唯一事实源。check_junk 由此生成白名单；check_layout 校验 rules/01 表与本文件同源。新增条目须先在此登记并走 ADR。",
+ "fields": [
+  "path",
+  "domain",
+  "role",
+  "naming",
+  "lifecycle",
+  "retention",
+  "writer",
+  "gate",
+  "index",
+  "tracked",
+  "desc"
+ ],
+ "letter_dirs": {
+  "path": "zh/<letter>",
+  "match": "abcdefghijklmnopqrstuvwxyz1",
+  "domain": "product",
+  "role": "derived",
+  "naming": "slug",
+  "lifecycle": "controlled",
+  "retention": "永久；条目正文随译校推进改写，历史由 git 承担",
+  "writer": "翻译会话",
+  "gate": [
+   "check_summary",
+   "check_images",
+   "check_academic"
   ],
-  "letter_dirs": {
-    "path": "zh/<letter>",
-    "match": "abcdefghijklmnopqrstuvwxyz1",
-    "domain": "product",
-    "role": "derived",
-    "naming": "slug",
-    "lifecycle": "controlled",
-    "retention": "永久；条目正文随译校推进改写，历史由 git 承担",
-    "writer": "翻译会话",
-    "gate": [
-      "check_summary",
-      "check_images",
-      "check_academic"
-    ],
-    "index": "zh/SUMMARY.md",
-    "tracked": true,
-    "desc": "词条正文 zh/<letter>/<slug>.md 与补充材料；H1 与 zh/SUMMARY.md 条目文字一致"
+  "index": "zh/SUMMARY.md",
+  "tracked": true,
+  "desc": "词条正文 zh/<letter>/<slug>.md 与补充材料；H1 与 zh/SUMMARY.md 条目文字一致"
+ },
+ "entries": [
+  {
+   "path": ".git",
+   "domain": "build",
+   "role": "record",
+   "naming": "fixed",
+   "lifecycle": "permanent",
+   "retention": "永久；版本历史本体，不改写",
+   "writer": "git",
+   "gate": [],
+   "index": null,
+   "tracked": false,
+   "desc": "版本库本体"
   },
-  "entries": [
-    {
-      "path": ".git",
-      "domain": "build",
-      "role": "record",
-      "naming": "fixed",
-      "lifecycle": "permanent",
-      "retention": "永久；版本历史本体，不改写",
-      "writer": "git",
-      "gate": [],
-      "index": null,
-      "tracked": false,
-      "desc": "版本库本体"
-    },
-    {
-      "path": ".autocorrectrc",
-      "domain": "build",
-      "role": "decision",
-      "naming": "fixed",
-      "lifecycle": "permanent",
-      "retention": "随修复规则演进；改动即提交",
-      "writer": "治理会话",
-      "gate": [
-        "format.yml"
-      ],
-      "index": null,
-      "tracked": true,
-      "desc": "拼写与格式自动修复配置（CI 修复侧）"
-    },
-    {
-      "path": ".gitattributes",
-      "domain": "build",
-      "role": "decision",
-      "naming": "fixed",
-      "lifecycle": "permanent",
-      "retention": "随换行与二进制策略演进",
-      "writer": "治理会话",
-      "gate": [],
-      "index": null,
-      "tracked": true,
-      "desc": "换行与二进制属性（UTF-8/LF 契约的机读面）"
-    },
-    {
-      "path": ".gitignore",
-      "domain": "build",
-      "role": "decision",
-      "naming": "fixed",
-      "lifecycle": "permanent",
-      "retention": "条目只增不删；删前须确认无跟踪文件命中",
-      "writer": "治理会话",
-      "gate": [
-        "check_junk"
-      ],
-      "index": null,
-      "tracked": true,
-      "desc": "忽略规则；只管不入库，不管可堆放"
-    },
-    {
-      "path": ".markdownlint-cli2.jsonc",
-      "domain": "build",
-      "role": "decision",
-      "naming": "fixed",
-      "lifecycle": "permanent",
-      "retention": "唯一 lint 配置；等价副本已退役（ADR-0061）",
-      "writer": "治理会话",
-      "gate": [
-        "format.yml"
-      ],
-      "index": null,
-      "tracked": true,
-      "desc": "markdownlint 唯一配置（规则、纳入范围、按文件豁免）"
-    },
-    {
-      "path": ".github",
-      "domain": "build",
-      "role": "decision",
-      "naming": "fixed",
-      "lifecycle": "permanent",
-      "retention": "工作流变更须同步 rules/05 清单表",
-      "writer": "治理会话",
-      "gate": [
-        "checks.yml"
-      ],
-      "index": null,
-      "index_exempt": "工作流清单与行为边界在 rules/05 单一事实源；另设目录索引必然与其漂移",
-      "tracked": true,
-      "desc": "CI 工作流与官方目录基线快照"
-    },
-    {
-      "path": ".gitbook.yaml",
-      "domain": "build",
-      "role": "decision",
-      "naming": "fixed",
-      "lifecycle": "permanent",
-      "retention": "随 GitBook 空间配置演进（ADR-0056）",
-      "writer": "治理会话",
-      "gate": [],
-      "index": null,
-      "tracked": true,
-      "desc": "GitBook 中文空间配置；英文空间配置在 yuanwen/.gitbook.yaml"
-    },
-    {
-      "path": ".vitepress",
-      "domain": "build",
-      "role": "tool",
-      "naming": "fixed",
-      "lifecycle": "permanent",
-      "retention": "实现文档随构建演进；构建细节以其中 README 为准",
-      "writer": "站点会话",
-      "gate": [
-        "render-artifact-audit.yml"
-      ],
-      "index": ".vitepress/README.md",
-      "tracked": true,
-      "desc": "本地双语阅读站配置、主题与构建期准备脚本"
-    },
-    {
-      "path": ".specify",
-      "domain": "normative",
-      "role": "decision",
-      "naming": "fixed",
-      "lifecycle": "permanent",
-      "retention": "宪法修订须在提交信息注明版本号",
-      "writer": "治理会话",
-      "gate": [],
-      "index": ".specify/memory/constitution.md",
-      "tracked": true,
-      "desc": "项目宪法与 spec-kit 脚手架"
-    },
-    {
-      "path": ".zcode",
-      "domain": "runtime",
-      "role": "tool",
-      "naming": "fixed",
-      "lifecycle": "transient",
-      "retention": "可随时丢弃；不入库",
-      "writer": "本地会话",
-      "gate": [],
-      "index": null,
-      "tracked": false,
-      "desc": "AI 代理本地配置"
-    },
-    {
-      "path": ".secrets",
-      "domain": "runtime",
-      "role": "record",
-      "naming": "fixed",
-      "lifecycle": "transient",
-      "retention": "永不入库；换机即失效",
-      "writer": "本地会话",
-      "gate": [],
-      "index": null,
-      "tracked": false,
-      "desc": "本地凭证"
-    },
-    {
-      "path": ".workbuddy",
-      "domain": "runtime",
-      "role": "record",
-      "naming": "fixed",
-      "lifecycle": "transient",
-      "retention": "项目记忆与工作态；不入库",
-      "writer": "本地会话",
-      "gate": [],
-      "index": null,
-      "tracked": false,
-      "desc": "本地工具态与会话记忆"
-    },
-    {
-      "path": ".workbuddy-ai",
-      "domain": "runtime",
-      "role": "record",
-      "naming": "fixed",
-      "lifecycle": "transient",
-      "retention": "同 .workbuddy；ADR-0035 登记为例外",
-      "writer": "本地会话",
-      "gate": [],
-      "index": null,
-      "tracked": false,
-      "desc": "AI 工作区态"
-    },
-    {
-      "path": "AGENTS.md",
-      "domain": "normative",
-      "role": "decision",
-      "naming": "fixed",
-      "lifecycle": "permanent",
-      "retention": "入口指针；不复制数字、不新增义务（S6）",
-      "writer": "治理会话",
-      "gate": [
-        "check_layout"
-      ],
-      "index": null,
-      "tracked": true,
-      "desc": "AI 代理入口：仓库定位、规范层级、必读表、硬约束速览"
-    },
-    {
-      "path": "CODE_OF_CONDUCT.md",
-      "domain": "normative",
-      "role": "decision",
-      "naming": "fixed",
-      "lifecycle": "permanent",
-      "retention": "低频变更",
-      "writer": "治理会话",
-      "gate": [],
-      "index": null,
-      "tracked": true,
-      "desc": "行为准则"
-    },
-    {
-      "path": "CONTRIBUTING.md",
-      "domain": "normative",
-      "role": "decision",
-      "naming": "fixed",
-      "lifecycle": "permanent",
-      "retention": "低频变更",
-      "writer": "治理会话",
-      "gate": [],
-      "index": null,
-      "tracked": true,
-      "desc": "贡献指南"
-    },
-    {
-      "path": "LICENSE",
-      "domain": "normative",
-      "role": "decision",
-      "naming": "fixed",
-      "lifecycle": "permanent",
-      "retention": "变更须用户裁定",
-      "writer": "用户",
-      "gate": [],
-      "index": null,
-      "tracked": true,
-      "desc": "许可（BSD-2-Clause；SEP 文本另受 CC BY-NC-SA 约束）"
-    },
-    {
-      "path": "README.md",
-      "domain": "normative",
-      "role": "decision",
-      "naming": "fixed",
-      "lifecycle": "permanent",
-      "retention": "访客说明；不承载规则",
-      "writer": "治理会话",
-      "gate": [],
-      "index": null,
-      "tracked": true,
-      "desc": "面向访客的项目说明"
-    },
-    {
-      "path": "zh/RELEASE-NOTES.md",
-      "domain": "normative",
-      "role": "record",
-      "naming": "fixed",
-      "lifecycle": "permanent",
-      "retention": "按版本追加",
-      "writer": "发布会话",
-      "gate": [],
-      "index": null,
-      "tracked": true,
-      "desc": "发布说明"
-    },
-    {
-      "path": "zh/PROGRESS.md",
-      "domain": "evidence",
-      "role": "record",
-      "naming": "fixed",
-      "lifecycle": "transient",
-      "retention": "生成物；随时可由 tools/progress.py 重生成",
-      "writer": "tools/progress.py",
-      "gate": [],
-      "index": null,
-      "tracked": true,
-      "desc": "进度汇总（受控生成物，不手改）"
-    },
-    {
-      "path": "zh/SUMMARY.md",
-      "domain": "product",
-      "role": "record",
-      "naming": "fixed",
-      "lifecycle": "permanent",
-      "retention": "目录唯一数据源；改标题只改此处",
-      "writer": "翻译会话",
-      "gate": [
-        "check_summary"
-      ],
-      "index": null,
-      "tracked": true,
-      "desc": "目录结构唯一数据源（zh/SUMMARY.md）；首行 # Table of contents 不得变更"
-    },
-    {
-      "path": "zh/mu-lu-s.md",
-      "domain": "product",
-      "role": "record",
-      "naming": "fixed",
-      "lifecycle": "permanent",
-      "retention": "手工分类视图；独立于 SUMMARY",
-      "writer": "目录会话",
-      "gate": [
-        "check_mulu_s"
-      ],
-      "index": null,
-      "tracked": true,
-      "desc": "学科分类目录（手动维护的独立视图）"
-    },
-    {
-      "path": "zh/shu-yu-biao.md",
-      "domain": "product",
-      "role": "record",
-      "naming": "fixed",
-      "lifecycle": "permanent",
-      "retention": "废弃不删行；另起一行注「已废弃，见新行」",
-      "writer": "术语会话",
-      "gate": [
-        "check_terms"
-      ],
-      "index": null,
-      "tracked": true,
-      "desc": "术语登记册（术语译法的单一事实源）"
-    },
-    {
-      "path": "zh/ren-ming-biao.md",
-      "domain": "product",
-      "role": "record",
-      "naming": "fixed",
-      "lifecycle": "permanent",
-      "retention": "同术语登记册",
-      "writer": "术语会话",
-      "gate": [
-        "check_terms"
-      ],
-      "index": null,
-      "tracked": true,
-      "desc": "人名登记册（人名译法的单一事实源）"
-    },
-    {
-      "path": "assets",
-      "domain": "product",
-      "role": "asset",
-      "naming": "slug",
-      "lifecycle": "permanent",
-      "retention": "每件至少被引用一次；未引用即红",
-      "writer": "抓取管线",
-      "gate": [
-        "check_images"
-      ],
-      "index": null,
-      "index_exempt": true,
-      "tracked": true,
-      "desc": "词条图片（正文以 ../assets/<slug>/ 引用）"
-    },
-    {
-      "path": "baseline",
-      "domain": "evidence",
-      "role": "record",
-      "naming": "fixed",
-      "lifecycle": "permanent",
-      "retention": "只追加；钉不得回退",
-      "writer": "fetch_entry / divergence",
-      "gate": [
-        "baseline_audit",
-        "divergence"
-      ],
-      "index": null,
-      "index_exempt": "三账语义在 ADR-0045/0062 与 rules/06 审计节；目录内文件由 entries.json 自身索引",
-      "tracked": true,
-      "desc": "版本钉、分歧账、补丁池与目录快照"
-    },
-    {
-      "path": "en",
-      "domain": "evidence",
-      "role": "derived",
-      "naming": "slug",
-      "lifecycle": "permanent",
-      "retention": "≡ convert(yuanwen ⊕ patches)；禁手改（I2/I3）",
-      "writer": "tools/yuanwen.py",
-      "gate": [
-        "fidelity"
-      ],
-      "index": "en/SUMMARY-en.md",
-      "tracked": true,
-      "desc": "英文原文转换镜像（与 yuanwen HTML 文字一致）"
-    },
-    {
-      "path": "zh/fang-fa-lun",
-      "domain": "normative",
-      "role": "record",
-      "naming": "pinyin",
-      "lifecycle": "permanent",
-      "retention": "已退役；只减不增",
-      "writer": "治理会话",
-      "gate": [],
-      "index": "zh/fang-fa-lun/README.md",
-      "tracked": true,
-      "frozen": true,
-      "desc": "翻译工程方法论散页（已折叠收编，仅存退役存根）"
-    },
-    {
-      "path": "zh/guan-yu",
-      "domain": "product",
-      "role": "derived",
-      "naming": "pinyin",
-      "lifecycle": "permanent",
-      "retention": "冻结拼音命名；只减不增",
-      "writer": "治理会话",
-      "gate": [
-        "check_summary"
-      ],
-      "index": null,
-      "index_exempt": "说明页，入口由 SUMMARY 与站点侧栏承载；目录本身不另设索引",
-      "tracked": true,
-      "frozen": true,
-      "desc": "项目说明页（关于、日志、编辑信息）"
-    },
-    {
-      "path": "zh/jian-yi-shu",
-      "domain": "evidence",
-      "role": "record",
-      "naming": "pinyin",
-      "lifecycle": "permanent",
-      "retention": "一次性交付物；不入 SUMMARY；只减不增",
-      "writer": "承办会话",
-      "gate": [],
-      "index": "zh/jian-yi-shu/index.md",
-      "tracked": true,
-      "frozen": true,
-      "desc": "一次性交付物（建议书与附录）"
-    },
-    {
-      "path": "public",
-      "domain": "build",
-      "role": "asset",
-      "naming": "fixed",
-      "lifecycle": "permanent",
-      "retention": "站点静态资产；随构建演进",
-      "writer": "站点会话",
-      "gate": [],
-      "index": null,
-      "index_exempt": "纯静态资产（图标、MathJax 资源）；无叙事内容可索引",
-      "tracked": true,
-      "desc": "站点静态资产"
-    },
-    {
-      "path": "zh/qian-yan",
-      "domain": "product",
-      "role": "derived",
-      "naming": "pinyin",
-      "lifecycle": "permanent",
-      "retention": "冻结拼音命名；只减不增",
-      "writer": "治理会话",
-      "gate": [
-        "check_summary"
-      ],
-      "index": null,
-      "index_exempt": "说明页，入口由 SUMMARY 与站点侧栏承载；目录本身不另设索引",
-      "tracked": true,
-      "frozen": true,
-      "desc": "项目说明页（前言、版权、词汇说明）"
-    },
-    {
-      "path": "rules",
-      "domain": "normative",
-      "role": "decision",
-      "naming": "numbered",
-      "lifecycle": "permanent",
-      "retention": "ADR 只追加；废弃标 superseded；0X 超 300 行拆目录",
-      "writer": "治理会话",
-      "gate": [
-        "check_doc_size",
-        "check_layout"
-      ],
-      "index": "rules/README.md",
-      "tracked": true,
-      "desc": "全局规则与 ADR（宪法为上位）"
-    },
-    {
-      "path": "script",
-      "domain": "runtime",
-      "role": "tool",
-      "naming": "fixed",
-      "lifecycle": "transient",
-      "retention": "可随时清理（tools/clean.py）；不入库",
-      "writer": "本地会话",
-      "gate": [],
-      "index": null,
-      "tracked": false,
-      "desc": "本地草稿脚本区"
-    },
-    {
-      "path": "specs",
-      "domain": "evidence",
-      "role": "record",
-      "naming": "numbered",
-      "lifecycle": "permanent",
-      "retention": "只追加；销案注记保留原文",
-      "writer": "承办会话",
-      "gate": [
-        "check_layout"
-      ],
-      "index": "specs/README.md",
-      "tracked": true,
-      "desc": "工程规格、契约、执行记录与凭证"
-    },
-    {
-      "path": "state",
-      "domain": "runtime",
-      "role": "record",
-      "naming": "fixed",
-      "lifecycle": "transient",
-      "retention": "可随时删除；不入库",
-      "writer": "本地会话",
-      "gate": [],
-      "index": null,
-      "tracked": false,
-      "desc": "管线本地运行态"
-    },
-    {
-      "path": "tasks",
-      "domain": "evidence",
-      "role": "record",
-      "naming": "slug",
-      "lifecycle": "permanent",
-      "retention": "steps 只追加；任务 JSON 永久保留",
-      "writer": "tools/task_ops.py",
-      "gate": [
-        "check_academic"
-      ],
-      "index": "tasks/README.md",
-      "tracked": true,
-      "desc": "文档任务状态机记录与账本"
-    },
-    {
-      "path": "tools",
-      "domain": "normative",
-      "role": "tool",
-      "naming": "fixed",
-      "lifecycle": "permanent",
-      "retention": "仅标准库；判官只读（A11）；废弃工具留档标注",
-      "writer": "管线会话",
-      "gate": [
-        "unittest"
-      ],
-      "index": null,
-      "index_exempt": true,
-      "tracked": true,
-      "desc": "管线与治理脚本"
-    },
-    {
-      "path": "html",
-      "domain": "evidence",
-      "role": "source",
-      "naming": "slug",
-      "lifecycle": "permanent",
-      "retention": "绝对冻结；与原始钉逐字节一致（ADR-0062）",
-      "writer": "fetch_entry",
-      "gate": [
-        "divergence",
-        "fidelity"
-      ],
-      "index": null,
-      "tracked": true,
-      "desc": "原始抓取 HTML（上游字节事实；ADR-0062 冻结）",
-      "index_exempt": true
-    },
-    {
-      "path": "zh",
-      "domain": "product",
-      "role": "derived",
-      "naming": "slug",
-      "lifecycle": "controlled",
-      "retention": "永久；条目正文随译校推进改写，历史由 git 承担",
-      "writer": "翻译会话",
-      "gate": [
-        "check_summary",
-        "check_images",
-        "check_academic"
-      ],
-      "index": "zh/SUMMARY.md",
-      "tracked": true,
-      "desc": "中文词条正文 zh/<letter>/<slug>.md 与中文目录；H1 与 zh/SUMMARY.md 条目文字一致"
-    },
-    {
-      "path": "package.json",
-      "domain": "build",
-      "role": "decision",
-      "naming": "fixed",
-      "lifecycle": "transient",
-      "retention": "历史豁免；不得入库新增（ADR-0055）",
-      "writer": "无（已迁构建壳）",
-      "gate": [],
-      "index": null,
-      "tracked": false,
-      "desc": "站点依赖声明（历史豁免）"
-    },
-    {
-      "path": "bun.lock",
-      "domain": "build",
-      "role": "decision",
-      "naming": "fixed",
-      "lifecycle": "transient",
-      "retention": "历史豁免；不得入库新增（ADR-0055）",
-      "writer": "无（已迁构建壳）",
-      "gate": [],
-      "index": null,
-      "tracked": false,
-      "desc": "bun 锁文件（历史豁免）"
-    },
-    {
-      "path": "node_modules",
-      "domain": "runtime",
-      "role": "asset",
-      "naming": "fixed",
-      "lifecycle": "transient",
-      "retention": "不入库；可随时删除重装",
-      "writer": "bun",
-      "gate": [],
-      "index": null,
-      "tracked": false,
-      "desc": "本地依赖目录（可为指向构建壳的联接）"
-    },
-    {
-      "path": "journal",
-      "domain": "evidence",
-      "role": "record",
-      "naming": "slug",
-      "lifecycle": "permanent",
-      "retention": "事件只追加（P5）；不得删改既有事件",
-      "writer": "tools/journal_ops.py（推进）/ tools/journal_migrate.py（一次性迁移）",
-      "gate": [],
-      "index": "journal/README.md",
-      "tracked": true,
-      "desc": "条目事件日志（三存储之一的事实源；state 为其派生视图）"
-    }
-  ],
-  "specs_container": {
-    "path": "specs/<NNN>-<slug>",
-    "required": [
-      "spec.md"
-    ],
-    "known_subdirs": [
-      "bin",
-      "results",
-      "contracts",
-      "checklists",
-      "execution-log",
-      "compare",
-      "dir-rebuild"
-    ],
-    "forbidden_subdirs": [
-      "tmp",
-      "__pycache__",
-      "node_modules",
-      ".ipynb_checkpoints"
-    ],
-    "root_json_policy": "deny",
-    "exclusive_pairs": [
-      [
-        "execution-log.md",
-        "execution-log"
-      ]
-    ],
-    "legacy_exceptions": [
-      {
-        "path": "specs/001-sep-sync-pipeline",
-        "allow_root_json": true,
-        "reason": "11 个凭证 JSON 中 9 个属本目录，被 6 个工具硬编码、8 处活文档引用，且路径已写入历史执行记录（只追加原则 A4）；迁移收益不抵引用面成本。新增规格一律用 results/。"
-      },
-      {
-        "path": "specs/005-translation-campaign",
-        "allow_root_json_files": [
-          "ledger.json"
-        ],
-        "reason": "campaign.py 的 LEDGER 常量硬编码此路径，rules/06 并发纪律与 specs/014 冲突处置表均引用；迁移须改工具常量与规则正文。其余 JSON 一律归 results/。"
-      }
-    ],
-    "index": "specs/README.md",
-    "schema_note": "白名单式（仅允许 spec/plan/tasks 等固定子项）已于 2026-11-17 实测否决：spec-kit 的 data-model/research/quickstart、rules/04 要求的 demo-log、波次与协议文档均属规格的合法组成，白名单会误判 67 项。改为「必需 ＋ 黑名单 ＋ 目录命名」三判据；未知子目录只告警。"
+  {
+   "path": ".autocorrectrc",
+   "domain": "build",
+   "role": "decision",
+   "naming": "fixed",
+   "lifecycle": "permanent",
+   "retention": "随修复规则演进；改动即提交",
+   "writer": "治理会话",
+   "gate": [
+    "format.yml"
+   ],
+   "index": null,
+   "tracked": true,
+   "desc": "拼写与格式自动修复配置（CI 修复侧）"
+  },
+  {
+   "path": ".gitattributes",
+   "domain": "build",
+   "role": "decision",
+   "naming": "fixed",
+   "lifecycle": "permanent",
+   "retention": "随换行与二进制策略演进",
+   "writer": "治理会话",
+   "gate": [],
+   "index": null,
+   "tracked": true,
+   "desc": "换行与二进制属性（UTF-8/LF 契约的机读面）"
+  },
+  {
+   "path": ".gitignore",
+   "domain": "build",
+   "role": "decision",
+   "naming": "fixed",
+   "lifecycle": "permanent",
+   "retention": "条目只增不删；删前须确认无跟踪文件命中",
+   "writer": "治理会话",
+   "gate": [
+    "check_junk"
+   ],
+   "index": null,
+   "tracked": true,
+   "desc": "忽略规则；只管不入库，不管可堆放"
+  },
+  {
+   "path": ".markdownlint-cli2.jsonc",
+   "domain": "build",
+   "role": "decision",
+   "naming": "fixed",
+   "lifecycle": "permanent",
+   "retention": "唯一 lint 配置；等价副本已退役（ADR-0061）",
+   "writer": "治理会话",
+   "gate": [
+    "format.yml"
+   ],
+   "index": null,
+   "tracked": true,
+   "desc": "markdownlint 唯一配置（规则、纳入范围、按文件豁免）"
+  },
+  {
+   "path": ".github",
+   "domain": "build",
+   "role": "decision",
+   "naming": "fixed",
+   "lifecycle": "permanent",
+   "retention": "工作流变更须同步 rules/05 清单表",
+   "writer": "治理会话",
+   "gate": [
+    "checks.yml"
+   ],
+   "index": null,
+   "index_exempt": "工作流清单与行为边界在 rules/05 单一事实源；另设目录索引必然与其漂移",
+   "tracked": true,
+   "desc": "CI 工作流与官方目录基线快照"
+  },
+  {
+   "path": ".gitbook.yaml",
+   "domain": "build",
+   "role": "decision",
+   "naming": "fixed",
+   "lifecycle": "permanent",
+   "retention": "随 GitBook 空间配置演进（ADR-0056）",
+   "writer": "治理会话",
+   "gate": [],
+   "index": null,
+   "tracked": true,
+   "desc": "GitBook 中文空间配置；英文空间配置在 yuanwen/.gitbook.yaml"
+  },
+  {
+   "path": ".vitepress",
+   "domain": "build",
+   "role": "tool",
+   "naming": "fixed",
+   "lifecycle": "permanent",
+   "retention": "实现文档随构建演进；构建细节以其中 README 为准",
+   "writer": "站点会话",
+   "gate": [
+    "render-artifact-audit.yml"
+   ],
+   "index": ".vitepress/README.md",
+   "tracked": true,
+   "desc": "本地双语阅读站配置、主题与构建期准备脚本"
+  },
+  {
+   "path": ".specify",
+   "domain": "normative",
+   "role": "decision",
+   "naming": "fixed",
+   "lifecycle": "permanent",
+   "retention": "宪法修订须在提交信息注明版本号",
+   "writer": "治理会话",
+   "gate": [],
+   "index": ".specify/memory/constitution.md",
+   "tracked": true,
+   "desc": "项目宪法与 spec-kit 脚手架"
+  },
+  {
+   "path": ".zcode",
+   "domain": "runtime",
+   "role": "tool",
+   "naming": "fixed",
+   "lifecycle": "transient",
+   "retention": "可随时丢弃；不入库",
+   "writer": "本地会话",
+   "gate": [],
+   "index": null,
+   "tracked": false,
+   "desc": "AI 代理本地配置"
+  },
+  {
+   "path": ".secrets",
+   "domain": "runtime",
+   "role": "record",
+   "naming": "fixed",
+   "lifecycle": "transient",
+   "retention": "永不入库；换机即失效",
+   "writer": "本地会话",
+   "gate": [],
+   "index": null,
+   "tracked": false,
+   "desc": "本地凭证"
+  },
+  {
+   "path": ".workbuddy",
+   "domain": "runtime",
+   "role": "record",
+   "naming": "fixed",
+   "lifecycle": "transient",
+   "retention": "项目记忆与工作态；不入库",
+   "writer": "本地会话",
+   "gate": [],
+   "index": null,
+   "tracked": false,
+   "desc": "本地工具态与会话记忆"
+  },
+  {
+   "path": ".workbuddy-ai",
+   "domain": "runtime",
+   "role": "record",
+   "naming": "fixed",
+   "lifecycle": "transient",
+   "retention": "同 .workbuddy；ADR-0035 登记为例外",
+   "writer": "本地会话",
+   "gate": [],
+   "index": null,
+   "tracked": false,
+   "desc": "AI 工作区态"
+  },
+  {
+   "path": "AGENTS.md",
+   "domain": "normative",
+   "role": "decision",
+   "naming": "fixed",
+   "lifecycle": "permanent",
+   "retention": "入口指针；不复制数字、不新增义务（S6）",
+   "writer": "治理会话",
+   "gate": [
+    "check_layout"
+   ],
+   "index": null,
+   "tracked": true,
+   "desc": "AI 代理入口：仓库定位、规范层级、必读表、硬约束速览"
+  },
+  {
+   "path": "CODE_OF_CONDUCT.md",
+   "domain": "normative",
+   "role": "decision",
+   "naming": "fixed",
+   "lifecycle": "permanent",
+   "retention": "低频变更",
+   "writer": "治理会话",
+   "gate": [],
+   "index": null,
+   "tracked": true,
+   "desc": "行为准则"
+  },
+  {
+   "path": "CONTRIBUTING.md",
+   "domain": "normative",
+   "role": "decision",
+   "naming": "fixed",
+   "lifecycle": "permanent",
+   "retention": "低频变更",
+   "writer": "治理会话",
+   "gate": [],
+   "index": null,
+   "tracked": true,
+   "desc": "贡献指南"
+  },
+  {
+   "path": "LICENSE",
+   "domain": "normative",
+   "role": "decision",
+   "naming": "fixed",
+   "lifecycle": "permanent",
+   "retention": "变更须用户裁定",
+   "writer": "用户",
+   "gate": [],
+   "index": null,
+   "tracked": true,
+   "desc": "许可（BSD-2-Clause；SEP 文本另受 CC BY-NC-SA 约束）"
+  },
+  {
+   "path": "README.md",
+   "domain": "normative",
+   "role": "decision",
+   "naming": "fixed",
+   "lifecycle": "permanent",
+   "retention": "访客说明；不承载规则",
+   "writer": "治理会话",
+   "gate": [],
+   "index": null,
+   "tracked": true,
+   "desc": "面向访客的项目说明"
+  },
+  {
+   "path": "zh/RELEASE-NOTES.md",
+   "domain": "normative",
+   "role": "record",
+   "naming": "fixed",
+   "lifecycle": "permanent",
+   "retention": "按版本追加",
+   "writer": "发布会话",
+   "gate": [],
+   "index": null,
+   "tracked": true,
+   "desc": "发布说明"
+  },
+  {
+   "path": "zh/PROGRESS.md",
+   "domain": "evidence",
+   "role": "record",
+   "naming": "fixed",
+   "lifecycle": "transient",
+   "retention": "生成物；随时可由 tools/progress.py 重生成",
+   "writer": "tools/progress.py",
+   "gate": [],
+   "index": null,
+   "tracked": true,
+   "desc": "进度汇总（受控生成物，不手改）"
+  },
+  {
+   "path": "zh/SUMMARY.md",
+   "domain": "product",
+   "role": "record",
+   "naming": "fixed",
+   "lifecycle": "permanent",
+   "retention": "目录唯一数据源；改标题只改此处",
+   "writer": "翻译会话",
+   "gate": [
+    "check_summary"
+   ],
+   "index": null,
+   "tracked": true,
+   "desc": "目录结构唯一数据源（zh/SUMMARY.md）；首行 # Table of contents 不得变更"
+  },
+  {
+   "path": "zh/mu-lu-s.md",
+   "domain": "product",
+   "role": "record",
+   "naming": "fixed",
+   "lifecycle": "permanent",
+   "retention": "手工分类视图；独立于 SUMMARY",
+   "writer": "目录会话",
+   "gate": [
+    "check_mulu_s"
+   ],
+   "index": null,
+   "tracked": true,
+   "desc": "学科分类目录（手动维护的独立视图）"
+  },
+  {
+   "path": "zh/shu-yu-biao.md",
+   "domain": "product",
+   "role": "record",
+   "naming": "fixed",
+   "lifecycle": "permanent",
+   "retention": "废弃不删行；另起一行注「已废弃，见新行」",
+   "writer": "术语会话",
+   "gate": [
+    "check_terms"
+   ],
+   "index": null,
+   "tracked": true,
+   "desc": "术语登记册（术语译法的单一事实源）"
+  },
+  {
+   "path": "zh/ren-ming-biao.md",
+   "domain": "product",
+   "role": "record",
+   "naming": "fixed",
+   "lifecycle": "permanent",
+   "retention": "同术语登记册",
+   "writer": "术语会话",
+   "gate": [
+    "check_terms"
+   ],
+   "index": null,
+   "tracked": true,
+   "desc": "人名登记册（人名译法的单一事实源）"
+  },
+  {
+   "path": "assets",
+   "domain": "product",
+   "role": "asset",
+   "naming": "slug",
+   "lifecycle": "permanent",
+   "retention": "每件至少被引用一次；未引用即红",
+   "writer": "抓取管线",
+   "gate": [
+    "check_images"
+   ],
+   "index": null,
+   "index_exempt": true,
+   "tracked": true,
+   "desc": "词条图片（正文以 ../assets/<slug>/ 引用）"
+  },
+  {
+   "path": "baseline",
+   "domain": "evidence",
+   "role": "record",
+   "naming": "fixed",
+   "lifecycle": "permanent",
+   "retention": "只追加；钉不得回退",
+   "writer": "fetch_entry / divergence",
+   "gate": [
+    "baseline_audit",
+    "divergence"
+   ],
+   "index": null,
+   "index_exempt": "三账语义在 ADR-0045/0062 与 rules/06 审计节；目录内文件由 entries.json 自身索引",
+   "tracked": true,
+   "desc": "版本钉、分歧账、补丁池与目录快照"
+  },
+  {
+   "path": "en",
+   "domain": "evidence",
+   "role": "derived",
+   "naming": "slug",
+   "lifecycle": "permanent",
+   "retention": "≡ convert(yuanwen ⊕ patches)；禁手改（I2/I3）",
+   "writer": "tools/yuanwen.py",
+   "gate": [
+    "fidelity"
+   ],
+   "index": "en/SUMMARY-en.md",
+   "tracked": true,
+   "desc": "英文原文转换镜像（与 yuanwen HTML 文字一致）"
+  },
+  {
+   "path": "zh/fang-fa-lun",
+   "domain": "normative",
+   "role": "record",
+   "naming": "pinyin",
+   "lifecycle": "permanent",
+   "retention": "已退役；只减不增",
+   "writer": "治理会话",
+   "gate": [],
+   "index": "zh/fang-fa-lun/README.md",
+   "tracked": true,
+   "frozen": true,
+   "desc": "翻译工程方法论散页（已折叠收编，仅存退役存根）"
+  },
+  {
+   "path": "zh/guan-yu",
+   "domain": "product",
+   "role": "derived",
+   "naming": "pinyin",
+   "lifecycle": "permanent",
+   "retention": "冻结拼音命名；只减不增",
+   "writer": "治理会话",
+   "gate": [
+    "check_summary"
+   ],
+   "index": null,
+   "index_exempt": "说明页，入口由 SUMMARY 与站点侧栏承载；目录本身不另设索引",
+   "tracked": true,
+   "frozen": true,
+   "desc": "项目说明页（关于、日志、编辑信息）"
+  },
+  {
+   "path": "zh/jian-yi-shu",
+   "domain": "evidence",
+   "role": "record",
+   "naming": "pinyin",
+   "lifecycle": "permanent",
+   "retention": "一次性交付物；不入 SUMMARY；只减不增",
+   "writer": "承办会话",
+   "gate": [],
+   "index": "zh/jian-yi-shu/index.md",
+   "tracked": true,
+   "frozen": true,
+   "desc": "一次性交付物（建议书与附录）"
+  },
+  {
+   "path": "public",
+   "domain": "build",
+   "role": "asset",
+   "naming": "fixed",
+   "lifecycle": "permanent",
+   "retention": "站点静态资产；随构建演进",
+   "writer": "站点会话",
+   "gate": [],
+   "index": null,
+   "index_exempt": "纯静态资产（图标、MathJax 资源）；无叙事内容可索引",
+   "tracked": true,
+   "desc": "站点静态资产"
+  },
+  {
+   "path": "zh/qian-yan",
+   "domain": "product",
+   "role": "derived",
+   "naming": "pinyin",
+   "lifecycle": "permanent",
+   "retention": "冻结拼音命名；只减不增",
+   "writer": "治理会话",
+   "gate": [
+    "check_summary"
+   ],
+   "index": null,
+   "index_exempt": "说明页，入口由 SUMMARY 与站点侧栏承载；目录本身不另设索引",
+   "tracked": true,
+   "frozen": true,
+   "desc": "项目说明页（前言、版权、词汇说明）"
+  },
+  {
+   "path": "rules",
+   "domain": "normative",
+   "role": "decision",
+   "naming": "numbered",
+   "lifecycle": "permanent",
+   "retention": "ADR 只追加；废弃标 superseded；0X 超 300 行拆目录",
+   "writer": "治理会话",
+   "gate": [
+    "check_doc_size",
+    "check_layout"
+   ],
+   "index": "rules/README.md",
+   "tracked": true,
+   "desc": "全局规则与 ADR（宪法为上位）"
+  },
+  {
+   "path": "script",
+   "domain": "runtime",
+   "role": "tool",
+   "naming": "fixed",
+   "lifecycle": "transient",
+   "retention": "可随时清理（tools/clean.py）；不入库",
+   "writer": "本地会话",
+   "gate": [],
+   "index": null,
+   "tracked": false,
+   "desc": "本地草稿脚本区"
+  },
+  {
+   "path": "specs",
+   "domain": "evidence",
+   "role": "record",
+   "naming": "numbered",
+   "lifecycle": "permanent",
+   "retention": "只追加；销案注记保留原文",
+   "writer": "承办会话",
+   "gate": [
+    "check_layout"
+   ],
+   "index": "specs/README.md",
+   "tracked": true,
+   "desc": "工程规格、契约、执行记录与凭证"
+  },
+  {
+   "path": "state",
+   "domain": "runtime",
+   "role": "record",
+   "naming": "fixed",
+   "lifecycle": "transient",
+   "retention": "可随时删除；不入库",
+   "writer": "本地会话",
+   "gate": [],
+   "index": null,
+   "tracked": false,
+   "desc": "管线本地运行态"
+  },
+  {
+   "path": "tasks",
+   "domain": "evidence",
+   "role": "record",
+   "naming": "slug",
+   "lifecycle": "permanent",
+   "retention": "steps 只追加；任务 JSON 永久保留",
+   "writer": "tools/task_ops.py",
+   "gate": [
+    "check_academic"
+   ],
+   "index": "tasks/README.md",
+   "tracked": true,
+   "desc": "文档任务状态机记录与账本"
+  },
+  {
+   "path": "tools",
+   "domain": "normative",
+   "role": "tool",
+   "naming": "fixed",
+   "lifecycle": "permanent",
+   "retention": "仅标准库；判官只读（A11）；废弃工具留档标注",
+   "writer": "管线会话",
+   "gate": [
+    "unittest"
+   ],
+   "index": null,
+   "index_exempt": true,
+   "tracked": true,
+   "desc": "管线与治理脚本"
+  },
+  {
+   "path": "html",
+   "domain": "evidence",
+   "role": "source",
+   "naming": "slug",
+   "lifecycle": "permanent",
+   "retention": "绝对冻结；与原始钉逐字节一致（ADR-0062）",
+   "writer": "fetch_entry",
+   "gate": [
+    "divergence",
+    "fidelity"
+   ],
+   "index": null,
+   "tracked": true,
+   "desc": "原始抓取 HTML（上游字节事实；ADR-0062 冻结）",
+   "index_exempt": true
+  },
+  {
+   "path": "zh",
+   "domain": "product",
+   "role": "derived",
+   "naming": "slug",
+   "lifecycle": "controlled",
+   "retention": "永久；条目正文随译校推进改写，历史由 git 承担",
+   "writer": "翻译会话",
+   "gate": [
+    "check_summary",
+    "check_images",
+    "check_academic"
+   ],
+   "index": "zh/SUMMARY.md",
+   "tracked": true,
+   "desc": "中文词条正文 zh/<letter>/<slug>.md 与中文目录；H1 与 zh/SUMMARY.md 条目文字一致"
+  },
+  {
+   "path": "package.json",
+   "domain": "build",
+   "role": "decision",
+   "naming": "fixed",
+   "lifecycle": "transient",
+   "retention": "历史豁免；不得入库新增（ADR-0055）",
+   "writer": "无（已迁构建壳）",
+   "gate": [],
+   "index": null,
+   "tracked": false,
+   "desc": "站点依赖声明（历史豁免）"
+  },
+  {
+   "path": "bun.lock",
+   "domain": "build",
+   "role": "decision",
+   "naming": "fixed",
+   "lifecycle": "transient",
+   "retention": "历史豁免；不得入库新增（ADR-0055）",
+   "writer": "无（已迁构建壳）",
+   "gate": [],
+   "index": null,
+   "tracked": false,
+   "desc": "bun 锁文件（历史豁免）"
+  },
+  {
+   "path": "node_modules",
+   "domain": "runtime",
+   "role": "asset",
+   "naming": "fixed",
+   "lifecycle": "transient",
+   "retention": "不入库；可随时删除重装",
+   "writer": "bun",
+   "gate": [],
+   "index": null,
+   "tracked": false,
+   "desc": "本地依赖目录（可为指向构建壳的联接）"
+  },
+  {
+   "path": "journal",
+   "domain": "evidence",
+   "role": "record",
+   "naming": "slug",
+   "lifecycle": "permanent",
+   "retention": "事件只追加（P5）；不得删改既有事件",
+   "writer": "tools/journal_ops.py（推进）/ tools/journal_migrate.py（一次性迁移）",
+   "gate": [],
+   "index": "journal/README.md",
+   "tracked": true,
+   "desc": "条目事件日志（三存储之一的事实源；state 为其派生视图）"
+  },
+  {
+   "domain": "build",
+   "role": "record",
+   "naming": "fixed",
+   "lifecycle": "transient",
+   "writer": "工具运行态",
+   "gate": [],
+   "index": null,
+   "tracked": false,
+   "path": ".mimosa",
+   "retention": "工具运行态；可随时重建，不入库",
+   "desc": "Mimosa 安全扫描插件运行态目录"
+  },
+  {
+   "domain": "build",
+   "role": "record",
+   "naming": "fixed",
+   "lifecycle": "transient",
+   "writer": "工具运行态",
+   "gate": [],
+   "index": null,
+   "tracked": false,
+   "path": ".screenshots",
+   "retention": "探针截图运行态；不入库",
+   "desc": "CDP 量测探针截图输出目录"
+  },
+  {
+   "path": "CLAUDE-SECURITY-SMOKE",
+   "domain": "build",
+   "role": "record",
+   "naming": "fixed",
+   "lifecycle": "transient",
+   "retention": "安全扫描冒烟运行态；可随时删除，不入库",
+   "writer": "安全扫描工具",
+   "gate": [],
+   "index": null,
+   "tracked": false,
+   "desc": "Claude Security 冒烟检测运行态目录"
   }
+ ],
+ "specs_container": {
+  "path": "specs/<NNN>-<slug>",
+  "required": [
+   "spec.md"
+  ],
+  "known_subdirs": [
+   "bin",
+   "results",
+   "contracts",
+   "checklists",
+   "execution-log",
+   "compare",
+   "dir-rebuild"
+  ],
+  "forbidden_subdirs": [
+   "tmp",
+   "__pycache__",
+   "node_modules",
+   ".ipynb_checkpoints"
+  ],
+  "root_json_policy": "deny",
+  "exclusive_pairs": [
+   [
+    "execution-log.md",
+    "execution-log"
+   ]
+  ],
+  "legacy_exceptions": [
+   {
+    "path": "specs/001-sep-sync-pipeline",
+    "allow_root_json": true,
+    "reason": "11 个凭证 JSON 中 9 个属本目录，被 6 个工具硬编码、8 处活文档引用，且路径已写入历史执行记录（只追加原则 A4）；迁移收益不抵引用面成本。新增规格一律用 results/。"
+   },
+   {
+    "path": "specs/005-translation-campaign",
+    "allow_root_json_files": [
+     "ledger.json"
+    ],
+    "reason": "campaign.py 的 LEDGER 常量硬编码此路径，rules/06 并发纪律与 specs/014 冲突处置表均引用；迁移须改工具常量与规则正文。其余 JSON 一律归 results/。"
+   }
+  ],
+  "index": "specs/README.md",
+  "schema_note": "白名单式（仅允许 spec/plan/tasks 等固定子项）已于 2026-11-17 实测否决：spec-kit 的 data-model/research/quickstart、rules/04 要求的 demo-log、波次与协议文档均属规格的合法组成，白名单会误判 67 项。改为「必需 ＋ 黑名单 ＋ 目录命名」三判据；未知子目录只告警。"
+ }
 }

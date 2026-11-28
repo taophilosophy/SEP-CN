@@ -1,165 +1,180 @@
 {
-  "slug": "environmental-aesthetics",
-  "kind": "retranslate",
-  "zh_doc": "zh/e/environmental-aesthetics.md",
-  "translation_mode": "llm-pe",
-  "project_spec": {
-    "audience": "中文哲学读者（研究者与研究生为主）",
-    "purpose": "学术阅读与引用（SEP 词条简体中文译本）",
-    "register": "现代汉语学术书面语",
-    "terminology_basis": "shu-yu-biao.md／ren-ming-biao.md／baseline/term-concepts.md",
-    "delivery": "GitBook Markdown＋VitePress 双语站",
-    "qa_level": "CY/T 266＋ISO 5060（六轴机检＋人工复核）",
-    "language_pair": "en → zh-Hans",
-    "content_type": "学术百科词条（SEP）",
-    "subject_field": "哲学（按词条分支）",
-    "workflow": "retranslate 22 节点（rules/04）",
-    "pe_level": "full",
-    "pre_edit": "源审计后按 tr-01 术语摘录与提示词准备",
-    "risk_level": "B 中",
-    "confidentiality": "公开源；未公开草稿与审稿意见不入模型",
-    "communication": "任务 evidence＋journal",
-    "qualifications": "见 task.competences（ISO 17100 3.1.3–3.1.7）"
+ "slug": "environmental-aesthetics",
+ "kind": "retranslate",
+ "zh_doc": "zh/e/environmental-aesthetics.md",
+ "translation_mode": "llm-pe",
+ "project_spec": {
+  "audience": "中文哲学读者（研究者与研究生为主）",
+  "purpose": "学术阅读与引用（SEP 词条简体中文译本）",
+  "register": "现代汉语学术书面语",
+  "terminology_basis": "shu-yu-biao.md／ren-ming-biao.md／baseline/term-concepts.md",
+  "delivery": "GitBook Markdown＋VitePress 双语站",
+  "qa_level": "CY/T 266＋ISO 5060（六轴机检＋人工复核）",
+  "language_pair": "en → zh-Hans",
+  "content_type": "学术百科词条（SEP）",
+  "subject_field": "哲学（按词条分支）",
+  "workflow": "retranslate 22 节点（rules/04）",
+  "pe_level": "full",
+  "pre_edit": "源审计后按 tr-01 术语摘录与提示词准备",
+  "risk_level": "B 中",
+  "confidentiality": "公开源；未公开草稿与审稿意见不入模型",
+  "communication": "任务 evidence＋journal",
+  "qualifications": "见 task.competences（ISO 17100 3.1.3–3.1.7）"
+ },
+ "pe": {
+  "level": "full",
+  "system": "DeepSeek-V4.1-Flash",
+  "disclosure": "任务 evidence 与词条译后编辑记录"
+ },
+ "state": "done",
+ "steps": [
+  {
+   "step": "ex-04",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T10:04:35Z",
+   "evidence": "T149 ex-04 源审计完成：en_integrity clean 1/1（hard 0、资产缺件 0）；en_source_audit hard 0、warn 2（win2016/sum2024 均为 SEP 存档版 URL 段，false-positive）；结构计数：脚注定义 369、标记 489（不同键 341）、标题 24、表 1、图 0、公式 0；无 Critical/Major；证据 results/t149-review.md"
   },
-  "pe": {
-    "level": "full",
-    "system": "DeepSeek-V4.1-Flash",
-    "disclosure": "任务 evidence 与词条译后编辑记录"
+  {
+   "step": "tr-02",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T10:25:16Z",
+   "evidence": "T150/T151 全量重译＋full PE（译后编辑）：§1–§8＋尾节＋369 条脚注入库；文件 961 行/15,007 汉字；正文 96 块与 en 96 块一一对应；账本 tasks/e/environmental-aesthetics.ledger.yaml 98 段（96 body＋2 oir），step2 与正文一致；check_pairs 0 issue、check_style/check_quotes 0、check_math_zh 0、check_terms 硬 0、check_academic --strict 无硬错误、check_all 23/23；证据 results/t151-review.md"
   },
-  "state": "done",
-  "steps": [
-    {
-      "step": "ex-04",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T10:04:35Z",
-      "evidence": "T149 ex-04 源审计完成：en_integrity clean 1/1（hard 0、资产缺件 0）；en_source_audit hard 0、warn 2（win2016/sum2024 均为 SEP 存档版 URL 段，false-positive）；结构计数：脚注定义 369、标记 489（不同键 341）、标题 24、表 1、图 0、公式 0；无 Critical/Major；证据 results/t149-review.md"
-    },
-    {
-      "step": "tr-02",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T10:25:16Z",
-      "evidence": "T150/T151 全量重译＋full PE（译后编辑）：§1–§8＋尾节＋369 条脚注入库；文件 961 行/15,007 汉字；正文 96 块与 en 96 块一一对应；账本 tasks/e/environmental-aesthetics.ledger.yaml 98 段（96 body＋2 oir），step2 与正文一致；check_pairs 0 issue、check_style/check_quotes 0、check_math_zh 0、check_terms 硬 0、check_academic --strict 无硬错误、check_all 23/23；证据 results/t151-review.md"
-    },
-    {
-      "step": "tr-03",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T10:28:47Z",
-      "evidence": "T152 tr-03 一校完成：账本 98 段（96 body＋2 oir）守恒，96/96 正文块对应；369 脚注定义、489 标记（341 键）、悬空 0；check_pairs/check_style/check_quotes 0、check_math_zh 0、check_terms 硬 0、check_academic --strict 无硬错误、check_all 23/23；残留外文 0（informing 已改"
-    },
-    {
-      "step": "tr-04",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T10:30:05Z",
-      "evidence": "T152 tr-04 二校完成：check_prose 19→2（17 处改写；2 条豁免：L23 康德崇高定语链、L51 与如画相关介宾结构）；语体：现代汉语学术书面语；check_style/check_quotes/check_pairs 0、check_academic --strict 与 check_math_zh 0 硬错误；账本重建 98 段（96 body＋2 oir），step2 与正文 96/96 一致；证据 results/t152-tr04.md"
-    },
-    {
-      "step": "rv-01",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T10:31:09Z",
-      "evidence": "T152 rv-01 三轴完成：6 组术语按登记册统一（环境伦理学/景观模式/自然环境模式/肯定美学/风景美学/场所感，共 29 处）；22 条人名按条目 D5 保留拉丁形并豁免（引注可溯）；check_terms 硬 0、check_style/check_quotes/check_pairs 0、check_academic --strict 无硬错误、check_all 23/23；无新勘误；账本重建 98 段；证据 results/t152-rv01.md"
-    },
-    {
-      "step": "rv-02",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T10:31:29Z",
-      "evidence": "T152 rv-02 两轴复检完成：账本 98 段守恒（96 body 与正文 96 块对应）；脚注 489 标记（341 键）、369 定义、悬空 0；密度统计（破折号 34、一个 31、的 623 约 4.15%）与冷置回读（导论/§1.2/§2.1/§3.2/§4.4/§4.6）留痕；check_pairs/check_style/check_quotes 0，check_math_zh 0，check_terms 硬 0，check_academic --strict 无硬错误，check_all 23/23；未改文；证据 results/t152-rv02.md"
-    },
-    {
-      "step": "rv-03",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T10:32:54Z",
-      "evidence": "T152 rv-03 引文锁定完成：候选 18（block 3/inline 15），pass 9、waived 9、pending 0、anchor 全非空；cite_audit --gate 0；凭证 state/axis/environmental-aesthetics.cite.json、results/t152-rv03.md"
-    },
-    {
-      "step": "rv-04",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T10:32:59Z",
-      "evidence": "T152 rv-04 逻辑完成：散句 380、承载 91、候选 15，全部逐块对照记 equivalent，真缺陷 0；logic_audit --gate 0；凭证 state/axis/environmental-aesthetics.logic.jsonl、results/t152-rv04.md"
-    },
-    {
-      "step": "rv-05",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T10:33:04Z",
-      "evidence": "T152 rv-05 语法完成：380 散句，告警 2（L23 G-11 学术定语链、L51 G-14 介宾结构）均豁免；grammar_audit --gate 0；凭证 state/axis/environmental-aesthetics.grammar.json、results/t152-rv05.md"
-    },
-    {
-      "step": "rv-06",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T10:33:09Z",
-      "evidence": "T152 rv-06 语域完成：4 个 H2 节全部定档 R-1；R-b/d/e/f 均 0；register_audit --gate 0；凭证 state/axis/environmental-aesthetics.register.json、results/t152-rv06.md"
-    },
-    {
-      "step": "rv-07",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T10:33:13Z",
-      "evidence": "T152 rv-07 计量完成：量值 0；M-1/M-2/M-4/M-5/M-6 无命中；measure_audit --gate 0；凭证 state/axis/environmental-aesthetics.measure.json、results/t152-rv07.md"
-    },
-    {
-      "step": "rv-08",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T10:33:18Z",
-      "evidence": "T152 rv-08 标点完成：P-7 冒号套用 2 处（L33/L107）已修；P-13 引文页码 en dash 1 条 waived；punct_audit --gate 0；六轴机检全部 0；凭证 state/axis/environmental-aesthetics.punct.json、results/t152-rv08.md"
-    },
-    {
-      "step": "rv-09",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T10:33:37Z",
-      "evidence": "T152 rv-09 体例终校完成：H1/pubinfo/小节编号/尾序（参考文献>学术工具>其他网络资源>相关词条>致谢>脚注）/脚注 489 标记·341 键·369 定义·悬空 0；六轴出口齐备；check_style、check_quotes、check_pairs --gate 0，check_academic --strict 与 check_math_zh --strict 0 硬错误，check_all 23/23；未改文；证据 results/t152-rv09.md"
-    },
-    {
-      "step": "sg-01",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T10:35:36Z",
-      "evidence": "T153 sg-01 初审通过：抽读导论/§1.2/§2.1/§3.2/§4.4/§4.6；可读性、术语习惯、背景提示、语体一致四维通过；无 Critical/Major；Minor 2（人名拉丁形、致谢位置）不阻断；未改文；证据 results/t153-sg01.md"
-    },
-    {
-      "step": "sg-02",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T10:35:36Z",
-      "evidence": "T153 sg-02 复审通过：§1→§2→§3→§4 逻辑链连贯；指代与跨节呼应（如画/崇高/肯定美学/生态美学）一致；引块 3 与正文对应；问题单无 Critical/Major；未改文；证据 results/t153-sg02.md；sg-03 待用户 mandate"
-    },
-    {
-      "step": "sg-03",
-      "status": "ok",
-      "actor": "user",
-      "at": "2026-11-27T10:40:20Z",
-      "evidence": "T153 sg-03 终审签字（user）：交付清单完整（正文 §1–§8、H1/pubinfo、尾节六序、脚注 369、账本 98 段、SUMMARY 链接）；version_pin cf76e176…e8257e 有效；check_all 23/23、check_academic --strict 与 check_math_zh --strict 0 硬错误；六轴 gate 0；同源盲区已按 rv-02 密度统计＋冷置回读补偿；遗留观察 3 条不阻断；证据 results/t153-sg03.md",
-      "mandate": "2026-11-27 用户指令：好的，授权 sg-03 并计算任务书执行总进度；范围：zh/e/environmental-aesthetics.md 终审"
-    },
-    {
-      "step": "done",
-      "status": "ok",
-      "actor": "user",
-      "at": "2026-11-27T10:40:20Z",
-      "evidence": "sg-03 用户签字后置 done：用户 2026-11-27 授权 sg-03（范围 zh/e/environmental-aesthetics.md）；check_all 23/23；交付清单完整、version_pin 有效、六轴 gate 0；证据 results/t153-sg03.md"
-    }
-  ],
-  "blockers": [],
-  "created_at": "2026-11-01T11:02:17Z",
-  "version_pin": {
-    "pubinfo_date": "Aug 16, 2024",
-    "archive_edition": "Fall 2024",
-    "sha256": "cf76e1762767929905cfd650fbe9ca539b635e7719d062a127243d302be8257e"
+  {
+   "step": "tr-03",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T10:28:47Z",
+   "evidence": "T152 tr-03 一校完成：账本 98 段（96 body＋2 oir）守恒，96/96 正文块对应；369 脚注定义、489 标记（341 键）、悬空 0；check_pairs/check_style/check_quotes 0、check_math_zh 0、check_terms 硬 0、check_academic --strict 无硬错误、check_all 23/23；残留外文 0（informing 已改"
   },
-  "state_migrated": {
-    "at": "2026-11-25T00:31:40Z",
-    "from": "s2.4_termchecked",
-    "to": "rv-01_checked",
-    "by": "ADR-0080"
+  {
+   "step": "tr-04",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T10:30:05Z",
+   "evidence": "T152 tr-04 二校完成：check_prose 19→2（17 处改写；2 条豁免：L23 康德崇高定语链、L51 与如画相关介宾结构）；语体：现代汉语学术书面语；check_style/check_quotes/check_pairs 0、check_academic --strict 与 check_math_zh 0 硬错误；账本重建 98 段（96 body＋2 oir），step2 与正文 96/96 一致；证据 results/t152-tr04.md"
+  },
+  {
+   "step": "rv-01",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T10:31:09Z",
+   "evidence": "T152 rv-01 三轴完成：6 组术语按登记册统一（环境伦理学/景观模式/自然环境模式/肯定美学/风景美学/场所感，共 29 处）；22 条人名按条目 D5 保留拉丁形并豁免（引注可溯）；check_terms 硬 0、check_style/check_quotes/check_pairs 0、check_academic --strict 无硬错误、check_all 23/23；无新勘误；账本重建 98 段；证据 results/t152-rv01.md"
+  },
+  {
+   "step": "rv-02",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T10:31:29Z",
+   "evidence": "T152 rv-02 两轴复检完成：账本 98 段守恒（96 body 与正文 96 块对应）；脚注 489 标记（341 键）、369 定义、悬空 0；密度统计（破折号 34、一个 31、的 623 约 4.15%）与冷置回读（导论/§1.2/§2.1/§3.2/§4.4/§4.6）留痕；check_pairs/check_style/check_quotes 0，check_math_zh 0，check_terms 硬 0，check_academic --strict 无硬错误，check_all 23/23；未改文；证据 results/t152-rv02.md"
+  },
+  {
+   "step": "rv-03",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T10:32:54Z",
+   "evidence": "T152 rv-03 引文锁定完成：候选 18（block 3/inline 15），pass 9、waived 9、pending 0、anchor 全非空；cite_audit --gate 0；凭证 state/axis/environmental-aesthetics.cite.json、results/t152-rv03.md"
+  },
+  {
+   "step": "rv-04",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T10:32:59Z",
+   "evidence": "T152 rv-04 逻辑完成：散句 380、承载 91、候选 15，全部逐块对照记 equivalent，真缺陷 0；logic_audit --gate 0；凭证 state/axis/environmental-aesthetics.logic.jsonl、results/t152-rv04.md"
+  },
+  {
+   "step": "rv-05",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T10:33:04Z",
+   "evidence": "T152 rv-05 语法完成：380 散句，告警 2（L23 G-11 学术定语链、L51 G-14 介宾结构）均豁免；grammar_audit --gate 0；凭证 state/axis/environmental-aesthetics.grammar.json、results/t152-rv05.md"
+  },
+  {
+   "step": "rv-06",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T10:33:09Z",
+   "evidence": "T152 rv-06 语域完成：4 个 H2 节全部定档 R-1；R-b/d/e/f 均 0；register_audit --gate 0；凭证 state/axis/environmental-aesthetics.register.json、results/t152-rv06.md"
+  },
+  {
+   "step": "rv-07",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T10:33:13Z",
+   "evidence": "T152 rv-07 计量完成：量值 0；M-1/M-2/M-4/M-5/M-6 无命中；measure_audit --gate 0；凭证 state/axis/environmental-aesthetics.measure.json、results/t152-rv07.md"
+  },
+  {
+   "step": "rv-08",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T10:33:18Z",
+   "evidence": "T152 rv-08 标点完成：P-7 冒号套用 2 处（L33/L107）已修；P-13 引文页码 en dash 1 条 waived；punct_audit --gate 0；六轴机检全部 0；凭证 state/axis/environmental-aesthetics.punct.json、results/t152-rv08.md"
+  },
+  {
+   "step": "rv-09",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T10:33:37Z",
+   "evidence": "T152 rv-09 体例终校完成：H1/pubinfo/小节编号/尾序（参考文献>学术工具>其他网络资源>相关词条>致谢>脚注）/脚注 489 标记·341 键·369 定义·悬空 0；六轴出口齐备；check_style、check_quotes、check_pairs --gate 0，check_academic --strict 与 check_math_zh --strict 0 硬错误，check_all 23/23；未改文；证据 results/t152-rv09.md"
+  },
+  {
+   "step": "sg-01",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T10:35:36Z",
+   "evidence": "T153 sg-01 初审通过：抽读导论/§1.2/§2.1/§3.2/§4.4/§4.6；可读性、术语习惯、背景提示、语体一致四维通过；无 Critical/Major；Minor 2（人名拉丁形、致谢位置）不阻断；未改文；证据 results/t153-sg01.md"
+  },
+  {
+   "step": "sg-02",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-27T10:35:36Z",
+   "evidence": "T153 sg-02 复审通过：§1→§2→§3→§4 逻辑链连贯；指代与跨节呼应（如画/崇高/肯定美学/生态美学）一致；引块 3 与正文对应；问题单无 Critical/Major；未改文；证据 results/t153-sg02.md；sg-03 待用户 mandate"
+  },
+  {
+   "step": "sg-03",
+   "status": "ok",
+   "actor": "user",
+   "at": "2026-11-27T10:40:20Z",
+   "evidence": "T153 sg-03 终审签字（user）：交付清单完整（正文 §1–§8、H1/pubinfo、尾节六序、脚注 369、账本 98 段、SUMMARY 链接）；version_pin cf76e176…e8257e 有效；check_all 23/23、check_academic --strict 与 check_math_zh --strict 0 硬错误；六轴 gate 0；同源盲区已按 rv-02 密度统计＋冷置回读补偿；遗留观察 3 条不阻断；证据 results/t153-sg03.md",
+   "mandate": "2026-11-27 用户指令：好的，授权 sg-03 并计算任务书执行总进度；范围：zh/e/environmental-aesthetics.md 终审"
+  },
+  {
+   "step": "done",
+   "status": "ok",
+   "actor": "user",
+   "at": "2026-11-27T10:40:20Z",
+   "evidence": "sg-03 用户签字后置 done：用户 2026-11-27 授权 sg-03（范围 zh/e/environmental-aesthetics.md）；check_all 23/23；交付清单完整、version_pin 有效、六轴 gate 0；证据 results/t153-sg03.md"
+  },
+  {
+   "step": "sg-01",
+   "status": "ok",
+   "actor": "glm-main",
+   "at": "2026-11-28T10:45:05Z",
+   "evidence": "sg-01 全量初审通过：zh 正文全量逐段对照 en 审读（非抽样）；四维结论、Minor 清单与移交项见 specs/064-flow-spec-audit/results/pilot/sg01-environmental-aesthetics.md；未改文；取代同日抽审记录（用户裁定禁止抽审） 语体：现代汉语学术书面语，全文一致（四维结论详见 sg01 详录）。"
   }
+ ],
+ "blockers": [],
+ "created_at": "2026-11-01T11:02:17Z",
+ "version_pin": {
+  "pubinfo_date": "Aug 16, 2024",
+  "archive_edition": "Fall 2024",
+  "sha256": "cf76e1762767929905cfd650fbe9ca539b635e7719d062a127243d302be8257e"
+ },
+ "state_migrated": {
+  "at": "2026-11-25T00:31:40Z",
+  "from": "s2.4_termchecked",
+  "to": "rv-01_checked",
+  "by": "ADR-0080"
+ },
+ "competences": {
+  "glm-main": {
+   "qualification": "GLM-5.3-Flash 会话（LLM）；用户 2026-11-28 指定接任独立审校，接替 DeepSeek 会话（trae-main）",
+   "experience": "SEP-CN v2 规则（rules/02–10）全量熟悉；本项目 11 件 pilot 独立审校执行者",
+   "domain": "哲学美学与环境美学审校（美学史、环境伦理、跨文化美学）",
+   "training": "MQM／ISO 5060 严重度分级；对照源逐段审校方法；中文哲学界术语习惯"
+  }
+ }
 }

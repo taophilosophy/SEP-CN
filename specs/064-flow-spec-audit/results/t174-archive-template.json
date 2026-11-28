@@ -1,15 +1,71 @@
 {
-  "slug": "project-template",
-  "date": "2026-11-28",
-  "note": "项目级示例：scorecard／editing 暂以项目级评分卡与编校清单代表；逐件归档时替换为件级产物。",
-  "items": [
-    {"type": "spec", "path": "specs/064-flow-spec-audit/spec.md", "sha256": "c08ca755c230a49556fadc739e7cd086a053f334d516c7dd936d52950fdca372", "date": "2026-11-28", "owner": "governance", "status": "present"},
-    {"type": "source", "path": "html/habermas/index.html", "sha256": "8f15af6efaba8c9c03cf4031227bee2bc57bc024c8a85739614571b611cebe32", "date": "2026-11-28", "owner": "source-audit", "status": "present"},
-    {"type": "tbx", "path": "baseline/termbase-sample.tbx", "sha256": "c68001d46b6e3feff969b7e143196db4e4cdc4a80f1e8b38c5a0490a241e58a0", "date": "2026-11-28", "owner": "terminologist", "status": "present"},
-    {"type": "model", "path": "baseline/model-registry.json", "sha256": "6b83ae12d54425958cf8f8deddaa2285077d63d72a3260045827482b67744619", "date": "2026-11-28", "owner": "ai-steward", "status": "present"},
-    {"type": "review", "path": "specs/064-flow-spec-audit/results/e2e-habermas.md", "sha256": "9866bf6d241c534839a647da35bee80af16e9cbdf869f5b04bde0b84057cac33", "date": "2026-11-28", "owner": "review-line", "status": "present"},
-    {"type": "scorecard", "path": "rules/qa-scorecard.json", "sha256": "3da84d95f056083cfb9824baf5b81499e7d386d5b9a3ea54c42968459bc993e0", "date": "2026-11-28", "owner": "qa-lead", "status": "present"},
-    {"type": "editing", "path": "specs/064-flow-spec-audit/results/t173-academic-checklist.md", "sha256": "64b55c1904f55b2f72266ca2d2546f3793cbced9cc47eb0246b3268d819ed522", "date": "2026-11-28", "owner": "copyeditor", "status": "present"},
-    {"type": "release", "path": "tasks/h/habermas.json", "sha256": "10ec8e1a7390e30e3252246eda049752f375b1e67cae5ddae614d3f6dc5dd798", "date": "2026-11-28", "owner": "editor", "status": "present"}
-  ]
+ "slug": "project-template",
+ "date": "2026-11-28",
+ "note": "项目级示例：scorecard／editing 暂以项目级评分卡与编校清单代表；逐件归档时替换为件级产物。",
+ "items": [
+  {
+   "type": "spec",
+   "path": "specs/064-flow-spec-audit/spec.md",
+   "sha256": "c08ca755c230a49556fadc739e7cd086a053f334d516c7dd936d52950fdca372",
+   "date": "2026-11-28",
+   "owner": "governance",
+   "status": "present"
+  },
+  {
+   "type": "source",
+   "path": "html/habermas/index.html",
+   "sha256": "8f15af6efaba8c9c03cf4031227bee2bc57bc024c8a85739614571b611cebe32",
+   "date": "2026-11-28",
+   "owner": "source-audit",
+   "status": "present"
+  },
+  {
+   "type": "tbx",
+   "path": "baseline/termbase-sample.tbx",
+   "sha256": "c68001d46b6e3feff969b7e143196db4e4cdc4a80f1e8b38c5a0490a241e58a0",
+   "date": "2026-11-28",
+   "owner": "terminologist",
+   "status": "present"
+  },
+  {
+   "type": "model",
+   "path": "baseline/model-registry.json",
+   "sha256": "6b83ae12d54425958cf8f8deddaa2285077d63d72a3260045827482b67744619",
+   "date": "2026-11-28",
+   "owner": "ai-steward",
+   "status": "present"
+  },
+  {
+   "type": "review",
+   "path": "specs/064-flow-spec-audit/results/e2e-habermas.md",
+   "sha256": "9866bf6d241c534839a647da35bee80af16e9cbdf869f5b04bde0b84057cac33",
+   "date": "2026-11-28",
+   "owner": "review-line",
+   "status": "present"
+  },
+  {
+   "type": "scorecard",
+   "path": "rules/qa-scorecard.json",
+   "sha256": "3da84d95f056083cfb9824baf5b81499e7d386d5b9a3ea54c42968459bc993e0",
+   "date": "2026-11-28",
+   "owner": "qa-lead",
+   "status": "present"
+  },
+  {
+   "type": "editing",
+   "path": "specs/064-flow-spec-audit/results/t173-academic-checklist.md",
+   "sha256": "64b55c1904f55b2f72266ca2d2546f3793cbced9cc47eb0246b3268d819ed522",
+   "date": "2026-11-28",
+   "owner": "copyeditor",
+   "status": "present"
+  },
+  {
+   "type": "release",
+   "path": "tasks/h/habermas.json",
+   "sha256": "2da07cec910ecd0eb16624a56c3f05f85e84bec247717203eebd6f690c7d04da",
+   "date": "2026-11-28",
+   "owner": "editor",
+   "status": "present"
+  }
+ ]
 }

@@ -29,15 +29,22 @@
     "pe_evidence": true
    },
    "P3": {
-    "status": "blocked",
-    "actors": {
-     "tr-02": "trae-main",
-     "sg-01": "trae-main",
-     "sg-02": "trae-main",
-     "sg-03": "user"
+    "status": "partial",
+    "sg-01": {
+     "status": "pass",
+     "actor": "glm-main",
+     "model": "GLM-5.3-Flash",
+     "date": "2026-11-28",
+     "scope": "full",
+     "evidence": "全量初审通过（四维＋Minor 清单＋移交项）：specs/064-flow-spec-audit/results/pilot/sg01-habermas.md"
     },
-    "competences": 0,
-    "reason": "审校 actor 未四分离或缺 competence；单代理不能伪造独立审校"
+    "sg-02": {
+     "status": "blocked",
+     "reason": "四审分离要求初审≠复审；本轮 sg-01 已由 glm-main 执行，复审须另一独立 actor（用户或另一模型会话）"
+    },
+    "competences": [
+     "glm-main"
+    ]
    },
    "P4": {
     "status": "planned",
@@ -80,15 +87,25 @@
     "pe_evidence": true
    },
    "P3": {
-    "status": "blocked",
+    "status": "partial",
     "actors": {
      "tr-02": "trae-main",
      "sg-01": "trae-main",
      "sg-02": "trae-main",
      "sg-03": "user"
     },
-    "competences": 0,
-    "reason": "审校 actor 未四分离或缺 competence；单代理不能伪造独立审校"
+    "competences": [
+     "glm-main"
+    ],
+    "reason": "审校 actor 未四分离或缺 competence；单代理不能伪造独立审校",
+    "sg-01": {
+     "status": "pass",
+     "actor": "glm-main",
+     "model": "GLM-5.3-Flash",
+     "date": "2026-11-28",
+     "scope": "full",
+     "evidence": "全量初审通过（四维＋Minor 清单＋移交项）：specs/064-flow-spec-audit/results/pilot/sg01-logic-preference.md"
+    }
    },
    "P4": {
     "status": "planned",
@@ -131,15 +148,25 @@
     "pe_evidence": true
    },
    "P3": {
-    "status": "blocked",
+    "status": "partial",
     "actors": {
      "tr-02": "trae-main",
      "sg-01": "trae-main",
      "sg-02": "trae-main",
      "sg-03": "user"
     },
-    "competences": 0,
-    "reason": "审校 actor 未四分离或缺 competence；单代理不能伪造独立审校"
+    "competences": [
+     "glm-main"
+    ],
+    "reason": "审校 actor 未四分离或缺 competence；单代理不能伪造独立审校",
+    "sg-01": {
+     "status": "pass",
+     "actor": "glm-main",
+     "model": "GLM-5.3-Flash",
+     "date": "2026-11-28",
+     "scope": "full",
+     "evidence": "全量初审通过（四维＋Minor 清单＋移交项）：specs/064-flow-spec-audit/results/pilot/sg01-environmental-aesthetics.md"
+    }
    },
    "P4": {
     "status": "planned",
@@ -182,15 +209,25 @@
     "pe_evidence": true
    },
    "P3": {
-    "status": "blocked",
+    "status": "partial",
     "actors": {
      "tr-02": "trae-main",
      "sg-01": "trae-main",
      "sg-02": "trae-main",
      "sg-03": "user"
     },
-    "competences": 0,
-    "reason": "审校 actor 未四分离或缺 competence；单代理不能伪造独立审校"
+    "competences": [
+     "glm-main"
+    ],
+    "reason": "审校 actor 未四分离或缺 competence；单代理不能伪造独立审校",
+    "sg-01": {
+     "status": "pass",
+     "actor": "glm-main",
+     "model": "GLM-5.3-Flash",
+     "date": "2026-11-28",
+     "scope": "full",
+     "evidence": "全量初审通过（四维＋Minor 清单＋移交项）：specs/064-flow-spec-audit/results/pilot/sg01-imprecise-probabilities.md"
+    }
    },
    "P4": {
     "status": "planned",
@@ -233,15 +270,25 @@
     "pe_evidence": true
    },
    "P3": {
-    "status": "blocked",
+    "status": "partial",
     "actors": {
      "tr-02": "trae-main",
      "sg-01": "trae-main",
      "sg-02": "trae-main",
      "sg-03": "user"
     },
-    "competences": 0,
-    "reason": "审校 actor 未四分离或缺 competence；单代理不能伪造独立审校"
+    "competences": [
+     "glm-main"
+    ],
+    "reason": "审校 actor 未四分离或缺 competence；单代理不能伪造独立审校",
+    "sg-01": {
+     "status": "pass",
+     "actor": "glm-main",
+     "model": "GLM-5.3-Flash",
+     "date": "2026-11-28",
+     "scope": "full",
+     "evidence": "全量初审通过（四维＋Minor 清单＋移交项）：specs/064-flow-spec-audit/results/pilot/sg01-action.md"
+    }
    },
    "P4": {
     "status": "planned",
@@ -284,15 +331,25 @@
     "pe_evidence": true
    },
    "P3": {
-    "status": "blocked",
+    "status": "partial",
     "actors": {
      "tr-02": "trae-main",
      "sg-01": "trae-main",
      "sg-02": "trae-main",
      "sg-03": "user"
     },
-    "competences": 0,
-    "reason": "审校 actor 未四分离或缺 competence；单代理不能伪造独立审校"
+    "competences": [
+     "glm-main"
+    ],
+    "reason": "审校 actor 未四分离或缺 competence；单代理不能伪造独立审校",
+    "sg-01": {
+     "status": "pass",
+     "actor": "glm-main",
+     "model": "GLM-5.3-Flash",
+     "date": "2026-11-28",
+     "scope": "full",
+     "evidence": "全量初审通过（四维＋Minor 清单＋移交项）：specs/064-flow-spec-audit/results/pilot/sg01-axiom-choice.md"
+    }
    },
    "P4": {
     "status": "planned",
@@ -335,15 +392,25 @@
     "pe_evidence": true
    },
    "P3": {
-    "status": "blocked",
+    "status": "partial",
     "actors": {
      "tr-02": "trae-main",
      "sg-01": "trae-main",
      "sg-02": "trae-main",
      "sg-03": "user"
     },
-    "competences": 0,
-    "reason": "审校 actor 未四分离或缺 competence；单代理不能伪造独立审校"
+    "competences": [
+     "glm-main"
+    ],
+    "reason": "审校 actor 未四分离或缺 competence；单代理不能伪造独立审校",
+    "sg-01": {
+     "status": "pass",
+     "actor": "glm-main",
+     "model": "GLM-5.3-Flash",
+     "date": "2026-11-28",
+     "scope": "full",
+     "evidence": "全量初审通过（四维＋Minor 清单＋移交项）：specs/064-flow-spec-audit/results/pilot/sg01-newton-principia.md"
+    }
    },
    "P4": {
     "status": "planned",
@@ -386,15 +453,25 @@
     "pe_evidence": true
    },
    "P3": {
-    "status": "blocked",
+    "status": "partial",
     "actors": {
      "tr-02": "trae-main",
      "sg-01": "trae-main",
      "sg-02": "trae-main",
      "sg-03": "user"
     },
-    "competences": 0,
-    "reason": "审校 actor 未四分离或缺 competence；单代理不能伪造独立审校"
+    "competences": [
+     "glm-main"
+    ],
+    "reason": "审校 actor 未四分离或缺 competence；单代理不能伪造独立审校",
+    "sg-01": {
+     "status": "pass",
+     "actor": "glm-main",
+     "model": "GLM-5.3-Flash",
+     "date": "2026-11-28",
+     "scope": "full",
+     "evidence": "全量初审通过（四维＋Minor 清单＋移交项）：specs/064-flow-spec-audit/results/pilot/sg01-logic-dynamic.md"
+    }
    },
    "P4": {
     "status": "planned",
@@ -437,15 +514,25 @@
     "pe_evidence": true
    },
    "P3": {
-    "status": "blocked",
+    "status": "partial",
     "actors": {
      "tr-02": "trae-main",
      "sg-01": "trae-main",
      "sg-02": "trae-main",
      "sg-03": "user"
     },
-    "competences": 0,
-    "reason": "审校 actor 未四分离或缺 competence；单代理不能伪造独立审校"
+    "competences": [
+     "glm-main"
+    ],
+    "reason": "审校 actor 未四分离或缺 competence；单代理不能伪造独立审校",
+    "sg-01": {
+     "status": "pass",
+     "actor": "glm-main",
+     "model": "GLM-5.3-Flash",
+     "date": "2026-11-28",
+     "scope": "full",
+     "evidence": "全量初审通过（四维＋Minor 清单＋移交项）：specs/064-flow-spec-audit/results/pilot/sg01-japanese-aesthetics.md"
+    }
    },
    "P4": {
     "status": "planned",
@@ -488,15 +575,25 @@
     "pe_evidence": true
    },
    "P3": {
-    "status": "blocked",
+    "status": "partial",
     "actors": {
      "tr-02": "trae-main",
      "sg-01": "trae-main",
      "sg-02": "trae-main",
      "sg-03": "user"
     },
-    "competences": 0,
-    "reason": "审校 actor 未四分离或缺 competence；单代理不能伪造独立审校"
+    "competences": [
+     "glm-main"
+    ],
+    "reason": "审校 actor 未四分离或缺 competence；单代理不能伪造独立审校",
+    "sg-01": {
+     "status": "pass",
+     "actor": "glm-main",
+     "model": "GLM-5.3-Flash",
+     "date": "2026-11-28",
+     "scope": "full",
+     "evidence": "全量初审通过（四维＋Minor 清单＋移交项）：specs/064-flow-spec-audit/results/pilot/sg01-kokugaku-school.md"
+    }
    },
    "P4": {
     "status": "planned",
@@ -539,15 +636,25 @@
     "pe_evidence": true
    },
    "P3": {
-    "status": "blocked",
+    "status": "partial",
     "actors": {
      "tr-02": "trae-main",
      "sg-01": "trae-main",
      "sg-02": "trae-main",
      "sg-03": "user"
     },
-    "competences": 0,
-    "reason": "审校 actor 未四分离或缺 competence；单代理不能伪造独立审校"
+    "competences": [
+     "glm-main"
+    ],
+    "reason": "审校 actor 未四分离或缺 competence；单代理不能伪造独立审校",
+    "sg-01": {
+     "status": "pass",
+     "actor": "glm-main",
+     "model": "GLM-5.3-Flash",
+     "date": "2026-11-28",
+     "scope": "full",
+     "evidence": "全量初审通过（四维＋Minor 清单＋移交项）：specs/064-flow-spec-audit/results/pilot/sg01-digital-art.md"
+    }
    },
    "P4": {
     "status": "planned",

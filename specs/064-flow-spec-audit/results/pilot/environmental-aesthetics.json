@@ -25,15 +25,25 @@
   "pe_evidence": true
  },
  "P3": {
-  "status": "blocked",
+  "status": "partial",
   "actors": {
    "tr-02": "trae-main",
    "sg-01": "trae-main",
    "sg-02": "trae-main",
    "sg-03": "user"
   },
-  "competences": 0,
-  "reason": "审校 actor 未四分离或缺 competence；单代理不能伪造独立审校"
+  "competences": [
+   "glm-main"
+  ],
+  "reason": "审校 actor 未四分离或缺 competence；单代理不能伪造独立审校",
+  "sg-01": {
+   "status": "pass",
+   "actor": "glm-main",
+   "model": "GLM-5.3-Flash",
+   "date": "2026-11-28",
+   "scope": "full",
+   "evidence": "全量初审通过（四维＋Minor 清单＋移交项）：specs/064-flow-spec-audit/results/pilot/sg01-environmental-aesthetics.md"
+  }
  },
  "P4": {
   "status": "planned",

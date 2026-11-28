@@ -32,8 +32,11 @@
 | `.gitattributes` | 换行与二进制属性（UTF-8/LF 契约的机读面） | 是 |
 | `.gitignore` | 忽略规则；只管不入库，不管可堆放 | 是 |
 | `.markdownlint-cli2.jsonc` | markdownlint 唯一配置（ADR-0061） | 是 |
+| `.mimosa` | Mimosa 安全扫描插件运行态；不入库 | 否 |
+| `.screenshots` | CDP 量测探针截图输出；不入库 | 否 |
 | `.secrets`、`.workbuddy`、`.workbuddy-ai`、`.zcode` | 本地凭证、会话记忆与代理配置（ADR-0035 登记例外） | 否 |
 | `AGENTS.md` | AI 代理入口指针；不复制数字、不新增义务（S6） | 是 |
+| `CLAUDE-SECURITY-SMOKE` | Claude Security 冒烟检测运行态；不入库 | 否 |
 | `CODE_OF_CONDUCT.md`、`CONTRIBUTING.md` | 行为准则与贡献指南 | 是 |
 | `LICENSE` | 许可（BSD-2-Clause；SEP 文本另受 CC BY-NC-SA 约束） | 是 |
 | `README.md` | 访客说明；不承载规则 | 是 |

@@ -1,165 +1,180 @@
 {
-  "slug": "japanese-aesthetics",
-  "kind": "retranslate",
-  "zh_doc": "zh/j/japanese-aesthetics.md",
-  "state": "done",
-  "translation_mode": "llm-pe",
-  "project_spec": {
-    "audience": "中文哲学读者（研究者与研究生为主）",
-    "purpose": "学术阅读与引用（SEP 词条简体中文译本）",
-    "register": "现代汉语学术书面语",
-    "terminology_basis": "shu-yu-biao.md／ren-ming-biao.md／baseline/term-concepts.md",
-    "delivery": "GitBook Markdown＋VitePress 双语站",
-    "qa_level": "CY/T 266＋ISO 5060（六轴机检＋人工复核）",
-    "language_pair": "en → zh-Hans",
-    "content_type": "学术百科词条（SEP）",
-    "subject_field": "哲学（按词条分支）",
-    "workflow": "retranslate 22 节点（rules/04）",
-    "pe_level": "full",
-    "pre_edit": "源审计后按 tr-01 术语摘录与提示词准备",
-    "risk_level": "B 中",
-    "confidentiality": "公开源；未公开草稿与审稿意见不入模型",
-    "communication": "任务 evidence＋journal",
-    "qualifications": "见 task.competences（ISO 17100 3.1.3–3.1.7）"
+ "slug": "japanese-aesthetics",
+ "kind": "retranslate",
+ "zh_doc": "zh/j/japanese-aesthetics.md",
+ "state": "done",
+ "translation_mode": "llm-pe",
+ "project_spec": {
+  "audience": "中文哲学读者（研究者与研究生为主）",
+  "purpose": "学术阅读与引用（SEP 词条简体中文译本）",
+  "register": "现代汉语学术书面语",
+  "terminology_basis": "shu-yu-biao.md／ren-ming-biao.md／baseline/term-concepts.md",
+  "delivery": "GitBook Markdown＋VitePress 双语站",
+  "qa_level": "CY/T 266＋ISO 5060（六轴机检＋人工复核）",
+  "language_pair": "en → zh-Hans",
+  "content_type": "学术百科词条（SEP）",
+  "subject_field": "哲学（按词条分支）",
+  "workflow": "retranslate 22 节点（rules/04）",
+  "pe_level": "full",
+  "pre_edit": "源审计后按 tr-01 术语摘录与提示词准备",
+  "risk_level": "B 中",
+  "confidentiality": "公开源；未公开草稿与审稿意见不入模型",
+  "communication": "任务 evidence＋journal",
+  "qualifications": "见 task.competences（ISO 17100 3.1.3–3.1.7）"
+ },
+ "pe": {
+  "level": "full",
+  "system": "DeepSeek-V4.1-Flash",
+  "disclosure": "任务 evidence 与词条译后编辑记录"
+ },
+ "steps": [
+  {
+   "step": "ex-04",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-28T00:52:12Z",
+   "evidence": "T244 ex-04 源审计（results/t244-review.md）：en_integrity clean 1/1、hard 0；en_source_audit hard 0／warn 0；fetch_audit complete 1/1、72 资产缺件 0；33 图闭包；44 脚注定义（唯一键 44）／8 引用；14 H2＋1 H3；0 公式；6 补充子文档；版本钉 Dec 6, 2023／Spring 2024 一致；无勘误行。"
   },
-  "pe": {
-    "level": "full",
-    "system": "DeepSeek-V4.1-Flash",
-    "disclosure": "任务 evidence 与词条译后编辑记录"
+  {
+   "step": "tr-02",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-28T01:36:03Z",
+   "evidence": "T248 tr-02 全量完成（results/t248-review.md）：译后编辑（PE）全量入库；正文＋尾节＋致谢 13,509 汉字、120 段账本、33 图、44 脚注定义、6 件补充子文档；check_style/quotes/math_zh/terms 0、academic 无硬错误、check_pairs hard 0／out_of_scope 0（dangling 0）；check_all 23/23 全绿。"
   },
-  "steps": [
-    {
-      "step": "ex-04",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-28T00:52:12Z",
-      "evidence": "T244 ex-04 源审计（results/t244-review.md）：en_integrity clean 1/1、hard 0；en_source_audit hard 0／warn 0；fetch_audit complete 1/1、72 资产缺件 0；33 图闭包；44 脚注定义（唯一键 44）／8 引用；14 H2＋1 H3；0 公式；6 补充子文档；版本钉 Dec 6, 2023／Spring 2024 一致；无勘误行。"
-    },
-    {
-      "step": "tr-02",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-28T01:36:03Z",
-      "evidence": "T248 tr-02 全量完成（results/t248-review.md）：译后编辑（PE）全量入库；正文＋尾节＋致谢 13,509 汉字、120 段账本、33 图、44 脚注定义、6 件补充子文档；check_style/quotes/math_zh/terms 0、academic 无硬错误、check_pairs hard 0／out_of_scope 0（dangling 0）；check_all 23/23 全绿。"
-    },
-    {
-      "step": "tr-03",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-28T02:09:10Z",
-      "evidence": "T249 一校（results/t249-tr03.md）：逐节对照 en 全篇（§1–§10、尾节、致谢、44 定义、6 子文档）；Critical 0／Major 0／Minor 1（致谢 Section 7 实为 §10，已改正入勘误第二十一节并加译者注释①）；残留外文 0（日文罗马字／英文书名／机构名除外）；check_style/quotes/math_zh/terms 0、academic 无硬错误、check_pairs 0（errata-apply／note-anchor 过）；账本 120 段。"
-    },
-    {
-      "step": "tr-04",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-28T02:20:03Z",
-      "evidence": "T249 tr-04 二校（results/t249-tr04.md）：check_prose 48→0（long-sentence 8、de-chain 36、weak-verb 3、passive-bei 1），全部改写无豁免；语体结论：现代汉语学术书面语，无文言仿古，破折号 59 对（原文 43）均承担插入或转折功能，未见滥用；一个 30 处无冗赘；尾序修正：译者注释移至脚注定义之后末节；check_style 0、check_quotes 0、check_math_zh 硬 0、check_terms 硬 0、check_academic --strict 无硬错误、check_pairs --gate hard 0/out_of_scope 0、check_images 悬空 0；账本 120 段守恒。"
-    },
-    {
-      "step": "rv-01",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-28T03:22:10Z",
-      "evidence": "T250 rv-01 三轴：术语 check_terms --docs 硬 0（自洽 0），8 处『正文缺登记译法』告警按 D2→D1 逐处订正落地（bushidō=武士道、chayoriai=茶寄合、ikiji=意地、sabireru=荒废、Baudelaire=夏尔·波德莱尔、Thoreau=亨利·大卫·梭罗、Hideyoshi=丰臣秀吉、Nishida Kitarō=西田几多郎；复检 0 处）；体例 check_style 0 issue、check_pairs --gate hard 0/out_of_scope 0（errata-apply、note-anchor 过）；勘误第二十一节 1 行承载=译注①在位；check_prose 0。"
-    },
-    {
-      "step": "rv-02",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-28T03:23:13Z",
-      "evidence": "T250 rv-02 两轴审计：译文轴逐段以账本 120 段对齐 en 120 块，块类型仅 114 段（学术工具）en 引块表↔zh 列表，属 ADR-0037 正典形态，非缺陷；全局轴 H2 14/15（差 1 为译者注释末节，ADR-0065 允许）、H3 1/1、脚注定义 44/44（键集相同）、引用 8/8、图 33/33、6 补充子文档链接全部可解析；年份集仅 zh 多 1920（en 作 1920s），无缺项；密度破折号 59 对（原文 43）逐处复核均承担插入/转折/解释；一个 30 处均对应不定冠词或数量义；AI 套话抽查仅 首先/其次/最后/不仅/可以说是 等常规连接，无空洞拔高；check_math_zh 0、check_math 0、check_academic --strict 无硬错误、check_pairs --gate hard 0/out_of_scope 0、check_style 0、check_terms 0（8 处已落地）、check_prose 0。"
-    },
-    {
-      "step": "rv-03",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-28T03:25:49Z",
-      "evidence": "T250 rv-03 引文轴：cite_audit 42 条（block 10／inline 32），清单 state/axis/japanese-aesthetics.cite.json 已逐条裁定：38 条 pass（日文原著 31 条 origin=ja／unavailable／sep-inline；英文原著 5 条 origin=en／na／self；德文 2 条 origin=de／unavailable／sep-inline）；4 条 waived 为术语级／题名片段（17 匍匐而入之处、18 荒废／变得荒凉、30 表演之优雅、32 无与伦比之魅力的花之艺），按 C-4c 不入直引。unavailable 各条均据 upstream 英文译出，未代造原文；anchor 全部指向 en 行；hash 42/42 守恒；--gate 0 问题。"
-    },
-    {
-      "step": "rv-04",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-28T03:26:54Z",
-      "evidence": "T250 rv-04 逻辑轴：logic_audit 376 散句骨架（trivial 304、logic_bearing 72）；72 条逐条裁定 equivalent，reviewer=trae-main；24 条算子配对候选逐条复核，均为英文 all／no／some／if 与中文语境对应或引文内词形造成的机械差（如 no two countries、all things），未发现量词强弱、否定辖域、条件方向、模态强度漂移；L-1／L-2 抽查未见命题增删与论元角色反转；--gate 0 问题。"
-    },
-    {
-      "step": "rv-05",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-28T03:27:22Z",
-      "evidence": "T250 rv-05 语法轴：grammar_audit 22 条告警全为 G-19 待定形日源词（物哀 11、幽玄 11），均系本词条主题术语用形，已在 shu-yu-biao 登记且首现括注日文原文，非未定形生造词；按 G-17 术语用形与 G-19 防误判逐条裁定 waived（reviewer=trae-main，附 evidence）。G-1／G-5／G-7 三型机检 0；G-9–G-16 反欧化 0（tr-04 check_prose 已清零）；--gate 0 问题。"
-    },
-    {
-      "step": "rv-06",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-28T03:28:03Z",
-      "evidence": "T250 rv-06 语域轴：register_audit 10 节全部定为 R-1（说明性段落按 R-2），无 R-4／R-5 越界；唯一候选 R-d@165「是以」经核为「就是以……而动」的介词框架，非文言连词，判 false-positive；口语／方言／第二人称敬称候选 0；AI 腔抽查未见空洞拔高或公式化排比；baseline/register-baseline.md 尚未建立（全库缺口），按 rules/02 语体结论判与既有 done 件同档；--gate 0 问题。"
-    },
-    {
-      "step": "rv-07",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-28T03:28:48Z",
-      "evidence": "T250 rv-07 计量轴：measure_audit items 0（无 SI 量值对；正文 60 厘米 × 60 厘米、2 英尺等中文名称照录源，符合 rules/02 数字与计量「照录源」）；ranges 27 全篇 en dash 同形，参考文献照录段豁免；连接号归一体例战役（ADR-0041）未立项，不铺量改。issues 10 全为 M-4 误报（ginkakuji2、ryoanji3、LSfathers2 等图片文件名序号被当作「应上标」量值），逐条 false-positive。M-1／M-2／M-3／M-9 零硬错误；--gate 0 问题。"
-    },
-    {
-      "step": "rv-08",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-28T03:29:30Z",
-      "evidence": "T250 rv-08 标点轴：punct_audit 28→0。P-13 数值范围 27 处由 en dash 改为全库统一的一字线（正文生卒年、行内引证页码；书目定义照录段保留 en dash 12 处，未改）；P-7 单句双冒号 1 处（第二点观察是：…：茶道）改为逗号。P-8／P-9／P-11／P-13／P-15／P-18／P-20 硬档 0；check_style 0、check_quotes 0、check_prose 0；--gate 0 问题。"
-    },
-    {
-      "step": "rv-09",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-28T03:34:26Z",
-      "evidence": "T250 rv-09 体例终校：适用规范基线筛查——GB/T 15834-2011（标点）、GB/T 15835-2011（数字与计量）、CY/T 266-2023（编校质量）、GB 3100／3101（量和单位，照录源豁免）与 ADR-0041 偏离登记；未发现与项目基线冲突项。尾序 参考文献＞学术工具＞其他网络资源＞相关词条＞脚注定义＞译者注释，H1 中英题＋作者、pubinfo 引块、编号 N. 均正典。check_style 0 issue；markdownlint-cli2 0 issue（单件 --no-globs）；check_quotes 0；check_pairs --gate hard 0／out_of_scope 0；check_academic --strict 无硬错误；check_math_zh --strict 硬 0；check_terms 硬 0；check_images 悬空 0；check_prose 0。结构 341 行／13,513 汉字／120 段账本／44 脚注定义（唯一键 44）／8 引用／33 图／H2 15（含译者注释）／H3 1。rv-03–08 六轴 gate 均 0。"
-    },
-    {
-      "step": "sg-01",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-28T03:47:30Z",
-      "evidence": "T251 sg-01 初审：按准确性／完整性／术语／语体四维自审，抽 §1、§4、§7、§8、§10 五段对照 en，人名、年代、页码、数量与命题一致；正文 120 块＋译者注释 1 段、44 脚注定义／8 引用／33 图／6 子文档闭合；42 条引文 hash 与 q1 清单一致。Minor 3 处已处理：①「最平等主义的是」改「最具平等主义色彩的是」；② 复核发现 §3「见下文第 7 节」实指「切」专节 §9，属上游同页自相矛盾，已改「第 9 节」并入勘误第二十一节、加译者注释①（原 Acknowledgments 注顺延为②）；③ rv-08 连接号归一误入 Tanizaki 引文页码，恢复 en dash（11–12）并将 P-13@107 转 waived。Critical 0／Major 0。语体结论：现代汉语学术书面语，无文言仿古、无口语与 AI 腔，破折号均承担插入／转折／解释；check_style／quotes／math_zh／terms／cite／punct／images 均 0 或既有豁免，check_prose 0。"
-    },
-    {
-      "step": "sg-02",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-28T03:48:17Z",
-      "evidence": "T251 sg-02 复审：120 块逐段抽核（每 5 块抽 1，共 24 块）＋全量数字／引文／指代／跨节核对。42 条引文 hash 与 q1 清单一致；44 脚注定义／8 引用闭合；译者注释 2 条锚点连续（① §3 切、② Acknowledgments 影片）；33 图／6 补充子文档可解析。数字事实 1949／1953／1591／1495／76 岁／60 厘米／八镜头七切／十五石／六秒与 en 一致；指代「后者」2 处、第 9／10 节跨节引用均可唯一回指；不仅…而且、尽管…却、只有…才、除非 等连接无错配。问题单 0（Critical 0／Major 0／Minor 0）。复跑 check_academic --strict 无硬错误、check_math_zh --strict 0、check_terms 硬 0、check_pairs --gate hard 0、check_quotes 0、check_images 悬空 0、cite_audit 0、punct_audit 0（1 条引文内页码豁免）、check_prose 0。"
-    },
-    {
-      "step": "sg-03",
-      "status": "ok",
-      "actor": "user",
-      "at": "2026-11-28T04:01:19Z",
-      "evidence": "T251 sg-03 终审（results/t251-sg03.md）：用户 2026-11-28 本会话明确授权，范围 japanese-aesthetics 全件终审。终稿 343 行／13,540 汉字、120 段账本、44 脚注定义（唯一键 44）／8 引用、33 图、6 子文档、2 条译者注释（①§3、②Acknowledgments）；H1／pubinfo／尾序正典；版本钉 Dec 6, 2023／Spring 2024、HTML 主件 SHA-256 022caca6…0904d 复算一致。CI 仓库一致性 46104737710 success、CodeQL 46104737731 success；check_all 23/23；check_style／quotes／math_zh／terms／academic --strict／pairs --gate／images／cite_audit／punct_audit／check_prose 均 0（punct 1 条引文内页码豁免）。sg-01 Minor 3 已处理、sg-02 问题单 0，均无 Critical／Major；终审通过。",
-      "mandate": "2026-11-28 用户在本会话明确授权：执行 japanese-aesthetics sg-03 终审（全件终审与 done 签字）"
-    },
-    {
-      "step": "done",
-      "status": "ok",
-      "actor": "user",
-      "at": "2026-11-28T04:01:19Z",
-      "evidence": "T251 终审通过并完成交付：343 行／13,540 汉字、120 段账本、44 脚注定义／8 引用、33 图、6 子文档、2 条译者注释；版本钉与 HTML 主件 SHA-256 一致；CI 46104737710／CodeQL 46104737731 success；check_all 23/23。"
-    }
-  ],
-  "blockers": [],
-  "created_at": "2026-11-01T10:34:02Z",
-  "version_pin": {
-    "pubinfo_date": "Dec 6, 2023",
-    "archive_edition": "Spring 2024",
-    "sha256": "022caca637b16361067e407fa5648e57a6afadd919a7524aa6fc14e2bef0904d"
+  {
+   "step": "tr-03",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-28T02:09:10Z",
+   "evidence": "T249 一校（results/t249-tr03.md）：逐节对照 en 全篇（§1–§10、尾节、致谢、44 定义、6 子文档）；Critical 0／Major 0／Minor 1（致谢 Section 7 实为 §10，已改正入勘误第二十一节并加译者注释①）；残留外文 0（日文罗马字／英文书名／机构名除外）；check_style/quotes/math_zh/terms 0、academic 无硬错误、check_pairs 0（errata-apply／note-anchor 过）；账本 120 段。"
   },
-  "state_migrated": {
-    "at": "2026-11-25T00:31:40Z",
-    "from": "s2.4_termchecked",
-    "to": "rv-01_checked",
-    "by": "ADR-0080"
+  {
+   "step": "tr-04",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-28T02:20:03Z",
+   "evidence": "T249 tr-04 二校（results/t249-tr04.md）：check_prose 48→0（long-sentence 8、de-chain 36、weak-verb 3、passive-bei 1），全部改写无豁免；语体结论：现代汉语学术书面语，无文言仿古，破折号 59 对（原文 43）均承担插入或转折功能，未见滥用；一个 30 处无冗赘；尾序修正：译者注释移至脚注定义之后末节；check_style 0、check_quotes 0、check_math_zh 硬 0、check_terms 硬 0、check_academic --strict 无硬错误、check_pairs --gate hard 0/out_of_scope 0、check_images 悬空 0；账本 120 段守恒。"
+  },
+  {
+   "step": "rv-01",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-28T03:22:10Z",
+   "evidence": "T250 rv-01 三轴：术语 check_terms --docs 硬 0（自洽 0），8 处『正文缺登记译法』告警按 D2→D1 逐处订正落地（bushidō=武士道、chayoriai=茶寄合、ikiji=意地、sabireru=荒废、Baudelaire=夏尔·波德莱尔、Thoreau=亨利·大卫·梭罗、Hideyoshi=丰臣秀吉、Nishida Kitarō=西田几多郎；复检 0 处）；体例 check_style 0 issue、check_pairs --gate hard 0/out_of_scope 0（errata-apply、note-anchor 过）；勘误第二十一节 1 行承载=译注①在位；check_prose 0。"
+  },
+  {
+   "step": "rv-02",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-28T03:23:13Z",
+   "evidence": "T250 rv-02 两轴审计：译文轴逐段以账本 120 段对齐 en 120 块，块类型仅 114 段（学术工具）en 引块表↔zh 列表，属 ADR-0037 正典形态，非缺陷；全局轴 H2 14/15（差 1 为译者注释末节，ADR-0065 允许）、H3 1/1、脚注定义 44/44（键集相同）、引用 8/8、图 33/33、6 补充子文档链接全部可解析；年份集仅 zh 多 1920（en 作 1920s），无缺项；密度破折号 59 对（原文 43）逐处复核均承担插入/转折/解释；一个 30 处均对应不定冠词或数量义；AI 套话抽查仅 首先/其次/最后/不仅/可以说是 等常规连接，无空洞拔高；check_math_zh 0、check_math 0、check_academic --strict 无硬错误、check_pairs --gate hard 0/out_of_scope 0、check_style 0、check_terms 0（8 处已落地）、check_prose 0。"
+  },
+  {
+   "step": "rv-03",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-28T03:25:49Z",
+   "evidence": "T250 rv-03 引文轴：cite_audit 42 条（block 10／inline 32），清单 state/axis/japanese-aesthetics.cite.json 已逐条裁定：38 条 pass（日文原著 31 条 origin=ja／unavailable／sep-inline；英文原著 5 条 origin=en／na／self；德文 2 条 origin=de／unavailable／sep-inline）；4 条 waived 为术语级／题名片段（17 匍匐而入之处、18 荒废／变得荒凉、30 表演之优雅、32 无与伦比之魅力的花之艺），按 C-4c 不入直引。unavailable 各条均据 upstream 英文译出，未代造原文；anchor 全部指向 en 行；hash 42/42 守恒；--gate 0 问题。"
+  },
+  {
+   "step": "rv-04",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-28T03:26:54Z",
+   "evidence": "T250 rv-04 逻辑轴：logic_audit 376 散句骨架（trivial 304、logic_bearing 72）；72 条逐条裁定 equivalent，reviewer=trae-main；24 条算子配对候选逐条复核，均为英文 all／no／some／if 与中文语境对应或引文内词形造成的机械差（如 no two countries、all things），未发现量词强弱、否定辖域、条件方向、模态强度漂移；L-1／L-2 抽查未见命题增删与论元角色反转；--gate 0 问题。"
+  },
+  {
+   "step": "rv-05",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-28T03:27:22Z",
+   "evidence": "T250 rv-05 语法轴：grammar_audit 22 条告警全为 G-19 待定形日源词（物哀 11、幽玄 11），均系本词条主题术语用形，已在 shu-yu-biao 登记且首现括注日文原文，非未定形生造词；按 G-17 术语用形与 G-19 防误判逐条裁定 waived（reviewer=trae-main，附 evidence）。G-1／G-5／G-7 三型机检 0；G-9–G-16 反欧化 0（tr-04 check_prose 已清零）；--gate 0 问题。"
+  },
+  {
+   "step": "rv-06",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-28T03:28:03Z",
+   "evidence": "T250 rv-06 语域轴：register_audit 10 节全部定为 R-1（说明性段落按 R-2），无 R-4／R-5 越界；唯一候选 R-d@165「是以」经核为「就是以……而动」的介词框架，非文言连词，判 false-positive；口语／方言／第二人称敬称候选 0；AI 腔抽查未见空洞拔高或公式化排比；baseline/register-baseline.md 尚未建立（全库缺口），按 rules/02 语体结论判与既有 done 件同档；--gate 0 问题。"
+  },
+  {
+   "step": "rv-07",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-28T03:28:48Z",
+   "evidence": "T250 rv-07 计量轴：measure_audit items 0（无 SI 量值对；正文 60 厘米 × 60 厘米、2 英尺等中文名称照录源，符合 rules/02 数字与计量「照录源」）；ranges 27 全篇 en dash 同形，参考文献照录段豁免；连接号归一体例战役（ADR-0041）未立项，不铺量改。issues 10 全为 M-4 误报（ginkakuji2、ryoanji3、LSfathers2 等图片文件名序号被当作「应上标」量值），逐条 false-positive。M-1／M-2／M-3／M-9 零硬错误；--gate 0 问题。"
+  },
+  {
+   "step": "rv-08",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-28T03:29:30Z",
+   "evidence": "T250 rv-08 标点轴：punct_audit 28→0。P-13 数值范围 27 处由 en dash 改为全库统一的一字线（正文生卒年、行内引证页码；书目定义照录段保留 en dash 12 处，未改）；P-7 单句双冒号 1 处（第二点观察是：…：茶道）改为逗号。P-8／P-9／P-11／P-13／P-15／P-18／P-20 硬档 0；check_style 0、check_quotes 0、check_prose 0；--gate 0 问题。"
+  },
+  {
+   "step": "rv-09",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-28T03:34:26Z",
+   "evidence": "T250 rv-09 体例终校：适用规范基线筛查——GB/T 15834-2011（标点）、GB/T 15835-2011（数字与计量）、CY/T 266-2023（编校质量）、GB 3100／3101（量和单位，照录源豁免）与 ADR-0041 偏离登记；未发现与项目基线冲突项。尾序 参考文献＞学术工具＞其他网络资源＞相关词条＞脚注定义＞译者注释，H1 中英题＋作者、pubinfo 引块、编号 N. 均正典。check_style 0 issue；markdownlint-cli2 0 issue（单件 --no-globs）；check_quotes 0；check_pairs --gate hard 0／out_of_scope 0；check_academic --strict 无硬错误；check_math_zh --strict 硬 0；check_terms 硬 0；check_images 悬空 0；check_prose 0。结构 341 行／13,513 汉字／120 段账本／44 脚注定义（唯一键 44）／8 引用／33 图／H2 15（含译者注释）／H3 1。rv-03–08 六轴 gate 均 0。"
+  },
+  {
+   "step": "sg-01",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-28T03:47:30Z",
+   "evidence": "T251 sg-01 初审：按准确性／完整性／术语／语体四维自审，抽 §1、§4、§7、§8、§10 五段对照 en，人名、年代、页码、数量与命题一致；正文 120 块＋译者注释 1 段、44 脚注定义／8 引用／33 图／6 子文档闭合；42 条引文 hash 与 q1 清单一致。Minor 3 处已处理：①「最平等主义的是」改「最具平等主义色彩的是」；② 复核发现 §3「见下文第 7 节」实指「切」专节 §9，属上游同页自相矛盾，已改「第 9 节」并入勘误第二十一节、加译者注释①（原 Acknowledgments 注顺延为②）；③ rv-08 连接号归一误入 Tanizaki 引文页码，恢复 en dash（11–12）并将 P-13@107 转 waived。Critical 0／Major 0。语体结论：现代汉语学术书面语，无文言仿古、无口语与 AI 腔，破折号均承担插入／转折／解释；check_style／quotes／math_zh／terms／cite／punct／images 均 0 或既有豁免，check_prose 0。"
+  },
+  {
+   "step": "sg-02",
+   "status": "ok",
+   "actor": "trae-main",
+   "at": "2026-11-28T03:48:17Z",
+   "evidence": "T251 sg-02 复审：120 块逐段抽核（每 5 块抽 1，共 24 块）＋全量数字／引文／指代／跨节核对。42 条引文 hash 与 q1 清单一致；44 脚注定义／8 引用闭合；译者注释 2 条锚点连续（① §3 切、② Acknowledgments 影片）；33 图／6 补充子文档可解析。数字事实 1949／1953／1591／1495／76 岁／60 厘米／八镜头七切／十五石／六秒与 en 一致；指代「后者」2 处、第 9／10 节跨节引用均可唯一回指；不仅…而且、尽管…却、只有…才、除非 等连接无错配。问题单 0（Critical 0／Major 0／Minor 0）。复跑 check_academic --strict 无硬错误、check_math_zh --strict 0、check_terms 硬 0、check_pairs --gate hard 0、check_quotes 0、check_images 悬空 0、cite_audit 0、punct_audit 0（1 条引文内页码豁免）、check_prose 0。"
+  },
+  {
+   "step": "sg-03",
+   "status": "ok",
+   "actor": "user",
+   "at": "2026-11-28T04:01:19Z",
+   "evidence": "T251 sg-03 终审（results/t251-sg03.md）：用户 2026-11-28 本会话明确授权，范围 japanese-aesthetics 全件终审。终稿 343 行／13,540 汉字、120 段账本、44 脚注定义（唯一键 44）／8 引用、33 图、6 子文档、2 条译者注释（①§3、②Acknowledgments）；H1／pubinfo／尾序正典；版本钉 Dec 6, 2023／Spring 2024、HTML 主件 SHA-256 022caca6…0904d 复算一致。CI 仓库一致性 46104737710 success、CodeQL 46104737731 success；check_all 23/23；check_style／quotes／math_zh／terms／academic --strict／pairs --gate／images／cite_audit／punct_audit／check_prose 均 0（punct 1 条引文内页码豁免）。sg-01 Minor 3 已处理、sg-02 问题单 0，均无 Critical／Major；终审通过。",
+   "mandate": "2026-11-28 用户在本会话明确授权：执行 japanese-aesthetics sg-03 终审（全件终审与 done 签字）"
+  },
+  {
+   "step": "done",
+   "status": "ok",
+   "actor": "user",
+   "at": "2026-11-28T04:01:19Z",
+   "evidence": "T251 终审通过并完成交付：343 行／13,540 汉字、120 段账本、44 脚注定义／8 引用、33 图、6 子文档、2 条译者注释；版本钉与 HTML 主件 SHA-256 一致；CI 46104737710／CodeQL 46104737731 success；check_all 23/23。"
+  },
+  {
+   "step": "sg-01",
+   "status": "ok",
+   "actor": "glm-main",
+   "at": "2026-11-28T12:18:00Z",
+   "evidence": "sg-01 全量初审通过：zh 正文全量逐段对照 en 审读（非抽样）；四维结论、Minor 清单与移交项见 specs/064-flow-spec-audit/results/pilot/sg01-japanese-aesthetics.md；未改文；取代同日抽审记录（用户裁定禁止抽审） 语体：现代汉语学术书面语，全文一致（四维结论详见 sg01 详录）。"
   }
+ ],
+ "blockers": [],
+ "created_at": "2026-11-01T10:34:02Z",
+ "version_pin": {
+  "pubinfo_date": "Dec 6, 2023",
+  "archive_edition": "Spring 2024",
+  "sha256": "022caca637b16361067e407fa5648e57a6afadd919a7524aa6fc14e2bef0904d"
+ },
+ "state_migrated": {
+  "at": "2026-11-25T00:31:40Z",
+  "from": "s2.4_termchecked",
+  "to": "rv-01_checked",
+  "by": "ADR-0080"
+ },
+ "competences": {
+  "glm-main": {
+   "qualification": "GLM-5.3-Flash 会话（LLM）；用户 2026-11-28 指定接任独立审校，接替 DeepSeek 会话（trae-main）",
+   "experience": "SEP-CN v2 规则（rules/02–10）全量熟悉；本项目 11 件 pilot 独立审校执行者",
+   "domain": "日本哲学与美学审校（日本美学传统、茶道美学、日本电影）",
+   "training": "MQM／ISO 5060 严重度分级；对照源逐段审校方法；中文哲学界术语习惯"
+  }
+ }
 }
