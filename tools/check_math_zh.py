@@ -201,16 +201,18 @@ def check_file(path, rel):
     pos = 0
     for i, ch in enumerate(text):
         if ch == "\\":
+            # C9 散文 \(（围栏代码内豁免；必须先于 continue 判定）
+            if (text[i:i + 2] == "\\(" and not in_ranges(i, covered)
+                    and not in_ranges(i, ranges)):
+                issues.append(("C9", i, "散文中的 \\(…\\)（应改 $…$）"))
             continue
-        if ch == "$" and not in_ranges(i, covered):
+        if (ch == "$" and not in_ranges(i, covered)
+                and not in_ranges(i, ranges)):
             prev = text[i - 1] if i else ""
             if prev != "\\":
                 issues.append(("C6", i, "正文裸 $（未配对）"))
-        # C9 散文 \(
-        if ch == "\\" and text[i:i + 2] == "\\(" and not in_ranges(i, covered):
-            issues.append(("C9", i, "散文中的 \\(…\\)（应改 $…$）"))
     for m in CURRENCY_RE.finditer(text):
-        if not in_ranges(m.start(), covered):
+        if not in_ranges(m.start(), covered) and not in_ranges(m.start(), ranges):
             issues.append(("C7", m.start(), "未转义货币 $（应写 \\$）"))
     return issues
 
