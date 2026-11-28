@@ -620,3 +620,14 @@
 | TA7–TA8 | 工作包 38；原子项 122；0 处预写门禁号／ADR 号 | 通过 |
 
 **rev95 说明**：T243 完成并勾选，勾选 85→86、未开始 75→74；sg-01 Minor 3 处已修并记语体结论；sg-02 逐句回核问题单 0；sg-03 经用户 2026-11-28 授权签字（mandate 已记）；`logic-dynamic` 置 `done`；check_all 23/23 全绿；T158 容器按规则不勾。
+
+## 90 rev96 复核（T159 拆站＋T244 样章；计数 168）
+
+| 项 | 复算 | 结论 |
+| ---- | ---- | ---- |
+| TA1–TA3 | 168 定义、0 重复、0 悬空；16 分区和 168 | 通过 |
+| TA4–TA5 | 验收 168/168；Kahn 168/168 | 通过 |
+| TA6 状态一致 | 勾选 87（新增 T244）；容器 T138／T140／T142／T144／T154／T155／T156／T157／T158／T159 未勾；japanese-aesthetics `ex-04_checked` | 通过 |
+| TA7–TA8 | 工作包 38；原子项 130；0 处预写门禁号／ADR 号 | 通过 |
+
+**rev96 说明**：T159 按模板拆为 T244–T251（方案 `results/t159-decomposition.md`），编号 160→168、未开始 74→82；T244 完成并勾选，勾选 86→87、未开始 82→81；ex-04 clean 1/1、warn 0、72 资产缺件 0；tr-01 新增 5 条术语；样章 16 段账本、1,607 汉字，check_style／quotes／math_zh／terms 0、academic 无硬错误、pairs hard 0；japanese-aesthetics 推进 `ex-04_checked`。

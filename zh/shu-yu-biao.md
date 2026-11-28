@@ -3216,6 +3216,7 @@
 | genuine modal realism | — | 真正的模态实在论 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | genuine option | — | 真实选择 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | geodesic | — | 测地线 | geometry-19th.supplement | 数学/几何学界通行译名；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
+| Genji monogatari | 源氏物語 | 《源氏物语》 | japanese-aesthetics | 学界惯例（学界通行汉译书名（The Tale of Genji））；凭证 2026-11-28 | 2026-11-28 |
 | geomancy | — | 地占术 | gianfrancesco-pico | 学界惯例；西洋占术史通行（与地理学 geomancy 异）；FLAG 裁定 2026-11-21：与 necromancy／geomancy／divination 行“地占术”统一（西洋占术史通行） | 2026-11-21 |
 | geometry of interaction | — | 交互几何 | logic-linear | 学界惯例；Girard 术语通行译法；凭证 2026-11-10 | 2026-11-09 |
 | George-Kreis | George-Kreis | 格奥尔格圈（亦作“格奥尔格派”） | landmann-kalischer | 学界惯例；德语文学研究通行（亦作“格奥尔格派”备查） | 2026-11-04 |
@@ -3418,6 +3419,7 @@
 | hegemonikon | ἡγεμονικόν | 灵魂的主导部分（斯多葛） | 语料回收（标题词） | 学界惯例（语料回收（正文斜体术语，specs/011 主题词汇解析））；亦作“统治部分”（telesio，2026-11-08 登记时依先登优先从正形）；凭证 2026-11-04；删亦作“统治部分”（与他行主译撞形，2026-11-21 撞形处置） | 2026-11-21 |
 | hegemony | — | 霸权 | gramsci | 葛兰西核心术语，学界通行译名；凭证 2026-11-11（主会话直译 g/gramsci） | 2026-11-11 |
 | Heine-Borel property | — | 海涅-博莱尔性质（亦作“海涅-博雷尔”） | 首现（intuitionism） | 学界惯例；拓扑学通行（亦作“海涅-博雷尔”）；凭证 2026-11-10 | 2026-11-10 |
+| Heike monogatari | 平家物語 | 《平家物语》 | japanese-aesthetics | 学界惯例（学界通行汉译书名（The Tale of the Heike））；凭证 2026-11-28 | 2026-11-28 |
 | hen esti | — | “一存在”（hen esti） | zeno-elea | 学界惯例（巴门尼德论旨 hen esti 通行译法）；凭证 2026-11-09 | 2026-11-09 |
 | Henkin-style | — | Henkin 式 | logic-hybrid | 学界惯例（保留 Henkin 人名）；凭证 2026-11-09 | 2026-11-09 |
 | Heracles | — | 赫拉克勒斯 | 首现（xenophanes） | B 档联网查证：罗念生全集（上海人民出版社）作《赫剌克勒斯》，今通行形“赫拉克勒斯”；希腊剧名 Ἡρακλῆς 亦作《疯狂的赫拉克勒斯》（WebSearch 2026-11-15 查）；分档裁定 B 档（rules/03 S2）；FLAG 裁定 2026-11-21：首现与三处用语均为英雄／神，去书名号；剧名语境另作《赫拉克勒斯》 | 2026-11-21 |
@@ -7605,6 +7607,7 @@
 | size principle | — | 规模原则 | moral-learning | Tenenbaum 学派（贝叶斯概念学习）；凭证 2026-11-09 | 2026-11-09 |
 | skandha | स्कन्ध | 蕴 | yogacara 首译 | 学界惯例；汉传佛典千年通行（五蕴）；凭证 2026-11-11；原文列联网查证：Monier-Williams《梵英辞典》skandha 条（“aggregate”义）（2026-11-13 查，凭证 orig-verify-2026-11-13.tsv） | 2026-11-13 |
 | skeptical hypothesis | — | 怀疑论假设 | closure-epistemic 首译 | 学界惯例；知识论通行；凭证 2026-11-08 | 2026-11-08 |
+| Six Arts | 六藝 | 六艺 | japanese-aesthetics | 学界惯例（中国先秦教育术语，学界通行）；凭证 2026-11-28 | 2026-11-28 |
 | skeptical theism | — | 怀疑论有神论 | petitionary-prayer | 学界通行译法（回应恶的问题的怀疑论立场）；凭证 2026-11-09；FLAG 裁定 2026-11-21：theism 系有神论（非神学 theology），与一神论族对齐 | 2026-11-21 |
 | skepticism | — | 怀疑论 | august-rehberg 首译 | 学界惯例；哲学通行；凭证 2026-11-08；旧键“scepticism”并入（2026-11-21 逐行研判；旧键首现：语料回收（arcesilaus）） | 2026-11-21 |
 | skeptosunê | — | 探究 | 首现（timon-phlius） | 学界惯例（第蒙用语，inquiry；勿径作“怀疑论”）；凭证 2026-11-07；原文列联网查证：Bett《The History of Skepticism》（2010）转引蒂蒙《西利篇》 skeptosyn（2026-11-13 查，凭证 orig-verify-2026-11-13-b2.tsv）；原文列：工具书查无原生文字（2026-11-20 检 wisdomlib／GND／BDRC／84000／Logeion，均无“转写↔原生文字”显式配对，部分源不可达；映射表推演禁用，ADR-0030）；撞形豁免 2026-11-21：希腊语 skeptosunê 与 historiê 同形异语，不合并 | 2026-11-21 |
@@ -7712,6 +7715,7 @@
 | sokushinjōbutsu | 即身成仏 | 即身成佛 | kukai | 《即身成佛义》传统题名 | 2026-11-09 |
 | Sokushinjōbutsugi | 即身成仏義 | 《即身成佛义》 | kukai | 空海著作传统题名 | 2026-11-09 |
 | sola fide | — | 仅凭信仰 | 语料回收（marsilius-inghen 首译） | 学界惯例；神学通行译法；凭证 2026-11-06 | 2026-11-06 |
+| sōla | 沙羅 | 沙罗 | japanese-aesthetics | 学界惯例（《平家物语》开篇沙罗双树，学界通行）；凭证 2026-11-28 | 2026-11-28 |
 | solicitude | — | 关切 | ricoeur | 利科术语（sollicitude）；学界惯例；凭证 2026-11-11 | 2026-11-11 |
 | solidarity | — | 团结 | dilthey 首译 | 学界惯例；狄尔泰伦理学通行（Solidarität）；凭证 2026-11-10 | 2026-11-10 |
 | Solidity | — | 坚固性 | 语料回收（specs/050 候选池） | 条目语境研判（洛克第一性质固定译（坚固性）；审定“固体性”为凝聚态物理义）；审定名词库（termonline-all·物理学·凝聚态物理学·结构，2026-11-18 JWT 直连凭证，审定作“固体性”） | 2026-11-19 |
@@ -8640,6 +8644,7 @@
 | tryaṇuka | त्र्यणुक | 三微 | early-modern-india | 学界惯例；胜论原子论通行（三二微之合，最小可见物“尘芥”）；凭证 2026-11-10 | 2026-11-10 |
 | trying | — | 尝试 | 首现（action） | 行动哲学通行（trying 作为基本行动候选）；凭证 2026-11-27（results/t217-review.md） | 2026-11-27 |
 | tuistic / non-tuistic | tuism | 利他的／非利他的 | c/contractarianism 首译 | 戈蒂耶自造术语（tuistic），学界通行译法；凭证 2026-11-07 | 2026-11-07 |
+| Tsurezuregusa | 徒然草 | 《徒然草》 | japanese-aesthetics | 学界惯例（学界通行汉译书名（Essays in Idleness））；凭证 2026-11-28 | 2026-11-28 |
 | tulyatva | तुल्यत्व | 等同 | early-modern-india | 正理普遍性障碍义译（equipollence）；凭证 2026-11-10 | 2026-11-10 |
 | tumor microenvironment | — | 肿瘤微环境 | cancer | 学界通行（肿瘤生物学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | tumor organismal environment | — | 肿瘤机体环境 | cancer | 本条术语（Laplane 等 TOE，与 TME 肿瘤微环境对举）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |

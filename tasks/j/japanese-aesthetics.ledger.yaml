@@ -1,0 +1,137 @@
+version: 1
+slug: japanese-aesthetics
+params:
+  model: "DeepSeek-V4.1-Flash（Trae 主会话；T244 样章）"
+  temperature: 0.2
+  batch_segments: sample
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Although the Japanese have been producing great art and writing about it for many centuries, including a rich tradition of poetics going back a millennium, the philosophical discipline in Japan corresponding to Western “aesthetics” did not get underway until the nineteenth century. A good way to survey the broader field is to examine the most important aesthetic ideas that have arisen in the course of the tradition, all of them before aesthetics was formally established as a discipline: namely, *mono no aware* (the pathos of things), *wabi* (subdued, austere beauty), *sabi* (rustic patina), *yūgen* (mysterious profundity), *iki* (refined style), and *kire* (cutting). (This last term is pronounced as two evenly accented syllables, *kee-reh.* The macrons over some vowels signify a vowel sound of double length. When a person name is used, the order is the conventional Japanese one: family name, then given name.)
+    step1: |-
+      尽管日本人创造伟大艺术并书写艺术已历许多世纪，其中包括可追溯千年的丰富诗学传统，但日本与西方“美学”相对应的哲学学科，直到 19 世纪才起步。考察这一传统中产生的最重要美学观念，是纵观这一更广阔领域的良法；这些观念都出现在美学作为学科正式确立之前：即物哀（物の哀れ／mono no aware，事物的情致）、侘（侘び，朴素而严峻之美）、寂（さび，古拙的锈色）、幽玄（神秘的深邃）、意气（いき，洗练的风格）与切（きれ，切断）。（最后一个词读作两个等重音节，kee-reh。某些元音上的长音符号表示该元音发音长度为两倍。使用人名时，顺序遵循日本惯例：先姓后名。）
+    step2: |-
+      尽管日本人创造伟大艺术并书写艺术已历许多世纪，其中包括可追溯千年的丰富诗学传统，但日本与西方“美学”相对应的哲学学科，直到 19 世纪才起步。考察这一传统中产生的最重要美学观念，是纵观这一更广阔领域的良法；这些观念都出现在美学作为学科正式确立之前：即物哀（物の哀れ／mono no aware，事物的情致）、侘（侘び，朴素而严峻之美）、寂（さび，古拙的锈色）、幽玄（神秘的深邃）、意气（いき，洗练的风格）与切（きれ，切断）。（最后一个词读作两个等重音节，kee-reh。某些元音上的长音符号表示该元音发音长度为两倍。使用人名时，顺序遵循日本惯例：先姓后名。）
+  - id: 2
+    kind: heading
+    source: |-
+      ## 1. Introduction
+    step1: |-
+      ## 1. 引言
+    step2: |-
+      ## 1. 引言
+  - id: 3
+    kind: body
+    source: |-
+      Two preliminary observations about the Japanese cultural tradition are relevant to the arts. First, classical Japanese philosophy understands reality as constant *change*, or (to use a Buddhist expression) *impermanence*. The world of flux that presents itself to our senses is the only reality: there is no conception of some stable “Platonic” realm above or behind it. The arts in Japan have traditionally reflected this fundamental impermanence—sometimes lamenting but more often celebrating it. The idea of *mujō* (impermanence) is perhaps most forcefully expressed in the writings and sayings of the thirteenth-century Zen master Dōgen, who is arguably Japan’s profoundest philosopher, but there is a fine expression of it by a later Buddhist priest, Yoshida Kenkō, whose *Essays in Idleness* (*Tsurezuregusa*, 1332) sparkles with aesthetic insights:
+    step1: |-
+      关于日本文化传统，有两点初步观察与艺术相关。第一，古典日本哲学把实在理解为恒常的 **变化**，或用佛教的说法，**无常**。呈现于感官的流变世界是唯一的实在：并不存在某种稳定不变的“柏拉图式”领域，高踞其上或隐于其后。日本的艺术传统上一直反映这种根本的无常——有时哀叹，但更多是庆祝。无常（mujō）的观念，也许最有力地表达在 13 世纪禅宗大师道元的著作与言说中——他可以说是日本最深刻的哲学家；但更晚的僧人吉田兼好在《徒然草》（Tsurezuregusa，1332）中也对此有精妙表达，该书闪耀着美学洞见：
+    step2: |-
+      关于日本文化传统，有两点初步观察与艺术相关。第一，古典日本哲学把实在理解为恒常的 **变化**，或用佛教的说法，**无常**。呈现于感官的流变世界是唯一的实在：并不存在某种稳定不变的“柏拉图式”领域，高踞其上或隐于其后。日本的艺术传统上一直反映这种根本的无常——有时哀叹，但更多是庆祝。无常（mujō）的观念，也许最有力地表达在 13 世纪禅宗大师道元的著作与言说中——他可以说是日本最深刻的哲学家；但更晚的僧人吉田兼好在《徒然草》（Tsurezuregusa，1332）中也对此有精妙表达，该书闪耀着美学洞见：
+  - id: 4
+    kind: quote
+    source: |-
+      > It does not matter how young or strong you may be, the hour of death comes sooner than you expect. It is an extraordinary miracle that you should have escaped to this day; do you suppose you have even the briefest respite in which to relax? (Keene, 120)
+    step1: |-
+      > 无论你多么年轻、多么强壮，死亡降临的时刻总比你预想的更早。你能活到今天，已是非同寻常的奇迹；你以为自己还有哪怕片刻的喘息吗？（Keene, 120）
+    step2: |-
+      > 无论你多么年轻、多么强壮，死亡降临的时刻总比你预想的更早。你能活到今天，已是非同寻常的奇迹；你以为自己还有哪怕片刻的喘息吗？（Keene, 120）
+  - id: 5
+    kind: body
+    source: |-
+      In the Japanese Buddhist tradition, awareness of the fundamental condition of existence is no cause for nihilistic despair, but rather a call to vital activity in the present moment and to gratitude for another moment’s being granted to us.
+    step1: |-
+      在日本佛教传统中，对存在根本状况的觉察并不导致虚无主义的绝望，反而召唤人在当下积极活动，并感激又获得了一刻生命。
+    step2: |-
+      在日本佛教传统中，对存在根本状况的觉察并不导致虚无主义的绝望，反而召唤人在当下积极活动，并感激又获得了一刻生命。
+  - id: 6
+    kind: body
+    source: |-
+      The second observation is that the arts in Japan have tended to be closely connected with Confucian practices of self-cultivation, as evidenced in the fact that they are often referred to as “ways [of living]”: *chadō*, the way of tea (tea ceremony), *shodō*, the way of writing (calligraphy), and so forth. And since the scholar official in China was expected to be skilled in the “Six Arts”—ceremonial ritual, music, calligraphy, mathematics, archery, and charioteering—culture and the arts tend to be more closely connected with intellect and the life of the mind than in the western traditions.
+    step1: |-
+      第二点观察是：日本的艺术往往与儒家修身实践紧密相连，其证据是它们常被称为“道（生活方式）”：茶道（chadō，即饮茶之道）、书道（shodō，即书写之道），等等。由于中国的士大夫被期望精通“六艺”——礼、乐、书、数、射、御——日本的文化与艺术往往比西方传统更紧密地与智识和心灵生活相连。
+    step2: |-
+      第二点观察是：日本的艺术往往与儒家修身实践紧密相连，其证据是它们常被称为“道（生活方式）”：茶道（chadō，即饮茶之道）、书道（shodō，即书写之道），等等。由于中国的士大夫被期望精通“六艺”——礼、乐、书、数、射、御——日本的文化与艺术往往比西方传统更紧密地与智识和心灵生活相连。
+  - id: 7
+    kind: body
+    source: |-
+      To this day it is not unusual in Japan for the scholar to be a fine calligrapher and an accomplished poet in addition to possessing the pertinent intellectual abilities.
+    step1: |-
+      直到今天，在日本，学者除具备相应智识能力外，还常是优秀书法家与有造诣的诗人，这并不罕见。
+    step2: |-
+      直到今天，在日本，学者除具备相应智识能力外，还常是优秀书法家与有造诣的诗人，这并不罕见。
+  - id: 8
+    kind: heading
+    source: |-
+      ## 2. *Mono no aware*: the Pathos of Things
+    step1: |-
+      ## 2. 物哀：事物的情致
+    step2: |-
+      ## 2. 物哀：事物的情致
+  - id: 9
+    kind: body
+    source: |-
+      The meaning of the phrase *mono no aware* is complex and has changed over time, but it basically refers to a “pathos” (*aware*) of “things” (*mono*), deriving from their transience. In the classic anthology of Japanese poetry from the eighth century, *Manyōshū*, the feeling of *aware* is typically triggered by the plaintive calls of birds or other animals. It also plays a major role in the world’s first novel, Murasaki Shikibu’s *Genji monogatari* (The Tale of Genji), from the early eleventh century. The somewhat later *Heike monogatari* (The Tale of the Heike Clan) begins with these famous lines, which clearly show impermanence as the basis for the feeling of *mono no aware*:
+    step1: |-
+      物哀一语的含义复杂，且随时间而变化，但它基本指“事物”（mono）的“情致”（aware），这种情致源于事物的短暂。在 8 世纪日本诗歌经典选集《万叶集》中，aware 之感通常由鸟或其他动物哀婉的鸣叫引发。它在世界第一部小说、紫式部 11 世纪初的《源氏物语》（Genji monogatari）中也扮演重要角色。稍晚的《平家物语》（Heike monogatari）以这些著名句子开篇，清楚显示无常是物哀之感的基础：
+    step2: |-
+      物哀一语的含义复杂，且随时间而变化，但它基本指“事物”（mono）的“情致”（aware），这种情致源于事物的短暂。在 8 世纪日本诗歌经典选集《万叶集》中，aware 之感通常由鸟或其他动物哀婉的鸣叫引发。它在世界第一部小说、紫式部 11 世纪初的《源氏物语》（Genji monogatari）中也扮演重要角色。稍晚的《平家物语》（Heike monogatari）以这些著名句子开篇，清楚显示无常是物哀之感的基础：
+  - id: 10
+    kind: quote
+    source: |-
+      > The sound of the Gion *shōja* bells echoes the impermanence of all things; the color of the *sōla* flowers reveals the truth that the prosperous must decline. The proud do not endure, they are like a dream on a spring night; the mighty fall at last, they are as dust before the wind. (McCullough 1988)[^mccullough-1988]
+    step1: |-
+      > 祇园精舍的钟声，回荡着万物的无常；沙罗花的颜色，昭示着盛者必衰的道理。骄者不长久，犹如春夜一梦；强者终将败亡，恰似风前尘土。（McCullough 1988）[^mccullough-1988]
+    step2: |-
+      > 祇园精舍的钟声，回荡着万物的无常；沙罗花的颜色，昭示着盛者必衰的道理。骄者不长久，犹如春夜一梦；强者终将败亡，恰似风前尘土。（McCullough 1988）[^mccullough-1988]
+  - id: 11
+    kind: body
+    source: |-
+      And here is Kenkō on the link between impermanence and beauty: “If man were never to fade away like the dews of Adashino, never to vanish like the smoke over Toribeyama, how things would lose their power to move us! The most precious thing in life is its uncertainty” (Keene, 7). The acceptance and celebration of impermanence goes beyond all morbidity, and enables full enjoyment of life:
+    step1: |-
+      兼好关于无常与美之联系的文字如下：“倘若人从不似化野的露珠般消逝，从不似鸟部山的烟霭般散尽，事物又怎会具有打动人心的力量！人生最可贵的，正是它的无常。”（Keene, 7）对无常的接受与庆祝超越了病态的伤感，使人得以充分享受生活：
+    step2: |-
+      兼好关于无常与美之联系的文字如下：“倘若人从不似化野的露珠般消逝，从不似鸟部山的烟霭般散尽，事物又怎会具有打动人心的力量！人生最可贵的，正是它的无常。”（Keene, 7）对无常的接受与庆祝超越了病态的伤感，使人得以充分享受生活：
+  - id: 12
+    kind: quote
+    source: |-
+      > How is it possible for men not to rejoice each day over the pleasure of being alive? Foolish men, forgetting this pleasure, laboriously seek others; forgetting the wealth they possess, they risk their lives in their greed for new wealth. But their desires are never satisfied. While they live they do not rejoice in life, but, when faced with death, they fear it—what could be more illogical? (Keene, 79)
+    step1: |-
+      > 人怎能不每日为活着的喜悦而欢欣？愚人忘却这种喜悦，劳碌地追逐别的乐趣；忘却自己拥有的财富，却为贪求新的财富而冒生命之险。然而欲望永不满足。活着时他们不欢欣于生，面对死亡时却又畏惧死亡——还有什么比这更不合情理？（Keene, 79）
+    step2: |-
+      > 人怎能不每日为活着的喜悦而欢欣？愚人忘却这种喜悦，劳碌地追逐别的乐趣；忘却自己拥有的财富，却为贪求新的财富而冒生命之险。然而欲望永不满足。活着时他们不欢欣于生，面对死亡时却又畏惧死亡——还有什么比这更不合情理？（Keene, 79）
+  - id: 13
+    kind: body
+    source: |-
+      Insofar as we don’t rejoice in life we fail to appreciate the pathos of the things with which we share our lives. For most of us, some of these things, impermanent as they are, will outlast us—and especially if they have been loved they will become sad things: “It is sad to think that a man’s familiar possessions, indifferent to his death, should remain long after he is gone” (Keene, 30).
+    step1: |-
+      我们若不欢欣于生，便无法体会那些与我们共处的事物的情致。对我们大多数人而言，其中一些事物虽无常，却会比我们存续更久。尤其当它们曾被爱过，便会成为令人伤感之物：“想到一个人熟悉的物件对他的死亡无动于衷，却在他身后长久留存，令人悲哀。”（Keene, 30）
+    step2: |-
+      我们若不欢欣于生，便无法体会那些与我们共处的事物的情致。对我们大多数人而言，其中一些事物虽无常，却会比我们存续更久。尤其当它们曾被爱过，便会成为令人伤感之物：“想到一个人熟悉的物件对他的死亡无动于衷，却在他身后长久留存，令人悲哀。”（Keene, 30）
+  - id: 14
+    kind: body
+    source: |-
+      The well-known literary theorist Motoori Norinaga brought the idea of *mono no aware* to the forefront of literary theory with a study of *The Tale of Genji* that showed this phenomenon to be its central theme. He argues for a broader understanding of it as concerning a profound sensitivity to the emotional and affective dimensions of existence in general. The greatness of Lady Murasaki’s achievement consists in her ability to portray characters with a profound sense of *mono no aware* in her writing, such that the reader is able to empathize with them in this feeling.
+    step1: |-
+      著名文学理论家本居宣长通过研究《源氏物语》，把物哀观念推到文学理论的前沿；他的研究表明，这一现象是《源氏物语》的中心主题。他主张更宽泛地理解物哀，认为它关乎对存在的情感与感受维度的深切敏感。紫式部成就的伟大之处，在于她能在写作中刻画具有深切物哀之感的人物，使读者能在此情感中与他们共鸣。
+    step2: |-
+      著名文学理论家本居宣长通过研究《源氏物语》，把物哀观念推到文学理论的前沿；他的研究表明，这一现象是《源氏物语》的中心主题。他主张更宽泛地理解物哀，认为它关乎对存在的情感与感受维度的深切敏感。紫式部成就的伟大之处，在于她能在写作中刻画具有深切物哀之感的人物，使读者能在此情感中与他们共鸣。
+  - id: 15
+    kind: body
+    source: |-
+      The films of Ozu Yasujirō, who is often thought to be the most “Japanese” of Japanese film directors, are a series of exercises in conveying *mono no aware*. Stanley Cavell’s observation that “film returns to us and extends our first fascination with objects, with their inner and fixed lives” applies consummately to Ozu, who often expresses feelings through presenting the faces of things rather than of actors. A vase standing in the corner of a tatami-matted room where a father and daughter are asleep; two fathers contemplating the rocks in a “dry landscape” garden, their postures echoing the shapes of the stone; a mirror reflecting the absence of the daughter who has just left home after getting married—all images that express the pathos of things as powerfully as the expression on the greatest actor’s face.
+    step1: |-
+      小津安二郎常被视为最具“日本性”的日本电影导演，他的电影是一系列传达物哀的练习。Stanley Cavell 的观察——“电影让我们回到并延展了最初对物体的迷恋，对它们内在而固定的生命的迷恋”——完全适用于小津；他常常通过呈现物件的面孔而非演员的面孔来表达情感。一只花瓶立在铺着榻榻米的房间角落，房中一位父亲和女儿正在睡觉；两位父亲凝视“枯山水”庭园中的岩石，姿态与石形相呼应；一面镜子映出刚刚出嫁离家的女儿的缺席——所有这些意象，都像最伟大演员脸上的表情一样有力地表达事物的情致。
+    step2: |-
+      小津安二郎常被视为最具“日本性”的日本电影导演，他的电影是一系列传达物哀的练习。Stanley Cavell 的观察——“电影让我们回到并延展了最初对物体的迷恋，对它们内在而固定的生命的迷恋”——完全适用于小津；他常常通过呈现物件的面孔而非演员的面孔来表达情感。一只花瓶立在铺着榻榻米的房间角落，房中一位父亲和女儿正在睡觉；两位父亲凝视“枯山水”庭园中的岩石，姿态与石形相呼应；一面镜子映出刚刚出嫁离家的女儿的缺席——所有这些意象，都像最伟大演员脸上的表情一样有力地表达事物的情致。
+  - id: 16
+    kind: body
+    source: |-
+      The most frequently cited example of *mono no aware* in contemporary Japan is the traditional love of cherry blossoms, as manifested by the huge crowds of people that go out every year to view (and picnic under) the cherry trees. The blossoms of the Japanese cherry trees are intrinsically no more beautiful than those of, say, the pear or the apple tree: they are more highly valued because of their transience, since they usually begin to fall within a week of their first appearing. It is precisely the evanescence of their beauty that evokes the wistful feeling of *mono no aware* in the viewer.
+    step1: |-
+      在当代日本，物哀最常被引用的例子是对樱花的传统喜爱，其表现是每年大批人群外出赏樱（并在樱花树下野餐）。日本樱花的花本身并不比梨树或苹果树的花更美：它们更受珍视是因为其短暂，因为它们通常在初绽后一周内便开始飘落。正是其美的易逝，唤起观者心中怅惘的物哀之感。
+    step2: |-
+      在当代日本，物哀最常被引用的例子是对樱花的传统喜爱，其表现是每年大批人群外出赏樱（并在樱花树下野餐）。日本樱花的花本身并不比梨树或苹果树的花更美：它们更受珍视是因为其短暂，因为它们通常在初绽后一周内便开始飘落。正是其美的易逝，唤起观者心中怅惘的物哀之感。
