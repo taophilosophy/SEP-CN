@@ -2,7 +2,7 @@
   "slug": "japanese-aesthetics",
   "kind": "retranslate",
   "zh_doc": "zh/j/japanese-aesthetics.md",
-  "state": "sg-02_checked",
+  "state": "done",
   "translation_mode": "llm-pe",
   "project_spec": {
     "audience": "中文哲学读者（研究者与研究生为主）",
@@ -122,6 +122,21 @@
       "actor": "trae-main",
       "at": "2026-11-28T03:48:17Z",
       "evidence": "T251 sg-02 复审：120 块逐段抽核（每 5 块抽 1，共 24 块）＋全量数字／引文／指代／跨节核对。42 条引文 hash 与 q1 清单一致；44 脚注定义／8 引用闭合；译者注释 2 条锚点连续（① §3 切、② Acknowledgments 影片）；33 图／6 补充子文档可解析。数字事实 1949／1953／1591／1495／76 岁／60 厘米／八镜头七切／十五石／六秒与 en 一致；指代「后者」2 处、第 9／10 节跨节引用均可唯一回指；不仅…而且、尽管…却、只有…才、除非 等连接无错配。问题单 0（Critical 0／Major 0／Minor 0）。复跑 check_academic --strict 无硬错误、check_math_zh --strict 0、check_terms 硬 0、check_pairs --gate hard 0、check_quotes 0、check_images 悬空 0、cite_audit 0、punct_audit 0（1 条引文内页码豁免）、check_prose 0。"
+    },
+    {
+      "step": "sg-03",
+      "status": "ok",
+      "actor": "user",
+      "at": "2026-11-28T04:01:19Z",
+      "evidence": "T251 sg-03 终审（results/t251-sg03.md）：用户 2026-11-28 本会话明确授权，范围 japanese-aesthetics 全件终审。终稿 343 行／13,540 汉字、120 段账本、44 脚注定义（唯一键 44）／8 引用、33 图、6 子文档、2 条译者注释（①§3、②Acknowledgments）；H1／pubinfo／尾序正典；版本钉 Dec 6, 2023／Spring 2024、HTML 主件 SHA-256 022caca6…0904d 复算一致。CI 仓库一致性 46104737710 success、CodeQL 46104737731 success；check_all 23/23；check_style／quotes／math_zh／terms／academic --strict／pairs --gate／images／cite_audit／punct_audit／check_prose 均 0（punct 1 条引文内页码豁免）。sg-01 Minor 3 已处理、sg-02 问题单 0，均无 Critical／Major；终审通过。",
+      "mandate": "2026-11-28 用户在本会话明确授权：执行 japanese-aesthetics sg-03 终审（全件终审与 done 签字）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "user",
+      "at": "2026-11-28T04:01:19Z",
+      "evidence": "T251 终审通过并完成交付：343 行／13,540 汉字、120 段账本、44 脚注定义／8 引用、33 图、6 子文档、2 条译者注释；版本钉与 HTML 主件 SHA-256 一致；CI 46104737710／CodeQL 46104737731 success；check_all 23/23。"
     }
   ],
   "blockers": [],

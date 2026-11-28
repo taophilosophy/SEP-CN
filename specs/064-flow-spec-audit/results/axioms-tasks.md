@@ -709,4 +709,16 @@
 
 **rev103 说明**：T251 sg-01／sg-02 完成，任务停 `sg-02_checked`，勾选数保持 93。sg-01 四维自审：Minor 3（§4 措辞、§3 跨节引用 §7→§9 入勘误第二十一节第二行并重排译者注释①／②、rv-08 误入 Tanizaki 引文页码已恢复 en dash 并转 P-13 waived），Critical／Major 0，语体结论合格；sg-02 抽核 24 块＋全量数字／引文／指代／跨节核对，问题单 0。机检 check_style／quotes／math_zh／terms／academic／pairs／images／cite／punct／prose 全 0（punct 1 条引文内页码豁免）。
 
+## 98 rev104 复核（T251 sg-03 终审完成；计数 168）
+
+| 项 | 复算 | 结论 |
+| ---- | ---- | ---- |
+| TA1–TA3 | 168 定义、0 重复、0 悬空；16 分区和 168 | 通过 |
+| TA4–TA5 | 验收 168/168；Kahn 168/168 | 通过 |
+| TA6 状态一致 | 勾选 94（新增 T251）；容器 T138／T140／T142／T144／T154／T155／T156／T157／T158／T159 未勾（T159 子项全完成、本件 done，容器仍不勾）；japanese-aesthetics `done` | 通过 |
+| TA7–TA8 | 工作包 38；原子项 130；0 处预写门禁号／ADR 号 | 通过 |
+
+**rev104 说明**：T251 完成并勾选，勾选 93→94、未开始 75→74；sg-03 经用户 2026-11-28 本会话明确授权（mandate 已记），actor=user 与初译／初审／复审分离。终稿 343 行／13,540 汉字、120 段账本、44 脚注定义／8 引用、33 图、6 子文档、2 条译者注释；H1／pubinfo／尾序正典；版本钉 Dec 6, 2023／Spring 2024、HTML 主件 SHA-256 022caca6…0904d 复算一致；CI 46104737710／CodeQL 46104737731 success；check_all 23/23；各定点检查 0（punct 1 条引文内页码豁免）。`japanese-aesthetics` 置 `done`；T159 容器按规则保持未勾。
+
+
 
