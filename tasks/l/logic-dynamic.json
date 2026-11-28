@@ -2,7 +2,7 @@
   "slug": "logic-dynamic",
   "kind": "retranslate",
   "zh_doc": "zh/l/logic-dynamic.md",
-  "state": "rv-09_checked",
+  "state": "done",
   "steps": [
     {
       "step": "ex-04",
@@ -94,6 +94,35 @@
       "actor": "trae-main",
       "at": "2026-11-27T23:54:02Z",
       "evidence": "rv-09 体例终校（T242e）：尾节序 参考文献＞学术工具＞其他网络资源＞相关词条，脚注恒末位；H1 中英题＋作者括号、pubinfo 引块、编号点号式均过；check_style 0、check_quotes 0、check_pairs hard 0／out_of_scope 0、check_math_zh 0、check_terms 硬 0、check_academic strict 无硬错误；账本 251 段、9685 汉字、602 行内公式、4 display、55 定义；勘误 3 行承载无误。"
+    },
+    {
+      "step": "sg-01",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-28T00:35:43Z",
+      "evidence": "sg-01 初审（results/t243-sg01.md）：对照 en 自审并通读语体；Critical 0／Major 0／Minor 3（计算复杂度→计算复杂性、诸 DL→各种 DL、集中于推理→集中讨论…推理）均已改；语体结论：现代汉语学术书面语、无文言仿古、破折号与一个未滥用；55 脚注定义与 en 逐字一致；check_prose/style/quotes/math_zh/terms 0、academic 无硬错误、pairs 0；账本 251 段。"
+    },
+    {
+      "step": "sg-02",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-28T00:36:23Z",
+      "evidence": "sg-02 复审（results/t243-sg02.md）：全篇逐句回核 en 与逻辑，覆盖 573 行／251 段；问题单 Critical 0／Major 0／Minor 0（初审 3 处已修，本轮不复查旧错）；量化否定辖域、条件方向、模态强度、引注书目、公式图表逐项核对一致；check_pairs/math_zh/style/quotes/terms/academic/prose 全 0；账本 251 段。"
+    },
+    {
+      "step": "sg-03",
+      "status": "ok",
+      "actor": "user",
+      "at": "2026-11-28T00:37:59Z",
+      "evidence": "sg-03 终审（results/t243-sg03.md）：用户 2026-11-28 授权 sg-03（范围 logic-dynamic）；终稿 573 行／9685 汉字、251 段、602 行内公式、4 display、55 定义、2 图；Critical／Major／Minor 0；check_all 23/23 全绿；体例与术语轴全过；签字通过。",
+      "mandate": "2026-11-28 用户会话明确授权：开始 T243 并授权 sg-03 终审，范围 logic-dynamic"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "user",
+      "at": "2026-11-28T00:38:03Z",
+      "evidence": "logic-dynamic 终审通过置 done（2026-11-28）：sg-03 用户授权签字（results/t243-sg03.md）；check_all 23/23 全绿；573 行／9685 汉字、251 段账本、602 行内公式、4 display、55 定义、2 图；Critical／Major／Minor 0。"
     }
   ],
   "blockers": [],

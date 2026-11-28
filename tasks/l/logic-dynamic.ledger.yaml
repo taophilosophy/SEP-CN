@@ -28,9 +28,9 @@ segments:
     source: |-
       Dynamic Logics (DL) are modal logics for representing the states and the events of dynamic systems. The language of DLs is both an assertion language able to express properties of computation states, and a programming language able to express properties of system transitions between these states. DLs are *logics of programs*, and permit to talk and reason about states of affairs, processes, changes, and results.
     step1: |-
-      动态逻辑（DL）是用于表示动态系统的状态与事件的模态逻辑。DL 的语言既是一种断言语言，能够表达计算状态的性质，又是一种程序设计语言，能够表达系统在这些状态之间转移的性质。诸 DL 是 **程序逻辑**，它们使我们能够谈论并推理事态、过程、变化与结果。
+      动态逻辑（DL）是用于表示动态系统的状态与事件的模态逻辑。DL 的语言既是一种断言语言，能够表达计算状态的性质，又是一种程序设计语言，能够表达系统在这些状态之间转移的性质。各种 DL 都是 **程序逻辑**，它们使我们能够谈论并推理事态、过程、变化与结果。
     step2: |-
-      动态逻辑（DL）是用于表示动态系统的状态与事件的模态逻辑。DL 的语言既是一种断言语言，能够表达计算状态的性质，又是一种程序设计语言，能够表达系统在这些状态之间转移的性质。诸 DL 是 **程序逻辑**，它们使我们能够谈论并推理事态、过程、变化与结果。
+      动态逻辑（DL）是用于表示动态系统的状态与事件的模态逻辑。DL 的语言既是一种断言语言，能够表达计算状态的性质，又是一种程序设计语言，能够表达系统在这些状态之间转移的性质。各种 DL 都是 **程序逻辑**，它们使我们能够谈论并推理事态、过程、变化与结果。
   - id: 4
     kind: body
     source: |-
@@ -76,17 +76,17 @@ segments:
     source: |-
       The Hoare calculus from Hoare [1969] is a landmark for logics of programs. It concerns the truth of statements of the form $\{A\}\alpha\{B\}$—meaning that with the precondition $A$ the program *α* always has $B$ as a post-condition—and is defined axiomatically. It comes from a want of rigorous methods to reason about the properties of programs, and thus giving to the activity of programming a certain place in the realm of science. Burstall [1974] saw the analogy between modal logics and reasoning about programs. But the actual work on it started with Pratt [1976] after it was suggested to him by some of the students of a course he was giving, specifically about logics of programs. PDL comes from Pratt’s interpretation of Hoare’s calculus in the formalism of modal logic. An introduction to the genesis of PDL can be found in Pratt [1980b]. The Hoare-triple $\{A\}\alpha\{B\}$ is captured by the PDL formula $A \to [\alpha]B$ meaning literally that if $A$ is true, then every successfully terminating execution of *α* will end with $B$ being true. With this connection realized, it is a routine to prove the initial rules of Hoare’s calculus using exclusively the axiomatization of PDL. This is something we will do in detail in section 3 which concentrates on the reasoning about the correctness of structured programs.
     step1: |-
-      出自霍尔 [1969] 的霍尔演算是程序逻辑的一个里程碑。它关涉形如 $\{A\}\alpha\{B\}$ 的陈述的真——意思是：以前提条件 $A$ 开始，程序 *α* 总是以 $B$ 为后条件——并以公理化方式定义。它源于一种对严格方法的需要：用这些方法推理程序的性质，从而在科学领域中给编程活动以一席之地。Burstall [1974] 看到了模态逻辑与程序推理之间的类比。但实际工作始于 Pratt [1976]：当时他正在讲授一门关于程序逻辑的课程，一些学生向他提出了这一想法。PDL 源于 Pratt 用模态逻辑形式系统对霍尔演算的解释。关于 PDL 起源的导论可参见 Pratt [1980b]。霍尔三元组 $\{A\}\alpha\{B\}$ 由 PDL 公式 $A \to [\alpha]B$ 捕捉，字面意思是：若 $A$ 为真，则 *α* 的每一次成功终止的执行都将以 $B$ 为真告终。一旦实现了这一联系，仅用 PDL 的公理化来证明霍尔演算的初始规则便是例行公事。我们将在第 3 节详细做这件事，该节集中于推理结构化程序的正确性。
+      出自霍尔 [1969] 的霍尔演算是程序逻辑的一个里程碑。它关涉形如 $\{A\}\alpha\{B\}$ 的陈述的真——意思是：以前提条件 $A$ 开始，程序 *α* 总是以 $B$ 为后条件——并以公理化方式定义。它源于一种对严格方法的需要：用这些方法推理程序的性质，从而在科学领域中给编程活动以一席之地。Burstall [1974] 看到了模态逻辑与程序推理之间的类比。但实际工作始于 Pratt [1976]：当时他正在讲授一门关于程序逻辑的课程，一些学生向他提出了这一想法。PDL 源于 Pratt 用模态逻辑形式系统对霍尔演算的解释。关于 PDL 起源的导论可参见 Pratt [1980b]。霍尔三元组 $\{A\}\alpha\{B\}$ 由 PDL 公式 $A \to [\alpha]B$ 捕捉，字面意思是：若 $A$ 为真，则 *α* 的每一次成功终止的执行都将以 $B$ 为真告终。一旦实现了这一联系，仅用 PDL 的公理化来证明霍尔演算的初始规则便是例行公事。我们将在第 3 节详细做这件事，该节集中讨论结构化程序正确性的推理。
     step2: |-
-      出自霍尔 [1969] 的霍尔演算是程序逻辑的一个里程碑。它关涉形如 $\{A\}\alpha\{B\}$ 的陈述的真——意思是：以前提条件 $A$ 开始，程序 *α* 总是以 $B$ 为后条件——并以公理化方式定义。它源于一种对严格方法的需要：用这些方法推理程序的性质，从而在科学领域中给编程活动以一席之地。Burstall [1974] 看到了模态逻辑与程序推理之间的类比。但实际工作始于 Pratt [1976]：当时他正在讲授一门关于程序逻辑的课程，一些学生向他提出了这一想法。PDL 源于 Pratt 用模态逻辑形式系统对霍尔演算的解释。关于 PDL 起源的导论可参见 Pratt [1980b]。霍尔三元组 $\{A\}\alpha\{B\}$ 由 PDL 公式 $A \to [\alpha]B$ 捕捉，字面意思是：若 $A$ 为真，则 *α* 的每一次成功终止的执行都将以 $B$ 为真告终。一旦实现了这一联系，仅用 PDL 的公理化来证明霍尔演算的初始规则便是例行公事。我们将在第 3 节详细做这件事，该节集中于推理结构化程序的正确性。
+      出自霍尔 [1969] 的霍尔演算是程序逻辑的一个里程碑。它关涉形如 $\{A\}\alpha\{B\}$ 的陈述的真——意思是：以前提条件 $A$ 开始，程序 *α* 总是以 $B$ 为后条件——并以公理化方式定义。它源于一种对严格方法的需要：用这些方法推理程序的性质，从而在科学领域中给编程活动以一席之地。Burstall [1974] 看到了模态逻辑与程序推理之间的类比。但实际工作始于 Pratt [1976]：当时他正在讲授一门关于程序逻辑的课程，一些学生向他提出了这一想法。PDL 源于 Pratt 用模态逻辑形式系统对霍尔演算的解释。关于 PDL 起源的导论可参见 Pratt [1980b]。霍尔三元组 $\{A\}\alpha\{B\}$ 由 PDL 公式 $A \to [\alpha]B$ 捕捉，字面意思是：若 $A$ 为真，则 *α* 的每一次成功终止的执行都将以 $B$ 为真告终。一旦实现了这一联系，仅用 PDL 的公理化来证明霍尔演算的初始规则便是例行公事。我们将在第 3 节详细做这件事，该节集中讨论结构化程序正确性的推理。
   - id: 10
     kind: body
     source: |-
       Additional topics related to PDL include results concerning comparative power of expression, decidability, complexity, and completeness of a number of interesting variants obtained by extending or restricting PDL in various ways. Since its inception, many variants of PDL have received attention. These variants may consider deterministic programs, restricted tests, non-regular programs, programs as automata, complementation and intersection of programs, converse and infinite computations, etc. We will present some of them in section 4, providing some pointers regarding their relative expressivity, their axiomatizations, and their computational complexity.
     step1: |-
-      与 PDL 相关的其他主题包括：关于若干有趣变体的比较表达力、可判定性、复杂性与完全性的结果，这些变体通过以各种方式扩展或限制 PDL 而得到。自 PDL 诞生以来，许多变体受到关注。这些变体可能考虑确定的程序、受限的测试、非正则程序、作为自动机的程序、程序的补与交、逆与无限计算，等等。我们将在第 4 节呈现其中一些，并提供关于其相对表达力、公理化与计算复杂度的若干指引。
+      与 PDL 相关的其他主题包括：关于若干有趣变体的比较表达力、可判定性、复杂性与完全性的结果，这些变体通过以各种方式扩展或限制 PDL 而得到。自 PDL 诞生以来，许多变体受到关注。这些变体可能考虑确定的程序、受限的测试、非正则程序、作为自动机的程序、程序的补与交、逆与无限计算，等等。我们将在第 4 节呈现其中一些，并提供关于其相对表达力、公理化与计算复杂性的若干指引。
     step2: |-
-      与 PDL 相关的其他主题包括：关于若干有趣变体的比较表达力、可判定性、复杂性与完全性的结果，这些变体通过以各种方式扩展或限制 PDL 而得到。自 PDL 诞生以来，许多变体受到关注。这些变体可能考虑确定的程序、受限的测试、非正则程序、作为自动机的程序、程序的补与交、逆与无限计算，等等。我们将在第 4 节呈现其中一些，并提供关于其相对表达力、公理化与计算复杂度的若干指引。
+      与 PDL 相关的其他主题包括：关于若干有趣变体的比较表达力、可判定性、复杂性与完全性的结果，这些变体通过以各种方式扩展或限制 PDL 而得到。自 PDL 诞生以来，许多变体受到关注。这些变体可能考虑确定的程序、受限的测试、非正则程序、作为自动机的程序、程序的补与交、逆与无限计算，等等。我们将在第 4 节呈现其中一些，并提供关于其相对表达力、公理化与计算复杂性的若干指引。
   - id: 11
     kind: body
     source: |-
