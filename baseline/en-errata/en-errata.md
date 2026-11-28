@@ -708,4 +708,5 @@
 
 | slug | 位置 | 上游原文 | 缺陷定性 | 参考读法 | 中文承载 | 凭证 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| japanese-aesthetics | Acknowledgments | `the films discussed in Section 7` | ②同页自相矛盾（影片实见 §10） | `the films discussed in Section 10` | 译文作“第 10 节”，译者注释① | 2026-11-28 一校核对 |
+| japanese-aesthetics | Acknowledgments | `the films discussed in Section 7` | ②同页自相矛盾（影片实见 §10） | `the films discussed in Section 10` | 译文作“第 10 节”，译者注释② | 2026-11-28 一校核对 |
+| japanese-aesthetics | §3（侘） | `See section 7, below, on cutting` | ②同页自相矛盾（“切”的专节实为 §9） | `See section 9, below, on cutting` | 译文作“第 9 节”，译者注释① | 2026-11-28 sg-01 核对 |

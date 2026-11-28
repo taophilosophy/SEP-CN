@@ -2,7 +2,7 @@
   "slug": "japanese-aesthetics",
   "kind": "retranslate",
   "zh_doc": "zh/j/japanese-aesthetics.md",
-  "state": "rv-09_checked",
+  "state": "sg-02_checked",
   "translation_mode": "llm-pe",
   "project_spec": {
     "audience": "中文哲学读者（研究者与研究生为主）",
@@ -108,6 +108,20 @@
       "actor": "trae-main",
       "at": "2026-11-28T03:34:26Z",
       "evidence": "T250 rv-09 体例终校：适用规范基线筛查——GB/T 15834-2011（标点）、GB/T 15835-2011（数字与计量）、CY/T 266-2023（编校质量）、GB 3100／3101（量和单位，照录源豁免）与 ADR-0041 偏离登记；未发现与项目基线冲突项。尾序 参考文献＞学术工具＞其他网络资源＞相关词条＞脚注定义＞译者注释，H1 中英题＋作者、pubinfo 引块、编号 N. 均正典。check_style 0 issue；markdownlint-cli2 0 issue（单件 --no-globs）；check_quotes 0；check_pairs --gate hard 0／out_of_scope 0；check_academic --strict 无硬错误；check_math_zh --strict 硬 0；check_terms 硬 0；check_images 悬空 0；check_prose 0。结构 341 行／13,513 汉字／120 段账本／44 脚注定义（唯一键 44）／8 引用／33 图／H2 15（含译者注释）／H3 1。rv-03–08 六轴 gate 均 0。"
+    },
+    {
+      "step": "sg-01",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-28T03:47:30Z",
+      "evidence": "T251 sg-01 初审：按准确性／完整性／术语／语体四维自审，抽 §1、§4、§7、§8、§10 五段对照 en，人名、年代、页码、数量与命题一致；正文 120 块＋译者注释 1 段、44 脚注定义／8 引用／33 图／6 子文档闭合；42 条引文 hash 与 q1 清单一致。Minor 3 处已处理：①「最平等主义的是」改「最具平等主义色彩的是」；② 复核发现 §3「见下文第 7 节」实指「切」专节 §9，属上游同页自相矛盾，已改「第 9 节」并入勘误第二十一节、加译者注释①（原 Acknowledgments 注顺延为②）；③ rv-08 连接号归一误入 Tanizaki 引文页码，恢复 en dash（11–12）并将 P-13@107 转 waived。Critical 0／Major 0。语体结论：现代汉语学术书面语，无文言仿古、无口语与 AI 腔，破折号均承担插入／转折／解释；check_style／quotes／math_zh／terms／cite／punct／images 均 0 或既有豁免，check_prose 0。"
+    },
+    {
+      "step": "sg-02",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-28T03:48:17Z",
+      "evidence": "T251 sg-02 复审：120 块逐段抽核（每 5 块抽 1，共 24 块）＋全量数字／引文／指代／跨节核对。42 条引文 hash 与 q1 清单一致；44 脚注定义／8 引用闭合；译者注释 2 条锚点连续（① §3 切、② Acknowledgments 影片）；33 图／6 补充子文档可解析。数字事实 1949／1953／1591／1495／76 岁／60 厘米／八镜头七切／十五石／六秒与 en 一致；指代「后者」2 处、第 9／10 节跨节引用均可唯一回指；不仅…而且、尽管…却、只有…才、除非 等连接无错配。问题单 0（Critical 0／Major 0／Minor 0）。复跑 check_academic --strict 无硬错误、check_math_zh --strict 0、check_terms 硬 0、check_pairs --gate hard 0、check_quotes 0、check_images 悬空 0、cite_audit 0、punct_audit 0（1 条引文内页码豁免）、check_prose 0。"
     }
   ],
   "blockers": [],
