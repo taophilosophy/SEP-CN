@@ -2,7 +2,7 @@
   "slug": "kokugaku-school",
   "kind": "retranslate",
   "zh_doc": "zh/k/kokugaku-school.md",
-  "state": "tr-02_checked",
+  "state": "tr-04_checked",
   "translation_mode": "llm-pe",
   "project_spec": {
     "audience": "中文哲学读者（研究者与研究生为主）",
@@ -31,6 +31,20 @@
       "actor": "trae-main",
       "at": "2026-11-28T05:18:38Z",
       "evidence": "T256 tr-02：译后编辑（PE）全量入库；§5–§6＋尾节＋51 脚注定义；全文 431 行／12,515 汉字；账本 181 段（en/zh 181/181）；51 定义键集与 en 一致，5 处正文 marker 闭合；尾序为参考文献>原始文献>二手文献>学术工具>其他网络资源>相关词条>脚注定义>译者注释；新增 10 条术语（养老馆、《本学举要》、古事、思兼神、太政官、天之御中主神、《延喜式》、神佛分离、《教育敕语》、《玉胜间》）；check_style／quotes 0、check_terms 硬 0（0 告警）、check_pairs 0、check_academic 无硬错误、check_all 23/23。证据 specs/064-flow-spec-audit/results/t256-review.md。"
+    },
+    {
+      "step": "tr-03",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-28T05:24:07Z",
+      "evidence": "T257 tr-03 一校（results/t257-tr03.md）：181 段账本逐块对齐 en，导论至 §6、尾节、51 脚注定义逐节核销；数字 token 差异 25 段逐段判读，全部为中文数词、缩年段展开（1945–52→1952 等）、有意勘误（1666→1669、1824–83→1800—1862）与千分位格式，无未解释分歧；人名 30 余个与登记册及源括注一致；书名、6 张和歌表归属逐条核对；51 定义键集与 en 相同、5 处 marker 闭合；残留外文仅 H1、罗马字术语、和歌右列、英文书名与 OIR 著录；Critical 0／Major 0／Minor 0；2 类上游缺陷按勘误第二十二节承载（译注①②）；Ōkuni 生年 1792 随源、登记册 1793 差异留 rv-01。"
+    },
+    {
+      "step": "tr-04",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-28T05:24:11Z",
+      "evidence": "T257 tr-04 二校（results/t257-tr04.md）：check_prose 36→7；long-sentence 7→1、passive-bei 3→0、weak-verb 4→0、de-chain 20→5、conj-he-verb 1→1、chenggong-de 1→0；29 条改写逐项留痕，余 7 条逐条豁免（术语“和歌”误报 1、“有的”结构 2、和歌／引文内部 4）；语体结论：现代汉语学术书面语，无文言仿古与 AI 腔，破折号 25 对均承担插入／转折／解释，“一个”19 处均数量义；check_style／quotes 0、terms 硬 0、pairs 0、academic 无硬错误；账本 181 段守恒。"
     }
   ],
   "blockers": [],
