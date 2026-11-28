@@ -26,6 +26,10 @@
 | `blockers` | array | 阻塞说明；blocked 状态独立于 state |
 | `created_at` | string | 任务创建时间 |
 | `version_pin` | object | 英文源版本钉：`pubinfo_date` + `archive_edition` + `sha256` |
+| `project_spec` | object | ISO 11669 三类 16 字段（ADR-0093）；进 `tr-02` 前机检 |
+| `competences` | object | actor→`qualification`／`experience`／`domain`／`training`（ADR-0093） |
+| `translation_mode` | string | `human` 或 `llm-pe` |
+| `pe` | object | `llm-pe` 的 `level`／`system`／`disclosure` |
 
 ## 状态机
 

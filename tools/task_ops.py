@@ -2,7 +2,7 @@
 """文档任务状态机（FR-011/012/013；状态图见 specs/001-sep-sync-pipeline/data-model.md）。
 
 用法: python tools/task_ops.py <命令> <slug> [参数]
-命令: show / create / advance / clear / reopen / block / revert-state / source-audit
+命令: show / create / advance / clear / reopen / block / revert-state / source-audit / competence
 状态机（retranslate，identifier 口径，ADR-0080）:
   pending → cleared → ex-04_checked(源审计前置) → tr-02_checked(初译) → tr-03_checked(一校)
           → tr-04_checked(二校) → rv-01_checked(术语校) → rv-02_checked(审计已译)
@@ -177,9 +177,14 @@ def create(slug, kind, zh_doc=None, change_file=None, translation_mode="human",
         raise UsageError("llm-pe 任务须给 --pe-system（引擎与版本，ADR-0084 D2=B）")
     if load_task(slug):
         raise PreconditionError("任务已存在: %s" % slug)
+    spec = _build_project_spec(project_spec)
+    want_pe = pe_level if translation_mode == "llm-pe" else "n/a（人工翻译）"
+    if project_spec and "pe_level" in project_spec and project_spec["pe_level"] != want_pe:
+        raise UsageError("project_spec.pe_level 须与 --pe-level／translation_mode 一致（ADR-0093）")
+    spec["pe_level"] = want_pe
     task = {"slug": slug, "kind": kind, "zh_doc": zh_doc, "state": "pending",
             "translation_mode": translation_mode,
-            "project_spec": _build_project_spec(project_spec),
+            "project_spec": spec,
             "steps": [], "blockers": [], "created_at": utcnow_iso()}
     if translation_mode == "llm-pe":
         task["pe"] = {"level": pe_level, "system": pe_system,
@@ -228,13 +233,14 @@ def advance(slug, step, actor, evidence, unblock=False, mandate=""):
             "step %s 要求状态 %s，当前 %s（禁止跳步）" % (step, prev_needed, cur))
     if cur not in order:
         raise PreconditionError("非法状态 %s" % cur)
-    if step == "sg-03" and task.get("kind") != "glossary-maintenance":
-        if not str(mandate or "").strip():
+    if step in ("sg-01", "sg-02", "sg-03") and task.get("kind") != "glossary-maintenance":
+        if step == "sg-03" and not str(mandate or "").strip():
             raise PreconditionError(
                 "终审须用户显式指定会话（ADR-0054）：advance --step sg-03 --mandate "
                 "\"<用户指定记录：何时/何范围>\"（旧短名 r3 仍可用）；未指定时不进行终审，"
                 "条目停 sg-02_checked")
-        _independence_gate(task, actor, evidence)  # 复核独立性机检（rules/04）
+        _review_independence_gate(task, step, actor)  # 四审分离（ADR-0093）
+        _review_competence_gate(task, actor)  # 能力记录（ISO 17100 3.1.3–3.1.7）
     if step in ("rv-09", "sg-03") and task.get("kind") != "glossary-maintenance":
         _academic_gate(task.get("zh_doc"), step)  # 审校挂钩（rules/07）
     if step == "rv-01" and task.get("kind") != "glossary-maintenance":
@@ -250,7 +256,7 @@ def advance(slug, step, actor, evidence, unblock=False, mandate=""):
     if step in AXIS_TOOL and task.get("kind") != "glossary-maintenance":
         _axis_gate(step, task.get("zh_doc"))
     if step == "tr-02" and task.get("kind") != "glossary-maintenance":
-        _project_spec_gate(task)  # 项目规格机检（ISO 11669:2024；ADR-0086）
+        _project_spec_gate(task)  # 项目规格机检（ISO 11669:2024；ADR-0093）
         _pe_gate(task, evidence)  # 译后编辑定位机检（ADR-0084 D2=B）
     if step == "rv-02" and task.get("kind") != "glossary-maintenance":
         # 三轴并挂（ADR-0063 2026-11-17 补记）：受控回退的目标态是
@@ -280,26 +286,60 @@ def _clear_gate(slug):
         raise PreconditionError("基线 gate 未通过: %s" % json.dumps(report, ensure_ascii=False))
 
 
-PROJECT_SPEC_FIELDS = ("audience", "purpose", "register", "terminology_basis",
-                        "delivery", "qa_level")
+PROJECT_SPEC_SCHEMA = {
+    "content": ("language_pair", "content_type", "audience", "purpose",
+                "subject_field", "terminology_basis", "register"),
+    "process": ("workflow", "pe_level", "qa_level", "pre_edit"),
+    "other": ("risk_level", "confidentiality", "delivery", "communication",
+              "qualifications"),
+}
+PROJECT_SPEC_FIELDS = tuple(k for keys in PROJECT_SPEC_SCHEMA.values() for k in keys)
+PROJECT_SPEC_REQUIRED = ("audience", "purpose", "qa_level", "pe_level", "risk_level")
 PROJECT_SPEC_DEFAULT = {
+    "language_pair": "en → zh-Hans",
+    "content_type": "学术百科词条（SEP）",
     "audience": "中文哲学读者（研究者与研究生为主）",
     "purpose": "学术阅读与引用（SEP 词条简体中文译本）",
-    "register": "现代汉语学术书面语",
+    "subject_field": "哲学（按词条分支）",
     "terminology_basis": "shu-yu-biao.md／ren-ming-biao.md／baseline/term-concepts.md",
-    "delivery": "GitBook Markdown＋VitePress 双语站",
+    "register": "现代汉语学术书面语",
+    "workflow": "retranslate 22 节点（rules/04）",
+    "pe_level": "n/a（人工翻译）",
     "qa_level": "CY/T 266＋ISO 5060（六轴机检＋人工复核）",
+    "pre_edit": "源审计后按 tr-01 术语摘录与提示词准备",
+    "risk_level": "B 中",
+    "confidentiality": "公开源；未公开草稿与审稿意见不入模型",
+    "delivery": "GitBook Markdown＋VitePress 双语站",
+    "communication": "任务 evidence＋journal",
+    "qualifications": "见 task.competences（ISO 17100 3.1.3–3.1.7）",
 }
+RISK_LEVELS = ("A 高", "B 中", "C 低／内部")
+PE_LEVELS = ("full", "light", "n/a（人工翻译）")
+COMPETENCE_FIELDS = ("qualification", "experience", "domain", "training")
 
 
 def _project_spec_gate(task):
-    """项目规格机检（ISO 11669:2024；ADR-0086）：六项非空才可进 tr-02。"""
+    """项目规格机检（ISO 11669:2024；ADR-0086／ADR-0093）：16 字段非空且枚举合法才可进 tr-02。"""
     spec = task.get("project_spec") or {}
     miss = [k for k in PROJECT_SPEC_FIELDS if not str(spec.get(k) or "").strip()]
     if miss:
         raise PreconditionError(
-            "project_spec 缺项 %s（ISO 11669:2024 项目规格，ADR-0086）：补齐后再进 tr-02"
+            "project_spec 缺项 %s（ISO 11669:2024 项目规格，ADR-0093）：补齐后再进 tr-02"
             % "/".join(miss))
+    if spec.get("risk_level") not in RISK_LEVELS:
+        raise PreconditionError(
+            "project_spec.risk_level 须为 %s（ADR-0093）" % "／".join(RISK_LEVELS))
+    pe_level = spec.get("pe_level")
+    if pe_level not in PE_LEVELS:
+        raise PreconditionError(
+            "project_spec.pe_level 须为 %s（ADR-0093）" % "／".join(PE_LEVELS))
+    if task.get("translation_mode") == "llm-pe":
+        if pe_level != (task.get("pe") or {}).get("level"):
+            raise PreconditionError(
+                "project_spec.pe_level 与 task.pe.level 不一致（ADR-0093）")
+    elif pe_level != "n/a（人工翻译）":
+        raise PreconditionError(
+            "human 任务的 project_spec.pe_level 须为 n/a（人工翻译）（ADR-0093）")
 
 
 def _build_project_spec(overrides):
@@ -547,30 +587,67 @@ def _academic_gate(zh_doc, step):
                                     % (label, step, r.stdout.strip()[-800:]))
 
 
-def _independence_gate(task, actor, evidence):
-    """终审分离硬门（ADR-0084 D1=C；《图书质量保障体系》第八条、ISO 17100）。
+def _review_independence_gate(task, step, actor):
+    """四审分离硬门（ADR-0093 取代 ADR-0084 D1=C）：译者≠初审≠复审≠终审。
 
-    sg-03 的 actor 不得是初译（retranslate 取 tr-02、update 取 tr-03）或初审／复审
-    （sg-01／sg-02）的同一人；违反直接拒绝，不再接受“冷置／密度”补偿。
-    前两审（sg-01／sg-02）与初译同人仍允许，但属登记偏离 V01（见 standards.json）。
-    旧任务缺首写步或前审步时，仅在可判定范围内检查（不强溯）。
+    sg-01 须异于初译；sg-02 须异于初译与 sg-01；sg-03 须异于初译、sg-01、sg-02。
+    冷置／密度补偿一律不适用。旧任务缺相应步骤时，仅在可判定范围内检查。
     """
-    first = "tr-02" if task.get("kind") == "retranslate" else "tr-03"
     steps = task.get("steps", [])
-    writer = next((s.get("actor") or "" for s in steps
-                   if NODE_MAP.get(s.get("step"), s.get("step")) == first), None)
-    prior = [s.get("actor") or "" for s in steps
-             if NODE_MAP.get(s.get("step"), s.get("step")) in ("sg-01", "sg-02")]
-    conflicts = []
-    if writer and actor == writer:
-        conflicts.append("初译")
-    if actor in prior:
-        conflicts.append("初审／复审")
+
+    def actor_of(node):
+        return next((s.get("actor") or "" for s in steps
+                     if NODE_MAP.get(s.get("step"), s.get("step")) == node), None)
+
+    translator = actor_of("tr-02")
+    prior = []
+    if translator:
+        prior.append(("初译", translator))
+    if step in ("sg-02", "sg-03"):
+        a = actor_of("sg-01")
+        if a:
+            prior.append(("初审", a))
+    if step == "sg-03":
+        a = actor_of("sg-02")
+        if a:
+            prior.append(("复审", a))
+    conflicts = [label for label, a in prior if a == actor]
     if conflicts:
         raise PreconditionError(
-            "终审须由未参与初译、初审、复审的人执行（ADR-0084 D1=C；"
-            "《图书质量保障体系》第八条）：actor %r 已参与 %s；冷置／密度补偿不适用于终审"
+            "审校独立性未满足（ADR-0093）：actor %r 已参与 %s；"
+            "译者≠初审≠复审≠终审，冷置／密度补偿一律不适用"
             % (actor, "、".join(conflicts)))
+
+
+def _review_competence_gate(task, actor):
+    """审校能力记录（ISO 17100 3.1.3–3.1.7；ADR-0093）。"""
+    rec = (task.get("competences") or {}).get(actor) or {}
+    miss = [k for k in COMPETENCE_FIELDS if not str(rec.get(k) or "").strip()]
+    if miss:
+        raise PreconditionError(
+            "审校 actor %r 缺 competence 记录 %s（ISO 17100 3.1.3–3.1.7）：先 "
+            "task_ops.py competence %s --actor %r --qualification ... --experience ... "
+            "--domain ... --training ..." % (actor, "/".join(miss), task.get("slug"), actor))
+
+
+def set_competence(slug, actor, qualification, experience, domain, training):
+    """登记审校能力记录（ADR-0093；ISO 17100 3.1.3–3.1.7）。"""
+    task = load_task(slug)
+    if not task:
+        raise TaskNotFound(slug)
+    actor = str(actor or "").strip()
+    if not actor:
+        raise UsageError("competence 须给 --actor")
+    rec = {"qualification": str(qualification or "").strip(),
+           "experience": str(experience or "").strip(),
+           "domain": str(domain or "").strip(),
+           "training": str(training or "").strip()}
+    miss = [k for k in COMPETENCE_FIELDS if not rec[k]]
+    if miss:
+        raise UsageError("competence 缺项 %s（ISO 17100 3.1.3–3.1.7）" % "/".join(miss))
+    task.setdefault("competences", {})[actor] = rec
+    save_task(task)
+    return task
 
 
 def reopen(slug, reason, actor, upstream_sync=False):
@@ -685,11 +762,20 @@ def main(argv=None):
             args = _parse(["--kind", "--zh-doc", "--from", "--translation-mode",
                            "--pe-level", "--pe-system", "--pe-disclosure",
                            "--spec-audience", "--spec-purpose", "--spec-register",
-                           "--spec-basis", "--spec-delivery", "--spec-qa"], argv[2:])
+                           "--spec-basis", "--spec-delivery", "--spec-qa",
+                           "--spec-content-type", "--spec-subject-field",
+                           "--spec-pe-level", "--spec-risk-level",
+                           "--spec-confidentiality", "--spec-qualifications"], argv[2:])
             spec = {}
             for flag, key in (("spec_audience", "audience"), ("spec_purpose", "purpose"),
                               ("spec_register", "register"), ("spec_basis", "terminology_basis"),
-                              ("spec_delivery", "delivery"), ("spec_qa", "qa_level")):
+                              ("spec_delivery", "delivery"), ("spec_qa", "qa_level"),
+                              ("spec_content_type", "content_type"),
+                              ("spec_subject_field", "subject_field"),
+                              ("spec_pe_level", "pe_level"),
+                              ("spec_risk_level", "risk_level"),
+                              ("spec_confidentiality", "confidentiality"),
+                              ("spec_qualifications", "qualifications")):
                 if args.get(flag):
                     spec[key] = args[flag]
             task = create(slug, args.get("kind"), args.get("zh_doc"), args.get("from"),
@@ -738,6 +824,14 @@ def main(argv=None):
             print(json.dumps(source_audit(slug, args.get("actor") or "?",
                                           args.get("evidence") or ""),
                              ensure_ascii=False, indent=2))
+            return 0
+        if cmd == "competence":
+            args = _parse(["--actor", "--qualification", "--experience",
+                           "--domain", "--training"], argv[2:])
+            print(json.dumps(set_competence(
+                slug, args.get("actor") or "", args.get("qualification") or "",
+                args.get("experience") or "", args.get("domain") or "",
+                args.get("training") or ""), ensure_ascii=False, indent=2))
             return 0
         raise UsageError("未知命令: %s" % cmd)
     except TaskNotFound:

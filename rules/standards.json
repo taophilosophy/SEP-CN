@@ -994,9 +994,9 @@
    "id": "S22",
    "std": "图书质量保障体系（1997）第八条",
    "clause": "三审责任制度：任何两个环节不得同一人；三校一读",
-   "owner": "rules/04 终审分离",
-   "tool": "task_ops sg-03 独立性硬门",
-   "status": "adopted（部分，见 deviations V01）"
+   "owner": "rules/04 四审分离",
+   "tool": "task_ops sg-01/02/03 独立性与 competence 机检",
+   "status": "adopted"
   },
   {
    "id": "S23",
@@ -1016,14 +1016,6 @@
   }
  ],
  "deviations": [
-  {
-   "id": "V01",
-   "std": "图书质量保障体系第八条／ISO 17100",
-   "deviation": "sg-01／sg-02 允许与初译同人（须冷置或密度补偿）；sg-03 强制他人",
-   "basis": "用户 2026-11-25 批准 D1=C",
-   "adr": "0084",
-   "scope": "词条翻译前两审"
-  },
   {
    "id": "V02",
    "std": "ISO 15489-1／GB/T 26162／GB/T 18894／DA/T 22",

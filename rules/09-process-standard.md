@@ -28,13 +28,35 @@
 | P5 审计 rv-02 | 校者（宜非译者） | html/、en/、译文 | check_math_zh 默认档＋check_style（O1）＋独立性机检 | 三向比对记录、密度统计、增项处置 |
 | P5.5 形态清账（rv-09 前置独立步骤） | 校者/管线会话 | 已译集合、html/ 正典形态 | `indep_review.py --scan` 该字头该类残余 0 或全登记豁免（告警级，不进 CI） | scan JSON、裁定表、manifest（ADR-0047） |
 | P6 三校 rv-09 | 译者/校者 | 译文、ADR-0041 规范清单 | check_academic --strict＋check_math_zh --strict＋check_style 0 issue＋markdownlint | 体例处置记录、规范基线筛查结论 |
-| P7 三审 sg-01–sg-03 | 评审线 | 前六阶段全部输出 | check_academic --strict、CI、独立性机检、sg-03 须用户指定终审会话（ADR-0054） | 自审/复核/验收签字、问题单 |
+| P7 三审 sg-01–sg-03 | 评审线 | 前六阶段全部输出 | check_academic --strict、CI、独立性机检、competence 机检、sg-03 须用户指定终审会话（ADR-0054） | 自审/复核/验收签字、问题单 |
 | P8 收尾 done | 评审线/治理线 | sg-03 凭证 | CI 全绿 | 归档任务、PROGRESS |
 | P9 更新 update | 译者至评审线 | compare 变更清单 | 变更段同口径门禁 | 变更文件、变更段凭证 |
 | P10 战役 | 治理线立卡、译者至评审线执行 | 任务书（specs） | 批次卡钉、试金石、独立复算 | execution-log、manifest |
 | P11 登记册维护 | 治理线/管线会话 | 查证凭证、候选池 | check_terms 硬门禁、先登记后使用 | 登记册行（原文/译法/首现/依据/裁定日期） |
 
-**角色约束**：校者 校者应独立于 译者（资质相当，ISO 17100 §5.5.4/ADR-0020）；单会话形态应按 [04](04-translation-workflow.md) 记明冷置或密度统计补偿（task_ops 机检实拦）。P10 战役任务书应含 作废条件、基准钉、试金石、独立复算、归因登记 五要素（ADR-0039）。
+**角色约束**：审校四环节 actor 两两不同——译者（tr-02）≠双语审校（sg-01）≠复审（sg-02）≠终审（sg-03），依据 ISO 17100 5.3.3／《图书质量保障体系》第八条／[ADR-0093](adr/0093-项目规格扩展与四审分离.md)；前两审不再接受冷置或密度补偿。RACI、能力记录与独立性细则见 §2.1。P10 战役任务书应含 作废条件、基准钉、试金石、独立复算、归因登记 五要素（ADR-0039）。
+
+### 2.1 角色矩阵、能力记录与审校独立性（ADR-0093）
+
+**RACI**（R＝执行，A＝批准／最终负责，C＝咨询，I＝知会；阶段对应 `results/target-workflow.md` §4）：
+
+| 角色 | P0 立项 | P1 源准备 | P2 翻译／PE | P3 独立审校 | P4 语言 QA | P5 编辑出版 | P6 发布归档 | P7 发布后 |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 项目经理 PM | A/R | A | A | A | A | A | A | A |
+| 译者／译后编辑 | C | C | R | C | C | I | I | I |
+| 双语审校（sg-01） | I | I | C | R | C | C | I | I |
+| 复审（sg-02） | I | I | I | R | C | I | I | I |
+| 终审（sg-03） | I | I | I | A | A | C | A | I |
+| 领域审校 | C | C | I | R | C | C | I | I |
+| 术语员 | C | R | C | C | C | C | I | I |
+| 校对 | I | I | I | I | C | R | I | I |
+| 编辑 copyeditor | I | I | I | I | C | R | C | I |
+| QA lead | C | C | I | C | R/A | C | C | R |
+| AI／数据 steward | C | C | C | I | I | I | C | C |
+
+**能力记录**（ISO 17100 3.1.3–3.1.7）：任务 JSON 的 `competences[actor]` 逐人登记 `qualification`／`experience`／`domain`／`training` 四项，均为必填；`sg-01`／`sg-02`／`sg-03` 推进前由 `task_ops.py` 校验，缺项即拒。登记命令：`python tools/task_ops.py competence <slug> --actor <actor> --qualification ... --experience ... --domain ... --training ...`。
+
+**独立性**：tr-02、sg-01、sg-02、sg-03 的 actor 两两不同；领域审校与校对独立于译者；`sg-01`／`sg-02` 与初译同人的 V01 偏离已撤销（`rules/standards.json` 不再登记），冷置／密度补偿不适用于任何审校环节。
 
 ## 3. 信息项规范（15289 对齐）
 
@@ -57,6 +79,29 @@
 * **形态三分**：单页卡＝仅 `spec.md`（允许 `plan.md` 单存为规划卡）；标准三件＝`spec.md`＋`plan.md`＋`tasks.md`，有 `tasks.md` 必有 `plan.md`；登记／规则类不建 `specs/` 空壳。判据见 [ADR-0092](adr/0092-文档形态三分与规则作用域派生.md)。
 * **作用域派生**：规则作用域只从 `rules/pipeline.json` 的 `criteria_owner`／`criteria_carrier` 派生；`rules/0X-*.md` 头部不得手写 `applies_to`。
 * **机检**：`python tools/check_doc_shape.py`；正反例 `tools/tests/test_doc_shape.py`。
+
+### 3.2 项目规格字段（`project_spec`，ADR-0093）
+
+建账时写入项目默认值；逐项可覆盖，未知字段或空值拒建账。进 `tr-02` 前 16 字段全部非空，且 `risk_level`／`pe_level` 枚举合法、`pe_level` 与 `translation_mode` 一致。
+
+| 字段 | 类别 | 类型 | 必填 | 默认／说明 |
+| ---- | ---- | ---- | ---- | ---- |
+| language_pair | 内容 | string | 是 | en → zh-Hans |
+| content_type | 内容 | string | 是 | 学术百科词条（SEP） |
+| audience | 内容 | string | 是 | 中文哲学读者（研究者与研究生为主） |
+| purpose | 内容 | string | 是 | 学术阅读与引用 |
+| subject_field | 内容 | string | 是 | 哲学（按词条分支） |
+| terminology_basis | 内容 | string | 是 | 两登记册＋term-concepts |
+| register | 内容 | string | 是 | 现代汉语学术书面语 |
+| workflow | 过程 | string | 是 | retranslate 22 节点 |
+| pe_level | 过程 | enum | 是 | full／light／n/a（人工翻译） |
+| qa_level | 过程 | string | 是 | CY/T 266＋ISO 5060 |
+| pre_edit | 过程 | string | 是 | 源审计后按 tr-01 准备 |
+| risk_level | 其他 | enum | 是 | A 高／B 中／C 低／内部 |
+| confidentiality | 其他 | string | 是 | 未公开草稿不入模型 |
+| delivery | 其他 | string | 是 | GitBook Markdown＋VitePress |
+| communication | 其他 | string | 是 | 任务 evidence＋journal |
+| qualifications | 其他 | string | 是 | 见 task.competences |
 
 ## 4. 评审体系（IEEE 1028 五类映射）
 

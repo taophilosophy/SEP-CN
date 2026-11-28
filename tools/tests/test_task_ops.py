@@ -56,6 +56,27 @@ class TestTaskOps(unittest.TestCase):
         write_text(p, body)
         return p
 
+    def _competence(self, slug, *actors):
+        for a in actors:
+            task_ops.set_competence(slug, a, "测试资格", "测试经验", "测试哲学", "测试培训")
+
+    def _review(self, slug, translator="t", first="rev1", second="rev2"):
+        self._competence(slug, first, second, "rev3")
+        task_ops.advance(slug, "s3", actor=translator, evidence="e")
+        task_ops.advance(slug, "r1", actor=first, evidence="e")
+        task_ops.advance(slug, "r2", actor=second, evidence="e")
+
+    def _ready_s3(self, slug, md_name, translator="t"):
+        task_ops.create(slug, "retranslate", zh_doc=self._md(md_name))
+        task_ops.clear(slug)
+        for step in ("s0", "draft", "s1", "s2"):
+            task_ops.advance(slug, step, actor=translator, evidence="e")
+        task_ops.advance(slug, "s24", actor=translator, evidence="e")
+        task_ops.advance(slug, "audit", actor=translator,
+                         evidence="e；冷置回读＋密度统计")
+        self._qchain(slug, actor=translator)
+        task_ops.advance(slug, "s3", actor=translator, evidence="e")
+
     def test_skip_step_rejected(self):
         task_ops.create("test-a", "retranslate", zh_doc=self._md("a.md"))
         with self.assertRaises(task_ops.PreconditionError):
@@ -129,9 +150,8 @@ class TestTaskOps(unittest.TestCase):
         task_ops.advance("test-r", "s24", actor="t", evidence="e")
         task_ops.advance("test-r", "audit", actor="t", evidence="e；冷置回读＋密度统计")
         self._qchain("test-r")
-        for step in ("s3", "r1", "r2"):
-            task_ops.advance("test-r", step, actor="t", evidence="e")
-        task_ops.advance("test-r", "r3", actor="rev", evidence="冷置重读",
+        self._review("test-r")
+        task_ops.advance("test-r", "r3", actor="rev3", evidence="冷置重读",
                          mandate="用户 2026-11-15 指定本会话终审（ADR-0054）")  # 单会话形态留痕
         task_ops.advance("test-r", "done", actor="t", evidence="e")
         with self.assertRaises(task_ops.UsageError):
@@ -157,8 +177,7 @@ class TestTaskOps(unittest.TestCase):
             ev = "e；冷置回读＋密度统计" if step == "audit" else "e"
             task_ops.advance("test-jw", step, actor="t", evidence=ev)
         self._qchain("test-jw")
-        for step in ("s3", "r1", "r2"):
-            task_ops.advance("test-jw", step, actor="t", evidence="e")
+        self._review("test-jw")
         events = journal_lib.read_events("test-jw")
         pass_nodes = [e["node"] for e in events if e["type"] == "pass"]
         self.assertEqual(pass_nodes,
@@ -185,12 +204,13 @@ class TestTaskOps(unittest.TestCase):
         task_ops.advance("test-e", "s24", actor="t", evidence="e")
         task_ops.advance("test-e", "audit", actor="t", evidence="e；冷置回读＋密度统计")
         self._qchain("test-e")
+        self._competence("test-e", "rev1", "rev2", "rev3")
         task_ops.advance("test-e", "s3", actor="t", evidence="e")
         with self.assertRaises(task_ops.PreconditionError):
             task_ops.advance("test-e", "done", actor="t", evidence="跳步收口")
-        for step in ("r1", "r2"):
-            task_ops.advance("test-e", step, actor="t", evidence="e")
-        t = task_ops.advance("test-e", "r3", actor="rev", evidence="冷置重读",
+        task_ops.advance("test-e", "r1", actor="rev1", evidence="e")
+        task_ops.advance("test-e", "r2", actor="rev2", evidence="e")
+        t = task_ops.advance("test-e", "r3", actor="rev3", evidence="冷置重读",
                              mandate="用户 2026-11-15 指定本会话终审（ADR-0054）")
         t = task_ops.advance("test-e", "done", actor="t", evidence="e")
         self.assertEqual(t["state"], "done")
@@ -206,12 +226,11 @@ class TestTaskOps(unittest.TestCase):
         task_ops.advance("test-m", "s24", actor="t", evidence="e")
         task_ops.advance("test-m", "audit", actor="t", evidence="e；冷置回读＋密度统计")
         self._qchain("test-m")
-        for step in ("s3", "r1", "r2"):
-            task_ops.advance("test-m", step, actor="t", evidence="e")
+        self._review("test-m")
         with self.assertRaises(task_ops.PreconditionError):
-            task_ops.advance("test-m", "r3", actor="rev", evidence="自作主张终审")
+            task_ops.advance("test-m", "r3", actor="rev3", evidence="自作主张终审")
         self.assertEqual(task_ops.load_task("test-m")["state"], "sg-02_checked")
-        t = task_ops.advance("test-m", "r3", actor="rev", evidence="冷置重读",
+        t = task_ops.advance("test-m", "r3", actor="rev3", evidence="冷置重读",
                              mandate="用户 2026-11-15 指定本会话终审（ADR-0054）")
         self.assertEqual(t["state"], "sg-03_checked")
         self.assertEqual(t["steps"][-1].get("mandate"),
@@ -226,12 +245,11 @@ class TestTaskOps(unittest.TestCase):
         task_ops.advance("test-i1", "s24", actor="t", evidence="e")
         task_ops.advance("test-i1", "audit", actor="t", evidence="e；冷置回读＋密度统计")
         self._qchain("test-i1")
-        for step in ("s3", "r1", "r2"):
-            task_ops.advance("test-i1", step, actor="t", evidence="e")
+        self._review("test-i1")
         with self.assertRaises(task_ops.PreconditionError):
             task_ops.advance("test-i1", "r3", actor="t", evidence="冷置：先做其他任务后回读",
                              mandate="用户 2026-11-15 指定本会话终审（ADR-0054）")
-        t = task_ops.advance("test-i1", "r3", actor="rev", evidence="e",
+        t = task_ops.advance("test-i1", "r3", actor="rev3", evidence="e",
                              mandate="用户 2026-11-15 指定本会话终审（ADR-0054）")
         self.assertEqual(t["state"], "sg-03_checked")
 
@@ -244,13 +262,14 @@ class TestTaskOps(unittest.TestCase):
         task_ops.advance("test-i3", "s24", actor="w", evidence="e")
         task_ops.advance("test-i3", "audit", actor="w", evidence="e；冷置回读＋密度统计")
         self._qchain("test-i3", actor="w")
+        self._competence("test-i3", "rev1", "rev2", "rev3")
         task_ops.advance("test-i3", "s3", actor="w", evidence="e")
         task_ops.advance("test-i3", "r1", actor="rev1", evidence="e")
-        task_ops.advance("test-i3", "r2", actor="w", evidence="e")
+        task_ops.advance("test-i3", "r2", actor="rev2", evidence="e")
         with self.assertRaises(task_ops.PreconditionError):
             task_ops.advance("test-i3", "r3", actor="rev1", evidence="e",
                              mandate="用户 2026-11-15 指定本会话终审（ADR-0054）")
-        t = task_ops.advance("test-i3", "r3", actor="rev2", evidence="e",
+        t = task_ops.advance("test-i3", "r3", actor="rev3", evidence="e",
                              mandate="用户 2026-11-15 指定本会话终审（ADR-0054）")
         self.assertEqual(t["state"], "sg-03_checked")
 
@@ -315,6 +334,86 @@ class TestTaskOps(unittest.TestCase):
             task_ops.create("test-ps5", "retranslate", zh_doc=self._md("ps5.md"),
                             project_spec={"purpose": "  "})
 
+    def test_project_spec_three_categories(self):
+        t = task_ops.create("test-ps7", "retranslate", zh_doc=self._md("ps7.md"))
+        flat = [k for keys in task_ops.PROJECT_SPEC_SCHEMA.values() for k in keys]
+        self.assertEqual(set(flat), set(task_ops.PROJECT_SPEC_FIELDS))
+        for cat, keys in task_ops.PROJECT_SPEC_SCHEMA.items():
+            for k in keys:
+                self.assertIn(k, t["project_spec"], cat)
+                self.assertTrue(str(t["project_spec"][k]).strip())
+
+    def test_project_spec_critical_fields_block_tr02(self):
+        for field in task_ops.PROJECT_SPEC_REQUIRED:
+            slug = "test-ps-" + field
+            task_ops.create(slug, "retranslate", zh_doc=self._md(slug + ".md"))
+            t = task_ops.load_task(slug)
+            t["project_spec"].pop(field)
+            task_ops.save_task(t)
+            task_ops.clear(slug)
+            task_ops.advance(slug, "s0", actor="t", evidence="e")
+            with self.assertRaises(task_ops.PreconditionError):
+                task_ops.advance(slug, "draft", actor="t", evidence="e")
+
+    def test_project_spec_enum_validation(self):
+        task_ops.create("test-ps8", "retranslate", zh_doc=self._md("ps8.md"))
+        t = task_ops.load_task("test-ps8")
+        t["project_spec"]["risk_level"] = "X"
+        task_ops.save_task(t)
+        task_ops.clear("test-ps8")
+        task_ops.advance("test-ps8", "s0", actor="t", evidence="e")
+        with self.assertRaises(task_ops.PreconditionError):
+            task_ops.advance("test-ps8", "draft", actor="t", evidence="e")
+        with self.assertRaises(task_ops.UsageError):
+            task_ops.create("test-ps9", "retranslate", zh_doc=self._md("ps9.md"),
+                            translation_mode="llm-pe", pe_system="test 1.0",
+                            pe_level="full", project_spec={"pe_level": "light"})
+
+    def test_competence_required_for_reviews(self):
+        self._ready_s3("test-c1", "c1.md")
+        with self.assertRaises(task_ops.PreconditionError):
+            task_ops.advance("test-c1", "r1", actor="rev1", evidence="e")
+        task_ops.set_competence("test-c1", "rev1", "q", "e", "d", "t")
+        task_ops.advance("test-c1", "r1", actor="rev1", evidence="e")
+        with self.assertRaises(task_ops.PreconditionError):
+            task_ops.advance("test-c1", "r2", actor="rev2", evidence="e")
+        task_ops.set_competence("test-c1", "rev2", "q", "e", "d", "t")
+        task_ops.advance("test-c1", "r2", actor="rev2", evidence="e")
+        with self.assertRaises(task_ops.PreconditionError):
+            task_ops.advance("test-c1", "r3", actor="rev3", evidence="e",
+                             mandate="用户指定终审")
+        task_ops.set_competence("test-c1", "rev3", "q", "e", "d", "t")
+        t = task_ops.advance("test-c1", "r3", actor="rev3", evidence="e",
+                             mandate="用户指定终审")
+        self.assertEqual(t["state"], "sg-03_checked")
+
+    def test_review_independence_same_actor_rejected(self):
+        self._ready_s3("test-c2", "c2.md")
+        self._competence("test-c2", "rev1", "rev2", "rev3")
+        with self.assertRaises(task_ops.PreconditionError):
+            task_ops.advance("test-c2", "r1", actor="t", evidence="冷置回读")
+        task_ops.advance("test-c2", "r1", actor="rev1", evidence="e")
+        with self.assertRaises(task_ops.PreconditionError):
+            task_ops.advance("test-c2", "r2", actor="rev1", evidence="e")
+        task_ops.advance("test-c2", "r2", actor="rev2", evidence="e")
+        with self.assertRaises(task_ops.PreconditionError):
+            task_ops.advance("test-c2", "r3", actor="rev2", evidence="e",
+                             mandate="用户指定终审")
+        t = task_ops.advance("test-c2", "r3", actor="rev3", evidence="e",
+                             mandate="用户指定终审")
+        self.assertEqual(t["state"], "sg-03_checked")
+
+    def test_competence_cli_passthrough(self):
+        task_ops.create("test-c3", "retranslate", zh_doc=self._md("c3.md"))
+        rc = task_ops.main(["competence", "test-c3", "--actor", "revX",
+                            "--qualification", "q", "--experience", "e",
+                            "--domain", "d", "--training", "t"])
+        self.assertEqual(rc, 0)
+        rec = task_ops.load_task("test-c3")["competences"]["revX"]
+        self.assertEqual(rec["domain"], "d")
+        with self.assertRaises(task_ops.UsageError):
+            task_ops.set_competence("test-c3", "revY", "q", "", "d", "t")
+
     def test_r3_independence_cross_actor_passes(self):
         # 评审线交叉（specs/005 §6）：r3 由初译以外 actor 执行即满足，无需冷置记明
         task_ops.create("test-i2", "retranslate", zh_doc=self._md("i2.md"))
@@ -324,9 +423,8 @@ class TestTaskOps(unittest.TestCase):
         task_ops.advance("test-i2", "s24", actor="w", evidence="e")
         task_ops.advance("test-i2", "audit", actor="w", evidence="e；冷置回读＋密度统计")
         self._qchain("test-i2", actor="w")
-        for step in ("s3", "r1", "r2"):
-            task_ops.advance("test-i2", step, actor="w", evidence="e")
-        t = task_ops.advance("test-i2", "r3", actor="rev", evidence="e",
+        self._review("test-i2", translator="w")
+        t = task_ops.advance("test-i2", "r3", actor="rev3", evidence="e",
                              mandate="用户 2026-11-15 指定本会话终审（ADR-0054）")
         self.assertEqual(t["state"], "sg-03_checked")
 
@@ -446,9 +544,8 @@ class TestTaskOps(unittest.TestCase):
         task_ops.advance("test-u4", "s24", actor="t", evidence="e")
         task_ops.advance("test-u4", "audit", actor="rev", evidence="e")
         self._qchain("test-u4", actor="rev")
-        for step in ("s3", "r1", "r2"):
-            task_ops.advance("test-u4", step, actor="rev", evidence="e")
-        task_ops.advance("test-u4", "r3", actor="rev2", evidence="e",
+        self._review("test-u4")
+        task_ops.advance("test-u4", "r3", actor="rev3", evidence="e",
                          mandate="用户 2026-11-15 指定本会话终审（ADR-0054）")
         task_ops.advance("test-u4", "done", actor="t", evidence="e")
         with self.assertRaises(task_ops.PreconditionError):
