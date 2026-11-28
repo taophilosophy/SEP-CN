@@ -144,7 +144,7 @@
 - [x] T268 [S-1] tr-03／tr-04 校次——**已完成**（2026-11-28：tr-03 158 段对齐、五节正文段 24/9/9/16/8 全对齐（§5 多 1 段为句内译注）、60 定义键集一致、38 个年份无缺；tr-04 `check_prose` 63→46（17 处改写：弱动词 12、被动 1、成功地 1、冠词 1、连动 1、长句 1），余 46 条逐条豁免（长句 17＋的链 29）；check_style／quotes 0、terms 硬 0、pairs 0、academic 无硬错误；证据 `results/t268-tr03.md`、`t268-tr04.md`；状态 `tr-02_checked → tr-04_checked`）——验收：账本守恒；残留外文 0（书目与原文引文除外）；检查器全绿
 - [x] T269 [S-1] rv-01 三轴（术语＋体例＋勘误）——**已完成**（2026-11-28：术语 D1 display instance→显示实例、interactive→交互；D2 serious play→严肃游玩、3 组并键；D3 外延／独一性／写实主义域括注；D5 Sougwen Chung 等保留原文；体例 check_pairs --gate 0、check_style／quotes 0；勘误 5 行承载（1 句内译注＋4 纯排版），errata-apply／note-anchor 0；证据 `results/t269-rv01.md`；状态 `tr-04_checked → rv-01_checked`）——验收：`check_terms` 硬 0；体例 hard 0；勘误 5 行承载可验
 - [x] T270 [S-1] rv-02＋rv-03–08＋rv-09——**已完成**（2026-11-28：rv-02 158 段对齐、16 标题／60 定义／9 引块对齐；q1 23 条全 pass；q2 442 句 153 条 equivalent、3 算子候选 false-positive；q3 46 条 G-11 waived、1 条 G-7 已改；q4 五节 R-1、3 条 R-d false-positive；q5 0 量值、6 范围、M-6 false-positive；q6 4 条页码 P-13 waived；六轴 gate 全 0；rv-09 check_style／quotes 0、pairs --gate 0、terms 硬 0、academic 无硬错误；证据 `results/t270-review.md`、`state/axis/digital-art.*`；状态 `rv-01_checked → rv-09_checked`）——验收：各轴凭据落 `state/axis/`；`--gate` 0 或逐条豁免；`check_all` 全绿
-- [ ] T271 [S-1] sg 链：sg-01／sg-02／sg-03（sg-03 须用户 `--mandate`）——验收：sg-01／sg-02 无 Critical／Major；sg-03 mandate 已记
+- [ ] T271 [S-1] sg 链：sg-01／sg-02／sg-03（sg-03 须用户 `--mandate`）——**sg-01／sg-02 已完成**（2026-11-28：sg-01 抽 §1.2／§2／§4.2／§5 五段，四维通过，Critical／Major 0，Minor 3 为风格保留；sg-02 全文五节逻辑链、70 段指代（仅 1 段代词起首）、跨节 5 组呼应、60 定义闭合，问题单 0；证据 `results/t271-sg01.md`、`t271-sg02.md`；状态至 `sg-02_checked`）；**sg-03 待用户显式 mandate**——验收：sg-01／sg-02 无 Critical／Major；sg-03 mandate 已记
 
 ### 汇总与回填（全部条目完成后）
 
