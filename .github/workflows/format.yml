@@ -35,7 +35,7 @@ jobs:
 
       - name: 取本次改动的 Markdown
         id: changed
-        uses: tj-actions/changed-files@v47
+        uses: tj-actions/changed-files@24d32ffd492484c1d75e0c0b894501ddb9d30d62  # v47
         with:
           files: '**/*.md'
           separator: ","
@@ -49,7 +49,7 @@ jobs:
 
       - name: Setup Bun
         if: steps.filter.outputs.files != ''
-        uses: oven-sh/setup-bun@v2
+        uses: oven-sh/setup-bun@0c5077e51419868618aeaa5fe8019c62421857d6  # v2
 
       - name: markdownlint（只读，告警级）
         if: steps.filter.outputs.files != ''
@@ -69,7 +69,7 @@ jobs:
         uses: actions/checkout@v7
 
       - name: Setup Bun
-        uses: oven-sh/setup-bun@v2
+        uses: oven-sh/setup-bun@0c5077e51419868618aeaa5fe8019c62421857d6  # v2
 
       - name: 计算限定范围（排除原文、镜像、登记册等禁改区）
         id: scope
@@ -106,7 +106,7 @@ jobs:
           cat "$RUNNER_TEMP/files.txt" | bunx md-padding@latest --ignore-words='-' ':' '>' '=' '<' -f --read-files -i
 
       - name: 开 PR（只含 Markdown，人工核 diff 再合并）
-        uses: peter-evans/create-pull-request@v8
+        uses: peter-evans/create-pull-request@3ffccacd46053766916f087ce41d627c0b8cf2d1  # v8
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           branch: format/${{ matrix.tool }}

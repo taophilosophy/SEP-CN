@@ -32,7 +32,24 @@
 - 不写入完整生日、地址、联系方式或其他个人数据，也不涉及凭据。
 - CodeQL 将公开规范档的 `dateOfBirth` 视为 private。项目 2026-11-27 裁定为误报；2026-11-28 在 GitHub code scanning 以 **false positive** 关闭（alert #24）。不引入加密或哈希，以免破坏台账的可读性与可复核性。
 
+## CodeQL 告警处置与威胁模型（2026-11-28）
+
+本仓库不是可执行服务：`tools/` 与 `specs/*/bin/` 是维护者在本地或 CI 中显式运行的翻译流水线脚本，输入来自操作者命令行参数、仓库内受信文本与固定的上游站点。按此威胁模型对全部开启告警分类处置：
+
+| 类别 | 处置 | 依据 |
+| ---- | ---- | ---- |
+| `actions/unpinned-tag`（9） | **修复**：第三方 action 全部改为固定提交 SHA | 供应链完整性；标签可被移动 |
+| `py/regex-injection`（动态 tag／name 共 8 处） | **修复**：`re.escape()` 转义后拼入模式 | 阻断正则元字符注入 |
+| `py/xml-bomb`（1） | **加固**：feed 解析前拒绝 `<!DOCTYPE`／`<!ENTITY` | 阻断实体膨胀与外部实体 |
+| `py/polynomial-redos`（408） | 驳回（won't fix）：本地／CI 对仓库内受信文本运行，输入规模与运行时限受控 | 无可被外部租户触发的服务端入口 |
+| `py/path-injection`（396） | 驳回（won't fix）：CLI 操作者显式指定的仓库内路径，本地读写即工具功能 | 不以服务形式暴露 |
+| `py/partial-ssrf`（6）、`py/full-ssrf`（1） | 驳回（won't fix）：抓取工具按操作者给定或固定上游 URL 请求 | 本地运行，非多租户服务 |
+| `py/command-line-injection`（1） | 驳回（false positive）：`subprocess.run(list)` 不经 shell | 参数不参与 shell 解析 |
+| `js/path-injection`（10）、`js/file-access-to-http`（1）、`js/remote-property-injection`（1） | 驳回（won't fix）：`specs/` 下一次性分析／截图脚本，参数由操作者提供 | 非站点运行时 |
+
+上述驳回均在对应告警内附同口径说明；若仓库未来对外提供网络服务或接受不可信输入，须重新评估并重开相关告警。
+
 ## 供应链
 
-- GitHub Actions 使用官方 action，权限按最小必要配置。
+- GitHub Actions 的第三方 action 一律固定到提交 SHA（标签仅作注释），官方 action 按最小必要权限配置。
 - 发现可疑提交、依赖或工作流权限变更，请按“报告漏洞”一节私密报告。

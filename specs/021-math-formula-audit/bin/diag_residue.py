@@ -26,7 +26,7 @@ for rel in sys.argv[2:]:
     masked, spans = mask_code(text)
     covered = [m.group(0) for m in MATH_SPAN_RE.finditer(masked)]
     for m in macro_names:
-        pat = re.compile(r'\\' + m + r'(?![a-zA-Z])')
+        pat = re.compile(r'\\' + re.escape(m) + r'(?![a-zA-Z])')
         hits = list(pat.finditer(text))
         if not hits:
             continue

@@ -86,6 +86,10 @@ def parse_feed(text):
     """sep.xml → 条目列表；不是 feed 返回 None。"""
     if "<item" not in text and "<entry" not in text:
         return None
+    # 拒绝 DTD/实体声明：上游 feed 不需要它们，声明即视为异常并拒绝解析，
+    # 以阻断实体膨胀（billion laughs）与外部实体注入面。
+    if "<!DOCTYPE" in text or "<!ENTITY" in text:
+        return None
     try:
         root = ET.fromstring(text.encode("utf-8", "replace"))
     except ET.ParseError:

@@ -22,7 +22,7 @@ jobs:
 
       - name: Link Checker
         id: lychee
-        uses: lycheeverse/lychee-action@v2
+        uses: lycheeverse/lychee-action@e7477775783ea5526144ba13e8db5eec57747ce8  # v2
         # 不硬拦，但要保留真实退出码：`fail: true` 让 lychee 如实返回 2，
         # 再由 continue-on-error 把这一步的失败吞掉——作业保持绿，下方 issue
         # 步骤按 `steps.lychee.outcome == 'failure'` 取报告。用 `fail: false`
@@ -70,7 +70,7 @@ jobs:
         # continue-on-error 的组合下不可靠（2026-11-16 实测 2099 处死链仍跳过、
         # 零 issue）；continue-on-error 只改 conclusion，outcome 仍如实为 failure
         if: steps.lychee.outcome == 'failure'
-        uses: peter-evans/create-issue-from-file@v6
+        uses: peter-evans/create-issue-from-file@fca9117c27cdc29c6c4db3b86c48e4115a786710  # v6
         with:
           title: Link Checker Report
           content-filepath: ./lychee/issue.md

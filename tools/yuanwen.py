@@ -196,7 +196,7 @@ def _find_close(html, tag, start):
         m = IMPLIED_END_RE.search(html, start)
         return m.start() if m else len(html)
     depth = 1
-    for cm in re.finditer(r'<(/?)%s\b[^>]*>' % tag, html[start:], re.I):
+    for cm in re.finditer(r'<(/?)%s\b[^>]*>' % re.escape(tag), html[start:], re.I):
         depth += -1 if cm.group(1) else 1
         if depth == 0:
             return start + cm.end()
@@ -237,10 +237,10 @@ def extract_blocks_raw(html):
             continue
         end = _find_close(html, tag, m.end())
         inner = html[m.end():end]
-        cm = re.match(r'</%s[^>]*>\s*' % tag, html[end:], re.I)
+        cm = re.match(r'</%s[^>]*>\s*' % re.escape(tag), html[end:], re.I)
         if cm:
             end = end + cm.end()   # p 走隐式闭合时 end 停在闭标签起点，此处消费掉
-        inner = re.sub(r'</%s>\s*$' % tag, '', inner, flags=re.I)
+        inner = re.sub(r'</%s>\s*$' % re.escape(tag), '', inner, flags=re.I)
         blocks.append({'type': tag, 'attrs': attrs, 'inner': inner})
         i = end
     return blocks
@@ -477,11 +477,11 @@ _KEEP_OPEN_RE = re.compile(r'<(table|ul|ol|dl|pre)\b', re.I)
 def _container_end(inner, start, tag):
     """容器 `<tag>` 的收口下标（含 `</tag>`；未闭合则到串尾）。"""
     depth = 0
-    pat = re.compile(r'<(/?)%s\b' % tag, re.I)
+    pat = re.compile(r'<(/?)%s\b' % re.escape(tag), re.I)
     for m in pat.finditer(inner, start):
         depth += -1 if m.group(1) else 1
         if depth == 0:
-            close = re.compile(r'</%s\s*>' % tag, re.I).search(inner, m.start())
+            close = re.compile(r'</%s\s*>' % re.escape(tag), re.I).search(inner, m.start())
             return close.end() if close else m.end()
     return len(inner)
 

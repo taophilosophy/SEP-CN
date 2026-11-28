@@ -24,7 +24,7 @@ for k in keys:
     base = k.rsplit('-', 1)[0]
     year = k.rsplit('-', 1)[-1]
     sur = SUR.get(base.lower(), base.replace('-', ' ').title())
-    pat = re.compile(r'\(?[^().]{0,140}?\b%s[^().]{0,80}?\b%s\b[^().]{0,40}?\)?' % (sur, re.escape(year)))
+    pat = re.compile(r'\(?[^().]{0,140}?\b%s[^().]{0,80}?\b%s\b[^().]{0,40}?\)?' % (re.escape(sur), re.escape(year)))
     ms = list(pat.finditer(text))[:3]
     print('==', k)
     if not ms:
