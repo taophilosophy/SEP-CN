@@ -916,6 +916,7 @@
 | Boolean-valued model | — | 布尔值模型（亦作“布尔值模型论”） | 首现（boolalg-math） | 学界惯例（数理逻辑通行译名） | 2026-11-01 |
 | bootstrapping | — | 自我拔擢 | god-necessary-being | 学界通行意象译法（揪自己鞋带把自己提起）；Leftow 1990 论域 | 2026-11-09 |
 | Born's rule | — | 玻恩规则 | qm | 审定名词库（计算机科学技术名词“玻恩规则”；物理学名词作“玻恩定理”）；凭证 2026-11-10 | 2026-11-11 |
+| Boshin War | 戊辰戦争 | 戊辰战争 | kokugaku-school | 学界通行；日本近代史 | 2026-11-28 |
 | bottom-up aesthetics | — | 自下而上的美学 | 首译（experimental-aesthetics） | 费希纳术语（1876；与“自上而下”美学相对） | 2026-11-09 |
 | bottom-up argument | — | 自下而上的论证 | kant-transcendental | 本词条体例（B 版演绎 §17–20 论证，上/下之名取自 A119）；凭证 2026-11-11 | 2026-11-11 |
 | boundary | — | 边界 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库一致（termonline-all 凭证 2026-11-13）| 2026-11-13 |
@@ -1793,6 +1794,8 @@
 | --- | --- | --- | --- | --- | --- |
 | d'Alembert's principle | — | 达朗贝尔原理 | newton | 学界惯例；力学通行；凭证 2026-11-08 | 2026-11-08 |
 | dactylic hexameter | — | 扬抑抑六音步 | 首现（william-sherwood） | 学界通行（古典诗体）；凭证 2026-11-07 | 2026-11-07 |
+| daigakkō | 大学校 | 大学（大学校） | kokugaku-school | 明治初年学制用语；源文括注 | 2026-11-28 |
+| Daijōsai | 大嘗祭 | 大尝祭 | kokugaku-school | 日本皇室仪式；学界通行 | 2026-11-28 |
 | daimon | — | 精灵 | xenocrates | 学界通行（希腊宗教中介于神与人之间者；daimonion 亦译“神明”） | 2026-11-08 |
 | Daimyo | 大名 | 大名 | kokugaku-school | 学界通行；日语专名汉译 | 2026-11-28 |
 | Dainichi | — | 大日（大日如来） | kukai | 真言宗汉语传统译名（《大日经》大日） | 2026-11-09 |
@@ -3639,6 +3642,7 @@
 | --- | --- | --- | --- | --- | --- |
 | I and Thou | — | 《我与你》 | 语料回收（specs/058 全库提取） | 权威译本（商务印书馆“汉译世界学术名著丛书”1000 种书目（2024-09-24）·哲学第 305 号 载此书名；2026-11-24 查，凭证 works-batch10-2026-11-24.md）；布伯 | 2026-11-24 |
 | I-language | — | I-语言（亦作“内化语言”） | idiolects | 乔姆斯基术语（internal, individual, intensional）；凭证 2026-11-11；亦作记审定·语言学名词（理论语言学核心术语）作“内化语言”，正文 22:0 沿字母体例（裁定 2026-11-12） | 2026-11-12 |
+| ibu | 威武 | 威武 | kokugaku-school | 矢野玄道用语；源文括注 | 2026-11-28 |
 | icchā | इच्छा | 欲 | early-modern-india | 佛典古译通行（desire；胜论八种自我性质之一）；凭证 2026-11-10 | 2026-11-10 |
 | icchantika | इच्छन्तिक | 一阐提 | korean-buddhism | 佛典古译（不具信之种性者）；其他术语库（termonline-all·中华思想文化术语传播工程）作“一阐提”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b5-2026-11-24.tsv） | 2026-11-26 |
 | icon veneration | — | 圣像崇拜 | john-italos | 学界惯例；拜占庭圣像之争研究通行 | 2026-11-06 |
@@ -4117,6 +4121,7 @@
 | ius ad bellum | ius ad bellum | 开战正义 | grotius | 学界惯例；正义战争理论通行汉译（与 ius in bello 对举）；凭证 2026-11-12 | 2026-11-12 |
 | ius in bello | ius in bello | 交战正义 | grotius | 学界惯例；正义战争理论通行汉译（与 ius ad bellum 对举）；凭证 2026-11-12 | 2026-11-12 |
 | ius ubique docendi | ius ubique docendi | 普遍教学权 | 语料回收（academic-freedom） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-27 |
+| Iwaki san sanbyaku shu | 岩木山三百首 | 《岩木山三百首》 | kokugaku-school | 鹤屋有猷著作；书名汉字 | 2026-11-28 |
 | iʿtibārī | اعتباری | 依赖心灵的（iʿtibār 考虑之属；mind-dependent 意译） | arabic-islamic-phil-math | 译名裁定（苏赫拉瓦尔迪/毛拉·萨德拉语境） | 2026-11-08 |
 | ʿilla | علة | 原因（法理因） | ibn-taymiyya | 学界惯例（教法与逻辑学“原因”） | 2026-11-12 |
 | ʿilm al-ḥuḍurī | — | 在场之知 | arabic-islamic-mysticism | 苏哈拉瓦迪认识论通行（knowledge by presence）；原文列：工具书查无原生文字（2026-11-20 检 wisdomlib／GND／BDRC／84000／Logeion，均无“转写↔原生文字”显式配对，部分源不可达；映射表推演禁用，ADR-0030） | 2026-11-07 |
@@ -4149,9 +4154,12 @@
 | jimi | 地味 | 素雅 | japanese-aesthetics | 学界惯例（日本美学研究通行译法“素雅”） | 2026-11-02 |
 | Jina | जिन | 耆那（胜者） | jaina-philosophy | 学界通行音译（耆那教“胜者”，教名所本） | 2026-11-08 |
 | jing | 敬 | 敬（reverence 敬；涵主一无适、警觉专注；学界亦建议 mindfulness 正念） | zhu-xi 首译 | 学界通行（宋明理学工夫论核心词；汉字回译；Kalton 1988 mindfulness 建议注记）；凭证 2026-11-15；FLAG 裁定 2026-11-21：登记册用语 zhu-xi 首译成立（宋明理学工夫论）；dossier Daode jing 证据行误选，非登记册缺陷（维持现译，用语列无需改） | 2026-11-21 |
+| Jingikan | 神祇官 | 神祇官 | kokugaku-school | 日本古代／明治官制；学界通行 | 2026-11-28 |
+| Jingishiki | 神祇志 | 《神祇志》 | kokugaku-school | 日本古典；书名汉字 | 2026-11-28 |
 | jingjie | 境界 | 境界 | 语料回收（中国哲学族扫描 2026-11-25） | 学界惯例；中国美学与理学通行（语料 5 次）；凭证 2026-11-25 | 2026-11-25 |
 | jingshen | 精神 | 精神 | han-dynasty | 上游自带汉字（桓谭心/身论，mind/spirit）；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
 | jingzuo | 静坐 | 静坐 | 语料回收（中国哲学族扫描 2026-11-25） | 宋明理学修养方法（语料 6 次）；凭证 2026-11-25 | 2026-11-25 |
+| jinsei | 仁政 | 仁政 | kokugaku-school | 矢野玄道用语；源文括注 | 2026-11-28 |
 | Jinsilu | 《近思录》 | 《近思录》 | zhu-xi 首译 | 学界惯例；书名体例（通行定名）；凭证 2026-11-15 | 2026-11-15 |
 | jishō hosshin | 自証法身 | 自证法身 | kukai | 真言宗汉语传统（空海《大日经开题》） | 2026-11-09 |
 | jism | جسم | 物体 | ibn-taymiyya | 学界惯例（凯拉姆形体论术语） | 2026-11-12 |
@@ -4244,9 +4252,11 @@
 | katanakake | 刀掛け | 刀挂 | japanese-aesthetics | 学界惯例（日本茶室研究通行译法“刀挂”） | 2026-11-02 |
 | kayfiyya | كيفية | 样式 | ibn-taymiyya | 首译（属性“如何”；与 maʿnā 意义对举） | 2026-11-12 |
 | Kemeny rule | — | 凯梅尼规则 | belief-merging | 学界通行（社会选择理论中译文献）；凭证 2026-11-10 | 2026-11-10 |
+| Kenkin sengo | 献芹詹語 | 《献芹詹语》 | kokugaku-school | 矢野玄道著作；书名汉字 | 2026-11-28 |
 | kenodoxia | κενοδοξία |空洞信念（亦作“虚妄意见”）| epicurus | 本词条译名（亦作“虚妄意见”） | 2026-11-12 |
 | kenon | κενόν | 空腔 | alcmaeon | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29；2026-11-26 界面复核：审定“空腔”系 cavity pocket（电力名词）／air containing space（结核病学名词）义，非同概念，不采） | 2026-11-26 |
 | kensho | 見性 | 见性（保留拉丁 kensho） | religious-experience | 学界通行（禅宗） | 2026-11-05 |
+| Ken’yū rakuron | 顕幽楽論 | 《显幽乐论》 | kokugaku-school | 鹤屋有猷著作；书名汉字（据罗马字复原） | 2026-11-28 |
 | kernel function | — | 核函数 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·数学·分析学·复分析，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | kerygmatic theology | — | 宣道神学 | 首现（scholz） | 学界惯例（巴特研究通行）；凭证 2026-11-07 | 2026-11-07 |
 | kevala | केवल | 全知（kevala） | 待核（jaina-philosophy 正文未见原词；2026-11-26 核：仅见因明复合形；personhood-india 解作解脱义；不充首现，保持待核） | 耆那教研究通行（kevala-jñāna 全知；本库统一形“全知”）；2026-11-26 核：全库正文（index/notes/supplement/further-discussion 等全部 HTML，NFC 归一）未见该词；jaina-philosophy 行文用 omniscience 等通名，本行术语系按耆那研究通行形登记，首现待该条译出后回填；本库仅见 kevala-vyatirekin 等因明复合形，非全知义；撞形豁免 2026-11-26：同形异义（耆那 kevala 与神学 omniscience），不合并；2026-11-26 核：仅见因明复合形；personhood-india 解作解脱义；不充首现，保持待核；首现待核处置 2026-11-26 | 2026-11-26 |
@@ -4326,6 +4336,7 @@
 | Kongōkai mandara / Vajradhātu | 金剛界曼荼羅 | 金刚界曼荼罗 | kukai | 真言宗汉语传统 | 2026-11-09 |
 | Kongzi Jiayu | 孔子家語 | 《孔子家语》 | han-dynasty | 学界通行学名 | 2026-11-10 |
 | korean philosophy | — | 韩国哲学 | 语料回收（f20 审计 2026-11-25） | 学界惯例；哲学史分区通名；凭证 2026-11-25 | 2026-11-25 |
+| Koshiden | 古史伝 | 《古史传》 | kokugaku-school | 平田笃胤著作；书名汉字 | 2026-11-28 |
 | kosmos | kosmos | 世界秩序（宇宙） | heraclitus 首译 | 学界通行（B30 语；正文按语境用“世界秩序”或“宇宙秩序”）；凭证 2026-11-09 | 2026-11-09 |
 | Kraftübertragung | Kraftübertragung | 力量传递 | yorck 首译 | B 档：词面直译（作者英译 virtual transmission of power）；凭证 2026-11-11 | 2026-11-11 |
 | Krein–Milman theorem | — | 克莱因—米尔曼定理 | axiom-choice | 学界通行（凸分析；Krein 汉名与 Klein 同形克莱因，定理名整体登记）；2026-11-15 联网复核（夏道行《泛函分析》、Rudin 中译脉络；亦见“克赖因-米尔曼”形， Krein 音译用字差异保留现行） | 2026-11-15 |
@@ -5800,6 +5811,7 @@
 | Orphic | — | 俄耳甫斯教的 | ancient-soul 首译 | 学界通行（Orphism 俄耳甫斯教） | 2026-11-09 |
 | orthodox proof-rule | — | 正统证明规则 | logic-hybrid | 直译（Blackburn & ten Cate 术语）；凭证 2026-11-09 | 2026-11-09 |
 | orthonormal basis | — | 规范正交基 | qm | 审定名词库（数学名词 04.0723；物理学名词另有“正交归一系”orthonormal system）；凭证 2026-11-10 | 2026-11-11 |
+| Ōsei fukko | 王政復古 | 王政复古 | kokugaku-school | 学界通行；明治维新史 | 2026-11-28 |
 | ostensive definition | — | 实指定义 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·自然辩证法·科学哲学·一般科学哲学·意义标准，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | ostrich nominalism | — | 鸵鸟式唯名论 | nominalism-metaphysics | Armstrong 1978 贬称，学界通行直译 | 2026-11-10 |
 | other minds | — | 他心问题 | cordemoy 补登 | 学界通行（the problem of other minds）；凭证 2026-11-09 | 2026-11-09 |
@@ -7214,6 +7226,7 @@
 | sage philosophy | — | 智者哲学（非洲语境） | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 a/african-sage））；凭证 2026-11-04 | 2026-11-04 |
 | sahopalambhaniyama | — | 俱缘定 | yogacara 首译 | 学界惯例；汉传量论研究通行（法尊译“俱缘定”）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | saisei itchi | 祭政一致 | 祭政一致 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
+| saishi | 祭祀 | 祭祀 | kokugaku-school | 矢野玄道用语；源文括注 | 2026-11-28 |
 | sākāra | साकार | 有相 | yogacara 首译 | 学界惯例；汉传量论研究通行（有相说）；凭证 2026-11-11；原文列联网查证：Böhtlingk–Roth《彼得堡大辞典》sākāra 条（Cologne 数字词典天城体词头渲染）（2026-11-13 查，凭证 orig-verify-2026-11-13-b4.tsv） | 2026-11-13 |
 | Sākārasaṃgrahasūtra | — | 《有相集论》 | yogacara 首译 | 梵题汉译（无汉文古译；依源文英译 gloss）；文献译名；原文列待考；凭证 2026-11-11；原文列：工具书查无原生文字（2026-11-20 检 wisdomlib／GND／BDRC／84000／Logeion，均无“转写↔原生文字”显式配对，部分源不可达；映射表推演禁用，ADR-0030） | 2026-11-11 |
 | Sākārasiddhiśāstra | — | 《有相成就论》 | yogacara 首译 | 梵题汉译（智作护造，无汉文古译；依源文英译 gloss）；文献译名；原文列待考；凭证 2026-11-11；原文列：工具书查无原生文字（2026-11-20 检 wisdomlib／GND／BDRC／84000／Logeion，均无“转写↔原生文字”显式配对，部分源不可达；映射表推演禁用，ADR-0030） | 2026-11-11 |
@@ -7562,6 +7575,7 @@
 | shishi wu’ai(事事無礙) | 事事無礙 | 事事无碍 | korean-buddhism | 汉文传统写法（华严四法界）；键形归一 2026-11-21：全角括注／斜线改半角（键须为源语形）；旧键 shishi wu’ai（事事無礙） | 2026-11-21 |
 | Shize | 時則 | 《时则》（《淮南子》篇名） | han-dynasty | 篇名逐字 | 2026-11-10 |
 | shodō | 書道 | 书道 | japanese-aesthetics | 学界惯例（日本书法研究通行译法“书道”） | 2026-11-02 |
+| Shōheikō | 昌平黌 | 昌平黌 | kokugaku-school | 日本近世官学；学界通行 | 2026-11-28 |
 | shohō | 諸法 | 诸法 | kukai | 佛教汉语传统译名 | 2026-11-09 |
 | Shoin | 書院 | 书院（書院） | japanese-aesthetics | 学界惯例（日本建筑研究通行译法“书院”） | 2026-11-02 |
 | shōja | 精舎（祇園精舎） | 精舍（祇园精舍） | japanese-aesthetics | 学界惯例（《平家物语》汉译通行） | 2026-11-02 |
@@ -9242,6 +9256,7 @@
 | Yoruba | — | 约鲁巴语 | 首译（african-ethics） | 民族语言通行音译（尼日利亚 Yoruba；人作“约鲁巴人”）；凭证 2026-11-09 | 2026-11-09 |
 | yuanqi | 元气 | 元气（primordial qi 元气） | zhu-xi 首译 | 学界通行（汉代宇宙论通名；汉字回译）；凭证 2026-11-15 | 2026-11-15 |
 | Yueling | 月令 | 《月令》 | chinese-phil-science | 学界通行；凭证 2026-11-07 | 2026-11-07 |
+| Yūfu shinron | 幽府新論 | 《幽府新论》 | kokugaku-school | 平尾鲁仙著作；书名汉字 | 2026-11-28 |
 | yūgen | 幽玄 | 幽玄 | japanese-aesthetics | 学界惯例（日本美学/能乐研究通行译法“幽玄”） | 2026-11-02 |
 | ψ-ontic | ψ-ontic | ψ-本体论的 | quantum-bayesian | Harrigan & Spekkens 2010 术语；保留希腊字母；凭证 2026-11-12；原文列联网查证：012 B1 先例：键即原词（ψ 为量子力学波函数记号，非希腊语词）（2026-11-13 查，凭证 orig-verify-2026-11-13-b2.tsv） | 2026-11-13 |
 

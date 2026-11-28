@@ -1,9 +1,9 @@
 version: 1
 slug: kokugaku-school
 params:
-  model: "DeepSeek-V4.1-Flash（Trae 主会话；T252 样章＋T253 §3）"
+  model: "DeepSeek-V4.1-Flash（Trae 主会话；T252 样章→T255 §4 收口）"
   temperature: 0.2
-  batch_segments: sample-plus-s3
+  batch_segments: through-s4
   rate_limit_s: 0
   timeout_s: 60
 segments:
@@ -132,9 +132,9 @@ segments:
     source: |-
       ### 2.2 Kada no Azumamaro (1666–1736)
     step1: |-
-      ### 2.2 荷田春满（1669—1736）
+      ### 2.2 荷田春满（1669—1736）①
     step2: |-
-      ### 2.2 荷田春满（1669—1736）
+      ### 2.2 荷田春满（1669—1736）①
   - id: 17
     kind: body
     source: |-
@@ -683,3 +683,322 @@ segments:
       他主张任命通达道与德的人为师，向地方名主（myōshu）与寺子屋教师讲授何为适当教育，以便他们再去教导民众——无论男女老少。于是，他希望许多人回归笃胤所描述的古代人的“质朴”，依道而生活，并回应天地鬼神。这将带来国家稳定、无灾祸、人口增长、财富增加、土地开发与稳固的安全。这将使日本成为一个繁荣的皇国。贞雄断言，皇国日本将因自身财富的增长而在世界上无敌，并征服蛮夷诸国。
     step2: |-
       他主张任命通达道与德的人为师，向地方名主（myōshu）与寺子屋教师讲授何为适当教育，以便他们再去教导民众——无论男女老少。于是，他希望许多人回归笃胤所描述的古代人的“质朴”，依道而生活，并回应天地鬼神。这将带来国家稳定、无灾祸、人口增长、财富增加、土地开发与稳固的安全。这将使日本成为一个繁荣的皇国。贞雄断言，皇国日本将因自身财富的增长而在世界上无敌，并征服蛮夷诸国。
+  - id: 80
+    kind: heading
+    source: |-
+      ### 4.3 Female *Kokugakusha*
+    step1: |-
+      ### 4.3 女性国学者
+    step2: |-
+      ### 4.3 女性国学者
+  - id: 81
+    kind: heading
+    source: |-
+      #### Matsuo Taseko (1811–1894)
+    step1: |-
+      #### 松尾多势子（1811—1894）
+    step2: |-
+      #### 松尾多势子（1811—1894）
+  - id: 82
+    kind: body
+    source: |-
+      Shinano province of present-day Nagano prefecture was home to another major agricultural community of Hirata disciples which totaled over 630 members. This group featured one of only twenty-nine female disciples who registered with the national academy. Matsuo Taseko (1811–1894) was a peasant woman of the Ina Valley who worked in farming and sericulture. She was remarkably well educated in the Japanese classics and poetic tradition and composed *waka* poetry. Through her travels and interactions with important political men, Taseko participated in significant events of the late Tokugawa period and Meiji Restoration. Following the arrival of U.S. Commodore Matthew C. Perry’s “Black Ships” and the “opening” of Japan’s ports to Western vessels, Taseko travelled to Edo in 1855 where she interacted with the Daimyo of the Takasu domain, Matsudaira Yoshitatsu (1824–83), with whom she probably discussed poetry and politics. While in Kyoto for six months from 1862 to 1863, Taseko conversed with prolific Tsuwano domain nativist Fukuba Bisei (1831–1907) and Hirata Kanetane, and even played a part in delivering a copy of Atsutane’s *Lectures on Ancient History* (*Koshiden*) to Lord Sanjō. In her second visit to Kyoto in 1868, Taseko used her connections and influence to help *samurai* establish credentials as imperial loyal subjects, and she eventually gained a position in the household of court noble and Meiji leader, Lord Iwakura Tomomi (1825–83).
+    step1: |-
+      信浓国，即今日长野县，是平田门人的另一大农业社区所在地，成员总数超过 630 人。这个群体中有全国学堂注册的仅二十九名女门人之一。松尾多势子（1811—1894）是伊那谷的一位农妇，从事农耕与养蚕。她在日本古典与诗歌传统方面受过极好的教育，并能创作和歌。通过旅行以及与重要政治人物的交往，多势子参与了德川末期与明治维新的重大事件。美国海军准将马修·佩里（Matthew C. Perry）的“黑船”到来、日本港口对西方船只“开港”之后，多势子于 1855 年前往江户，与高须藩的大名松平义建（1800—1862）②交往；她与松平大概讨论过诗歌与政治。1862 至 1863 年在京都逗留六个月期间，多势子与著作宏富的津和野藩本土主义者福羽美静（1831—1907）及平田铉胤交谈，甚至参与把笃胤《古史传》（Koshiden）的一部送到三条卿手中。1868 年第二次访问京都时，多势子利用自己的人脉与影响，帮助武士确立作为皇室忠臣的资格，最终在朝廷贵族、明治领袖岩仓具视（1825—1883）家中获得职位。
+    step2: |-
+      信浓国，即今日长野县，是平田门人的另一大农业社区所在地，成员总数超过 630 人。这个群体中有全国学堂注册的仅二十九名女门人之一。松尾多势子（1811—1894）是伊那谷的一位农妇，从事农耕与养蚕。她在日本古典与诗歌传统方面受过极好的教育，并能创作和歌。通过旅行以及与重要政治人物的交往，多势子参与了德川末期与明治维新的重大事件。美国海军准将马修·佩里（Matthew C. Perry）的“黑船”到来、日本港口对西方船只“开港”之后，多势子于 1855 年前往江户，与高须藩的大名松平义建（1800—1862）②交往；她与松平大概讨论过诗歌与政治。1862 至 1863 年在京都逗留六个月期间，多势子与著作宏富的津和野藩本土主义者福羽美静（1831—1907）及平田铉胤交谈，甚至参与把笃胤《古史传》（Koshiden）的一部送到三条卿手中。1868 年第二次访问京都时，多势子利用自己的人脉与影响，帮助武士确立作为皇室忠臣的资格，最终在朝廷贵族、明治领袖岩仓具视（1825—1883）家中获得职位。
+  - id: 83
+    kind: body
+    source: |-
+      It was through her *waka* poetry that Taseko voiced her loyalty to the imperial court and the cause of the Imperial Restoration. She expressed her ardent patriotism in verses like the following:
+    step1: |-
+      多势子正是通过和歌表达她对朝廷的忠诚与皇权复兴事业的拥护。她在如下和歌中表达了炽热的爱国心：
+    step2: |-
+      多势子正是通过和歌表达她对朝廷的忠诚与皇权复兴事业的拥护。她在如下和歌中表达了炽热的爱国心：
+  - id: 84
+    kind: table
+    source: |-
+      | Even though I am not worthy to be counted | Sono michi ni |
+      | --- | --- |
+      | among the mighty warriors | idete tsukauru |
+      | who go out to serve | mononofu no |
+      | on that way | kasunarazu tomo |
+      | graced with | o-nakata no |
+      | the departed souls | kami no mitama wo |
+      | of the imperial ancestors | tamawarite |
+      | I shout bravely | Yamato kokoro wo |
+      | to enflame | furi okoshi |
+      | true Japanese hearts. | isami takebite |
+      | (quoted in Walthall 1998: 229)[^walthall-1998] |   |
+    step1: |-
+      表 3
+      
+      | 纵然我不配 | Sono michi ni |
+      | --- | --- |
+      | 列入威武武士 | idete tsukauru |
+      | 之列——他们走上 | mononofu no |
+      | 那条路去侍奉 | kasunarazu tomo |
+      | 蒙受 | o-nakata no |
+      | 逝去之灵 | kami no mitama wo |
+      | 皇祖的恩泽 | tamawarite |
+      | 我也要勇敢呐喊 | Yamato kokoro wo |
+      | 燃起 | furi okoshi |
+      | 真正的日本之心。 | isami takebite |
+      | （转引自 Walthall 1998: 229） |   |
+    step2: |-
+      表 3
+      
+      | 纵然我不配 | Sono michi ni |
+      | --- | --- |
+      | 列入威武武士 | idete tsukauru |
+      | 之列——他们走上 | mononofu no |
+      | 那条路去侍奉 | kasunarazu tomo |
+      | 蒙受 | o-nakata no |
+      | 逝去之灵 | kami no mitama wo |
+      | 皇祖的恩泽 | tamawarite |
+      | 我也要勇敢呐喊 | Yamato kokoro wo |
+      | 燃起 | furi okoshi |
+      | 真正的日本之心。 | isami takebite |
+      | （转引自 Walthall 1998: 229） |   |
+  - id: 85
+    kind: body
+    source: |-
+      Like many of Taseko’s verses, this poem expresses her reverence for soldiers who served the imperial court, even to the point of death. She evokes the memory of such figures like the samurai general Kusunoki Masashige (1294–1336) who in loyal support of Emperor Go-Daigo led his outnumbered army against the forces of Ashikaga Takauji at the Battle of Minatogawa in 1336. There Masashige faced defeat and committed ritual suicide. Taseko joined a growing number of imperial loyalists in the late-Tokugawa years including fellow Hirata disciples. In other verses, she lamented the sale of silk to foreign countries, complaining that she would rather reject quick profits from foreign trade than sell silk to “barbarians”.
+    step1: |-
+      像多势子的许多和歌一样，这首诗歌表达了她对侍奉朝廷、乃至赴死之武士的崇敬。她追念武士将军楠木正成（1294—1336）之类的人物：1336 年，正成忠诚支持后醍醐天皇，率领寡不敌众的军队在凑川之战中对抗足利尊氏的军队。正成在那里面临失败，切腹自尽。多势子加入了德川末期日益壮大的勤王派，其中包括平田同门。在另一些和歌中，她哀叹把生丝卖给外国，抱怨自己宁愿拒绝对外贸易的眼前之利，也不愿把生丝卖给“蛮夷”。
+    step2: |-
+      像多势子的许多和歌一样，这首诗歌表达了她对侍奉朝廷、乃至赴死之武士的崇敬。她追念武士将军楠木正成（1294—1336）之类的人物：1336 年，正成忠诚支持后醍醐天皇，率领寡不敌众的军队在凑川之战中对抗足利尊氏的军队。正成在那里面临失败，切腹自尽。多势子加入了德川末期日益壮大的勤王派，其中包括平田同门。在另一些和歌中，她哀叹把生丝卖给外国，抱怨自己宁愿拒绝对外贸易的眼前之利，也不愿把生丝卖给“蛮夷”。
+  - id: 86
+    kind: body
+    source: |-
+      As a poet who was well travelled and interacted with important daimyo leaders and courtiers, Taseko expressed her admiration for men who devoted themselves to the cause of imperial loyalism, while lamenting that she was held back because she was a woman:
+    step1: |-
+      作为一名游历广泛、与重要大名及廷臣交往的诗人，多势子表达了对献身勤王事业的男子的钦佩，同时哀叹自己身为女子而受到限制：
+    step2: |-
+      作为一名游历广泛、与重要大名及廷臣交往的诗人，多势子表达了对献身勤王事业的男子的钦佩，同时哀叹自己身为女子而受到限制：
+  - id: 87
+    kind: table
+    source: |-
+      | How awful | Masurao no |
+      | --- | --- |
+      | to have the ardent heart | kokorobayare to |
+      | of a manly man | taoyame no |
+      | and the useless body | kai naki mi koso |
+      | of a weak woman. | kanashi kari keri |
+      | (quoted in Walthall 1998: 231)[^walthall-1998] |   |
+    step1: |-
+      表 4
+      
+      | 多么可悲 | Masurao no |
+      | --- | --- |
+      | 怀有炽热之心 | kokorobayare to |
+      | 身为男子汉 | taoyame no |
+      | 却拖着无用之身 | kai naki mi koso |
+      | 一个柔弱女子。 | kanashi kari keri |
+      | （转引自 Walthall 1998: 231） |   |
+    step2: |-
+      表 4
+      
+      | 多么可悲 | Masurao no |
+      | --- | --- |
+      | 怀有炽热之心 | kokorobayare to |
+      | 身为男子汉 | taoyame no |
+      | 却拖着无用之身 | kai naki mi koso |
+      | 一个柔弱女子。 | kanashi kari keri |
+      | （转引自 Walthall 1998: 231） |   |
+  - id: 88
+    kind: body
+    source: |-
+      The Hirata academy was not known for recruiting women or actively welcoming them into the school, and their percentage of female followers was significantly less than in the schools of Kamo no Mabuchi and Motoori Norinaga. Regardless, Taseko’s actions demonstrate her role in the events of the Restoration, as well as highlight the opportunities which the Hirata academy provided her to interact with notable political figures and to have her voice heard by them and her fellow Kokugaku students.
+    step1: |-
+      平田学堂并不以招收女性或积极欢迎女性入学著称，其女性追随者的比例也显著低于贺茂真渊与本居宣长的学堂。无论如何，多势子的行动显示了她在维新事件中的角色，也凸显了平田学堂为她提供的机会：与显要政治人物交往，并让这些人物与平田学堂的同学听到她的声音。
+    step2: |-
+      平田学堂并不以招收女性或积极欢迎女性入学著称，其女性追随者的比例也显著低于贺茂真渊与本居宣长的学堂。无论如何，多势子的行动显示了她在维新事件中的角色，也凸显了平田学堂为她提供的机会：与显要政治人物交往，并让这些人物与平田学堂的同学听到她的声音。
+  - id: 89
+    kind: heading
+    source: |-
+      ### 4.4 Hirata Disciples in the Northeast
+    step1: |-
+      ### 4.4 东北的平田门人
+    step2: |-
+      ### 4.4 东北的平田门人
+  - id: 90
+    kind: heading
+    source: |-
+      #### Hirao Rosen (1808–1880) and Tsuruya Ariyo (1808–1871)
+    step1: |-
+      #### 平尾鲁仙（1808—1880）与鹤屋有猷（1808—1871）
+    step2: |-
+      #### 平尾鲁仙（1808—1880）与鹤屋有猷（1808—1871）
+  - id: 91
+    kind: body
+    source: |-
+      Situated at the northern edge of Honshū were the Tsugaru group of Hirata disciples living in Hirosaki castle town of Hirosaki (or Tsugaru) domain. They were among the enthusiastic followers of Atsutane’s teachings on spirits and the spirit world of *kakuriyo* or *yūmeikai*. Of the eighteen students who registered with the academy from Hirosaki, group leader and merchant-class poet Tsuruya Ariyo (1808–71), along with classmate and friend Hirao Rosen (1808–80), a merchant-class painter and scholar, were especially interested in the realm of spirits that affect the visible world of human beings.
+    step1: |-
+      在本州北端，居住着平田门人的津轻群体，他们生活在弘前（或津轻）藩的城下町弘前。他们热切追随笃胤关于神灵以及隐世（kakuriyo）或幽冥界（yūmeikai）灵界的教说。在从弘前注册入学堂的十八名学生中，群体领袖、町人出身的诗人鹤屋有猷（1808—1871），与同窗好友、町人出身的画家兼学者平尾鲁仙（1808—1880），尤其关注影响人类可见世界的神灵领域。
+    step2: |-
+      在本州北端，居住着平田门人的津轻群体，他们生活在弘前（或津轻）藩的城下町弘前。他们热切追随笃胤关于神灵以及隐世（kakuriyo）或幽冥界（yūmeikai）灵界的教说。在从弘前注册入学堂的十八名学生中，群体领袖、町人出身的诗人鹤屋有猷（1808—1871），与同窗好友、町人出身的画家兼学者平尾鲁仙（1808—1880），尤其关注影响人类可见世界的神灵领域。
+  - id: 92
+    kind: body
+    source: |-
+      Rosen’s most important scholarly writings are devoted to introducing the strange and mysterious phenomena witnessed in his castle town and neighboring villages and landscape. His *New Treatise on the Spirit Realm* (*Yūfu shinron*) completed in 1865 cites the teachings of Atsutane on the invisible *kakuriyo* spirit realm and utilizes these to explain previously inexplicable events in his community. Rosen asserts such objectives of his most seminal work:
+    step1: |-
+      鲁仙最重要的学术著作，致力于介绍他在城下町及邻近村落与山川中所见的奇异神秘现象。他于 1865 年完成的《幽府新论》（Yūfu shinron），援引笃胤关于不可见隐世灵界的教说，并用这些教说解释其社区中先前无法解释的事件。鲁仙如此陈述其代表作的目标：
+    step2: |-
+      鲁仙最重要的学术著作，致力于介绍他在城下町及邻近村落与山川中所见的奇异神秘现象。他于 1865 年完成的《幽府新论》（Yūfu shinron），援引笃胤关于不可见隐世灵界的教说，并用这些教说解释其社区中先前无法解释的事件。鲁仙如此陈述其代表作的目标：
+  - id: 93
+    kind: quote
+    source: |-
+      > I write all that I have collected from here and there over the years regarding matters of spirits (*kishin*), and wish to show it to my friends, people who are unaware of gods (*kami*), and reveal to them the notable evidence of their great spiritual power, which must be feared and respected … (from *Yūfu shinron*, quoted in Fujiwara 2021: 145)[^fujiwara-2021]
+    step1: |-
+      > 我写下多年来从各处搜集到的关于鬼神（kishin）之事的全部材料，希望把它展示给友人，展示给那些不知神（kami）的人，向他们揭示鬼神伟大灵力的显著证据——鬼神必须受到敬畏……（《幽府新论》，转引自 Fujiwara 2021: 145）
+    step2: |-
+      > 我写下多年来从各处搜集到的关于鬼神（kishin）之事的全部材料，希望把它展示给友人，展示给那些不知神（kami）的人，向他们揭示鬼神伟大灵力的显著证据——鬼神必须受到敬畏……（《幽府新论》，转引自 Fujiwara 2021: 145）
+  - id: 94
+    kind: body
+    source: |-
+      In *New Treatise on the Spirit Realm*, Rosen attributes sightings of the deceased to the actions of the souls of these dead. Moreover, he reasons that thunder and lightning are the work of deities.
+    step1: |-
+      在《幽府新论》中，鲁仙把见到死者的现象归因于死者灵魂的作用。此外，他推断雷电是神灵的作为。
+    step2: |-
+      在《幽府新论》中，鲁仙把见到死者的现象归因于死者灵魂的作用。此外，他推断雷电是神灵的作为。
+  - id: 95
+    kind: body
+    source: |-
+      Likewise, Ariyo relies on Atsutane’s theories of the invisible other world to explain how human lives and the local land are governed by spirits. Ariyo’s *waka* poems express reverence for the deities of the Japanese tradition who protect and rule over Mount Iwaki and the surrounding terrain. He asserts the reality of their spirit realm in the following verses:
+    step1: |-
+      同样，有猷借助笃胤关于不可见他界的理论，解释人类生活与乡土如何受神灵支配。有猷的和歌表达了对日本传统中保护并统治岩木山及周边地形的神灵的崇敬。他在下列和歌中肯定其灵界的真实：
+    step2: |-
+      同样，有猷借助笃胤关于不可见他界的理论，解释人类生活与乡土如何受神灵支配。有猷的和歌表达了对日本传统中保护并统治岩木山及周边地形的神灵的崇敬。他在下列和歌中肯定其灵界的真实：
+  - id: 96
+    kind: table
+    source: |-
+      | Though invisible | Tadabito no |
+      | --- | --- |
+      | to the eye of common people, | me ni wa mienedo |
+      | how can one doubt | Iwaki ne no |
+      | the spirit realm of gods | kami no yūfu wo |
+      | of the Iwaki peaks? | utagau beshi ya |
+      | (from *Iwaki san sanbyaku shu*, quoted in Fujiwara 2021: 159)[^fujiwara-2021] |   |
+    step1: |-
+      表 5
+      
+      | 虽然肉眼 | Tadabito no |
+      | --- | --- |
+      | 看不见 | me ni wa mienedo |
+      | 但怎能怀疑 | Iwaki ne no |
+      | 岩木山巅 | kami no yūfu wo |
+      | 神灵之界？ | utagau beshi ya |
+      | （《岩木山三百首》，转引自 Fujiwara 2021: 159） |   |
+    step2: |-
+      表 5
+      
+      | 虽然肉眼 | Tadabito no |
+      | --- | --- |
+      | 看不见 | me ni wa mienedo |
+      | 但怎能怀疑 | Iwaki ne no |
+      | 岩木山巅 | kami no yūfu wo |
+      | 神灵之界？ | utagau beshi ya |
+      | （《岩木山三百首》，转引自 Fujiwara 2021: 159） |   |
+  - id: 97
+    kind: body
+    source: |-
+      In his seminal treatise, *Enjoyment Visible and Invisible* or *Ken’yū rakuron*, completed in 1867, Ariyo argues that these deities should be revered, worshiped, and served not only during one’s lifetime, but even after death when people become spirits dwelling in the otherworld. Ariyo encourages people to live life with a positive outlook and to embrace enjoyment both while on earth and also in the afterlife.
+    step1: |-
+      有猷在 1867 年完成的代表作《显幽乐论》（Ken’yū rakuron，英文题 *Enjoyment Visible and Invisible*）中主张，这些神灵不仅应在生前受到崇敬、礼拜与侍奉，而且在死后、人成为居于他界的灵时也应如此。有猷鼓励人们以积极的态度生活，并在尘世与来世都拥抱欢乐。
+    step2: |-
+      有猷在 1867 年完成的代表作《显幽乐论》（Ken’yū rakuron，英文题 *Enjoyment Visible and Invisible*）中主张，这些神灵不仅应在生前受到崇敬、礼拜与侍奉，而且在死后、人成为居于他界的灵时也应如此。有猷鼓励人们以积极的态度生活，并在尘世与来世都拥抱欢乐。
+  - id: 98
+    kind: body
+    source: |-
+      As Rosen and Ariyo continued their inquiry into spirits and the spirit realm, the Meiji Restoration was proclaimed. As a result, their domain of Hirosaki faced political turmoil and was forced to take a stance in the Boshin War of 1868 to 1869. A fellow Hirata disciple and domainal samurai fought and died for the emperor’s army. Shinto priests of their circle conducted a funerary ritual to “call back” and venerate the spirits of these fallen soldiers. In the early years of the Meiji period, members of the Tsugaru Group variously celebrated the Restoration of Imperial rule, carried out religious reforms of the state, continued *kokugaku* studies, and struggled with the rapid changes of a modern society.
+    step1: |-
+      鲁仙与有猷继续探究神灵与灵界之际，明治维新宣告成立。结果，他们的弘前藩陷入政治动荡，被迫在 1868 至 1869 年的戊辰战争中选边站。一位同门平田信徒兼藩士为天皇军队作战并阵亡。他们圈子中的神道祭司举行葬礼仪式，“召回”并崇敬这些阵亡士兵的灵魂。明治初年，津轻群体的成员有的庆祝皇权复古，有的推行国家宗教改革，有的继续国学研究，也有的在近代社会的急剧变化中挣扎。
+    step2: |-
+      鲁仙与有猷继续探究神灵与灵界之际，明治维新宣告成立。结果，他们的弘前藩陷入政治动荡，被迫在 1868 至 1869 年的戊辰战争中选边站。一位同门平田信徒兼藩士为天皇军队作战并阵亡。他们圈子中的神道祭司举行葬礼仪式，“召回”并崇敬这些阵亡士兵的灵魂。明治初年，津轻群体的成员有的庆祝皇权复古，有的推行国家宗教改革，有的继续国学研究，也有的在近代社会的急剧变化中挣扎。
+  - id: 99
+    kind: heading
+    source: |-
+      ### 4.5 Kokugaku and the Meiji Restoration
+    step1: |-
+      ### 4.5 国学与明治维新
+    step2: |-
+      ### 4.5 国学与明治维新
+  - id: 100
+    kind: heading
+    source: |-
+      #### Yano Gendō or Harumichi (1823–1887)
+    step1: |-
+      #### 矢野玄道（1823—1887）
+    step2: |-
+      #### 矢野玄道（1823—1887）
+  - id: 101
+    kind: body
+    source: |-
+      The Meiji Restoration’s reinstatement of imperial rule inspired many of Atsutane’s disciples who dreamed of a new “dawn” in the early years of the Meiji period. One such individual was Yano Harumichi or Gendō (1823–1887) who worked with like-minded Kokugaku scholars, Shinto priests, and educators in reviving ancient institutions and rites as an essential part of modern society. Harumichi was a retainer of Ōzu domain. After moving to Edo, he studied at Shōheikō academy and enrolled as a posthumous disciple of Hirata Atsutane. He served as an instructor to the Shirakawa family from 1863 and became the academic head of the Yoshida Shinto school in 1867. During the Restoration and the revival of imperial rule, Harumichi worked with Iwakura Tomomi, Tamamatsu Misao, and others in government planning and issuing memoranda. During the Meiji years he served in the Council of Divinity (*Jingikan*) to research genealogies at the Imperial Household Ministry.
+    step1: |-
+      明治维新恢复皇权，激励了笃胤的许多门人，他们在明治初年梦想一个全新的“黎明”。矢野玄道（1823—1887）便是其中一位；他与志同道合的国学者、神道祭司与教育家合作，复兴古代制度与礼仪，使之成为现代社会的必要组成部分。玄道是大洲藩的藩士。迁往江户后，他在昌平黌（Shōheikō）学习，并注册为平田笃胤的死后门人。他从 1863 年起担任白川家的教师，1867 年成为吉田神道学派的学术首领。在维新与皇权复兴期间，玄道与岩仓具视、玉松操等人合作，参与政府规划并发布备忘录。明治年间，他在神祇官（Jingikan）任职，在宫内省研究系谱。
+    step2: |-
+      明治维新恢复皇权，激励了笃胤的许多门人，他们在明治初年梦想一个全新的“黎明”。矢野玄道（1823—1887）便是其中一位；他与志同道合的国学者、神道祭司与教育家合作，复兴古代制度与礼仪，使之成为现代社会的必要组成部分。玄道是大洲藩的藩士。迁往江户后，他在昌平黌（Shōheikō）学习，并注册为平田笃胤的死后门人。他从 1863 年起担任白川家的教师，1867 年成为吉田神道学派的学术首领。在维新与皇权复兴期间，玄道与岩仓具视、玉松操等人合作，参与政府规划并发布备忘录。明治年间，他在神祇官（Jingikan）任职，在宫内省研究系谱。
+  - id: 102
+    kind: body
+    source: |-
+      In the twelfth month of 1867 (Keio 3), Harumichi issued his *Humble Petition of a Fool* (*Kenkin sengo*) just after the imperial court declared the “Restoration of Imperial Rule” (*Ōsei fukko*). This seminal treatise is a comprehensive Kokugaku prospectus on the politics of restoring imperial politics, calling for a revival of ancient government practices. Harumichi begins by declaring the Tokugawa regime’s return of political authority to the imperial court to be the grandest event in over 600 years since the establishment of the first samurai government in the Kamakura shogunate of the late twelfth century. He then asserts three principles for imperial governance: the “rites” (*saishi*) to worship gods and ancestors as did the ancient sage kings of China; the “benevolent government” (*jinsei*) that cares for the people like foremost “treasures” as practiced from ancient times according to the decree of the Imperial Ancestral Gods; and the “authority” (*ibu*) to protect loyal subjects and to quell those who dare to resist.
+    step1: |-
+      1867 年（庆应三年）十二月，就在朝廷宣布“王政复古”（Ōsei fukko）之后，玄道发表了《献芹詹语》（Kenkin sengo）。这部重要论著是一份全面的国学政治纲领，主张恢复古代政治，呼吁复兴古代行政实践。玄道开篇宣称，德川政权把政治权力交还朝廷，是自 12 世纪末镰仓幕府建立首个武家政权以来六百多年间最重大的事件。随后，他提出皇权治理的三项原则：一是“祭祀”（saishi），像中国古圣王那样崇拜神与祖先；二是“仁政”（jinsei），依照皇祖神的旨意，像自古以来所实践的那样，把人民视为首要的“宝物”加以爱护；三是“威武”（ibu），保护忠良臣民，镇压胆敢反抗者。
+    step2: |-
+      1867 年（庆应三年）十二月，就在朝廷宣布“王政复古”（Ōsei fukko）之后，玄道发表了《献芹詹语》（Kenkin sengo）。这部重要论著是一份全面的国学政治纲领，主张恢复古代政治，呼吁复兴古代行政实践。玄道开篇宣称，德川政权把政治权力交还朝廷，是自 12 世纪末镰仓幕府建立首个武家政权以来六百多年间最重大的事件。随后，他提出皇权治理的三项原则：一是“祭祀”（saishi），像中国古圣王那样崇拜神与祖先；二是“仁政”（jinsei），依照皇祖神的旨意，像自古以来所实践的那样，把人民视为首要的“宝物”加以爱护；三是“威武”（ibu），保护忠良臣民，镇压胆敢反抗者。
+  - id: 103
+    kind: body
+    source: |-
+      Harumichi presents various proposals for the new Meiji government including the creation of a university or *daigakkō* in the palace in Kyoto. In terms of rites, he asserts the primary importance of restoring the Daijōsai, the inaugural Great New Food Festival ceremony to offer the first crops of rice to the ancestral gods in the eleventh month following the new emperor’s ascension to the throne. For his textual authorities, Harumichi cites his readings of the classical works of Japan beginning with *The Record of Ancient Matters* (*Kojiki*), *The Chronicles of Japan* (*Nihon shoki* and *Jingishiki*), and Kokugaku writings such as Motoori Norinaga’s *Commentaries on the Record of Ancient Matters* (*Kojikiden*) and Hirata Atsutane’s *Lectures on Ancient History* (*Koshiden*). He also cites Chinese classics beginning with the *Analects*, the *Book of Filial Piety*, and Six Classics, as well as writings of Western learning, astronomy, and geography.
+    step1: |-
+      玄道为新明治政府提出多项建议，包括在京都宫中设立大学（daigakkō）。在礼仪方面，他强调恢复大尝祭（Daijōsai）的首要性；大尝祭是新天皇登基后十一月向皇祖神献上新稻的首次大新尝祭典。至于文本权威，玄道援引他对日本古典的解读，首先是《古事记》（Kojiki）、《日本书纪》（Nihon shoki）与《神祇志》（Jingishiki），以及本居宣长《古事记传》（Kojikiden）、平田笃胤《古史传》（Koshiden）等国学著作。他还援引中国经典，首先是《论语》《孝经》与六经，以及西方学问、天文学与地理学著作。
+    step2: |-
+      玄道为新明治政府提出多项建议，包括在京都宫中设立大学（daigakkō）。在礼仪方面，他强调恢复大尝祭（Daijōsai）的首要性；大尝祭是新天皇登基后十一月向皇祖神献上新稻的首次大新尝祭典。至于文本权威，玄道援引他对日本古典的解读，首先是《古事记》（Kojiki）、《日本书纪》（Nihon shoki）与《神祇志》（Jingishiki），以及本居宣长《古事记传》（Kojikiden）、平田笃胤《古史传》（Koshiden）等国学著作。他还援引中国经典，首先是《论语》《孝经》与六经，以及西方学问、天文学与地理学著作。
+  - id: 104
+    kind: body
+    source: |-
+      Although Harumichi asserted lofty ideals for the Restoration at the outset, by the early years of Meiji, the state leaders increasingly adopted Western ideas and institutions. Furthermore, the efforts of radical members of the Hirata faction were suppressed and after a few years the National University was closed. In disappointment, Harumichi composed the following poem:
+    step1: |-
+      尽管玄道起初为维新标举崇高理想，但到明治初年，国家领袖日益采纳西方观念与制度。此外，平田派激进成员的努力遭到压制，几年后国立大学也被关闭。失望之余，玄道写下如下和歌：
+    step2: |-
+      尽管玄道起初为维新标举崇高理想，但到明治初年，国家领袖日益采纳西方观念与制度。此外，平田派激进成员的努力遭到压制，几年后国立大学也被关闭。失望之余，玄道写下如下和歌：
+  - id: 105
+    kind: table
+    source: |-
+      | My assumption | Kashiwara no |
+      | --- | --- |
+      | that we were returning | miyo ni kaeru to |
+      | to the divine age of Kashiwara | omoishi wa |
+      | has become nothing more than | aranu yume nite |
+      | the impossible dream. | arikeru mono wo |
+      | (quoted in Walthall 1998: 301)[^walthall-1998] |   |
+    step1: |-
+      表 6
+      
+      | 我曾以为 | Kashiwara no |
+      | --- | --- |
+      | 我们正在回归 | miyo ni kaeru to |
+      | 柏原的神代 | omoishi wa |
+      | 如今却不过是一场 | aranu yume nite |
+      | 无法实现的梦。 | arikeru mono wo |
+      | （转引自 Walthall 1998: 301） |   |
+    step2: |-
+      表 6
+      
+      | 我曾以为 | Kashiwara no |
+      | --- | --- |
+      | 我们正在回归 | miyo ni kaeru to |
+      | 柏原的神代 | omoishi wa |
+      | 如今却不过是一场 | aranu yume nite |
+      | 无法实现的梦。 | arikeru mono wo |
+      | （转引自 Walthall 1998: 301） |   |
+  - id: 106
+    kind: body
+    source: |-
+      Harumichi lamented that the dream of resurrecting the ideal ancient society of the seventh century shaped exclusively by Shinto and Kokugaku doctrine would not be realized. Harumichi’s sentiment was shared by many others in the Hirata school.
+    step1: |-
+      玄道哀叹，复兴一个完全由神道与国学教义塑造的 7 世纪理想古代社会之梦，终将无法实现。平田学派中许多人也怀有同样的感慨。
+    step2: |-
+      玄道哀叹，复兴一个完全由神道与国学教义塑造的 7 世纪理想古代社会之梦，终将无法实现。平田学派中许多人也怀有同样的感慨。

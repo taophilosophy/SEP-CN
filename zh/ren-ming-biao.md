@@ -286,6 +286,7 @@
 | Asaṅga | — | 无著 | 古印度／瑜伽行派 | 约 4–5 世纪 | yogacara | 汉传佛典千年通行译名（《摄大乘论》作者）；凭证 2026-11-11 | 2026-11-11 |
 | Asch, Adrienne | — | 阿德里安娜·阿施 | 美国 | 1946–2013 | disability-care-rationing | 学界通行汉译（生物伦理与失能研究）；正文本条仅以姓“阿施”出现；凭证 2026-11-08；籍属/生卒联网查证：Wikidata Q15989403（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Ash, Michael | — | 迈克尔·阿什 | — | — | colonialism | 正文首现音译；凭证 2026-11-07；审定库无相关命中（termonline-all 凭证 2026-11-13）| 2026-11-07 |
+| Ashikaga Takauji | — | 足利尊氏 | 日本 | 1305–1358 | kokugaku-school | 学界通行汉译；室町幕府初代将军 | 2026-11-28 |
 | Ashkenazi, Shaul | — | 扫罗·阿什肯纳齐 | 克里特（干尼亚）／犹太哲学 | 1470–1523 | delmedigo | 音译（德尔·梅第戈弟子，学界无固定汉名）；籍属/生卒联网查证：GND 规范标目 gnd 1089702140（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv）。籍属查证 2026-11-22：Encyclopaedia Judaica：生于干尼亚（Candia） | 2026-11-22 |
 | Ashton, Michael | — | Michael Ashton（现代学者，保留英文） | — | — | justice-moral-psych | ADR-0022：无通行汉名者保留英文（HEXACO 模型提出者）；凭证 2026-11-10 | 2026-11-10 |
 | Aspect, Alain | — | 阿兰·阿斯佩 | 法国 | 1947– | qt-entangle | 学界通行汉译（2022 诺贝尔物理学奖）；凭证 2026-11-09 | 2026-11-09 |
@@ -1701,6 +1702,7 @@
 | Giuseppe Peano | — | 朱塞佩·皮亚诺 | 意大利／数学 | 1858–1932 | 语料回收（全目录） | 审定“皮亚诺”译名系（数学）；凭证 2026-11-01；籍属/生卒联网查证：GND 规范标目 gnd 11873976X（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv） | 2026-11-14 |
 | Glanvill, Joseph | — | 约瑟夫·格兰维尔 | 英国 | 1636–1680 | cambridge-platonists | 学界通行音译（《撒都该主义之溃败》作者）；凭证 2026-11-09 | 2026-11-09 |
 | Glymour, Clark | — | 克拉克·格利穆尔 | 美国 | 1942– | bayes-theorem | 学界惯例（《理论与证据》作者，通行音译）；籍属/生卒联网查证：Wikidata Q5127247（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
+| Go-Daigo | 後醍醐天皇 | 后醍醐天皇 | 日本 | 1288–1339 | kokugaku-school | 学界通行汉译；日本天皇 | 2026-11-28 |
 | Goddu, André | — | 安德烈·古杜 | 美国 | 1945– | copernicus | 科学史通行音译（哥白尼与亚里士多德传统研究）；凭证 2026-11-12 copernicus r2；籍属/生卒联网查证：Wikidata Q93231216（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Gödel, Kurt | Kurt Gödel | 库尔特·哥德尔 | 美国 | 1906–1978 | deductivism-mathematics | 学界千年通行汉译（不完全性定理）；凭证 2026-11-08；2026-11-20 复核：合并（同键变体，来源列并双 slug）；籍属/生卒联网查证：GND 规范标目 gnd 11869569X（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Godfrey of Fontaines | — | 方丹的戈弗雷 | 布拉班特（方丹） | 约1250–1306（或1309） | basing→SUMMARY 归一 | SUMMARY 定名（g/godfrey.md“方丹的戈弗雷”）优先于 auriol 语料回收异形（丰泰纳的戈弗雷）；2026-11-08 归一；籍属/生卒联网查证：SEP 原文 en/henry-ghent:246（2026-11-20 查，凭证 verify-2026-11-20-people.tsv）；查证：生卒：SEP en/godfrey 自条目“probably shortly before 1250”与“died on October 29…1306 is the last year for which records indicate that Godfrey was still alive”，New Catholic Encyclopedia 作卒 1306（或 1309），Routledge 作 c. 1250–c. 1306/9；籍属：列日公国 Fontaines-les-Hozémont（今比利时）（2026-11-22 查，凭证 dates-batch9-2026-11-22.tsv） | 2026-11-22 |
@@ -3009,7 +3011,7 @@
 | Mathuranātha | मथुरानाथ | 摩偷罗那陀 | 古印度／新正理 | 约 16–17 世纪 | early-modern-india | 梵音自拟（mathurā 从“摩偷罗”古译通例；非存在堆论家）；凭证 2026-11-10 | 2026-11-10 |
 | Matisse, Henri | — | 亨利·马蒂斯 | 法国／画家 | 1869–1954 | aesthetic-testimony | 学界通行汉译（艺术史标准译名） | 2026-11-11 |
 | Matravers, Derek | — | 德里克·马特拉弗斯 | 英国 | 1965– | imaginative-resistance | 音译（虚构与情感）；凭证 2026-11-12；籍属/生卒联网查证：GND 规范标目 gnd 188486577（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
-| Matsudaira Yoshitatsu | — | 松平义建 | 日本 | 1800–1862 | kokugaku-school | 学界通行汉译；凭证 2026-11-04；籍属/生卒联网查证：Wikidata Q11530568（2026-11-21 查，凭证 verify-2026-11-20-people.tsv）。译名订正 2026-11-22：Wikidata Q11530568 ja 标目作 松平義建（1800-01-07 生、1862-09-13 卒，美浓高须藩第十代藩主），ja 维基同；SEP kokugaku-school 括注 (1824–83) 系沿袭 Walthall 1998 之误（该生卒属其子德川庆胜），译文该处照录原文并加译注（已入勘误表） | 2026-11-22 |
+| Matsudaira Yoshitatsu | — | 松平义建 | 日本 | 1800–1862 | kokugaku-school | 学界通行汉译；凭证 2026-11-04；籍属/生卒联网查证：Wikidata Q11530568（2026-11-21 查，凭证 verify-2026-11-20-people.tsv）。译名订正 2026-11-22：Wikidata Q11530568 ja 标目作 松平義建（1800-01-07 生、1862-09-13 卒，美浓高须藩第十代藩主），ja 维基同；SEP kokugaku-school 括注 (1824–83) 系沿袭 Walthall 1998 之误（该生卒属其子德川庆胜），译文该处按参考读法作“松平义建（1800—1862）”并加译注②（2026-11-28 T255 落地） | 2026-11-28 |
 | Matsuo Bashō | 松尾芭蕉 | 松尾芭蕉 | 日本 | 1644–1694 | japanese-aesthetics | 学界惯例（日本俳谐史通行汉名）；籍属/生卒联网查证：Wikidata Q5676（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Matsuo Taseko | — | 松尾多势子 | 日本 | 1811–1894 | kokugaku-school | 日本人名汉字原样；凭证 2026-11-04；籍属/生卒联网查证：Wikidata Q11529599（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Mattei, Caterina (da Racconigi) | — | 卡泰里娜·马泰伊（拉科尼吉的卡泰里娜） | — | — | gianfrancesco-pico | 音译（宣福多明我会修女） | 2026-11-09 |
@@ -3017,6 +3019,7 @@
 | Matteotti, Giacomo | — | 贾科莫·马泰奥蒂 | 意大利 | 1885–1924 | gramsci | 意大利社会党议员，学界通行音译（ADR-0022 通行汉名判据）；凭证 2026-11-11；籍属/生卒联网查证：GND 规范标目 gnd 119217570（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Mattern, Janice Bially | — | 贾妮丝·比亚利·马特恩 | 美国 | — | global-democracy | 音译（国际关系等级制研究） | 2026-11-12 |
 | Matthen, Mohan | — | 莫汉·马森 | 加拿大（生于印度班加罗尔） | 1948– | bodily-awareness | 学界通行音译（知觉哲学家）；凭证 2026-11-07；籍属/生卒联网查证：Wikidata Q93237636（2026-11-21 查，凭证 verify-2026-11-20-people.tsv）；联网查证：本人 CV（philosophy.utoronto.ca）“Born Bangalore, India on 2nd April, 1948… Citizen of Canada”；Wikidata Q93237636（P227=GND 140943528）出生年 1948（2026-11-22 查）（凭证 wd-p227-2026-11-22.jsonl） | 2026-11-22 |
+| Matthew C. Perry | — | 马修·佩里 | 美国 | 1794–1858 | kokugaku-school | 学界通行音译；美国海军准将，黑船来航 | 2026-11-28 |
 | Matthew of Aquasparta | — | 阿夸斯帕尔塔的马修 | 意大利／方济各会 | 约1240–1302 | illumination | 中世纪哲学通行汉译（方济各会神学家，1274 年后任总会长）；凭证 2026-11-08；籍属/生卒联网查证：Wikidata Q1346310（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Matthew Ratcliffe | — | Matthew Ratcliffe（无通行汉名，保留英文原名） | — | 1973– | 语料回收（全目录） | 学界通行译名；籍属/生卒联网查证：Wikidata Q42425210（2026-11-24 查，凭证 people-wikidata-2026-11-24-b15.tsv）；现象学与精神病理学（《Feelings of Being》）；Wikidata 无 P27 | 2026-11-24 |
 | Matthew S. Bedke | — | 马修·S. 贝德克 | — | — | intuitionism-ethics | 学界通行汉译；SUMMARY/署名行定名沿用；审定库无相关命中（termonline-all 凭证 2026-11-14）| 2026-11-04 |
@@ -4017,6 +4020,7 @@
 | Sandra Harding | — | 桑德拉·哈丁 | 美国 | 1935–2025 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）；籍属/生卒联网查证：Wikidata Q469565（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Saner, Hans | — | Hans Saner（现代学者，保留英文） | 瑞士 | 1934–2017 | jaspers | ADR-0022：无通行汉名者保留英文（KJG 协作）；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 120600013（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Sanford, David H. | — | David Sanford（现代学者，保留英文） | 美国 | 1937–2022 | necessary-sufficient | ADR-0012 体例：现代学者保留英文（条件句研究）；凭证 2026-11-09；籍属/生卒联网查证：Wikidata Q5234558（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
+| Sanjō | — | 三条卿 | 日本 | — | kokugaku-school | 宫廷贵族称谓；源文 Lord Sanjō 未具名，保留称谓 | 2026-11-28 |
 | Śaṅkara | शङ्कर | 商羯罗 | 南印度（迦拉迪，喀拉拉）／不二论吠檀多 | c. 700–750 | kumaarila | 印度哲学史学界通行（不二论吠檀多，约八世纪） | 2026-11-05 |
 | Śaṅkara Miśra | — | 商羯罗·弥尸罗 | 古印度／胜论注释者 | 15 世纪 | concept-emotion-india | 学界通行汉译（《胜论经》Upaskāra 注作者；与吠檀多商羯罗异人分立）；凭证 2026-11-12 concept-emotion-india r2 | 2026-11-12 |
 | Śāntarakṣita | शान्तरक्षित | 寂护 | 孟加拉／佛教中观与瑜伽行 | 725–788 | abhidharma | 佛学界通行汉译；审定库无相关命中（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
