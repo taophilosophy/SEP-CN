@@ -43,14 +43,21 @@
 | digital painting | — | 数字绘画 | digital-art | 学界惯例（艺术学通行）；凭证 2026-11-28 | 2026-11-28 |
 | digital photography | — | 数字摄影 | digital-art | 学界惯例（摄影研究通行）；凭证 2026-11-28 | 2026-11-28 |
 | digital projection | — | 数字放映 | digital-art | 学界惯例（电影研究通行（与 traditional projection 传统放映对举））；凭证 2026-11-28 | 2026-11-28 |
-| display instance | — | 展示实例 | digital-art | 学界惯例（数字艺术本体论通行（与 display type 显示类型对举））；凭证 2026-11-28 | 2026-11-28 |
+| display | — | 显示 | digital-art | 学界惯例（数字艺术本体论通行（Lopes；与 display type 显示类型对举））；凭证 2026-11-28 | 2026-11-28 |
+| display instance | — | 显示实例 | digital-art | 学界惯例（数字艺术本体论通行（与 display type 显示类型对举））；凭证 2026-11-28 | 2026-11-28 |
+| display state | — | 显示状态 | digital-art | 学界惯例（数字艺术本体论通行）；凭证 2026-11-28 | 2026-11-28 |
+| display variability | — | 显示可变性 | digital-art | 学界惯例（数字艺术本体论通行（Preston/Lopes 显示类型框架））；凭证 2026-11-28 | 2026-11-28 |
 | electronic music | — | 电子音乐 | digital-art | 学界惯例（音乐学通行）；凭证 2026-11-28 | 2026-11-28 |
 | extension (semantics) | — | 外延（语义学） | digital-art | 学界惯例（逻辑学通行；与 extension 广延（笛卡尔物理学义）分列，同形异义）；凭证 2026-11-28 | 2026-11-28 |
 | finite automaton | — | 有限自动机 | logic-dynamic | 学界惯例（计算机科学通行）；凭证 2026-11-27 | 2026-11-27 |
 | formula | — | 公式 | logic-dynamic | 学界惯例（数理逻辑通行）；凭证 2026-11-27 | 2026-11-27 |
 | Hoare calculus | — | 霍尔演算 | logic-dynamic | 学界惯例（程序验证通行）；凭证 2026-11-27 | 2026-11-27 |
+| immersion | — | 沉浸 | digital-art | 学界惯例（游戏与新媒体研究通行）；凭证 2026-11-28 | 2026-11-28 |
 | input-output system | — | 输入—输出系统 | digital-art | 学界惯例（计算机科学通行）；凭证 2026-11-28 | 2026-11-28 |
 | installation | — | 装置 | digital-art | 学界惯例（当代艺术通行（installation art 装置艺术同族））；凭证 2026-11-28 | 2026-11-28 |
+| interactive | — | 交互的 | digital-art | 学界惯例（新媒体与游戏研究通行（与 interactivity 交互性同族））；凭证 2026-11-28 | 2026-11-28 |
+| interactive art | — | 交互艺术 | digital-art | 学界惯例（新媒体艺术通行）；凭证 2026-11-28 | 2026-11-28 |
+| interactive work | — | 交互作品 | digital-art | 学界惯例（数字艺术本体论通行）；凭证 2026-11-28 | 2026-11-28 |
 | intersection (program) | — | 交 | logic-dynamic | 学界惯例（程序逻辑义（intersection of programs 程序交）；与集合交同形）；凭证 2026-11-27 | 2026-11-27 |
 | isomorphic transcription | — | 同构转录 | digital-art | 学界惯例（罗多维克术语（与 data-output 数据输出对举）；首现括注原文）；凭证 2026-11-28 | 2026-11-28 |
 | iteration | — | 迭代 | logic-dynamic | 学界惯例（程序逻辑通行（unbounded iteration 无界迭代））；凭证 2026-11-27 | 2026-11-27 |
@@ -63,7 +70,9 @@
 | nested media | — | 嵌套媒介 | digital-art | 学界惯例（数字艺术理论通行（Gaut 用语））；凭证 2026-11-28 | 2026-11-28 |
 | NFT art | — | NFT 艺术 | digital-art | 学界惯例（艺术界通行（NFT＝non-fungible token，缩写照录））；凭证 2026-11-28 | 2026-11-28 |
 | non-deterministic | — | 非确定的 | logic-dynamic | 学界惯例（程序逻辑通行（与 non-deterministic choice 非确定选择同族））；凭证 2026-11-27 | 2026-11-27 |
+| object-based | — | 基于对象的 | digital-art | 学界惯例（艺术本体论通行（与 process-based 基于过程的对举））；凭证 2026-11-28 | 2026-11-28 |
 | ontological pluralism | — | 本体论多元论 | digital-art | 学界惯例（艺术本体论通行）；凭证 2026-11-28 | 2026-11-28 |
+| process-based | — | 基于过程的 | digital-art | 学界惯例（艺术本体论通行（Nguyen；与 object-based 基于对象的对举））；凭证 2026-11-28 | 2026-11-28 |
 | program | — | 程序 | logic-dynamic | 学界惯例（程序逻辑通行（PDL 两大句法范畴之一））；凭证 2026-11-27 | 2026-11-27 |
 | program construct | — | 程序构造 | logic-dynamic | 学界惯例（程序逻辑通行）；凭证 2026-11-27 | 2026-11-27 |
 | realism (film) | — | 写实主义 | digital-art | 学界惯例（电影研究通行（亦作“现实主义”）；与 realism 实在论（共相语境）分列，同形异义）；凭证 2026-11-28 | 2026-11-28 |
@@ -80,8 +89,10 @@
 | sub-media | — | 子媒介 | digital-art | 学界惯例（数字艺术理论通行（与 nested media 嵌套媒介同族））；凭证 2026-11-28 | 2026-11-28 |
 | subphenomenal | — | 亚现象的／亚现象 | digital-art | 学界惯例（知觉哲学与测量技术语境；定语省“的”作“亚现象”）；凭证 2026-11-28 | 2026-11-28 |
 | syntactic differentiation | — | 句法分立 | digital-art | 学界惯例（古德曼《艺术语言》术语）；凭证 2026-11-28 | 2026-11-28 |
+| tabletop role-playing game | — | 桌面角色扮演游戏 | digital-art | 学界惯例（游戏研究通行）；凭证 2026-11-28 | 2026-11-28 |
 | transition | — | 转移 | logic-dynamic | 学界惯例（模态逻辑与程序语义通行（与 labeled transition system 标记转移系统一致））；凭证 2026-11-27 | 2026-11-27 |
 | translatability | — | 可转译性 | digital-art | 学界惯例（媒介理论通行（medium 转译义））；凭证 2026-11-28 | 2026-11-28 |
+| ultrasubjective | — | 超主观的 | digital-art | 学界惯例（TeamLab 术语；首现括注原文）；凭证 2026-11-28 | 2026-11-28 |
 | video game | — | 电子游戏 | digital-art | 学界惯例（游戏研究通行（videogame 同义拼写））；凭证 2026-11-28 | 2026-11-28 |
 | world (modal logic) | — | 世界 | logic-dynamic | 学界惯例（模态逻辑义；与《世界》Le Monde 分列，撞形豁免 2026-11-27：同形异义）；凭证 2026-11-27 | 2026-11-27 |
 | 键 | 原文 | 译法 | 首现（slug 或书目） | 依据 | 裁定日期 |
