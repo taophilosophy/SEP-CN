@@ -2,7 +2,7 @@
   "slug": "kokugaku-school",
   "kind": "retranslate",
   "zh_doc": "zh/k/kokugaku-school.md",
-  "state": "sg-02_checked",
+  "state": "done",
   "translation_mode": "llm-pe",
   "project_spec": {
     "audience": "中文哲学读者（研究者与研究生为主）",
@@ -122,6 +122,21 @@
       "actor": "trae-main",
       "at": "2026-11-28T05:36:05Z",
       "evidence": "T260 sg-02 复审（results/t260-sg02.md）：全文六节逻辑链完整（定义→兴起→文献学→民间→明治→之后），§1 末承诺在 §2–§5 兑现；代词 40 余处逐组回指无悬空，无“前者／后者”；正文无显式跨节引用，译者注释①②指向明确；数字与专名跨节一致；Minor 2 处已修（§4.3 句式杂糅、§4.2 “1826 年同年”重复）；Critical 0／Major 0／Minor 0（遗留）；改后 check_style／quotes 0、terms 硬 0、pairs --gate 0、academic 无硬错误；账本 181 段。未获 sg-03 mandate，止于 sg-02_checked。"
+    },
+    {
+      "step": "sg-03",
+      "status": "ok",
+      "actor": "user",
+      "at": "2026-11-28T06:09:33Z",
+      "evidence": "T260 sg-03 终审（results/t260-sg03.md）：用户 2026-11-28 本会话明确授权（mandate 已记）。终稿 431 行／12,453 汉字、181 段账本、51 脚注定义（键集与 en 相同）／5 引用、6 张和歌表、2 条译者注释；H2 11／H3 12／H4 4，尾序正典；4 行勘误承载①②；术语 60 条、人名 29 条覆盖；版本钉 Jun 21, 2021／Fall 2021，HTML 主件 SHA-256 640fe38e…1d3 与任务账一致；check_all 23/23，check_style／quotes 0、terms 硬 0、pairs --gate 0、academic --strict 无硬错误、math_zh 0、六轴 gate 全 0；checks 46114491257 success、CodeQL 46114491265 success、开放告警 0。终审通过，置 done。",
+      "mandate": "2026-11-28 用户在本会话明确授权：执行 kokugaku-school sg-03 终审（全件终审与 done 签字）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "user",
+      "at": "2026-11-28T06:09:33Z",
+      "evidence": "T260 终审通过并完成交付：431 行／12,453 汉字、181 段账本、51 脚注定义／5 引用、6 表、2 条译者注释；版本钉 Jun 21, 2021／Fall 2021、HTML 主件 SHA-256 640fe38e…1d3 一致；check_all 23/23；checks 46114491257 success、CodeQL 46114491265 success。"
     }
   ],
   "blockers": [],
