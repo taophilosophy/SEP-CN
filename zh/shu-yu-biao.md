@@ -2253,6 +2253,7 @@
 | dravatya | द्रवत्व | 液性 | early-modern-india | 胜论动力学义译（fluidity）；凭证 2026-11-10 | 2026-11-10 |
 | dravya | द्रव्य | 实体 | jaina-philosophy | 学界惯例；印度哲学通行；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
 | Dreams of Spirit-Seer | — | 《通灵者之梦》 | 语料回收（specs/058 全库提取） | 权威译本（商务印书馆“汉译世界学术名著丛书”1000 种书目·哲学第 300 号（康德）；2026-11-24 查，凭证 works-batch10-2026-11-24.md） | 2026-11-24 |
+| dragon’s veins | 龍脈 | 龙脉 | japanese-aesthetics | 学界惯例（中国画论术语（画中气脉））；凭证 2026-11-28 | 2026-11-28 |
 | drift | — | 漂变（演化生物学） | 语料回收（社会本体论与生物学族扫描 2026-11-25） | 学界惯例；演化生物学通行（genetic drift；语料 85 次）；凭证 2026-11-25 | 2026-11-25 |
 | driver mutation | — | 驱动突变 | cancer | 学界通行（癌症基因组学；与 passenger mutation 乘客突变对举）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | dṛṣṭānta | दृष्टान्त | 喻例 | early-modern-india | 因明传统译名（三支作法之“喻”）；凭证 2026-11-10 | 2026-11-10 |
@@ -2431,6 +2432,7 @@
 | engaged object('jug yul) | — | 趣入境（'jug yul） | epistemology-language-tibetan | 藏传量论通译；原文列：工具书查无原生文字（2026-11-20 检 wisdomlib／GND／BDRC／84000／Logeion，均无“转写↔原生文字”显式配对，部分源不可达；映射表推演禁用，ADR-0030）；键形归一 2026-11-21：全角括注／斜线改半角（键须为源语形）；旧键 engaged object（'jug yul） | 2026-11-21 |
 | enhypostaton / enhypostata | — | 内寓者（寄寓他物而存者） | john-italos | 基督论与中世纪哲学通行（与 anhypostaton 对举）；审定库无相关命中（termonline-all 凭证 2026-11-09；2026-11-26 界面精确匹配复核：0 条）| 2026-11-26 |
 | Enlightenment | — | 启蒙（时代名，视语境亦作“启蒙运动”） | 18thGerman-preKant | 学界通行汉译；审定名词库（世界历史名词 03.0451，2012）作“启蒙运动”，与本行“启蒙”＋括注一致（2026-11-24 JWT 直连，凭证 termonline-b4-2026-11-24.tsv） | 2026-11-05 |
+| Enjo | 炎上 | 《炎上》 | japanese-aesthetics | 学界惯例（市川崑电影，汉译片名照录）；凭证 2026-11-28 | 2026-11-28 |
 | Enneads | Ἐννεάδες | 《九章集》 | evil-kinds-origins（theology-aristotle 同条） | 学界通行（普罗提诺著作标准汉译）；凭证 2026-11-08；2026-11-12 合并重复行 | 2026-11-12 |
 | ennoēma | ἐννόημα | 内在思想对象 | intentionality-ancient | 斯多葛术语（en+noēma“在思想中者”）；随文保留拉丁；原文列联网查证：LSJ《希腊英语大辞典》ἐννόημα 条（2026-11-13 查，凭证 orig-verify-2026-11-13-b2.tsv） | 2026-11-13 |
 | Enquiry concerning Human Understanding | — | 《人类理解研究》 | 语料回收（specs/058 全库提取） | 权威译本（休谟著作通行汉译；审定库无对口条目，2026-11-22）；凭证 2026-11-22 | 2026-11-22 |
@@ -3363,6 +3365,7 @@
 | ḥads | حدس | 直觉 | ibn-kammuna | 学界惯例（阿拉伯-伊斯兰哲学“most usually translated as intuition”；与康德传统 intuition=直观 分立即）；凭证 2026-11-10；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
 | ḥadsiyyāt | حدسيات | 直觉判断 | ibn-kammuna | 构词直译（ḥads 之复数形容词形，指直觉性前提）；凭证 2026-11-10 | 2026-11-10 |
 | haecceitism | — | 此性论 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 h/haecceitism））；凭证 2026-11-04 | 2026-11-04 |
+| Haboku Sansui | 破墨山水 | 《破墨山水》 | japanese-aesthetics | 学界惯例（雪舟画作，通行汉译画名）；凭证 2026-11-28 | 2026-11-28 |
 | haecceity；ecceitas(司各脱拉丁异形) | — | 此性（haecceity） | omniscience | 学界通行译名（司各脱此性说）；凭证 2026-11-09；ecceitas（vives 正文作 ecceitates）并条 2026-11-25 | 2026-11-09 |
 | haiku | 俳句 | 俳句 | japanese-aesthetics | 学界惯例（日本文学研究通行译法“俳句”） | 2026-11-08 |
 | hairesis | αἵρεσις | 宗派（古代学派组织） | dialectical-school | 学界惯例；古代哲学史文献通行（有共同学说与制度关联的学派组织；与师承对举）；凭证 2026-11-07 | 2026-11-25 |
@@ -4257,6 +4260,7 @@
 | kinetic energy | — | 动能 | kant-development | 物理学通行；凭证 2026-11-11；审定名词库（termonline-all·物理学名词 02.0278，2019）作“动能”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b7-2026-11-24.tsv） | 2026-11-11 |
 | kinetic pleasure | κινητικὴ ἡδονή | 动态快乐 | epicurus | 本词条译名（与静态快乐对举） | 2026-11-12 |
 | kire | 切 | 切（きれ） | japanese-aesthetics | 学界惯例（日本美学研究通行译法“切断/切”） | 2026-11-02 |
+| Kinkakuji | 金閣寺 | 金阁寺 | japanese-aesthetics | 学界惯例（京都寺院通行汉名）；凭证 2026-11-28 | 2026-11-28 |
 | kire-tsuzuki | 切れ続き | 切续 | japanese-aesthetics | 学界惯例（日本美学研究通行译法“切续”）；原文列联网查证：国际美学辞典（Mimesis）Cut-Continuance 条 kire-tsuzuki 切れ続き（2026-11-13 查，凭证 orig-verify-2026-11-13-b2.tsv） | 2026-11-13 |
 | kireji | 切字 | 切字 | japanese-aesthetics | 学界惯例（俳句研究通行译法“切字”） | 2026-11-02 |
 | kishin | 鬼神 | 鬼神（平田学派：有意志与力量的灵） | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
@@ -8384,6 +8388,7 @@
 | the Woman Question | — | 妇女问题 | george-eliot 首译 | 学界惯例；维多利亚研究通行 | 2026-11-12 |
 | The Wretched of the Earth | — | 《全世界受苦的人》 | 语料回收（specs/058 全库提取） | 权威译本（万冰译，译林出版社 2005；2026-11-24 联网核对，凭证 works-batch15-2026-11-24.md）；台版作《大地上的受苦者》（杨碧川译，心灵工坊 2009） | 2026-11-24 |
 | Theaetetus | — | 《泰阿泰德篇》 | 语料回收（specs/058 全库提取） | 权威译本（詹文杰译《泰阿泰德》，商务印书馆 2018-12（ISBN 9787100164221）；溥林（熊林）译，希汉对照《柏拉图全集》本，商务印书馆 2022-07（ISBN 9787100211826）；2026-11-24 联网核对，凭证 works-batch18-2026-11-24.md） | 2026-11-24 |
+| The Temple of the Golden Pavilion | 金閣寺（三島由紀夫） | 《金阁寺》 | japanese-aesthetics | 学界惯例（三岛由纪夫小说，通行汉译书名）；凭证 2026-11-28 | 2026-11-28 |
 | theistic activism | — | 有神论能动论 | god-necessary-being | Morris & Menzel 1986 自造术语，构词直译；与意志主义/流溢论区分 | 2026-11-09 |
 | theistic emanationism | — | 有神论流溢论 | god-necessary-being | 构词直译（emanation 流溢已在册；Morris-Menzel 绝对创造语境） | 2026-11-09 |
 | theistic mentalism | — | 有神论心理主义 | god-necessary-being | 构词直译（mentalism 与 conceptualism 概念论对举；Welty 2014 语境） | 2026-11-09 |
