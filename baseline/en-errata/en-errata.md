@@ -720,3 +720,14 @@
 | kokugaku-school | §2.2 节题（en L36） | `Kada no Azumamaro (1666–1736)` | ①年份手误（同篇 §1 导论作 `1669–1736`） | `1669–1736`（生 1669-02-03） | 译文节题作 1669–1736，译者注释① | 国学院大学 digital museum（2026-11-28 查）＋dbpedia 生卒 |
 | kokugaku-school | §3.1 引文（en L62） | `[and no sooner were these theories introduced … than tremendous chaos erupted.` | ①排印（方括号未闭合） | 去掉未配对的 `[`，引文语义不变 | 译文按参考读法，无需译注 | 括号计数：开 1／闭 0（2026-11-28） |
 | kokugaku-school | §3.2 两处引文（en L86、L92） | `(Kuzubana {1968–1975: 8: 147]`；`… 8: 160]` | ①排印（花括号起、方括号收） | `(Kuzubana 1968–1975: 8: 147)`；`(Kuzubana 1968–1975: 8: 160)` | 译文按参考读法，无需译注 | 两处均 `{` 起 `]` 收（2026-11-28） |
+
+## 二十三、2026-11-28 T261 digital-art 新发现
+
+**来源**：`specs/064-flow-spec-audit/results/t261-review.md`；`html/` 冻结不改，`en/d/digital-art.md` 忠实照录。纯排版／语法者只入表。
+
+| slug | 位置 | 上游原文 | 缺陷定性 | 参考读法 | 中文承载 | 凭证 |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| digital-art | 导论（en L8） | `we can expect to to learn` | ①排印（重复 `to`） | `we can expect to learn` | 纯排版，无需译注 | 2026-11-28 核对 html 原串 |
+| digital-art | 书目 Ackermann 条（en L224） | `Andreas Rauscher, Andreas and Daniel Stein` | ①排印（重复名 `Andreas`） | `Andreas Rauscher, and Daniel Stein` | 译文书目作参考读法，译者注释① | 2026-11-28 核对 html 原串 |
+| digital-art | 书目 Ackermann 条（en L224） | `pp.7-23` | ①排印（缺空格、连接号） | `pp. 7–23` | 纯排版，无需译注 | 2026-11-28 核对 html 原串 |
+| digital-art | 书目 Ackermann 条（en L224） | `Medien-und Kulturwissenschaften` | ①排印（德语并列复合缺空格） | `Medien- und Kulturwissenschaften` | 纯排版，无需译注 | 2026-11-28 核对 html 原串 |

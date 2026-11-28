@@ -15,17 +15,30 @@
 | Amaterasu | 天照 | 天照大神 | kokugaku-school | 学界通行；日本神话太阳神 | 2026-11-28 |
 | Ame-no-Minakanushi | 天之御中主神 | 天之御中主神 | kokugaku-school | 日本神话三创造神之一；汉字原样 | 2026-11-28 |
 | arahaniyo | 現し世 | 显世 | kokugaku-school | 日本神道语境（可见世界）；学界通行 | 2026-11-28 |
+| ASCII art | — | ASCII 艺术 | digital-art | 学界惯例（计算机艺术与美学通行译名（ASCII＝美国信息交换标准代码））；凭证 2026-11-28 | 2026-11-28 |
 | Ashihara no nakatsu kuni | 葦原の中つ国 | 苇原中国 | kokugaku-school | 日本神话地名；学界通行汉译 | 2026-11-28 |
+| binary code | — | 二进制代码 | digital-art | 学界惯例（计算机科学通行）；凭证 2026-11-28 | 2026-11-28 |
 | bisimilar | — | 互模拟的 | logic-dynamic | 学界惯例（模态逻辑通行（与 bisimulation 互模拟同族））；凭证 2026-11-27 | 2026-11-27 |
+| chatbot fiction | — | 聊天机器人小说 | digital-art | 学界惯例（数码文学通行（chatbot 聊天机器人同族））；凭证 2026-11-28 | 2026-11-28 |
 | composition | — | 复合 | logic-dynamic | 学界惯例（程序构造通行（sequential composition 顺序复合））；凭证 2026-11-27 | 2026-11-27 |
+| computational process | — | 计算过程 | digital-art | 学界惯例（计算机科学通行）；凭证 2026-11-28 | 2026-11-28 |
+| computer art | — | 计算机艺术 | digital-art | 学界惯例（艺术学通行（computer art 与 digital art 对举））；凭证 2026-11-28 | 2026-11-28 |
 | converse (program) | — | 逆 | logic-dynamic | 学界惯例（程序逻辑义；与 converse 逆命题（传统逻辑）分列，撞形豁免）；凭证 2026-11-27 | 2026-11-27 |
 | deterministic | — | 确定的 | logic-dynamic | 学界惯例（程序语义通行（与 non-deterministic 非确定的对举））；凭证 2026-11-27 | 2026-11-27 |
+| digital cinema | — | 数字电影 | digital-art | 学界惯例（电影研究通行）；凭证 2026-11-28 | 2026-11-28 |
+| digital condition | — | 数字状况 | digital-art | 学界惯例（Kittler 术语；媒介研究通行）；凭证 2026-11-28 | 2026-11-28 |
+| digital encoding | — | 数字编码 | digital-art | 学界惯例（计算机科学通行）；凭证 2026-11-28 | 2026-11-28 |
+| digital media | — | 数字媒介 | digital-art | 学界惯例（媒介研究通行）；凭证 2026-11-28 | 2026-11-28 |
+| digital painting | — | 数字绘画 | digital-art | 学界惯例（艺术学通行）；凭证 2026-11-28 | 2026-11-28 |
+| digital photography | — | 数字摄影 | digital-art | 学界惯例（摄影研究通行）；凭证 2026-11-28 | 2026-11-28 |
+| electronic music | — | 电子音乐 | digital-art | 学界惯例（音乐学通行）；凭证 2026-11-28 | 2026-11-28 |
 | finite automaton | — | 有限自动机 | logic-dynamic | 学界惯例（计算机科学通行）；凭证 2026-11-27 | 2026-11-27 |
 | formula | — | 公式 | logic-dynamic | 学界惯例（数理逻辑通行）；凭证 2026-11-27 | 2026-11-27 |
 | Hoare calculus | — | 霍尔演算 | logic-dynamic | 学界惯例（程序验证通行）；凭证 2026-11-27 | 2026-11-27 |
 | intersection (program) | — | 交 | logic-dynamic | 学界惯例（程序逻辑义（intersection of programs 程序交）；与集合交同形）；凭证 2026-11-27 | 2026-11-27 |
 | iteration | — | 迭代 | logic-dynamic | 学界惯例（程序逻辑通行（unbounded iteration 无界迭代））；凭证 2026-11-27 | 2026-11-27 |
 | Kripke frame | — | 克里普克框架 | logic-dynamic | 学界惯例（模态逻辑通行（与 Kripke model 克里普克模型同族））；凭证 2026-11-27 | 2026-11-27 |
+| NFT art | — | NFT 艺术 | digital-art | 学界惯例（艺术界通行（NFT＝non-fungible token，缩写照录））；凭证 2026-11-28 | 2026-11-28 |
 | non-deterministic | — | 非确定的 | logic-dynamic | 学界惯例（程序逻辑通行（与 non-deterministic choice 非确定选择同族））；凭证 2026-11-27 | 2026-11-27 |
 | program | — | 程序 | logic-dynamic | 学界惯例（程序逻辑通行（PDL 两大句法范畴之一））；凭证 2026-11-27 | 2026-11-27 |
 | program construct | — | 程序构造 | logic-dynamic | 学界惯例（程序逻辑通行）；凭证 2026-11-27 | 2026-11-27 |
@@ -35,6 +48,7 @@
 | sequence (program) | — | 顺序 | logic-dynamic | 学界惯例（程序构造义（α;β 顺序复合）；与一般“序列”分列）；凭证 2026-11-27 | 2026-11-27 |
 | state (PDL) | — | 状态 | logic-dynamic | 学界惯例（程序逻辑义；与 state (action ontology) 状态 分列，撞形豁免 2026-11-27：同形异义）；凭证 2026-11-27 | 2026-11-27 |
 | transition | — | 转移 | logic-dynamic | 学界惯例（模态逻辑与程序语义通行（与 labeled transition system 标记转移系统一致））；凭证 2026-11-27 | 2026-11-27 |
+| video game | — | 电子游戏 | digital-art | 学界惯例（游戏研究通行（videogame 同义拼写））；凭证 2026-11-28 | 2026-11-28 |
 | world (modal logic) | — | 世界 | logic-dynamic | 学界惯例（模态逻辑义；与《世界》Le Monde 分列，撞形豁免 2026-11-27：同形异义）；凭证 2026-11-27 | 2026-11-27 |
 | 键 | 原文 | 译法 | 首现（slug 或书目） | 依据 | 裁定日期 |
 | --- | --- | --- | --- | --- | --- |

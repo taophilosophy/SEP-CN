@@ -1,0 +1,63 @@
+{
+  "checked_at": "2026-11-28T06:16:06Z",
+  "reports": [
+    {
+      "slug": "digital-art",
+      "hard": [],
+      "warn": [
+        {
+          "kind": "digit_for_letter",
+          "token": "1s",
+          "ctx": "le, as are their compliance classes, of 1s and 0s. The\nubiquity of binary code in",
+          "cls": "typo_candidate"
+        },
+        {
+          "kind": "digit_for_letter",
+          "token": "0s",
+          "ctx": "are their compliance classes, of 1s and 0s. The\nubiquity of binary code in compute",
+          "cls": "typo_candidate"
+        },
+        {
+          "kind": "digit_for_letter",
+          "token": "1s",
+          "ctx": "-off switches. A particular sequence of 1s and 0s realized at a\nparticular time in",
+          "cls": "typo_candidate"
+        },
+        {
+          "kind": "digit_for_letter",
+          "token": "0s",
+          "ctx": "itches. A particular sequence of 1s and 0s realized at a\nparticular time in virtue",
+          "cls": "typo_candidate"
+        },
+        {
+          "kind": "digit_for_letter",
+          "token": "1s",
+          "ctx": "ed to the\ndifference in the ordering of 1s and 0s. In other words,\nGoodman’s condi",
+          "cls": "typo_candidate"
+        },
+        {
+          "kind": "digit_for_letter",
+          "token": "0s",
+          "ctx": "he\ndifference in the ordering of 1s and 0s. In other words,\nGoodman’s condition of",
+          "cls": "typo_candidate"
+        },
+        {
+          "kind": "pp_no_space",
+          "token": "pp.7",
+          "ctx": "Medien-und Kulturwissenschaften,\n16(1), pp.7-23. \n\n Atencia-Linares, Paloma and Marc",
+          "cls": "typo_candidate"
+        }
+      ],
+      "info": [],
+      "counts": {
+        "entry_links": 5,
+        "external_links": 21,
+        "math_inline": 0,
+        "math_display": 0,
+        "tables": 1,
+        "headings": 17
+      },
+      "checked_at": "2026-11-28T06:16:05Z"
+    }
+  ]
+}
