@@ -225,16 +225,113 @@ sabi 一语常见于《万叶集》，在那里带有荒凉之意（sabireru 意
 
 对每一次切，小津都安排了至少一个形式要素在相邻场景之间提供连续性（kire-tsuzuki）。小津不显眼的转换仍是世界电影中最有风格的切之一，他的作品继续是灵感的源泉。
 
-[^mccullough-1988]: McCullough, Helen C. (trans.), 1988, *The Tale of the Heike*, Stanford: Stanford University Press.
+## 参考文献
 
-[^ghilardi-2015]: Ghilardi, M., 2015, *The Line of the Arch: Intercultural Issues between Aesthetics and Ethics*, Milan: Mimesis International.
+> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-[^jullien-2009]: Jullien, Francois, 2009, *The Great Image Has No Form, or on the Nonobject through Painting*, Chicago: University of Chicago Press.
+## 学术工具
 
-[^lippit-2012]: Lippit, Yukio, 2012, “Of Modes and Manners in Japanese Ink Painting: Sesshū’s ‘Splashed Ink Landscape’ of 1495,” *The Art Bulletin*, 94(1): 50–77.
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=japanese-aesthetics)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/japanese-aesthetics/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=japanese-aesthetics&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org) 查看本词条的增强文献目录（[直达条目](https://philpapers.org/sep/japanese-aesthetics/)）及其数据库链接。
+
+## 其他网络资源
+
+* [日本美学、侘寂与茶道](http://www.art.unt.edu/ntieva/download/teaching/Curr_resources/mutli_culture/Japan/Aesthetics/Japanese%20Aesthetics_Wabi-Sabi_Tea%20Ceremony.pdf)，网页由北德克萨斯大学视觉艺术教育者北德州学院（North Texas Institute for Educators on the Visual Arts，University of North Texas）主办。
+
+## 相关词条
+
+电影哲学
+
+### 致谢
+
+银阁寺银阁等照片以及龙安寺枯山水庭园照片由 Graham Parkes 拍摄。金阁寺金阁照片由 Susanne Z. Riehemann 拍摄，经其许可在此转载。第 7 节所讨论影片的剧照致谢如下：《晚春》，小津安二郎导演，1949 年，版权归松竹株式会社所有；《东京物语》，小津安二郎导演，1953 年，版权归松竹株式会社所有。破墨山水图像属于[公有领域](https://en.wikipedia.org/wiki/Haboku_sansui#/media/File:Sesshu-Haboku-Sansui.jpg)。
 
 [^berthier-2000]: Berthier, François, 2000, *Reading Zen in the Rocks: The Japanese Dry Landscape Garden*, Graham Parkes (trans.), Chicago and London: University of Chicago Press.
 
+[^bordwell-1988]: Bordwell, David, 1988, *Ozu and the Poetics of Cinema*, Princeton: Princeton University Press.
+
+[^carter-2008]: Carter, Robert E., 2008, *The Japanese Arts and Self-Cultivation*, Albany: State University of New York Press.
+
+[^clarke-1997]: Clarke, John (trans), 1997, *Reflections on Japanese Taste: The Structure of Iki*, Sydney: Power Institute Publications.
+
+[^covell-1975]: Covell, Jon Carter, 1975, *Under the Seal of Sesshū*, New York: Hacker Art Books.
+
+[^cross-2003]: Cross, Tim, 2003, “Rikyū has left the Tea Room” in Morgan Pitelka (ed.), *Japanese Tea Culture: Art, History and Practice*, London and New York: Routledge, 151–183.
+
+[^bary-2001]: deBary, William Theodore, et al. (eds.), 2001, *Sources of Japanese Tradition* (Volume I), New York: Columbia University Press, chapters 9 and 16.
+
+[^bary-2005]: –––, 2005, *Sources of Japanese Tradition* (Volume II), New York: Columbia University Press, chapter 27.
+
+[^ghilardi-2015]: Ghilardi, M., 2015, *The Line of the Arch: Intercultural Issues between Aesthetics and Ethics*, Milan: Mimesis International.
+
+[^hakuin-1971]: Hakuin, Ekaku, 1971, *The Zen Master Hakuin: Selected Writings*, Philip Yampolsky (trans.), New York: Columbia University Press.
+
+[^hammitzsch-1980]: Hammitzsch, Horst, 1980, *Zen in the Art of the Tea Ceremony: A Guide to the Tea Way*, New York: St. Martin’s Press.
+
+[^hirota-1995]: Hirota, Dennis (ed.), 1995, *Wind in the Pines: Classic Writings of the Way of Tea as a Buddhist Path*, Fremont: Asian Humanities Press.
+
+[^hume-1995]: Hume, Nancy G. (ed.), 1995, *Japanese Aesthetics and Culture: A Reader*, Albany: State University of New York Press.
+
+[^izutsu-1981]: Izutsu, Toshihiko and Toyo, 1981, *The Theory of Beauty in the Classical Aesthetics of Japan*, The Hague, Boston, London: Nijhoff.
+
+[^jullien-2009]: Jullien, Francois, 2009, *The Great Image Has No Form, or on the Nonobject through Painting*, Chicago: University of Chicago Press.
+
+[^keene-1967]: Keene, Donald, 1967, *Essays in Idleness: The* Tsurezuregusa *of Kenkō*, New York: Columbia University Press.
+
+[^lippit-2012]: Lippit, Yukio, 2012, “Of Modes and Manners in Japanese Ink Painting: Sesshū’s ‘Splashed Ink Landscape’ of 1495,” *The Art Bulletin*, 94(1): 50–77.
+
+[^ludwig-1981]: Ludwig, Theodore, 1981, “Before Rikyū. Religious and Aesthetic Influences in the Early History of the Tea Ceremony,” *Monumenta Nipponica*, 36(4): 367–390.
+
+[^marra-2001]: Marra, Michael F. (trans. and ed.), 2001, *A History of Modern Japanese Aesthetics*, Honolulu: University of Hawai‘i Press.
+
+[^marra-2004]: –––, 2004, *Kuki Shūzō A Philosopher’s Poetry and Aesthetics*, Honolulu: University of Hawai‘i Press.
+
+[^marra-2011]: ––– (ed.), 2011, “Aesthetics” (translations of excerpts from seventeen authors), in James W. Heisig, Thomas P. Kasulis, John C. Maraldo, eds, *Japanese Philosophy: A Sourcebook*, Honolulu: University of Hawai‘i Press, pp. 1167–1227.
+
+[^marra-1999]: Marra, Michele, 1999, *Modern Japanese Aesthetics: A Reader*, Honolulu: University of Hawai‘i Press.
+
+[^miller-2011]: Miller, Mara, 2011, “Japanese Aesthetics and Philosophy of Art,” in J.L. Garfield and W. Edelglass (eds.), *The Oxford Handbook of World Philosophy*, New York: Oxford University Press, pp. 317–333.
+
+[^miller-2020]: Miller, Mara and Yamasaki Kōji, 2020, “Japanese (and Ainu) Aesthetics and Philosophy of Art,” in B.W. Davis (ed.), *The Oxford Handbook of Japanese Philosophy*, New York: Oxford University Press, pp. 735–754.
+
+[^mccullough-1988]: McCullough, Helen C. (trans.), 1988, *The Tale of the Heike*, Stanford: Stanford University Press.
+
+[^nara-2004]: Nara, Hiroshi, 2004, *The Structure of Detachment: The Aesthetic Vision of Kuki Shūzō* (with a translation of *Iki no kōzō*), Honolulu: University of Hawai‘i Press.
+
+[^nguyen-2018]: Nguyen, A. Minh (ed.), 2018, *New Essays in Japanese Aesthetics*, Lanham & London: Lexington Books.
+
+[^nishida-1992]: Nishida, Kitarō, 1992, *An Inquiry into the Good*, New Haven: Yale University Press.
+
+[^nishitani-1995]: Nishitani, Keiji, 1995, “The Japanese Art of Arranged Flowers,” Jeff Shore (trans.), in Robert C. Solomon and Kathleen M. Higgins (eds.), *World Philosophy: A Text with Readings*, New York: McGraw Hill.
+
+[^odin-2001]: Odin, Steve, 2001, *Artistic Detachment in Japan and the West: Psychic Distance in Comparative Aesthetics*, Honolulu: University of Hawai‘i Press.
+
+[^ohashi-1986]: Ohashi, Ryōsuke, 1986, 「切れ」の構造：日本美と現代世界 (*“Kire” no Kōzō: Nihonbi to Gendai Sekai*), Tōkyō: Chūō Kōronsha.
+
+[^ohashi-1998]: –––, 1998, “Kire and Iki,” Graham Parkes (trans.), in Michael Kelly (ed.), *The Encyclopedia of Aesthetics*, New York: Oxford University Press, 2: 553–55.
+
+[^ohashi-2014]: –––, 2014, *Kire: Das Schöne in Japan*, Paderborn: Fink.
+
+[^ryōsuke-2022]: Ōhashi, Ryōsuke, Rolf Elberfeld, and Leon Krings, 2022, *Blumenspiegel*: *Ein Grundlagentext Zur Praxis Und Ästhetik Des Japanischen Nō-Theaters*, Paderborn: Brill.
+
+[^parkes-1995]: Parkes, Graham, 1995, “Ways of Japanese Thinking,” in Hume (1995), 77–108.
+
 [^parkes-1997]: –––, 1997, review of Leslie Pincus, *Authenticating Culture in Imperial Japan: Kuki Shūzō and the Rise of National Aesthetics*, in *Chanoyu Quarterly*, 86: 63–70.
 
+[^parkes-2000]: –––, 2000, “The Role of Rock in the Japanese Dry Landscape Garden: A Philosophical Essay,” in Berthier (2000), 85–155.
+
 [^parkes-2007]: –––, 2007, “The Definite Internationalism of the Kyoto School,” in Christopher Goto-Jones (ed.), *The Political Philosophy of the Kyoto School*, London and New York: Routledge, 161–182.
+
+[^rimer-1984]: Rimer, J. Thomas and Yamazaki Masakazu (trans.), 1984, *On the Art of the Nō Drama: The Major Treatises of Zeami*, Princeton: Princeton University Press.
+
+[^saito-2007]: Saito, Yuriko, 2007, *Everyday Aesthetics*, Oxford, New York: Oxford University Press.
+
+[^sen-1998]: Sen Sōshitsu, 1998, *The Japanese Way of Tea: From its Origins in China to Sen Rikyū*, Honolulu: University of Hawai’i Press.
+
+[^slusser-2003]: Slusser, Dale, 2003, “The Transformation of Tea Practice in Sixteenth-Century Japan,” in Morgan Pitelka (ed.), *Japanese Tea Culture: Art, History and Practice*, London and New York: Routledge, 39–60.
+
+[^suzuki-2019]: Suzuki, D.T., 2019, *Zen and Japanese Culture*, R.M. Jaffe (trans.), New Jersey: Princeton University Press.
+
+[^tanizaki-1977]: Tanizaki, Jun’ichirō, 1977, *In Praise of Shadows*, Thomas J. Harper and Edward G. Seidensticker (trans.), New Haven: Leete’s Island Books.

@@ -37,6 +37,7 @@ EXCLUDE_PREFIX = ('en/', 'html/', 'specs/', '.zcode/', 'node_modules/')
 ALLOW_FILES = {
     # 日文书名「切れ」の構造：日文正字法，改成弯引号即失真（ADR-0011）
     'j/japanese-aesthetics.md',
+    'zh/j/japanese-aesthetics.md',
 }
 
 

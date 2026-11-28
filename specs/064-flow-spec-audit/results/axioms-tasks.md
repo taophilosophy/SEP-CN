@@ -664,3 +664,14 @@
 | TA7–TA8 | 工作包 38；原子项 130；0 处预写门禁号／ADR 号 | 通过 |
 
 **rev99 说明**：T247 完成并勾选，勾选 89→90、未开始 79→78；§8–§10 新增 29 块、账本 81→110 段、全件 13,233 汉字；25 图 alt 中文化；新增 4 条术语与 3 条脚注定义；登记册日文书名去直角引号以过全库总检；check_style／quotes／math_zh／terms 0、academic 无硬错误、pairs hard 0（out_of_scope 1）；prose 48 条留 T249。
+
+## 94 rev100 复核（T248 tr-02 全量完成；计数 168）
+
+| 项 | 复算 | 结论 |
+| ---- | ---- | ---- |
+| TA1–TA3 | 168 定义、0 重复、0 悬空；16 分区和 168 | 通过 |
+| TA4–TA5 | 验收 168/168；Kahn 168/168 | 通过 |
+| TA6 状态一致 | 勾选 91（新增 T248）；容器 T138／T140／T142／T144／T154／T155／T156／T157／T158／T159 未勾；japanese-aesthetics `tr-02_checked` | 通过 |
+| TA7–TA8 | 工作包 38；原子项 130；0 处预写门禁号／ADR 号 | 通过 |
+
+**rev100 说明**：T248 完成并勾选，勾选 90→91、未开始 78→77；尾节＋致谢＋44 脚注＋6 补充子文档入库；账本 110→120 段、主文件 13,509 汉字；33 幅大图复制入 assets（33→66），dangling 33→0；`check_quotes` 的 ALLOW_FILES 补 `zh/j/japanese-aesthetics.md`；check_style／quotes／math_zh／terms 0、academic 无硬错误、pairs 0、check_all 23/23；japanese-aesthetics 推进 `tr-02_checked`。
