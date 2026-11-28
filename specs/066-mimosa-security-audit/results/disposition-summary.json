@@ -1,0 +1,30 @@
+{
+  "total": 2353,
+  "byDisposition": {
+    "OUT_OF_SCOPE_LOCAL": 2096,
+    "FP_NON_SECURITY_RANDOM": 1,
+    "OUT_OF_SCOPE_VENDOR": 20,
+    "FP_ENTRY_SUMMARY": 26,
+    "ACCEPTED_TRUSTED_PATH": 165,
+    "FP_SCANNER_SYMBOL": 24,
+    "FP_FIXED_PATH": 9,
+    "FP_DEAD_CODE": 1,
+    "FIXED_PATH_CONTAINMENT": 2,
+    "FP_FIXED_HOST": 6,
+    "FIXED_SCHEME_CHECK": 2,
+    "FIXED_FETCH_ALLOWLIST": 1
+  },
+  "bySeverity": {
+    "high": 1550,
+    "low": 5,
+    "medium": 798
+  },
+  "byScope": {
+    "local-script": 1104,
+    "local-chrome-profile": 940,
+    "tracked": 237,
+    "vendor-mathjax": 20,
+    "local-state": 52
+  },
+  "needsManual": []
+}

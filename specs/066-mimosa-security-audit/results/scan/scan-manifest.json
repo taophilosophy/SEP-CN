@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "mimosa-security-scan-manifest/v1",
+  "scanId": "scan-2026-11-28T10-39-14.673Z-fa8d19675d8e",
+  "createdAt": "2026-11-28T10:39:14.673Z",
+  "producer": {
+    "name": "mimosa",
+    "version": "0.1.0"
+  },
+  "target": {
+    "kind": "repository",
+    "projectId": "project:7fc3b2c8143ae179fdca4866",
+    "depth": "deep"
+  },
+  "runStatus": "inconclusive",
+  "verdictEffect": "none",
+  "semanticArtifacts": {
+    "manifest": "scan-manifest.json",
+    "findings": "findings.json",
+    "coverage": "coverage.json"
+  },
+  "projections": {
+    "report": "report.md"
+  }
+}

@@ -31,9 +31,7 @@ from tools.register_lib import norm_key_quote, person_path  # noqa: E402
 RES = os.path.join(ROOT, 'specs', '058-term-full-reextraction', 'results')
 MISSING = os.path.join(ROOT, 'specs', '013-person-attribution', 'results',
                        'person-missing.txt')
-CTX = ssl.create_default_context()
-CTX.check_hostname = False
-CTX.verify_mode = ssl.CERT_NONE
+CTX = ssl.create_default_context()  # 默认证书/主机名校验（2026-11-28 安全审计）
 OP = urllib.request.build_opener(
     urllib.request.ProxyHandler({'http': 'http://127.0.0.1:7890',
                                  'https': 'http://127.0.0.1:7890'}),

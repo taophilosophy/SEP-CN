@@ -227,6 +227,8 @@ def _net_check(external, out, refresh=False):
     dead = []
     checked = 0
     for url in sorted(set(external)):
+        if not url.lower().startswith(("http://", "https://")):
+            continue  # 只检查 http(s)；mailto/javascript/file 等不是网络链接
         rec = cache.get(url)
         if rec and not refresh:
             status = rec.get("status")

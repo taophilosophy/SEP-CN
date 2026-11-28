@@ -52,10 +52,9 @@ WIKI = '维基'
 
 
 def _ctx():
-    c = ssl.create_default_context()
-    c.check_hostname = False
-    c.verify_mode = ssl.CERT_NONE
-    return c
+    # 默认证书与主机名校验：JWT 走此 TLS 通道，关闭校验会扩大令牌被中间人截获的面。
+    # 2026-11-28 安全审计实测 api.termonline.cn 证书链可用默认上下文通过。
+    return ssl.create_default_context()
 
 
 def _get(url, jwt, ctx, timeout=20):

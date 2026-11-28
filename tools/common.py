@@ -44,6 +44,23 @@ def repo_path(*parts):
     return os.path.join(ROOT, *parts)
 
 
+def contained_path(base, *parts):
+    """把 parts 约束在 base 内，越界抛 ValueError。
+
+    上游 HTML 的图片/补充材料相对路径是外部输入；直接 os.path.join 落盘会被
+    `../` 或绝对路径带出词条包目录。所有"包内资产"落盘一律经此校验。
+    """
+    base_real = os.path.realpath(base)
+    dest = os.path.realpath(os.path.join(base_real, *parts))
+    try:
+        inside = os.path.commonpath([base_real, dest]) == base_real
+    except ValueError:  # Windows 跨盘符
+        inside = False
+    if not inside:
+        raise ValueError("路径越界：%r 不在 %r 内" % (parts, base))
+    return dest
+
+
 def utcnow_iso():
     return datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 

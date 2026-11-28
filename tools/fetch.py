@@ -13,6 +13,7 @@ import json
 import threading
 import time
 import urllib.error
+import urllib.parse
 import urllib.request
 
 from tools.common import http_log_path, sha256_bytes
@@ -22,6 +23,8 @@ def _now_ms():
     return datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.%f")[:-3] + "Z"
 
 BASE = "https://plato.stanford.edu"
+ALLOWED_SCHEMES = ("http", "https")
+ALLOWED_HOSTS = frozenset({"plato.stanford.edu", "www.plato.stanford.edu"})
 UA = "SEP-CN-translation-pipeline/0.1 (GitBook community project; contact via github.com/taophilosophy/SEP-CN)"
 
 # 退避基数（秒）：第 n 次重试前睡 BACKOFF_S * 2**n。属重试策略，非请求间隔。
@@ -44,10 +47,11 @@ def get(url, dest=None, retries=3, timeout=60):
     静默跳过——宪法 V）。成功与失败都写 script/http-log.jsonl。
     """
     last_err = None
+    _validate_url(url)
     for attempt in range(retries + 1):
         try:
             req = urllib.request.Request(url, headers={"User-Agent": UA})
-            with urllib.request.urlopen(req, timeout=timeout) as resp:
+            with _OPENER.open(req, timeout=timeout) as resp:
                 data = resp.read()
                 status = resp.status
             if dest:
@@ -84,3 +88,23 @@ class FetchError(Exception):
         super().__init__("fetch failed: %s (status=%s): %s" % (url, status, detail))
         self.url = url
         self.status = status
+
+
+def _validate_url(url):
+    """抓取白名单：只允许 http/https 与 SEP 主机，防止目录/词条数据诱导 SSRF。"""
+    parts = urllib.parse.urlsplit(url)
+    host = (parts.hostname or "").lower()
+    if parts.scheme not in ALLOWED_SCHEMES or host not in ALLOWED_HOSTS:
+        raise FetchError(url, None,
+                         "URL 不在抓取白名单（仅 http/https + plato.stanford.edu）")
+
+
+class _SafeRedirect(urllib.request.HTTPRedirectHandler):
+    """重定向目标同样过白名单，避免首跳合法、二跳转向内网。"""
+
+    def redirect_request(self, req, fp, code, msg, headers, newurl):
+        _validate_url(newurl)
+        return super().redirect_request(req, fp, code, msg, headers, newurl)
+
+
+_OPENER = urllib.request.build_opener(_SafeRedirect())
