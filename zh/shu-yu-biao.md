@@ -12,6 +12,7 @@
 ## A
 
 | Ajari | 阿闍梨 | 阿阇梨 | kokugaku-school | 真言宗汉语传统（高僧位阶）；学界通行 | 2026-11-28 |
+| Amaterasu | 天照 | 天照大神 | kokugaku-school | 学界通行；日本神话太阳神 | 2026-11-28 |
 | bisimilar | — | 互模拟的 | logic-dynamic | 学界惯例（模态逻辑通行（与 bisimulation 互模拟同族））；凭证 2026-11-27 | 2026-11-27 |
 | composition | — | 复合 | logic-dynamic | 学界惯例（程序构造通行（sequential composition 顺序复合））；凭证 2026-11-27 | 2026-11-27 |
 | converse (program) | — | 逆 | logic-dynamic | 学界惯例（程序逻辑义；与 converse 逆命题（传统逻辑）分列，撞形豁免）；凭证 2026-11-27 | 2026-11-27 |
@@ -2433,6 +2434,7 @@
 | endurantism | — | 持存论 | ontology-is | 学界惯例；形而上学通行（与 perdurantism 持续论 对举）；凭证 2026-11-11；FLAG 裁定 2026-11-21：与 endurance＝持存、perdurantism 持续论 对举；族内统一为持存 | 2026-11-21 |
 | energy density | — | 能量密度 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·医学·普通外科学·代谢与营养，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | engaged object('jug yul) | — | 趣入境（'jug yul） | epistemology-language-tibetan | 藏传量论通译；原文列：工具书查无原生文字（2026-11-20 检 wisdomlib／GND／BDRC／84000／Logeion，均无“转写↔原生文字”显式配对，部分源不可达；映射表推演禁用，ADR-0030）；键形归一 2026-11-21：全角括注／斜线改半角（键须为源语形）；旧键 engaged object（'jug yul） | 2026-11-21 |
+| Engishiki norito kai jo | 延喜式祝詞解叙 | 《延喜式祝词解叙》 | kokugaku-school | 贺茂真渊著作；书名汉字 | 2026-11-28 |
 | enhypostaton / enhypostata | — | 内寓者（寄寓他物而存者） | john-italos | 基督论与中世纪哲学通行（与 anhypostaton 对举）；审定库无相关命中（termonline-all 凭证 2026-11-09；2026-11-26 界面精确匹配复核：0 条）| 2026-11-26 |
 | Enlightenment | — | 启蒙（时代名，视语境亦作“启蒙运动”） | 18thGerman-preKant | 学界通行汉译；审定名词库（世界历史名词 03.0451，2012）作“启蒙运动”，与本行“启蒙”＋括注一致（2026-11-24 JWT 直连，凭证 termonline-b4-2026-11-24.tsv） | 2026-11-05 |
 | Enjo | 炎上 | 《炎上》 | japanese-aesthetics | 学界惯例（市川崑电影，汉译片名照录）；凭证 2026-11-28 | 2026-11-28 |
@@ -4303,9 +4305,12 @@
 | Kochen-Specker theorem | — | 科亨-施佩克尔定理 | quantum-bayesian | 沿词条 k/kochen-specker 定名（H1 同形）；凭证 2026-11-12 | 2026-11-12 |
 | koinai ennoiai (common notions) | κοιναὶ ἔννοιαι | 共同观念（首现括注原文） | olympiodorus | 新柏拉图主义认识论术语（亦作常识）；Tarrant 英译 common notions；凭证 2026-11-08；删亦作“常识”（与他行主译撞形，2026-11-21 撞形处置） | 2026-11-21 |
 | Kojiki | — | 《古事记》 | 语料回收（specs/058 全库提取） | 周作人译，上海人民出版社 2015-08（2001 中国对外翻译出版公司初版，苦雨斋译丛，ISBN 9787500107941）（2026-11-24 语料核对，凭证 works-batch28-2026-11-24.md） | 2026-11-24 |
+| Kojiki-den | 古事記伝 | 《古事记传》 | kokugaku-school | 本居宣长著作；书名汉字 | 2026-11-28 |
+| kokoro | 心 | 心 | kokugaku-school | 学界通行；日本思想语境 | 2026-11-28 |
 | kokugaku | 国学 | 国学（日本本土研究传统） | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
 | Kokugakuin | 國學院 | 国学院大学 | kokugaku-school | 学界通行；校名汉译 | 2026-11-28 |
 | Kokugakusha | 国学者 | 国学者 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
+| Kokui kō | 国意考 | 《国意考》 | kokugaku-school | 贺茂真渊著作；书名汉字 | 2026-11-28 |
 | kokutai | 国体 | 国体 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
 | Kolmogorov complexity | — | 柯尔莫哥洛夫复杂性 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·自然辩证法·科学哲学·分支科学哲学·数学哲学，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | Kong Congzi | 孔叢子 | 《孔丛子》 | han-dynasty | 学界通行学名 | 2026-11-10 |
@@ -4325,6 +4330,7 @@
 | Kuriai Doxai (Principal Doctrines) | Κύριαι Δόξαι |《主要学说》（亦作“主要原理”）| epicurus | 本词条译名（通行亦作“主要原理”“基本要义”） | 2026-11-12 |
 | kuzah | كوزه | 陶壶 | umar-khayyam | 随文义译（《鲁拜集》意象，波斯语 jug） | 2026-11-14 |
 | Kuzari | — | 《库扎里》 | 语料回收（specs/058 全库提取） | 权威译本／学界通行（学界通行（犹太学文献通行音译；未见中译本，语料 39 处一致）；2026-11-24 联网核对，凭证 works-batch19-2026-11-24.md） | 2026-11-24 |
+| Kuzubana | 葛花 | 《葛花》 | kokugaku-school | 本居宣长著作；书名汉字 | 2026-11-28 |
 | Kyoto School | — | 京都学派 | 语料回收（specs/058 全库提取） | 学界通行（吴汝钧《绝对无的哲学：京都学派哲学导论》，台湾商务印书馆 1998；《绝对无诠释学：京都学派的批判性研究》，学生书局 2012；语料 6 处一致）（2026-11-24 联网／语料核对，凭证 pool-harvest-b3-2026-11-24.md） | 2026-11-24 |
 | kyūdō | 弓道 | 弓道 | japanese-aesthetics | 学界惯例（日本武道研究通行译法“弓道”） | 2026-11-02 |
 
@@ -5013,6 +5019,7 @@
 | mixed syllogisms | — | 混合三段论 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | mixed trait | — | 混合特质 | justice-moral-psych | Miller 术语（Mixed Trait approach 混合特质进路）；凭证 2026-11-10 | 2026-11-10 |
 | mixture | — | 混合 | qt-entangle | 审定名词库（物理学名词 mixed state 之简称）；凭证 2026-11-09；撞形改定 2026-11-21：混合态归 mixed state（审定）；mixture 取混合 | 2026-11-21 |
+| miyabiyaka | 雅びやか | 雅 | kokugaku-school | 学界通行；日本美学用语 | 2026-11-28 |
 | modal abstraction | — | 样态抽象 | john-norris | 诺里斯术语（abstractio per modum）；样态=modus | 2026-11-07 |
 | modal analysis | — | 模态分析 | 语料回收（标题词） | 学界惯例（能力哲学通行（与条件分析相对））；凭证 2026-11-01 | 2026-11-01 |
 | modal base | — | 模态基 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
@@ -5258,6 +5265,7 @@
 | musical understanding | — | 音乐理解 | music | 学界通行；凭证 2026-11-09 | 2026-11-09 |
 | musical work | — | 音乐作品 | music | 学界通行；凭证 2026-11-09；审定名词库（termonline-all·编辑与出版学名词 08.02.004，2022）作“音乐作品”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b8-2026-11-24.tsv） | 2026-11-09 |
 | Must We Burn Sade | — | 《要焚毁萨德吗》 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库无相关命中（termonline-all 凭证 2026-11-13；2026-11-26 界面精确匹配复核：0 条） | 2026-11-26 |
+| Musubi | 産霊 | 产灵（结） | kokugaku-school | 日本神话创造神；学界通行 | 2026-11-28 |
 | mutaḥayyiz | متحيز | 空间延展的 | ibn-taymiyya | 首译（与 taḥayyuz 同族；正文随文译） | 2026-11-12 |
 | mutakallimūn | مُتَكَلِّمُون | 凯拉姆学者（亦作“教义学家”） | 语料回收 | 学界惯例（伊斯兰哲学）；审定库无相关命中（凭证 2026-10-31；2026-11-26 界面精确匹配复核：0 条）；审定库精确查无（凭证 2026-10-31） | 2026-11-26 |
 | mutakhayyila | متخیلة | 想象力（阿维森纳 cogitative 官能；与 takhayyul 想象官能相区分） | arabic-islamic-phil-math | 译名裁定（Black 2013 cogitative power 语境） | 2026-11-08 |
@@ -7533,6 +7541,7 @@
 | Shiji | 史記 | 《史记》 | 术语会话种子（ADR-0011） | 学界通行学名 | 2026-10-28 |
 | Shijing | 《诗经》 | 《诗经》 | zhu-xi 首译 | 书名体例；凭证 2026-11-15 | 2026-11-15 |
 | shimandara | 四種曼荼羅 | 四种曼荼罗 | kukai | 真言宗汉语传统（空海四种曼荼罗判分） | 2026-11-09 |
+| Shin Kokinshū | 新古今集 | 《新古今和歌集》 | kokugaku-school | 学界通行；敕撰和歌集 | 2026-11-28 |
 | Shingon | 真言 | 真言宗 | kokugaku-school | 真言宗汉语传统（Shingon Buddhism） | 2026-11-28 |
 | shingon / mantra | 眞言 | 真言；真言密教（Shingon Buddhism） | kukai | 真言宗汉语传统（mantra 日读 shingon）；凭证 2026-11-09 | 2026-11-09 |
 | shinkoku | 神国 | 神国 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
@@ -8214,6 +8223,7 @@
 | taklīf | تکلیف | 义务（taklīf 诫命义） | umar-khayyam | 本条作者英译 obligation；伊斯兰教义学语境（mukallaf 受责成者同根）；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
 | talking stick | — | 发言棒 | s/social-procedures 首译 | 构词直译（北美原住民议事习俗）；凭证 2026-11-07 | 2026-11-07 |
 | Talmud | — | 塔木德 | delmedigo | 学界通行（犹太教经典定译） | 2026-11-06 |
+| Tama no ogushi | 玉の小櫛 | 《源氏物语玉之小栉》 | kokugaku-school | 本居宣长著作；学界通行（亦作《玉之小栉》） | 2026-11-28 |
 | Tamhīdāt | — | 《铺路集》 | 语料回收（specs/058 全库提取） | 本库译名（艾因·古达特波斯语杰作，1127；英译选本见 Rustom 2023；语料 34 处一致；池 held 项随之解禁）（2026-11-24 联网／语料核对，凭证 works-batch25-2026-11-24.md） | 2026-11-24 |
 | tamthīl | تمثيل | 比附 | ibn-taymiyya | 首译（与 tashbīh 同化近义；与 tanzīh 不可比拟对举） | 2026-11-12 |
 | tanāsukh | تناسخ | 灵魂转世 | umar-khayyam | 学界惯例；伊斯兰研究通行义译（与 metemsomatosis 灵魂转生 行同义异键） | 2026-11-14 |
@@ -8293,6 +8303,7 @@
 | tenacity | — | 黏着性 | newton-principia | 学界惯例；牛顿流体力学通行（与黏滞性分列）；凭证 2026-11-11 | 2026-11-11 |
 | tendency (Tendenz) | — | 趋势 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | tendency to competence | — | 胜任倾向 | jury-theorems | 学界惯例（本词条定名）；凭据 2026-11-02 | 2026-11-02 |
+| tennō | 天皇 | 天皇 | kokugaku-school | 学界通行；日本君主称号 | 2026-11-28 |
 | Tense | — | 时态 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库不一致（termonline-all 凭证 2026-11-13）| 2026-11-13 |
 | tensor field | — | 张量场 | geometry-19th.supplement | 数学/几何学界通行译名；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
 | tensor product | — | 张量积 | qm | 审定名词库（数学名词 04.0859）；凭证 2026-11-10 | 2026-11-11 |
@@ -9050,6 +9061,7 @@
 | warrant | — | 保证（普兰丁格认识论语境；勿译“担保”） | 词汇表复核 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29） | 2026-10-27 |
 | Was heißt: sich im Denken orientiren? | Was heißt: sich im Denken orientiren? | 《什么叫做在思维中定向？》 | 语料回收（specs/058 全库提取） | 本库译名（康德著，1786；语料 7 处一致）（2026-11-24 语料核对，凭证 works-batch31-2026-11-24.md）；2026-11-25 原文列补录：键即源语言原题（拉丁字母书写，无转写层），原文列＝键形 | 2026-11-25 |
 | wave function | — | 波函数 | qm | 学界惯例（物理学通行；审定库检索无命中）；凭证 2026-11-11 | 2026-11-11 |
+| waza | 技 | 技 | kokugaku-school | 学界通行；日本艺道语境 | 2026-11-28 |
 | weak anthropic principle | — | 弱人择原理（审定只收“人择原理”） | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | weak completeness | — | 弱完全性 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | weak continuity axiom | — | 弱连续性公理 | 首现（intuitionism） | 直觉主义分析学术语；凭证 2026-11-10 | 2026-11-10 |
@@ -9210,6 +9222,7 @@
 | Yogaśāstra (Hemacandra) | — | 《瑜伽论》 | jaina-philosophy | 既有作者行已立形（Hemacandra 行）；简称 YŚ | 2026-11-25 |
 | yogic perception | — | 瑜伽知觉 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | yogyatā | योग्यता | 语义适切（义适） | early-modern-india | 学界惯例；弥曼差/正理语义学通行义译（semantic fitness）；凭证 2026-11-10；正文取“语义适切”，因明旧译“义适”备查（校 2026-11-11） | 2026-11-10 |
+| Yomi | 黄泉 | 黄泉 | kokugaku-school | 学界通行；日本神话死后世界 | 2026-11-28 |
 | Yoruba | — | 约鲁巴语 | 首译（african-ethics） | 民族语言通行音译（尼日利亚 Yoruba；人作“约鲁巴人”）；凭证 2026-11-09 | 2026-11-09 |
 | yuanqi | 元气 | 元气（primordial qi 元气） | zhu-xi 首译 | 学界通行（汉代宇宙论通名；汉字回译）；凭证 2026-11-15 | 2026-11-15 |
 | Yueling | 月令 | 《月令》 | chinese-phil-science | 学界通行；凭证 2026-11-07 | 2026-11-07 |

@@ -1,9 +1,9 @@
 version: 1
 slug: kokugaku-school
 params:
-  model: "DeepSeek-V4.1-Flash（Trae 主会话；T252 样章）"
+  model: "DeepSeek-V4.1-Flash（Trae 主会话；T252 样章＋T253 §3）"
   temperature: 0.2
-  batch_segments: sample
+  batch_segments: sample-plus-s3
   rate_limit_s: 0
   timeout_s: 60
 segments:
@@ -183,3 +183,279 @@ segments:
       1736 年春满去世后，本土研究的中心从京都转移到江户；在江户，春满的学问已由其养子荷田在满（1706—1751）承接。随后，春满的另一位学生贺茂真渊也来到江户与在满会合；真渊的代表作将是对《万叶集》的全面研究，以及力图从中发掘出一种被认为编码于其诗行之中的纯正古代本土之道。
     step2: |-
       1736 年春满去世后，本土研究的中心从京都转移到江户；在江户，春满的学问已由其养子荷田在满（1706—1751）承接。随后，春满的另一位学生贺茂真渊也来到江户与在满会合；真渊的代表作将是对《万叶集》的全面研究，以及力图从中发掘出一种被认为编码于其诗行之中的纯正古代本土之道。
+  - id: 23
+    kind: heading
+    source: |-
+      ## 3. Philological Kokugaku
+    step1: |-
+      ## 3. 文献学国学
+    step2: |-
+      ## 3. 文献学国学
+  - id: 24
+    kind: heading
+    source: |-
+      ### 3.1 Kamo no Mabuchi 1697–1769
+    step1: |-
+      ### 3.1 贺茂真渊（1697—1769）
+    step2: |-
+      ### 3.1 贺茂真渊（1697—1769）
+  - id: 25
+    kind: body
+    source: |-
+      Mabuchi was raised in Hamamatsu along the roadway linking Kyoto and Edo. Taught to read by Kada no Azumamaro’s niece, he developed an early interest in Shinto and *waka*, which would become for him an escapist passion. In 1728 he registered in Azumamaro’s school and moved there for full time study in 1733, which is where he received his introduction to the *Man’yōshū* including Keichū’s commentary and the full range of Kokugaku topics taught there.
+    step1: |-
+      真渊在滨松长大，此地坐落在连接京都与江户的驿道上。荷田春满的侄女教他读书，他由此早年即对神道与和歌产生兴趣，这种兴趣后来成为他逃避现实的热情所在。1728 年，他入春满的学堂就读，1733 年迁往该处专心研习；正是在那里，他初次接触到《万叶集》，包括契冲的注释以及学堂所授的全套国学题目。
+    step2: |-
+      真渊在滨松长大，此地坐落在连接京都与江户的驿道上。荷田春满的侄女教他读书，他由此早年即对神道与和歌产生兴趣，这种兴趣后来成为他逃避现实的热情所在。1728 年，他入春满的学堂就读，1733 年迁往该处专心研习；正是在那里，他初次接触到《万叶集》，包括契冲的注释以及学堂所授的全套国学题目。
+  - id: 26
+    kind: body
+    source: |-
+      Mabuchi moved to Edo in 1737 and in 1746 replaced Kada Arimaro as the authority on Japanese studies in service to Tayasu Munetake, the younger brother of the feeble regnant shogun, a position Mabuchi retained until 1760. Mabuchi produced essays on a range of topics, but the focus of his study during these years was a philological analysis of the *Man’yōshū* through which he believed one could learn the words and spirit (*kokoro*) of Japan before these were Sinified and thereby corrupted during the Nara period of the eighth century. Mabuchi depicted the Japan of the *Man’yōshū* as a natural arcadia ruled by the descendants of the *kami* who governed in accordance with a Way (*michi*) that conformed to the natural rhythms and dictates of nature (literally, “heaven and earth”) itself:
+    step1: |-
+      1737 年，真渊迁往江户；1746 年，他接替荷田在满，成为侍奉田安宗武的日本研究权威。田安宗武是体弱多病的在位将军之弟。真渊担任此职直至 1760 年。真渊就一系列题目撰写文章，但这些年的研究重点是对《万叶集》的文献学分析；他相信，通过这种分析，人们可以了解日本在被汉化、并因而在 8 世纪奈良时期腐化之前的语言与精神（kokoro）。真渊把《万叶集》中的日本描绘为一个自然的乐园，由神（kami）的后裔统治；这些神的后裔依照一种顺应自然（字面意为“天地”）节律与指令的道（michi）来治理：
+    step2: |-
+      1737 年，真渊迁往江户；1746 年，他接替荷田在满，成为侍奉田安宗武的日本研究权威。田安宗武是体弱多病的在位将军之弟。真渊担任此职直至 1760 年。真渊就一系列题目撰写文章，但这些年的研究重点是对《万叶集》的文献学分析；他相信，通过这种分析，人们可以了解日本在被汉化、并因而在 8 世纪奈良时期腐化之前的语言与精神（kokoro）。真渊把《万叶集》中的日本描绘为一个自然的乐园，由神（kami）的后裔统治；这些神的后裔依照一种顺应自然（字面意为“天地”）节律与指令的道（michi）来治理：
+  - id: 27
+    kind: quote
+    source: |-
+      > From the time when the imperial court was at Ōtsu in Ōmi through the period of the Fujiwara court at Yamato, grand august government filled the heavens and reached to every nook and cranny of the earth; and thanks to this glorious tranquility, literary expression was blessed with beauty and elegance. (*Engishiki norito kai jo*, KKMZ:SH 1: 446 author translation)
+    step1: |-
+      > 自朝廷设于近江大津之时起，历经大和藤原氏朝廷时期，宏大的皇政充塞天地，遍及大地每一个角落；仰赖这光辉的太平，文章表达蒙受美与雅的恩泽。（《延喜式祝词解叙》，KKMZ:SH 1: 446，作者英译）
+    step2: |-
+      > 自朝廷设于近江大津之时起，历经大和藤原氏朝廷时期，宏大的皇政充塞天地，遍及大地每一个角落；仰赖这光辉的太平，文章表达蒙受美与雅的恩泽。（《延喜式祝词解叙》，KKMZ:SH 1: 446，作者英译）
+  - id: 28
+    kind: body
+    source: |-
+      Retirement from service to Munetake in 1760 made Mabuchi less prone to the charge of *lèse majesté*, and he was free to give rein to the implications of his earlier study. He began to describe his current age as one that had declined since ancient times because the old natural virtues had been crushed and catastrophically replaced by the artificial morals of China:
+    step1: |-
+      1760 年从宗武处退职后，真渊较不易被控大不敬，得以自由阐发先前研究的意涵。他开始把自己所处的时代描述为一个自古代以来已经衰败的时代，因为古老的自然德性已被粉碎，并被中国的人为道德灾难性地取代：
+    step2: |-
+      1760 年从宗武处退职后，真渊较不易被控大不敬，得以自由阐发先前研究的意涵。他开始把自己所处的时代描述为一个自古代以来已经衰败的时代，因为古老的自然德性已被粉碎，并被中国的人为道德灾难性地取代：
+  - id: 29
+    kind: quote
+    source: |-
+      > Ancient Japan was governed well in accordance with the spirit of heaven and earth, and there was none of this petty sophistry; but then suddenly when these convincing theories were imported from China, ancient men in their straightforward fashion took these theories as truth, and the theories spread far and wide…. [and no sooner were these theories introduced … than tremendous chaos erupted. (*Kokui kō*, SJTa: 406)
+    step1: |-
+      > 古代日本依循天地之精神而治理良好，并无这种琐碎的诡辩；然而后来，这些貌似有说服力的理论突然从中国输入，古人心思直率，便把这些理论当作真理，理论于是广为传播……。而这些理论一经引入……便爆发了巨大的混乱。（《国意考》，SJTa: 406）
+    step2: |-
+      > 古代日本依循天地之精神而治理良好，并无这种琐碎的诡辩；然而后来，这些貌似有说服力的理论突然从中国输入，古人心思直率，便把这些理论当作真理，理论于是广为传播……。而这些理论一经引入……便爆发了巨大的混乱。（《国意考》，SJTa: 406）
+  - id: 30
+    kind: body
+    source: |-
+      He taught that if one will advance to the stage of being able to recite the most ancient *Man’yōshū* verses aloud, one will be affected to the point where only one’s body remains mired in the here-and-now, as one’s language and heart (*kokoro*) are transported back to the ancient past. In the process one will spontaneously acquire the virtues of that past—truthfulness, directness, manliness, vitality, and native elegance—which were the antithesis of the notoriously corrupt political culture of his times. He also became virulently anti-Chinese, insisting that the absence of native Japanese words for the classic Confucian virtues was evidence that such teachings were unnecessary in ancient Japan when life enjoyed a morally and ethically untutored order rooted in its conformity to the natural rhythms of heaven and earth.
+    step1: |-
+      他教导说，人若能进到能够高声背诵《万叶集》最古老诗卷的阶段，就会受到影响：只有身体仍陷在此时此地，而语言与心（kokoro）则被带回古代。在此过程中，人会自发获得那个时代的德性——诚实、直率、刚健、活力与本土的优雅——这些德性与他那个时代声名狼藉的腐败政治文化恰成对照。他还采取激烈的反中国立场，坚持认为日语中缺乏表示儒家经典德性的本土词汇，这证明此类教说在古代日本并不必要，因为当时的生活享有植根于顺应天地自然节律、在道德与伦理上未经教化的秩序。
+    step2: |-
+      他教导说，人若能进到能够高声背诵《万叶集》最古老诗卷的阶段，就会受到影响：只有身体仍陷在此时此地，而语言与心（kokoro）则被带回古代。在此过程中，人会自发获得那个时代的德性——诚实、直率、刚健、活力与本土的优雅——这些德性与他那个时代声名狼藉的腐败政治文化恰成对照。他还采取激烈的反中国立场，坚持认为日语中缺乏表示儒家经典德性的本土词汇，这证明此类教说在古代日本并不必要，因为当时的生活享有植根于顺应天地自然节律、在道德与伦理上未经教化的秩序。
+  - id: 31
+    kind: body
+    source: |-
+      Mabuchi began lecturing to hundreds of students, many of whom would gather by the veranda of his home on the fringes of Edo. His was the first successful Kokugaku private academy—others would follow—and he was also a notorious antiquarian eccentric; years after his death in 1769, Mabuchi’s biography was the opening entry in Ban Kōkei’s celebrated 1790 study of contemporary eccentrics. Of his roughly three hundred students, none would achieve greater renown as a scholar of Kokugaku than Motoori Norinaga, who only met Mabuchi on one fateful evening in 1763 when Mabuchi stayed the night in Matsusaka on a tour of Japan.
+    step1: |-
+      真渊开始向数百名学生讲学，其中许多人聚集在江户边缘他家宅邸的檐廊旁。他的学堂是第一所成功的国学私立学堂——后来者继起——他本人也是声名在外的好古怪人；1769 年他去世多年后，伴蒿蹊 1790 年那部著名的当代畸人研究，开篇条目便是真渊的传记。在他约三百名学生中，后来作为国学者声名最盛者莫过于本居宣长；宣长只在 1763 年的一个命运攸关的夜晚见过真渊，当时真渊游历日本，在松阪过夜。
+    step2: |-
+      真渊开始向数百名学生讲学，其中许多人聚集在江户边缘他家宅邸的檐廊旁。他的学堂是第一所成功的国学私立学堂——后来者继起——他本人也是声名在外的好古怪人；1769 年他去世多年后，伴蒿蹊 1790 年那部著名的当代畸人研究，开篇条目便是真渊的传记。在他约三百名学生中，后来作为国学者声名最盛者莫过于本居宣长；宣长只在 1763 年的一个命运攸关的夜晚见过真渊，当时真渊游历日本，在松阪过夜。
+  - id: 32
+    kind: heading
+    source: |-
+      ### 3.2 Motoori Norinaga 1730–1801
+    step1: |-
+      ### 3.2 本居宣长（1730—1801）
+    step2: |-
+      ### 3.2 本居宣长（1730—1801）
+  - id: 33
+    kind: body
+    source: |-
+      Motoori Norinaga made pioneering and lasting contributions in all aspects of Kokugaku: he elevated literary criticism on *The Tale of Genji* to new heights, with an impact that endures into the present; his *magnum opus* was a philological analysis of and complete commentary on the 712 CE *Kojiki*, which was the last of Japan’s most ancient classics to be linguistically deciphered; and he used that analysis to construct a new form of Shinto, the *kami no michi* or Way of the *kami* (deities) that he claimed to be the original. Furthermore, his scholarship was known to Kyoto courtiers, and his counsel sought by daimyo. Remarkably Norinaga accomplished all this while spending almost his entire life in Matsusaka in the virtual shadow of the Ise Shrines.
+    step1: |-
+      本居宣长在国学的各个方面都作出了开创性而持久的贡献：他把《源氏物语》的文学批评提升到新高度，其影响延续至今；他的代表作是对公元 712 年《古事记》的文献学分析与完整注释，而《古事记》是日本最古老经典中最后一部在语言上得到解读的；他利用这一分析建构了一种新形式的神道，即“神之道”（kami no michi），或称诸神之道，并声称这才是原初之道。此外，他的学术为京都廷臣所知，大名也向他求教。值得注意的是，宣长几乎一生都在松阪度过，那里实际上处于伊势神宫的阴影之下，而他竟完成了这一切。
+    step2: |-
+      本居宣长在国学的各个方面都作出了开创性而持久的贡献：他把《源氏物语》的文学批评提升到新高度，其影响延续至今；他的代表作是对公元 712 年《古事记》的文献学分析与完整注释，而《古事记》是日本最古老经典中最后一部在语言上得到解读的；他利用这一分析建构了一种新形式的神道，即“神之道”（kami no michi），或称诸神之道，并声称这才是原初之道。此外，他的学术为京都廷臣所知，大名也向他求教。值得注意的是，宣长几乎一生都在松阪度过，那里实际上处于伊势神宫的阴影之下，而他竟完成了这一切。
+  - id: 34
+    kind: body
+    source: |-
+      Norinaga applied the concept of *mono no aware* (the sadness/pity of things) to *The Tale of Genji* as well as to the *waka* of the *Shin Kokinshū* poetry anthology, works that his teacher Mabuchi eschewed because of their alleged femininity and artifice in contrast to the *Man’yōshū*’s natural masculinity. Norinaga, by contrast, argued that *The Tale of Genji* realistically depicts how emotions profoundly infuse life’s major events, and how this contributed to the novel’s uncanny ability to inspire its readers to suspend didactic or moralistic interpretation and instead to enter emotionally into the tenth-century world that was its setting. From this perspective, when a character in *Genji* acts or emotes in a certain way, the reader is invited not to enquire into the Confucian moral or ethical propriety of the events depicted, but rather into whether the reader has ever shared the experience. This also overturned centuries of didactic Buddhist criticism of the novel on the grounds that it failed to praise good and condemn evil, and to show evil’s consequences. So Norinaga’s approach opened the door to a more modern literary criticism. In his words:
+    step1: |-
+      宣长把“物哀”（mono no aware，事物的哀愁／哀怜）概念应用于《源氏物语》，也应用于《新古今和歌集》中的和歌；这些作品曾为其师真渊所排斥，因为据称它们柔弱而矫饰，与《万叶集》自然的阳刚之气相对。与之相反，宣长主张，《源氏物语》真实地描绘了情感如何深刻地渗透人生重大事件，以及这如何造就这部小说那种不可思议的能力：它引导读者悬置说教式或道德化的解释，转而从情感上进入小说所设定的 10 世纪世界。由此看来，当《源氏物语》中的人物以某种方式行动或动情时，读者受邀追问的，不是所描绘事件在儒家道德或伦理上是否得当，而是读者自己是否也曾有过同样的体验。这也推翻了数百年来佛教对该小说的说教式批评——此类批评指责它不褒善、不贬恶，也不展示恶的后果。于是，宣长的进路为一种更为现代的文学批评打开了大门。用他的话说：
+    step2: |-
+      宣长把“物哀”（mono no aware，事物的哀愁／哀怜）概念应用于《源氏物语》，也应用于《新古今和歌集》中的和歌；这些作品曾为其师真渊所排斥，因为据称它们柔弱而矫饰，与《万叶集》自然的阳刚之气相对。与之相反，宣长主张，《源氏物语》真实地描绘了情感如何深刻地渗透人生重大事件，以及这如何造就这部小说那种不可思议的能力：它引导读者悬置说教式或道德化的解释，转而从情感上进入小说所设定的 10 世纪世界。由此看来，当《源氏物语》中的人物以某种方式行动或动情时，读者受邀追问的，不是所描绘事件在儒家道德或伦理上是否得当，而是读者自己是否也曾有过同样的体验。这也推翻了数百年来佛教对该小说的说教式批评——此类批评指责它不褒善、不贬恶，也不展示恶的后果。于是，宣长的进路为一种更为现代的文学批评打开了大门。用他的话说：
+  - id: 35
+    kind: quote
+    source: |-
+      > The novel is neither like the Buddhist Way… nor like the Confucian Way…. It is simply a tale of human life that leaves aside and does not profess to take up at all the questions of good and bad and that dwells only on the goodness of those who are aware of the sorrow of human existence. (*Tama no ogushi*, SJTa: 421)
+    step1: |-
+      > 这部小说既不像佛道……也不像儒道……。它只是一部关于人生的故事，搁置善恶问题，根本不声称要处理这些问题，只关注那些觉察人生悲哀者的善。（《源氏物语玉之小栉》，SJTa: 421）
+    step2: |-
+      > 这部小说既不像佛道……也不像儒道……。它只是一部关于人生的故事，搁置善恶问题，根本不声称要处理这些问题，只关注那些觉察人生悲哀者的善。（《源氏物语玉之小栉》，SJTa: 421）
+  - id: 36
+    kind: body
+    source: |-
+      In an analogous manner, Norinaga extolled the elegance and refinement (*miyabiyaka*) of the verses of *Shin Kokinshū*. This, he explained, was the consequence of its many poets’ ability to detach sufficiently from their individual circumstances so that through their artistry (*waza*) they could capture the essence of *mono no aware* in just thirty-one syllables. This appreciation of poetic sophistication also desanctified *waka* from the cosmological significance that Mabuchi had attached to the oldest Japanese verses.
+    step1: |-
+      与此类似，宣长盛赞《新古今和歌集》诗篇的优雅与洗练（miyabiyaka）。他解释说，这缘于其中众多诗人能够充分超脱个人境遇，从而通过其技艺（waza），在短短三十一个音节中捕捉物哀的精髓。这种对诗歌精妙的欣赏，也使和歌不再具有真渊赋予最古老日本诗篇的那种宇宙论意义。
+    step2: |-
+      与此类似，宣长盛赞《新古今和歌集》诗篇的优雅与洗练（miyabiyaka）。他解释说，这缘于其中众多诗人能够充分超脱个人境遇，从而通过其技艺（waza），在短短三十一个音节中捕捉物哀的精髓。这种对诗歌精妙的欣赏，也使和歌不再具有真渊赋予最古老日本诗篇的那种宇宙论意义。
+  - id: 37
+    kind: body
+    source: |-
+      Norinaga’s work on *Kojiki* formed the basis for his understanding of Japan’s Way of the *kami* (*kami no michi*, or in its Sino-Japanese reading *Shintō*). With his fundamentalist confidence in the text as a True Book (*makoto no fumi*) Norinaga argued that, as described in *Kojiki*, the native Way of Japan was a Way created not by humans like the imported Chinese Ways, but by the native *kami* who are ultimately responsible for all human action and activity. And, because of the centrality of *kami* to Norinaga’s thoughts on a native Japanese Way, Kokugaku has at times been referred to as a Shinto Revival.
+    step1: |-
+      宣长对《古事记》的研究，构成了他理解日本神之道（kami no michi，汉字读作“神道”，即 Shintō）的基础。他怀着对该文本作为“真书”（makoto no fumi）的原教旨式信心，主张如《古事记》所述，日本的本土之道并非像输入的中国诸道那样由人创造，而是由本土的神（kami）创造；这些神最终对一切人类行动与活动负责。由于神在宣长关于日本本土之道的思想中居于中心地位，国学有时被称为神道复兴。
+    step2: |-
+      宣长对《古事记》的研究，构成了他理解日本神之道（kami no michi，汉字读作“神道”，即 Shintō）的基础。他怀着对该文本作为“真书”（makoto no fumi）的原教旨式信心，主张如《古事记》所述，日本的本土之道并非像输入的中国诸道那样由人创造，而是由本土的神（kami）创造；这些神最终对一切人类行动与活动负责。由于神在宣长关于日本本土之道的思想中居于中心地位，国学有时被称为神道复兴。
+  - id: 38
+    kind: body
+    source: |-
+      Norinaga’s definition of the notoriously difficult term *kami* was more comprehensive than that of any of his predecessors in Kokugaku and has stood the test of time:
+    step1: |-
+      宣长对“神”（kami）这一公认难解的术语所下的定义，比国学中任何前辈的定义都更全面，并且经受住了时间的考验：
+    step2: |-
+      宣长对“神”（kami）这一公认难解的术语所下的定义，比国学中任何前辈的定义都更全面，并且经受住了时间的考验：
+  - id: 39
+    kind: quote
+    source: |-
+      > …the word *kami* signifies first the deities of heaven and earth who appear in the ancient records and the spirits of the shrines where they are worshiped. It is unnecessary to add that it includes birds and beasts, trees and plants, seas and mountains, and so forth. In ancient usage, anything whatsoever which was outside the ordinary, which possessed superior power or was awe-inspiriting was called *kami*…. Evil and mysterious things, if they are extraordinary and dreadful, are also called *kami*, and among human beings who are called *kami*, the successive generations of divine emperors are all included. (*Kojiki-den* adapted from Holtom, 1938, quoted in SJT, 2001, 18.)
+    step1: |-
+      > ……“神”一词，首先指古代记载中出现的天地之神，以及供奉他们的神社中的神灵。不言而喻，它也包括鸟兽、草木、山海等等。在古代用法中，凡是超出寻常、拥有优越力量或令人敬畏者，都称为神……。邪恶而神秘之物，若非凡而可怖，也称为神；在被称为神的人当中，历代神皇都包括在内。（《古事记传》，据 Holtom 1938 改编，转引自 SJT, 2001, 18）
+    step2: |-
+      > ……“神”一词，首先指古代记载中出现的天地之神，以及供奉他们的神社中的神灵。不言而喻，它也包括鸟兽、草木、山海等等。在古代用法中，凡是超出寻常、拥有优越力量或令人敬畏者，都称为神……。邪恶而神秘之物，若非凡而可怖，也称为神；在被称为神的人当中，历代神皇都包括在内。（《古事记传》，据 Holtom 1938 改编，转引自 SJT, 2001, 18）
+  - id: 40
+    kind: body
+    source: |-
+      In this *kami*-determined world, people are as varied as the “eight million” *kami*, who are themselves some good and some wicked:
+    step1: |-
+      在这个由神决定的世界里，人就像“八百万”神一样多种多样，而这些神本身也有的善、有的恶：
+    step2: |-
+      在这个由神决定的世界里，人就像“八百万”神一样多种多样，而这些神本身也有的善、有的恶：
+  - id: 41
+    kind: quote
+    source: |-
+      > The true heart (*magokoro*) is that heart with which one is born by virtue of the Musubi (creating) *kami*, and among true hearts some are wise and some clumsy, some are good and some bad…. Thus even the *kami* of the divine age were some good and some bad, for they all behaved in accordance with their individual true hearts. (*Kuzubana* {1968–1975: 8: 147]
+    step1: |-
+      > 真心（magokoro）是人凭借产灵（Musubi，创造）之神而与生俱来的心；真心之中，有的聪慧，有的愚钝，有的善，有的恶……。因此，就连神代的神也有的善、有的恶，因为他们都依照各自的真心行事。（《葛花》，1968—1975：8：147）
+    step2: |-
+      > 真心（magokoro）是人凭借产灵（Musubi，创造）之神而与生俱来的心；真心之中，有的聪慧，有的愚钝，有的善，有的恶……。因此，就连神代的神也有的善、有的恶，因为他们都依照各自的真心行事。（《葛花》，1968—1975：8：147）
+  - id: 42
+    kind: body
+    source: |-
+      This allowed for an acceptance of individual difference, but it also inhibited any doctrine of personal, moral and ethical responsibility.
+    step1: |-
+      这使人能够接受个体差异，但也妨碍了任何关于个人道德与伦理责任的理论。
+    step2: |-
+      这使人能够接受个体差异，但也妨碍了任何关于个人道德与伦理责任的理论。
+  - id: 43
+    kind: body
+    source: |-
+      Because of the all-pervasive influence of *kami* and the fact that the operations of the *kami* are beyond human ken, the world always retains a wondrous quality and is never fully knowable:
+    step1: |-
+      由于神的影响无处不在，且神的运作超出人的理解，世界始终保有奇妙的品质，永远无法被完全认知：
+    step2: |-
+      由于神的影响无处不在，且神的运作超出人的理解，世界始终保有奇妙的品质，永远无法被完全认知：
+  - id: 44
+    kind: quote
+    source: |-
+      > Consider the human body: It has eyes to see, ears to hear, a mouth to speak, feet to walk, and hands to do a thousand things. Are they not truly wonderful? Birds and insects fly in the sky, plants and trees bloom and bear fruit—they are all wonderful…. Thus the universe and all things therein are without a single exception strange and wondrous when examined carefully…. [And] one must acknowledge that human intelligence is puny while the acts of the *kami* are illimitable and wondrous. (*Kuzubana* {1968–1975: 8: 160]
+    step1: |-
+      > 试看人的身体：它有眼能看，有耳能听，有口能言，有足能行，有手能做千百件事。这难道不确实奇妙吗？鸟与昆虫在空中飞翔，草木开花结果——它们都奇妙……。因此，宇宙及其中万物，细加考察，无一例外不是奇异而奇妙的……。人必须承认，人的智力微薄，而神的行为无限而奇妙。（《葛花》，1968—1975：8：160）
+    step2: |-
+      > 试看人的身体：它有眼能看，有耳能听，有口能言，有足能行，有手能做千百件事。这难道不确实奇妙吗？鸟与昆虫在空中飞翔，草木开花结果——它们都奇妙……。因此，宇宙及其中万物，细加考察，无一例外不是奇异而奇妙的……。人必须承认，人的智力微薄，而神的行为无限而奇妙。（《葛花》，1968—1975：8：160）
+  - id: 45
+    kind: body
+    source: |-
+      All one can know with certainty, according to Norinaga, is what is recorded in the Divine Age chapters of *Kojiki*, and this text rendered the Divine Age proximate and no longer remote as it was for Mabuchi. One’s human responsibility is to act *kannagara*, i.e., in conformity to the wishes of the *kami*, and Norinaga cast the monarch (*tennō*) in Kyoto as the physical link in a metaphysical chain that connected the Japanese people with the solar deity Amaterasu. For Norinaga, Amaterasu was both sun goddess and the sun itself, and so the world as a whole owed a daily debt of gratitude to this quintessential Japanese deity for the very gift of solar warmth and light. Beyond this Norinaga claimed that on the basis of Japanese mythology, Japan was the primal source of all the world’s countries compounding the world’s obligation to Japan.
+    step1: |-
+      在宣长看来，人能够确知的一切，就是《古事记》神代卷所记载的内容；这一文本使神代变得切近，不再像真渊那里那样遥远。人的责任是“随神而行”（kannagara），即顺应神的意愿；宣长把京都的君主（天皇，tennō）设想为一条形而上学链条中的有形环节，这条链条把日本民族与太阳神天照大神（Amaterasu）连接起来。对宣长而言，天照大神既是太阳女神，也是太阳本身；因此整个世界每天都亏欠这位最典型的日本神祇一份感激，感谢她赐予太阳的温暖与光明。除此之外，宣长还主张，根据日本神话，日本是世界各国的最初源头，这又加重了世界对日本的亏欠。
+    step2: |-
+      在宣长看来，人能够确知的一切，就是《古事记》神代卷所记载的内容；这一文本使神代变得切近，不再像真渊那里那样遥远。人的责任是“随神而行”（kannagara），即顺应神的意愿；宣长把京都的君主（天皇，tennō）设想为一条形而上学链条中的有形环节，这条链条把日本民族与太阳神天照大神（Amaterasu）连接起来。对宣长而言，天照大神既是太阳女神，也是太阳本身；因此整个世界每天都亏欠这位最典型的日本神祇一份感激，感谢她赐予太阳的温暖与光明。除此之外，宣长还主张，根据日本神话，日本是世界各国的最初源头，这又加重了世界对日本的亏欠。
+  - id: 46
+    kind: body
+    source: |-
+      For Norinaga, the native Japanese Heart (*mikunigokoro*) is damaged in every generation by contaminating exposure to Chinese moralism as represented especially by Confucianism; in its place an inferior Chinese Heart takes shape with the same deleterious effects in Japan as what Norinaga claimed one could observe in Chinese history. As he expressed this in verse:
+    step1: |-
+      在宣长看来，日本本土之心（御国心，mikunigokoro）在每一代都因接触中国道德主义（尤其以儒教为代表）的污染而受损；取而代之形成一种劣等的“汉心”，它在日本造成的恶劣后果，正如宣长所称在中国历史中所能观察到的那样。他以和歌表达此意：
+    step2: |-
+      在宣长看来，日本本土之心（御国心，mikunigokoro）在每一代都因接触中国道德主义（尤其以儒教为代表）的污染而受损；取而代之形成一种劣等的“汉心”，它在日本造成的恶劣后果，正如宣长所称在中国历史中所能观察到的那样。他以和歌表达此意：
+  - id: 47
+    kind: table
+    source: |-
+      | Though he may think himself | Karagokoro |
+      | --- | --- |
+      | Rid of the Chinese heart | nashi to omoedo |
+      | The heart of a man | fumira yomu |
+      | Who reads Chinese | hito no kokoro wa |
+      | Is still Chinese | nao zo Kara naru. |
+      | (adapted from Muraoka 1964: 148) |   |
+    step1: |-
+      表 1
+      
+      | 尽管他自以为 | Karagokoro |
+      | --- | --- |
+      | 已摆脱汉心 | nashi to omoedo |
+      | 读汉籍之人 | fumira yomu |
+      | 其心 | hito no kokoro wa |
+      | 仍然是汉心 | nao zo Kara naru. |
+      | （据 Muraoka 1964: 148 改译） |   |
+    step2: |-
+      表 1
+      
+      | 尽管他自以为 | Karagokoro |
+      | --- | --- |
+      | 已摆脱汉心 | nashi to omoedo |
+      | 读汉籍之人 | fumira yomu |
+      | 其心 | hito no kokoro wa |
+      | 仍然是汉心 | nao zo Kara naru. |
+      | （据 Muraoka 1964: 148 改译） |   |
+  - id: 48
+    kind: body
+    source: |-
+      The way to purify and reanimate one’s Japanese Heart was not through the medium of an ancient text like *Man’yōshū*, but rather through exorcising Chinese contamination through the mediation of the *kami*.
+    step1: |-
+      净化并重新激活日本之心的方法，不是借助《万叶集》这类古代文本，而是通过神的中介驱除中国的污染。
+    step2: |-
+      净化并重新激活日本之心的方法，不是借助《万叶集》这类古代文本，而是通过神的中介驱除中国的污染。
+  - id: 49
+    kind: body
+    source: |-
+      Toward the end of his life Norinaga composed a liturgy for personal morning worship, which was his way of elevating his thoughts on Japan’s native ancient Way into something approaching a contemporary religion. If Norinaga was constrained in this regard, however, it was by *Kojiki* itself, which depicted life after death as an uninviting eternity in the depraved and polluted nether world called Yomi. As he expressed this in verse:
+    step1: |-
+      宣长晚年为个人晨间礼拜撰写了一部仪轨，以此把他关于日本本土古代之道的思考提升为某种接近当代宗教的东西。然而，如果说宣长在这方面受到限制，那限制来自《古事记》本身：它把死后生命描绘为在称为黄泉（Yomi）的堕落而污秽的下界中令人生厌的永恒。他以和歌表达此意：
+    step2: |-
+      宣长晚年为个人晨间礼拜撰写了一部仪轨，以此把他关于日本本土古代之道的思考提升为某种接近当代宗教的东西。然而，如果说宣长在这方面受到限制，那限制来自《古事记》本身：它把死后生命描绘为在称为黄泉（Yomi）的堕落而污秽的下界中令人生厌的永恒。他以和歌表达此意：
+  - id: 50
+    kind: table
+    source: |-
+      | Polluted Yomi | Kitanakuni |
+      | --- | --- |
+      | Bourne of darkness— | yomi no kunibe |
+      | How dirty and disgusting! | inashikome |
+      | I want to stay in this world | chi yo toko to wa ni |
+      | A thousand ages evermore! | kono yonomogamo. |
+      | (adapted from Muraoka 1964: 151) |   |
+    step1: |-
+      表 2
+      
+      | 污秽的黄泉 | Kitanakuni |
+      | --- | --- |
+      | 黑暗之境—— | yomi no kunibe |
+      | 多么肮脏可厌！ | inashikome |
+      | 我愿留在此世 | chi yo toko to wa ni |
+      | 千秋万代，直至永远！ | kono yonomogamo. |
+      | （据 Muraoka 1964: 151 改译） |   |
+    step2: |-
+      表 2
+      
+      | 污秽的黄泉 | Kitanakuni |
+      | --- | --- |
+      | 黑暗之境—— | yomi no kunibe |
+      | 多么肮脏可厌！ | inashikome |
+      | 我愿留在此世 | chi yo toko to wa ni |
+      | 千秋万代，直至永远！ | kono yonomogamo. |
+      | （据 Muraoka 1964: 151 改译） |   |
+  - id: 51
+    kind: body
+    source: |-
+      It is perhaps unsurprising that after Norinaga’s death the orientation of his school inclined toward the literary. There were no major texts from Japan’s ancient past that required deciphering, and the linguistic challenges to such enquiries were prohibitively difficult for Kokugaku to reach a broader audience. The mantle to the more religious side of his Kokugaku was, in turn, claimed by a student whom Norinaga never met.
+    step1: |-
+      宣长去世后，其学派取向转向文学，这或许并不令人意外。日本古代已无重大文本需要解读，而此类研究在语言上的艰难险阻，也使国学难以触及更广泛的受众。至于他国学中较为宗教的一面，则由一位宣长从未谋面的学生继承。
+    step2: |-
+      宣长去世后，其学派取向转向文学，这或许并不令人意外。日本古代已无重大文本需要解读，而此类研究在语言上的艰难险阻，也使国学难以触及更广泛的受众。至于他国学中较为宗教的一面，则由一位宣长从未谋面的学生继承。
