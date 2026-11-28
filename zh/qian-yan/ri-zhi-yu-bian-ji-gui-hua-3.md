@@ -267,3 +267,10 @@
 * **边界登记**：064 §0.3.6“不另立 065”只约束其自身建议线；本卡为用户新指令所立独立论域（Lean／形式化处置），与 064 的流程审计／标准映射／E2E／TBX／测试补齐逐域划界。
 * **索引**：`spec_index.py` 重生成，+065 行（63→64 规格目录）；`--check` 一致。
 * **门禁**：定向复跑——layout L3／L4＝0、docsize OK、junk 仅 `.mimosa`（外部插件目录）红，本卡零违规。
+
+## 2026-11-28 065 rev 2 全部批准＋W0 收口
+
+* **用户裁定**：复核后全部批准（2026-11-28）→ D-4／D-5 转已批准，W2／W3 落号 T009–T015。
+* **W0 完成**：T001 候选池复算——30 命中＝28 候选补充页（bayes-theorem 1、common-knowledge 13、frege-theorem 10、infinity 1、kochen-specker 3）＋2 题名误命中（proof-theory、proof-theoretic-semantics 正条目 H1）；`$$` 416 件；T002 编目骨架（字段定义／三分类枚举／收口判据）。证据：`results/proof-candidates.tsv`、`results/t001-counts.md`、`results/catalog.md`。
+* **状态**：2 项已验证、13 项未开始；下一批 W1（T003–T008）；W3 T014 受 Mathlib 缓存迁移冻结约束（T013 立 ADR 不受限）。
+* **门禁**：spec_index `--check` 一致（状态行更新）；docsize OK；layout L1 仅 `.mimosa`（外部插件目录）红，L2–L4 零违规。
