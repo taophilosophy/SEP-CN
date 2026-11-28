@@ -2,7 +2,7 @@
   "slug": "kokugaku-school",
   "kind": "retranslate",
   "zh_doc": "zh/k/kokugaku-school.md",
-  "state": "tr-04_checked",
+  "state": "rv-01_checked",
   "translation_mode": "llm-pe",
   "project_spec": {
     "audience": "中文哲学读者（研究者与研究生为主）",
@@ -45,6 +45,13 @@
       "actor": "trae-main",
       "at": "2026-11-28T05:24:11Z",
       "evidence": "T257 tr-04 二校（results/t257-tr04.md）：check_prose 36→7；long-sentence 7→1、passive-bei 3→0、weak-verb 4→0、de-chain 20→5、conj-he-verb 1→1、chenggong-de 1→0；29 条改写逐项留痕，余 7 条逐条豁免（术语“和歌”误报 1、“有的”结构 2、和歌／引文内部 4）；语体结论：现代汉语学术书面语，无文言仿古与 AI 腔，破折号 25 对均承担插入／转折／解释，“一个”19 处均数量义；check_style／quotes 0、terms 硬 0、pairs 0、academic 无硬错误；账本 181 段守恒。"
+    },
+    {
+      "step": "rv-01",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-28T05:26:56Z",
+      "evidence": "T258 rv-01 三轴（results/t258-rv01.md）：术语轴 check_terms 硬 0（自洽 0）、正文缺登记译法 0、人名缺籍属/生卒 0（终态 768）；登记册改动：Keichū 契沖→契冲（D2）、Matsudaira 松平义建 1800–1862（D2＋勘误）、Sanjō 终态（D5，源文未具名）、Ōkuni 1793／1792 跨历留痕（D5，译文随源 1792）；术语 60 条、人名 29 条覆盖。体例轴 check_style 0、check_quotes 0、check_pairs --gate hard 0/out_of_scope 0；尾序、编号、H1、pubinfo、51 定义闭合。勘误轴 4 行（松平②、荷田春满①、§3.1 方括号、§3.2 花括号），errata-apply 与 note-anchor 0。账本 181 段。"
     }
   ],
   "blockers": [],

@@ -130,7 +130,7 @@
 - [x] T255 [S-1] tr-02 批 3（§4.3–§4.5，11,179 字符，4 张和歌表）——**已完成**（2026-11-28：新增约 2,321 汉字、账本 106 段、全件 10,085 汉字；4 表和歌逐行对译；松平义建（1800—1862）②落地、荷田春满节题①锚点；`## 译者注释` ①②；新增 15 条术语＋4 条人名；check_style 0、terms 硬 0、academic 无硬错误、pairs 3 条收口预期缺口；证据 `results/t255-review.md`）——验收：4 表结构完整；勘误行承载在位；账本守恒
 - [x] T256 [S-1] tr-02 批 4（§5–§6＋尾节＋51 脚注定义）——**已完成**（2026-11-28：译后编辑全量入库；全文 431 行／12,515 汉字、账本 181 段；51 定义键集与 en 相同、5 处 marker 闭合；尾序 参考文献＞原始文献＞二手文献＞学术工具＞其他网络资源＞相关词条＞脚注定义＞译者注释；新增 10 条术语；check_style／quotes 0、terms 硬 0、pairs 0、academic 无硬错误、check_all 23/23；证据 `results/t256-review.md`；状态 `ex-04_checked → tr-02_checked`）——验收：尾节合体例；51 定义与 en 逐字一致；账本守恒
 - [x] T257 [S-1] tr-03／tr-04 校次——**已完成**（2026-11-28：tr-03 181 段对齐、25 段数字差异逐段判读、30 余人名与登记册核对，Critical／Major／Minor 0；tr-04 `check_prose` 36→7（29 条改写、7 条逐条豁免），语体结论现代汉语学术书面语；check_style／quotes 0、terms 硬 0、pairs 0、academic 无硬错误；证据 `results/t257-tr03.md`、`t257-tr04.md`、`t257-prose.json`；状态 `tr-02_checked → tr-04_checked`）——验收：账本守恒；残留外文 0（书目与日文引文除外）；检查器全绿
-- [ ] T258 [S-1] rv-01 三轴（术语＋体例＋勘误）——验收：`check_terms` 硬 0；体例 hard 0；勘误 1 行承载可验
+- [x] T258 [S-1] rv-01 三轴（术语＋体例＋勘误）——**已完成**（2026-11-28：术语硬 0／告警 0；Keichū 简体化 D2、Matsudaira 订正 D2、Sanjō 终态 D5、Ōkuni 跨历留痕 D5；体例 check_style／quotes 0、pairs --gate 0；勘误 4 行承载①②，errata-apply／note-anchor 0；证据 `results/t258-rv01.md`；状态 `tr-04_checked → rv-01_checked`）——验收：`check_terms` 硬 0；体例 hard 0；勘误 1 行承载可验
 - [ ] T259 [S-1] rv-02＋rv-03–08＋rv-09——验收：各轴凭据落 `state/axis/`；`--gate` 0 或逐条豁免；`check_all` 全绿
 - [ ] T260 [S-1] sg 链：sg-01／sg-02／sg-03（sg-03 须用户 `--mandate`）——验收：sg-01／sg-02 无 Critical／Major；未授权则止于 `sg-02_checked`
 - [ ] T161 [S-1] `d/digital-art`（唯一代码块）——验收：代码块闭合；拆后方可执行
