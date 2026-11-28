@@ -631,3 +631,14 @@
 | TA7–TA8 | 工作包 38；原子项 130；0 处预写门禁号／ADR 号 | 通过 |
 
 **rev96 说明**：T159 按模板拆为 T244–T251（方案 `results/t159-decomposition.md`），编号 160→168、未开始 74→82；T244 完成并勾选，勾选 86→87、未开始 82→81；ex-04 clean 1/1、warn 0、72 资产缺件 0；tr-01 新增 5 条术语；样章 16 段账本、1,607 汉字，check_style／quotes／math_zh／terms 0、academic 无硬错误、pairs hard 0；japanese-aesthetics 推进 `ex-04_checked`。
+
+## 91 rev97 复核（T245 tr-02 批 1；计数 168）
+
+| 项 | 复算 | 结论 |
+| ---- | ---- | ---- |
+| TA1–TA3 | 168 定义、0 重复、0 悬空；16 分区和 168 | 通过 |
+| TA4–TA5 | 验收 168/168；Kahn 168/168 | 通过 |
+| TA6 状态一致 | 勾选 88（新增 T245）；容器 T138／T140／T142／T144／T154／T155／T156／T157／T158／T159 未勾；japanese-aesthetics `ex-04_checked` | 通过 |
+| TA7–TA8 | 工作包 38；原子项 130；0 处预写门禁号／ADR 号 | 通过 |
+
+**rev97 说明**：T245 完成并勾选，勾选 87→88、未开始 81→80；§3–§4 新增 27 块、账本 16→43 段、全件 5,089 汉字；3 图 alt 改“银阁寺缩略图 1/2/3”；新增 9 条术语登记；check_style／quotes／math_zh／terms 0、academic 无硬错误、pairs hard 0（out_of_scope 1）；prose 19 条留 T249。

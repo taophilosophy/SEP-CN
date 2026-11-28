@@ -394,6 +394,7 @@
 | anima vegetativa / sensitiva / cogitativa | — | 植物灵魂／感觉灵魂／思维灵魂 | 首现（telesio） | 学界通行（亚里士多德灵魂三分通译）；凭证 2026-11-08 | 2026-11-08 |
 | animadversio | animadversio | 注意 | gomez-pereira | 本词条译名（佩雷拉认识论术语，正文保留拉丁原词）；凭证 2026-11-12；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
 | animal action | — | 动物行动 | 首现（action） | 学界通行；凭证 2026-11-27（results/t217-review.md） | 2026-11-27 |
+| aniconic | — | 无偶像的 | japanese-aesthetics | 学界惯例（艺术史通行（无形象表现））；凭证 2026-11-28 | 2026-11-28 |
 | animal automatism | — | 动物自动论 | gomez-pereira | 学界通行（动物机器说）；凭证 2026-11-12 | 2026-11-12 |
 | animal ethics | — | 动物伦理 | 语料回收（社会本体论与生物学族扫描 2026-11-25） | 学界惯例；应用伦理学通行（语料 2 次；与 environmental ethics 环境伦理学分列）；凭证 2026-11-25 | 2026-11-25 |
 | animal insensitivity | — | 动物无感觉 | gomez-pereira | 本词条译名（佩雷拉兽类无感觉说）；凭证 2026-11-12 | 2026-11-12 |
@@ -1101,6 +1102,7 @@
 | chatbot | — | 聊天机器人 | digital-art 首译 | 学界惯例；计算机科学通行译名；凭证 2026-11-10 | 2026-11-10 |
 | chauvinism | — | 沙文主义 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·世界历史·综合·世界政治、世界经济，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | cheater | — | 欺骗者 | cancer | 学界通行（社会演化与癌症演化，cheater）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
+| chayoriai | 茶寄合 | 茶寄合 | japanese-aesthetics | 学界惯例（日本茶道史通行（茶会））；凭证 2026-11-28 | 2026-11-28 |
 | Cheka | Чека | 契卡 | 人名表移植 | 学界通行译法（苏俄肃反委员会，克格勃前身）；凭证 2026-11-06 | 2026-11-06 |
 | chemical combination | — | 化合 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·化学·无机化学·一般化学反应及无机化学反应，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | chemical composition | — | 化学成分 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·地球物理学·地壳流体科学·水化学性质，2026-11-18 JWT 直连凭证） | 2026-11-19 |
@@ -3245,6 +3247,7 @@
 | Gibbard-Satterthwaite theorem | — | 吉伯德-萨特思韦特定理 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | giftedness of life | — | 生命的馈赠性（亦作“生命的赠予性”） | 首译（stem-cells） | 学界惯例（桑德尔《反对完美》汉译用语）；凭证 2026-11-09 | 2026-11-09 |
 | global civil society | — | 全球公民社会 | global-democracy 首译 | 学界惯例；IR 通行；与黑格尔 civil society 市民社会分列 | 2026-11-12 |
+| Ginkakuji | 銀閣寺 | 银阁寺 | japanese-aesthetics | 学界惯例（京都寺院通行汉名）；凭证 2026-11-28 | 2026-11-28 |
 | global coherentism | — | 全局融贯论 | 首现（truth-coherence） | 学界惯例（与局部融贯论相对）；凭证 2026-11-07 | 2026-11-07 |
 | global democracy | — | 全球民主 | global-democracy 首译 | 学界通行（SUMMARY 词条名）；凭证 2026-11-12 | 2026-11-12 |
 | global democratic deficit | — | 全球民主赤字 | global-democracy 首译 | 本词条核心术语（Scholte、Zürn 谱系）；凭证 2026-11-12 | 2026-11-12 |
@@ -3753,6 +3756,7 @@
 | inclusive fitness | — | 包容适合度（亦作“广义适合度”） | altruism-biological | 演化生物学通行（Hamilton 概念）；亦作记审定·生态学（进化生态学）/植物学作“广义适合度”；凭证 2026-11-12（裁定 2026-11-13 亦作前置到译法列） | 2026-11-13 |
 | Incoherence of the Philosophers | — | 《哲学家的矛盾》 | 语料回收（specs/058 全库提取） | 权威译本（安萨里著作通行汉译；审定库仅命“非相干性”；审定库无对口条目，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | incommensurability | — | 不可通约性 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·自然辩证法·科学哲学·一般科学哲学·科学哲学的社会·历史转向，2026-11-18 JWT 直连凭证）；旧键“Incommensurable”并入（2026-11-21 撞形残余并键；旧键首现：语料回收（词汇表并网）） | 2026-11-21 |
+| In Praise of Shadows | 陰翳礼賛 | 《阴翳礼赞》 | japanese-aesthetics | 学界惯例（谷崎润一郎随笔，通行汉译书名）；凭证 2026-11-28 | 2026-11-28 |
 | Incompatibilism | — | 不相容论 | 语料回收（学派名扫描 2026-11-25） | 学界通行（中文语料 18 次；与已登记 compatibilism 相容论对举）；凭证 2026-11-25 | 2026-11-25 |
 | incomplete descriptions | — | 不完全描述 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | incomplete information | — | 不完全信息 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·经济学·微观经济学，2026-11-18 JWT 直连凭证） | 2026-11-19 |
@@ -5328,6 +5332,7 @@
 | natural theology | — | 自然神学 | 18thGerman-preKant | 学界通行汉译；审定名词库（termonline-all·自然辩证法名词 02.095，2024）作“自然神论”，指 deism，与本行“自然神学”异义，保留（凭证 termonline-b8-2026-11-24.tsv） | 2026-11-05 |
 | naturales informationes | naturales informationes | 自然概念 | vives | 义译（natural notions），与 anticipationes 并列 | 2026-11-25 |
 | naturalism | — | 自然主义 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库无对口条目（2026-11-25 界面精确匹配复核：未审定；原“审定库复核一致”表述作废） | 2026-11-25 |
+| Nampōroku | 南方録 | 《南方录》 | japanese-aesthetics | 学界惯例（茶道古典，学界通行汉译书名）；凭证 2026-11-28 | 2026-11-28 |
 | Naturalistic Approaches | — | 自然主义方法 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库无相关命中（termonline-all 凭证 2026-11-13；2026-11-26 界面精确匹配复核：0 条）| 2026-11-26 |
 | Naturalistic Fallacy | — | 自然主义谬误 | 语料回收（specs/058 全库提取） | 审定名词库（termonline-all·自然辩证法，凭证 2026-11-23） | 2026-11-23 |
 | naturalization of human / humanization of nature | — | 人的自然化／自然的人化 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -8225,6 +8230,7 @@
 | Tattvôpaplava-siṁha | — | 《谛坏狮子论》 | jayaraasi | 本库自拟书名（tattva 谛、upaplava 坏灭、siṁha 狮子）；梵文原题随文括注；原文列：工具书查无原生文字（2026-11-20 检 wisdomlib／GND／BDRC／84000／Logeion，均无“转写↔原生文字”显式配对，部分源不可达；映射表推演禁用，ADR-0030） | 2026-11-07 |
 | Täuschung | Täuschung | 错觉 | landmann-kalischer | 学界惯例；心理学通行（含“迷惑”义；optical illusion=视错觉）；撞形豁免 2026-11-21：德语 Täuschung 与英语 illusion 同概念异语，不合并 | 2026-11-21 |
 | tautology | — | 重言式（亦作“同义反复”） | logic-relevance；biology-philosophy 首译 | 审定名词库（termonline-all·数学/信息科学技术名词，2026-11-11 浏览器通道凭证）；逻辑学通行（正文 45 处用重言式） | 2026-11-11 |
+| Tai-an | 待庵 | 待庵 | japanese-aesthetics | 学界惯例（千利休茶室，汉名照录）；凭证 2026-11-28 | 2026-11-28 |
 | tawāṭur | تواتر | 大量传递 | ibn-taymiyya | 学界惯例（传述学；与 mutawātir 同族） | 2026-11-12 |
 | tawḥīd | توحيد | 认主独一（讨黑德） | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
 | taxon | — | 分类单元 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -8234,6 +8240,7 @@
 | taʿārīf | تعاریف | 定义（definitions；与 ḥudūd 界定同义连用） | arabic-islamic-phil-math | 学界通行；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
 | taʿṭīl | تعطيل | 剥离 | ibn-taymiyya | 首译（剥离真主属性；与 taḥrīf 对举） | 2026-11-12 |
 | tea ceremony | — | 茶道（日本文化通名；亦作“茶道仪式”） | japanese-aesthetics | 学界惯例（日本文化研究通行译法“茶道”）；审定名词库（民族学与文化学名词 4.011，2025）作“茶道”，本行主形“茶道仪式”已含之并注（凭证 termonline-b12-2026-11-24.tsv）；主形改定：aesthetics-of-everyday 条目作“茶道”（22 处）；原“茶道仪式”0 处（2026-11-24 语料核对，凭证 works-batch33-2026-11-24.md） | 2026-11-25 |
+| tea caddy | — | 茶入（茶罐） | japanese-aesthetics | 学界惯例（日本茶道器物通行译名）；凭证 2026-11-28 | 2026-11-28 |
 | team semantics | — | 团队语义学 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | technê | τέχνη | 技艺 | 语料回收；knowledge-how | 学界惯例（希腊哲学术语）；审定“技艺”（technique，自然辩证法名词）英文对 technique，与 τέχνη 义近（2026-11-26 界面复核）；2026-11-13 重复行合并（旧键 `technē`）；删亦作“技术”（与他行主译撞形，2026-11-21 撞形处置） | 2026-11-26 |
 | technical object | — | 技术物 | model-organisms 首译 | 与“认知物”对举的术语（Rheinberger 认知物/技术物）；审定名词库作“技术客体”（自然辩证法名词，2026-11-11 凭证），对举体例保留现译 | 2026-11-11 |
@@ -8497,6 +8504,7 @@
 | token-token reduction | — | 个例-个例还原 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | tokonoma | 床の間 | 床之间（壁龛） | japanese-aesthetics | 学界惯例（日本建筑研究通行译法“床之间”） | 2026-11-02 |
 | toleration | — | 宽容 | 语料回收（specs/050 候选池） | 条目语境研判（政治哲学通行宽容（宗教宽容 toleration）；审定“耐受性”为污染生态学义）；审定名词库（termonline-all·生态学·污染生态学，2026-11-18 JWT 直连凭证，审定作“耐受性”） | 2026-11-19 |
+| tōcha | 闘茶 | 斗茶 | japanese-aesthetics | 学界惯例（日本茶道史通行（品茶竞赛））；凭证 2026-11-28 | 2026-11-28 |
 | tonal Gestalt | — | 音调格式塔 | ehrenfels | 厄棱费尔术语（旋律格式塔）；凭证 2026-11-13 | 2026-11-13 |
 | tonality | — | 调性 | music | 学界通行（乐理与音乐哲学）；凭证 2026-11-09 | 2026-11-09 |
 | Tonghak(東學) | 東學 | 东学 | korean-philosophy | 学界通行（崔济愚创，源文汉字 東學；与“东方学”区别）；键形归一 2026-11-21：全角括注／斜线改半角（键须为源语形）；旧键 Tonghak（東學） | 2026-11-21 |
@@ -9198,6 +9206,7 @@
 | Zechariah | — | 《撒迦利亚书》 | 首译（saadya） | 学界惯例；圣经书卷通行汉译；凭证 2026-11-09 | 2026-11-09 |
 | zeitgeist | — | 时代精神 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·心理学·理论心理学与心理学史，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | Zeno’s paradox | — | 芝诺悖论 | 语料回收（zh 频次审计 2026-11-25） | 哲学史通行（复数 Zeno’s paradoxes 同形）；原记无对口命中（2026-11-25，缓存通道），2026-11-26 界面精确匹配复核改判：审定作“芝诺悖论”（Zeno’s paradox，自然辩证法名词）；凭证 2026-11-25 | 2026-11-26 |
+| Zencharoku | 禅茶録 | 《禅茶录》 | japanese-aesthetics | 学界惯例（茶道古典（Zen Tea Record），学界通行汉译书名）；凭证 2026-11-28 | 2026-11-28 |
 | Zermelo-Fraenkel | — | 策梅洛-弗兰克尔 | 语料回收（词汇表并网） | 学界通行（Zermelo–Fraenkel 集合论，双人名连用）；词汇表并网（ADR-0036） | 2026-11-13 |
 | zero-sum game | — | 零和博弈 | organ-donation | 学界惯例（博弈论通行；凭证 2026-11-06） | 2026-11-06 |
 | Zhonglun | 中論 | 《中论》（徐干） | han-dynasty | 徐干书；与龙树《中论》同译名异书，见同键行；撞形豁免 2026-11-21：同形异书：龙树《中论》与徐干《中论》，不合并 | 2026-11-21 |
