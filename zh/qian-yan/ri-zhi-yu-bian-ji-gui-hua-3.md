@@ -290,3 +290,13 @@
 * **归因**：065 立卡前提 D-3（编目为唯一正当衍生形态）误把“SEP 内容形式化”当项目收益；用户划线后该前提撤销。D-1／D-2（不引入 Lean 工程线的结论）保留为历史。
 * **环境**：hypothesis 6.170.23 本地已装（用户 2026-11-28 授权），项目未引入该依赖。
 * **门禁**：spec_index 一致、docsize OK、junk 无新增越界。
+
+## 2026-11-28 064 pilot sg-01 全量初审（glm-main 接任独立审校）
+
+* 用户切换模型 GLM-5.3-Flash（actor glm-main）接任审校；裁定“禁止抽审查，全量”，habermas 抽审版 sg-01 作废重做。
+* 11/11 sg-01 全量初审通过（无 Critical／Major）：逐件详录 `results/pilot/sg01-<slug>.md`（四维结论＋Minor＋en 候选＋排除记录）；competences 经 CLI 四字段登记；steps／journal 同步；账本守恒复核。
+* 实质发现移交 rv-01／sg-02：habermas discourse principle 异译（商谈原则 vs 话语原则）、environmental-aesthetics Muir 篇名“远观”应为“近观”、action Rugen“杀死自己父亲”指派错、logic-dynamic“托尼·霍尔”增译 Tony、japanese-aesthetics Rickert 混排＋en 侧 golden Tai-an 待庵史实疑误、kokugaku《神祇志》应《神祇式》、imprecise-probabilities credal state 异译（信态 vs 信度状态）与弹珠／球、digital-art Haugeland “Analog and Analog”重复标题待联网查证。
+* en 源候选 40 处留痕移交勘误线（habermas 8、logic-preference 3、environmental-aesthetics 12、action 8、axiom-choice 2、newton-principia 1、japanese-aesthetics 2、kokugaku 2、digital-art 2、logic-dynamic 1、imprecise-probabilities 0）。
+* 门禁收口：task-style-attest 10 硬错（11 件 sg-01 evidence 补“语体：”留痕）；t174 归档模板 release sha256 随 habermas.json 演进重算两次；layout 登记运行态目录 .mimosa／.screenshots／CLAUDE-SECURITY-SMOKE 并同步 rules/01 职责表（065 条目所记 L1 红就此收口）。check_all 24/24 全绿。
+* sg-02 按 ADR-0093 须第三 actor（异于 trae-main 与 glm-main），待用户指定；P4 计分／P5 编校／P6 发布预演未执行，G5 仍未通过、不得扩量。
+* 提交 2c309ca89..7dad2f6f6 推送；落盘工具 state/pilot_sg01_apply.py 为本地运行态（.gitignore），未入库。
