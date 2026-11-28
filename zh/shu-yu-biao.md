@@ -11,6 +11,7 @@
 
 ## A
 
+| Ajari | 阿闍梨 | 阿阇梨 | kokugaku-school | 真言宗汉语传统（高僧位阶）；学界通行 | 2026-11-28 |
 | bisimilar | — | 互模拟的 | logic-dynamic | 学界惯例（模态逻辑通行（与 bisimulation 互模拟同族））；凭证 2026-11-27 | 2026-11-27 |
 | composition | — | 复合 | logic-dynamic | 学界惯例（程序构造通行（sequential composition 顺序复合））；凭证 2026-11-27 | 2026-11-27 |
 | converse (program) | — | 逆 | logic-dynamic | 学界惯例（程序逻辑义；与 converse 逆命题（传统逻辑）分列，撞形豁免）；凭证 2026-11-27 | 2026-11-27 |
@@ -715,6 +716,7 @@
 | Baihutong | 白虎通 | 《白虎通》 | han-dynasty | 学界通行学名 | 2026-11-10 |
 | Baihutong Delun | 白虎通德論 | 《白虎通德论》 | han-dynasty | 学界通行学名（全书名） | 2026-11-10 |
 | Baire space | — | 贝尔空间 | 首现（intuitionism） | 拓扑学通行译名；凭证 2026-11-10；审定名词库（termonline-all·数学名词 07.0045，1993）作“贝尔空间”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b2-2026-11-24.tsv） | 2026-11-10 |
+| Bakufu | 幕府 | 幕府 | kokugaku-school | 学界通行；日语专名汉译 | 2026-11-28 |
 | Bāla-gādādharī | बालगादाधरी | 《童蒙迦达陀罗》 | early-modern-india | 源文自注“Beginners Guide to Gadādhara”义译（昵称书名）；凭证 2026-11-10；原文列联网查证：Monier-Williams《梵英辞典》 lnum 144526（p. 728,3），csl-devanaga（2026-11-14 查，凭证 orig-verify-2026-11-14-b7.tsv） | 2026-11-14 |
 | balance of evidence | — | 证据平衡 | 首现（imprecise-probabilities） | 学界惯例（IP 文献通行）；凭证 2026-11-08 | 2026-11-08 |
 | balance of nature | — | 自然平衡 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -1789,6 +1791,7 @@
 | d'Alembert's principle | — | 达朗贝尔原理 | newton | 学界惯例；力学通行；凭证 2026-11-08 | 2026-11-08 |
 | dactylic hexameter | — | 扬抑抑六音步 | 首现（william-sherwood） | 学界通行（古典诗体）；凭证 2026-11-07 | 2026-11-07 |
 | daimon | — | 精灵 | xenocrates | 学界通行（希腊宗教中介于神与人之间者；daimonion 亦译“神明”） | 2026-11-08 |
+| Daimyo | 大名 | 大名 | kokugaku-school | 学界通行；日语专名汉译 | 2026-11-28 |
 | Dainichi | — | 大日（大日如来） | kukai | 真言宗汉语传统译名（《大日经》大日） | 2026-11-09 |
 | Dao | 道 | 道 | 语料回收（中文哲学词条群） | 学界惯例（拼音与汉字对应）；审定命中为跨学科同名不采（凭证 2026-10-30） | 2026-10-30 |
 | Daodejing / Tao Te Ching | 道德經 | 《道德经》 | 术语会话种子（ADR-0011） | 学界通行学名 | 2026-10-28 |
@@ -4204,6 +4207,7 @@
 | kalām | كلام | 凯拉姆；伊斯兰教义学（直音译与意译并存；勿泛译“神学”） | umar-khayyam；arabic-islamic-* 集群 | 伊斯兰研究通行音译（辩证神学；亦译教义学）；知网系 GB 标准库查证：无收录（totalRecords=0，凭证 2026-10-28）；学界通行（《中国伊斯兰百科全书》等）；2026-11-15 合并同键行（specs/034） | 2026-11-26 |
 | kalima | — | 词（逻各斯） | 首现（theology-aristotle） | 学界惯例（伊斯兰神学 kalima 兼指'词/言语'）；凭证 2026-11-08；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
 | kalokagathos | καλοκἀγαθός | 美善合一（亦作“美且善者”） | philo | 希腊 καλοκἀγαθός 学界通行（亦作“美且善者”备查）；2026-11-26 核：原记首现词条正文未见该词，按全库精确匹配改记（全库未见）；2026-11-26 核：原记首现未见原词，按源文变体（kalos kagathos（分写））精确匹配改记（philo）；首现待核处置 2026-11-26 | 2026-11-26 |
+| kami | 神 | 神（神道之神） | kokugaku-school | 学界通行；日本神道语境 | 2026-11-28 |
 | Kanhwa Sŏn(看話禪) | 看話禪 | 看话禅 | korean-buddhism | 汉文传统写法（大慧宗杲创、知讷引入韩国）；键形归一 2026-11-21：全角括注／斜线改半角（键须为源语形）；旧键 Kanhwa Sŏn（看話禪） | 2026-11-21 |
 | kannagara | 随神 | 随神而行 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
 | Kanon (Epicurus) | Κανών | 《规范》 | epicurus | 本词条译名（伊壁鸠鲁认识论著作；与 canon 咏礼司铎 分列） | 2026-11-12 |
@@ -4300,6 +4304,7 @@
 | koinai ennoiai (common notions) | κοιναὶ ἔννοιαι | 共同观念（首现括注原文） | olympiodorus | 新柏拉图主义认识论术语（亦作常识）；Tarrant 英译 common notions；凭证 2026-11-08；删亦作“常识”（与他行主译撞形，2026-11-21 撞形处置） | 2026-11-21 |
 | Kojiki | — | 《古事记》 | 语料回收（specs/058 全库提取） | 周作人译，上海人民出版社 2015-08（2001 中国对外翻译出版公司初版，苦雨斋译丛，ISBN 9787500107941）（2026-11-24 语料核对，凭证 works-batch28-2026-11-24.md） | 2026-11-24 |
 | kokugaku | 国学 | 国学（日本本土研究传统） | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
+| Kokugakuin | 國學院 | 国学院大学 | kokugaku-school | 学界通行；校名汉译 | 2026-11-28 |
 | Kokugakusha | 国学者 | 国学者 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
 | kokutai | 国体 | 国体 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
 | Kolmogorov complexity | — | 柯尔莫哥洛夫复杂性 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·自然辩证法·科学哲学·分支科学哲学·数学哲学，2026-11-18 JWT 直连凭证） | 2026-11-19 |
@@ -4699,6 +4704,7 @@
 | many-valued logic | — | 多值逻辑 | logic-fuzzy | 学界惯例；逻辑学通行译法；凭证 2026-11-09 | 2026-11-09 |
 | many-worlds interpretation | — | 多世界诠释 | qt-entangle | 学界通行译名；凭证 2026-11-09；审定名词库（termonline-all·物理学名词 06.0415，2019）作“多世界诠释”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b7-2026-11-24.tsv） | 2026-11-09 |
 | Manyōshū | — | 《万叶集》 | 语料回收（specs/058 全库提取） | 权威译本／学界通行（杨烈译，湖南人民出版社 1984-07（诗苑译林）；赵乐甡译，译林出版社 2002-04（ISBN 9787806572115）；2026-11-24 联网核对，凭证 works-batch19-2026-11-24.md） | 2026-11-24 |
+| Man’yō daishōki | 万葉代匠記 | 《万叶代匠记》 | kokugaku-school | 契冲著作；书名汉字 | 2026-11-28 |
 | mapping degree | — | 映射度 | 首现（brouwer） | 学界惯例；拓扑学通行译名（degree of mapping）；凭证 2026-11-12 | 2026-11-12 |
 | maqādīr | مقادیر | 量（几何对象；与 aʿdād 数相对） | arabic-islamic-phil-math | 译名裁定（magnitudes）；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
 | maqāmah | maqâmah | 玛卡梅（保留音译，首现括注） | f/falaquera 首译 | 阿拉伯文学体裁通行音译（韵文体故事）；凭证 2026-11-11 | 2026-11-11 |
@@ -4939,6 +4945,7 @@
 | metriopatheia | — | 适度情感 | 首现（porphyry） | 学界惯例；新柏拉图主义研究通行（源文括注希腊文；与 apatheia 无情欲对举）；凭证 2026-11-11 | 2026-11-11 |
 | Mexicanness | — | 墨西哥性 | existentialism-mexican | 同上；凭证 2026-11-12；撞形豁免 2026-11-21：西语 lo mexicano 与英语 Mexicanness 同概念异语，不合并 | 2026-11-21 |
 | Mezzogiorno | — | 梅佐焦尔诺 | gramsci | 意大利南部地区称谓，学界通行音译；凭证 2026-11-11（主会话直译 g/gramsci） | 2026-11-11 |
+| michi | 道 | 道（古道） | kokugaku-school | 学界通行；日本思想语境 | 2026-11-28 |
 | microbiome | — | 微生物组 | cancer | 学界通行（微生物学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | microbiota | — | 微生物群 | cancer | 学界通行（微生物学；与 microbiome 微生物组按原文分用）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | microcanonical distribution | — | 微正则分布 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·物理学·热学、统计物理学·统计物理学，2026-11-18 JWT 直连凭证） | 2026-11-19 |
@@ -5424,6 +5431,7 @@
 | Nicomachean Ethics | — | 《尼各马可伦理学》（亚里士多德；廖申白译本） | 语料回收（全目录） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
 | nigoda | निगोद | 群聚生 | jaina-philosophy | 本库自拟音译（源文自注 idle；耆那教最微生命形态） | 2026-11-08 |
 | nihilism | — | 虚无主义 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库无对口条目（2026-11-25 界面精确匹配复核：未审定；原“审定库复核一致”表述作废） | 2026-11-25 |
+| Nihon shoki | 日本書紀 | 《日本书纪》 | kokugaku-school | 学界通行（720 年）；书名汉译 | 2026-11-28 |
 | Nihonjinron | 日本人論 | 日本人论 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
 | niḥsvabhāvatā | — | 无自性性 | yogacara 首译 | 汉传唯识学（三无性）；原文列待考；凭证 2026-11-11；原文列：工具书查无原生文字（2026-11-20 检 wisdomlib／GND／BDRC／84000／Logeion，均无“转写↔原生文字”显式配对，部分源不可达；映射表推演禁用，ADR-0030） | 2026-11-11 |
 | nijiriguchi | 躙口 | 躙口 | japanese-aesthetics | 学界惯例（日本茶室研究通行译法“躙口”） | 2026-11-02 |
@@ -7525,8 +7533,10 @@
 | Shiji | 史記 | 《史记》 | 术语会话种子（ADR-0011） | 学界通行学名 | 2026-10-28 |
 | Shijing | 《诗经》 | 《诗经》 | zhu-xi 首译 | 书名体例；凭证 2026-11-15 | 2026-11-15 |
 | shimandara | 四種曼荼羅 | 四种曼荼罗 | kukai | 真言宗汉语传统（空海四种曼荼罗判分） | 2026-11-09 |
+| Shingon | 真言 | 真言宗 | kokugaku-school | 真言宗汉语传统（Shingon Buddhism） | 2026-11-28 |
 | shingon / mantra | 眞言 | 真言；真言密教（Shingon Buddhism） | kukai | 真言宗汉语传统（mantra 日读 shingon）；凭证 2026-11-09 | 2026-11-09 |
 | shinkoku | 神国 | 神国 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
+| Shintō | 神道 | 神道 | kokugaku-school | 学界通行；日本宗教传统 | 2026-11-28 |
 | shishi wu’ai(事事無礙) | 事事無礙 | 事事无碍 | korean-buddhism | 汉文传统写法（华严四法界）；键形归一 2026-11-21：全角括注／斜线改半角（键须为源语形）；旧键 shishi wu’ai（事事無礙） | 2026-11-21 |
 | Shize | 時則 | 《时则》（《淮南子》篇名） | han-dynasty | 篇名逐字 | 2026-11-10 |
 | shodō | 書道 | 书道 | japanese-aesthetics | 学界惯例（日本书法研究通行译法“书道”） | 2026-11-02 |
@@ -9031,6 +9041,7 @@
 | wahm | وهم | 估量（阿维森纳内感官 estimative faculty；与 vis aestimativa 估量力行相区分） | arabic-islamic-phil-math | 学界通行（阿维森纳心理学文献） | 2026-11-08 |
 | wahmī / mawhūm | وهمي／موهوم | 估量性的／被想象物（estimative/imagined；估量性科学） | arabic-islamic-phil-math | 译名裁定（estimative 直译） | 2026-11-08 |
 | wājib al-wujūd | واجب الوجود | 必然存在者 | ibn-kammuna | 学界惯例；伊斯兰哲学通行（“其存在为必然者”）；凭证 2026-11-10；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
+| waka | 和歌 | 和歌 | kokugaku-school | 学界通行；日本诗歌体裁 | 2026-11-28 |
 | Walden | — | 《瓦尔登湖》 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库无相关命中（termonline-all 凭证 2026-11-13；2026-11-26 界面精确匹配复核：0 条） | 2026-11-26 |
 | War | — | 战争 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库一致（termonline-all 凭证 2026-11-13）| 2026-11-13 |
 | war of manoeuvre | — | 运动战 | gramsci | 葛兰西军事比喻术语，学界通行译名；凭证 2026-11-11（主会话直译 g/gramsci） | 2026-11-11 |

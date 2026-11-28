@@ -710,3 +710,13 @@
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | japanese-aesthetics | Acknowledgments | `the films discussed in Section 7` | ②同页自相矛盾（影片实见 §10） | `the films discussed in Section 10` | 译文作“第 10 节”，译者注释② | 2026-11-28 一校核对 |
 | japanese-aesthetics | §3（侘） | `See section 7, below, on cutting` | ②同页自相矛盾（“切”的专节实为 §9） | `See section 9, below, on cutting` | 译文作“第 9 节”，译者注释① | 2026-11-28 sg-01 核对 |
+
+## 二十二、2026-11-28 T252 kokugaku-school 新发现
+
+**来源**：`specs/064-flow-spec-audit/results/t252-review.md`；`html/` 冻结不改，`en/k/kokugaku-school.md` 忠实照录。纯排版／语法者只入表。
+
+| slug | 位置 | 上游原文 | 缺陷定性 | 参考读法 | 中文承载 | 凭证 |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| kokugaku-school | §2.2 节题（en L36） | `Kada no Azumamaro (1666–1736)` | ①年份手误（同篇 §1 导论作 `1669–1736`） | `1669–1736`（生 1669-02-03） | 译文节题作 1669–1736，译者注释① | 国学院大学 digital museum（2026-11-28 查）＋dbpedia 生卒 |
+| kokugaku-school | §3.1 引文（en L62） | `[and no sooner were these theories introduced … than tremendous chaos erupted.` | ①排印（方括号未闭合） | 去掉未配对的 `[`，引文语义不变 | 译文按参考读法，无需译注 | 括号计数：开 1／闭 0（2026-11-28） |
+| kokugaku-school | §3.2 两处引文（en L86、L92） | `(Kuzubana {1968–1975: 8: 147]`；`… 8: 160]` | ①排印（花括号起、方括号收） | `(Kuzubana 1968–1975: 8: 147)`；`(Kuzubana 1968–1975: 8: 160)` | 译文按参考读法，无需译注 | 两处均 `{` 起 `]` 收（2026-11-28） |

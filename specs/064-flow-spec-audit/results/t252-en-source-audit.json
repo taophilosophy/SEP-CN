@@ -1,0 +1,31 @@
+{
+  "checked_at": "2026-11-28T04:47:54Z",
+  "reports": [
+    {
+      "slug": "kokugaku-school",
+      "hard": [],
+      "warn": [
+        {
+          "cls": "heading_skip",
+          "msg": "标题层级跳档 h2→h4"
+        },
+        {
+          "kind": "word_digit_eq",
+          "token": "fall2018",
+          "ctx": "< https://plato.stanford.edu/archives/fall2018/entries/kokugaku-school/ >.\n  [This was",
+          "cls": "typo_candidate"
+        }
+      ],
+      "info": [],
+      "counts": {
+        "entry_links": 7,
+        "external_links": 12,
+        "math_inline": 0,
+        "math_display": 0,
+        "tables": 7,
+        "headings": 31
+      },
+      "checked_at": "2026-11-28T04:47:54Z"
+    }
+  ]
+}

@@ -123,7 +123,16 @@
 - [x] T249 [S-1] tr-03／tr-04 校次——**已完成**（2026-11-28：tr-03 逐节对照 en，Critical 0／Major 0／Minor 1（致谢 Section 7 实为 §10，已改正入勘误第二十一节并加译者注释①）；tr-04 `check_prose` 48→0（long-sentence 8、de-chain 36、weak-verb 3、passive-bei 1），全部改写无豁免；尾序修正（译者注释移至脚注定义之后末节）；check_style／quotes／math_zh／terms 0、academic 无硬错误、pairs hard 0、images 悬空 0；账本 120 段守恒；证据 `results/t249-tr03.md`、`results/t249-tr04.md`）——验收：账本守恒、残留外文 0（书目与日文引文除外）、检查器全绿
 - [x] T250 [S-1] rv 链：rv-01→rv-02→rv-03–08→rv-09——**已完成**（2026-11-28：rv-01 术语 8 处 D2→D1 落地、体例三轴 0；rv-02 120 段对齐＋全局计数；rv-03 42 条引文（38 pass／4 waived）；rv-04 376 骨架（72 裁定 equivalent、24 候选无漂移）；rv-05 22 条 G-19 主题术语 waived；rv-06 10 节 R-1、1 条 R-d 误报；rv-07 0 量值对、10 条 M-4 误报；rv-08 标点 28→0（27 处 en dash→一字线、1 处双冒号）；rv-09 全量机检＋markdownlint 0；证据 `results/t250-review.md`、`state/axis/japanese-aesthetics.*`）——验收：各轴凭据落 `state/axis/`、`--gate` 0 或逐条豁免
 - [x] T251 [S-1] sg 链：sg-01／sg-02／sg-03（sg-03 须用户 `--mandate`）——**已完成**（2026-11-28：sg-01 四维自审，Minor 3 已处理（措辞、§3 跨节引用 §7→§9 入勘误第二十一节＋译者注释①、引文页码恢复 en dash），Critical／Major 0，语体结论；sg-02 逐段抽核 24 块＋全量数字／引文／指代／跨节核对，问题单 0；sg-03 经用户本会话授权，终稿结构／版本钉／CI／交付清单全过，`japanese-aesthetics` 置 `done`；证据 `results/t251-sg01.md`、`t251-sg02.md`、`t251-sg03.md`）——验收：sg-01／sg-02 无 Critical／Major；sg-03 mandate 已记
-- [ ] T160 [S-1] `k/kokugaku-school`（表 48 行）——验收：表格结构完整；拆后方可执行
+- [ ] T160 [S-1] **[工作包]** `k/kokugaku-school`（表 48 行）——**已拆为 T252–T260**（方案 `results/t160-decomposition.md`）；本行只作容器，**不得整体勾选**；验收：表格结构完整；T252–T260 全部完成且本件 `done`
+- [x] T252 [S-1] ex-04＋tr-01＋tr-02 样章（§1–§2，8,791 字符／1,341 词，0 表）——**已完成**（2026-11-28：en_integrity clean 1/1、en_source_audit hard 0／warn 2 均假阳性、fetch_audit 资产 0；51 脚注定义、6 表 47 行、0 图 0 公式；新发现 3 类文字缺陷入 en-errata 第二十二节；新增 11 条术语、Keichū 译名简体化；样章 22 段账本、2,413 汉字；check_style／quotes 0、terms 硬 0、academic 无硬错误、pairs 4 条样章预期缺口；证据 `results/t252-review.md`；状态 `cleared → ex-04_checked`）——验收：源审计 hard 0、warn 逐条定性；术语先登记后用；样章块数与 en 对应
+- [ ] T253 [S-1] tr-02 批 1（§3，12,362 字符，2 张和歌表）——验收：两表结构完整、表号与单元格中文；账本守恒
+- [ ] T254 [S-1] tr-02 批 2（§4.1–§4.2，12,079 字符，0 表）——验收：人名生卒照源；账本守恒
+- [ ] T255 [S-1] tr-02 批 3（§4.3–§4.5，11,179 字符，4 张和歌表）——验收：4 表结构完整；勘误行承载在位；账本守恒
+- [ ] T256 [S-1] tr-02 批 4（§5–§6＋尾节＋51 脚注定义）——验收：尾节合体例；51 定义与 en 逐字一致；账本守恒；推进 `tr-02_checked`
+- [ ] T257 [S-1] tr-03／tr-04 校次——验收：账本守恒；残留外文 0（书目与日文引文除外）；检查器全绿
+- [ ] T258 [S-1] rv-01 三轴（术语＋体例＋勘误）——验收：`check_terms` 硬 0；体例 hard 0；勘误 1 行承载可验
+- [ ] T259 [S-1] rv-02＋rv-03–08＋rv-09——验收：各轴凭据落 `state/axis/`；`--gate` 0 或逐条豁免；`check_all` 全绿
+- [ ] T260 [S-1] sg 链：sg-01／sg-02／sg-03（sg-03 须用户 `--mandate`）——验收：sg-01／sg-02 无 Critical／Major；未授权则止于 `sg-02_checked`
 - [ ] T161 [S-1] `d/digital-art`（唯一代码块）——验收：代码块闭合；拆后方可执行
 
 ### 汇总与回填（全部条目完成后）

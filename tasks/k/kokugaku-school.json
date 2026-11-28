@@ -2,8 +2,16 @@
   "slug": "kokugaku-school",
   "kind": "retranslate",
   "zh_doc": "zh/k/kokugaku-school.md",
-  "state": "cleared",
-  "steps": [],
+  "state": "ex-04_checked",
+  "steps": [
+    {
+      "step": "ex-04",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-28T04:57:47Z",
+      "evidence": "T252 ex-04：en_integrity clean 1/1；en_source_audit hard 0／warn 2（heading_skip 为站尾导航、fall2018 为 URL 段，均假阳性）；fetch_audit 资产 0 缺件 0；51 脚注定义（50 书目＋1 导读注）、5 处正文引用；6 表 47 行、0 图 0 公式；版本钉 Jun 21, 2021／Fall 2021／640fe38e…1d3 一致。新发现 3 类文字缺陷入 en-errata 第二十二节（§2.2 节题 1666→1669 译注①；§3.1 方括号；§3.2 两处花括号）；松平义昭行待 T255 落地。证据 specs/064-flow-spec-audit/results/t252-review.md、t252-en-integrity.json、t252-en-source-audit.json。"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-01T17:40:59Z",
   "version_pin": {

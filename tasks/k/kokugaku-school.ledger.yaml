@@ -1,0 +1,185 @@
+version: 1
+slug: kokugaku-school
+params:
+  model: "DeepSeek-V4.1-Flash（Trae 主会话；T252 样章）"
+  temperature: 0.2
+  batch_segments: sample
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      In its broadest sense, *kokugaku* has been used to refer to scholarship that takes Japan as its focus instead of China. In the eighteenth and nineteenth centuries, however, it came to refer more narrowly to the effort to discern a native Way distinct from Buddhism and Confucianism within Japan’s most ancient writings, and to the attendant effort to resurrect that Way in the present. Most scholars agree on the major leaders of these studies during the Tokugawa period, with Motoori Norinaga (1730–1801) thought to be its greatest intellectual and Hirata Atsutane (1776–1843) its most effective popularizer.
+    step1: |-
+      国学（kokugaku）在最宽泛的意义上，曾指以日本而非中国为关注对象的学问。然而在 18、19 世纪，它转为较窄的含义，指一种努力：从日本最古老的文献中辨识出一种有别于佛教与儒教的本土之道，并随之努力在当下复兴此道。多数学者就德川时期这些研究的主要领袖意见一致，认为本居宣长（1730—1801）是其最伟大的思想家，平田笃胤（1776—1843）则是最有成效的普及者。
+    step2: |-
+      国学（kokugaku）在最宽泛的意义上，曾指以日本而非中国为关注对象的学问。然而在 18、19 世纪，它转为较窄的含义，指一种努力：从日本最古老的文献中辨识出一种有别于佛教与儒教的本土之道，并随之努力在当下复兴此道。多数学者就德川时期这些研究的主要领袖意见一致，认为本居宣长（1730—1801）是其最伟大的思想家，平田笃胤（1776—1843）则是最有成效的普及者。
+  - id: 2
+    kind: body
+    source: |-
+      Motoori Norinaga saw the roots of the discipline in Keichū’s (1640–1701) use of historical linguistics to analyze the eighth-century collection of poems called *Man’yōshū*, whereas Atsutane found it in the Japanese-studies academic efforts of Kada no Azumamaro (1669–1736). Both included Kamo no Mabuchi (1697–1769) in their list of founders. In any case, after Hirata Atsutane, the lineage of Kokugaku’s leaders became more complex as the new Meiji state used Kokugaku notions of racial identity and cultural superiority to mobilize support for Japan’s nationalist ideology and purported international destiny. After 1945 such notions of racial identity and cultural superiority were briefly considered taboo and replaced by less toxic arguments regarding Japanese uniqueness, though these too have morphed yet again into the broad category of *Nihonjinron*, “theories of Japaneseness” which is a major strain within contemporary Japanese popular culture.
+    step1: |-
+      本居宣长把这一学科的根源追溯到契冲（1640—1701）运用历史语言学分析 8 世纪诗集《万叶集》（Man’yōshū）的工作；平田笃胤则把它追溯到荷田春满（1669—1736）的日本研究学术努力。两人都把贺茂真渊（1697—1769）列入奠基者名单。无论如何，平田笃胤之后，国学领袖的谱系变得更为复杂：新兴的明治国家利用国学的种族认同与文化优越观念，为日本民族主义意识形态及其所谓的国际使命争取支持。1945 年之后，此类种族认同与文化优越观念一度被视为禁忌，取而代之的是关于日本独特性的较温和论说；不过这些论说也再度演变为宽泛的“日本人论”（Nihonjinron）范畴，即“日本性理论”，它是当代日本流行文化中的一大支脉。
+    step2: |-
+      本居宣长把这一学科的根源追溯到契冲（1640—1701）运用历史语言学分析 8 世纪诗集《万叶集》（Man’yōshū）的工作；平田笃胤则把它追溯到荷田春满（1669—1736）的日本研究学术努力。两人都把贺茂真渊（1697—1769）列入奠基者名单。无论如何，平田笃胤之后，国学领袖的谱系变得更为复杂：新兴的明治国家利用国学的种族认同与文化优越观念，为日本民族主义意识形态及其所谓的国际使命争取支持。1945 年之后，此类种族认同与文化优越观念一度被视为禁忌，取而代之的是关于日本独特性的较温和论说；不过这些论说也再度演变为宽泛的“日本人论”（Nihonjinron）范畴，即“日本性理论”，它是当代日本流行文化中的一大支脉。
+  - id: 3
+    kind: heading
+    source: |-
+      ## 1. Matters of Definition
+    step1: |-
+      ## 1. 定义问题
+    step2: |-
+      ## 1. 定义问题
+  - id: 4
+    kind: body
+    source: |-
+      The Japanese word *kokugaku* has been variously translated into English and this makes simple definition difficult. English terms like ‘Japan Studies’, ‘National Learning/Studies’, ‘nativism’ and ‘essentialism’ all have their advocates. One approach is to think of *kokugaku* as having broad and narrow meanings. Scholarship of all sorts expanded dramatically in Japan during the seventeenth century spurred on by relative tranquility, and increasing levels of prosperity and literacy. Alongside the more traditional studies of China, there arose new historical studies of things Japanese—history, literature, philology, poetics, customs, mythology, the tradition of *kami* worship and so on. Collectively those forms of Japanese studies can be thought of as *kokugaku* in the broad sense.
+    step1: |-
+      日语词“国学”（kokugaku）在英语中有过多种译法，这使简单定义变得困难。“Japan Studies”“National Learning/Studies”“nativism”“essentialism”等英语术语各有拥护者。一种思路是把国学视为具有广、狭二义。17 世纪的日本，在相对太平以及日益繁荣和识字率提高的推动下，各种学问急剧扩展。在较为传统的中国研究之外，出现了关于日本事物的新历史研究——历史、文学、文献学、诗学、风俗、神话、神（kami）崇拜传统等等。这些日本研究形态可合称为广义的国学。
+    step2: |-
+      日语词“国学”（kokugaku）在英语中有过多种译法，这使简单定义变得困难。“Japan Studies”“National Learning/Studies”“nativism”“essentialism”等英语术语各有拥护者。一种思路是把国学视为具有广、狭二义。17 世纪的日本，在相对太平以及日益繁荣和识字率提高的推动下，各种学问急剧扩展。在较为传统的中国研究之外，出现了关于日本事物的新历史研究——历史、文学、文献学、诗学、风俗、神话、神（kami）崇拜传统等等。这些日本研究形态可合称为广义的国学。
+  - id: 5
+    kind: body
+    source: |-
+      More narrowly, some of these studies in the eighteenth century came to focus on Japanese distinctiveness principally vis a vis China, which was now posited as an Other whose historical influence on Japan was construed as harmful. In the nineteenth century the frame of reference expanded to include Europe and the world as a whole. This nativist essentialism was also sometimes called *kokugaku*, and it came to be the crucible in which Japanese identity was forged. One interpretation was that to be Japanese was to partake in an intuitive conformity with the rhythms of nature, and to possess an untutored heart-mind that fostered the ancient arcadia. Yet another interpretation was that the Japanese people were descended from and as varied as the innumerable *kami*, some good and some bad, but unmistakably blessed when taken as a whole.
+    step1: |-
+      就狭义而言，其中一些研究在 18 世纪转而主要相对于中国来关注日本的独特性；此时中国被设定为一个“他者”，其历史上对日本的影响被解释为有害。到 19 世纪，参照系扩展到包括欧洲乃至整个世界。这种本土主义式的本质主义有时也被称为国学，它逐渐成为锻造日本认同的坩埚。一种解释是：身为日本人，就是凭直觉顺应自然的节律，并拥有一颗未受教化、滋养了古代田园乐土的心（heart-mind）。另一种解释是：日本民族是无数神（kami）的后裔，并且像这些神一样多种多样，有些善、有些恶，但作为整体则显然蒙受祝福。
+    step2: |-
+      就狭义而言，其中一些研究在 18 世纪转而主要相对于中国来关注日本的独特性；此时中国被设定为一个“他者”，其历史上对日本的影响被解释为有害。到 19 世纪，参照系扩展到包括欧洲乃至整个世界。这种本土主义式的本质主义有时也被称为国学，它逐渐成为锻造日本认同的坩埚。一种解释是：身为日本人，就是凭直觉顺应自然的节律，并拥有一颗未受教化、滋养了古代田园乐土的心（heart-mind）。另一种解释是：日本民族是无数神（kami）的后裔，并且像这些神一样多种多样，有些善、有些恶，但作为整体则显然蒙受祝福。
+  - id: 6
+    kind: body
+    source: |-
+      Strictly speaking, Kokugaku during the Tokugawa period (1600–1868) was neither a movement nor a school but rather a succession of schools—private academies—that had their own distinctive orientations and specialties, and in the analysis that follows we will begin by following the lead of Japanese scholarship by seeing the essence of Kokugaku in the writings of its Tokugawa-era paragons: Keichū, Azumamaro, Mabuchi, Norinaga, and Atsutane.
+    step1: |-
+      严格说来，德川时期（1600—1868）的国学既不是一场运动，也不是一个学派，而是一系列相继出现的学派——私立学堂——各有其独特取向与专长。在接下来的分析中，我们将首先依循日本学界的做法，从其德川时代典范人物——契冲、荷田春满、贺茂真渊、本居宣长与平田笃胤——的著作中把握国学的本质。
+    step2: |-
+      严格说来，德川时期（1600—1868）的国学既不是一场运动，也不是一个学派，而是一系列相继出现的学派——私立学堂——各有其独特取向与专长。在接下来的分析中，我们将首先依循日本学界的做法，从其德川时代典范人物——契冲、荷田春满、贺茂真渊、本居宣长与平田笃胤——的著作中把握国学的本质。
+  - id: 7
+    kind: body
+    source: |-
+      After the Meiji Restoration of 1868 Kokugaku became an ideologically charged academic field that was harnessed to create empire and imperial subjects at home and abroad. It also spawned related enquiries into folklore and ethnography. Following Japan’s military defeat and during the Allied Occupation 1945–52, aside from a handful of places such as Kokugaku-in University, Kokugaku was stripped of its imperial and spiritual coloring, leaving behind sterilized notions of what was asserted to be uniquely Japanese about Japan and its people. From roughly the 1980s these came to be grouped under the rubric *Nihonjinron* or theories of Japaneseness, reintroducing a spiritual component that can be seen in the animism characteristic of much *anime* and “soft power” diplomacy. As a result, the word *kokugaku* is no longer used in contemporary discourse to refer to present-day nativist or essentialist scholarship.
+    step1: |-
+      1868 年明治维新之后，国学成为一个带有意识形态色彩的学术领域，被用来在国内外塑造帝国与帝国臣民。它还催生了有关民俗学与民族志的相关研究。日本战败后，在 1945—1952 年盟军占领期间，除国学院大学等少数机构外，国学被剥去其帝国与精神色彩，只留下被消毒化的观念，即关于日本及日本民族何以独特的种种主张。大约从 1980 年代起，这些观念被归入“日本人论”（Nihonjinron）或日本性理论的范畴，并重新引入一种精神成分；这种成分可见于许多动画（anime）特有的万物有灵论以及“软实力”外交之中。结果是，在当代话语中，“国学”一词不再用来指称当下的本土主义或本质主义学术。
+    step2: |-
+      1868 年明治维新之后，国学成为一个带有意识形态色彩的学术领域，被用来在国内外塑造帝国与帝国臣民。它还催生了有关民俗学与民族志的相关研究。日本战败后，在 1945—1952 年盟军占领期间，除国学院大学等少数机构外，国学被剥去其帝国与精神色彩，只留下被消毒化的观念，即关于日本及日本民族何以独特的种种主张。大约从 1980 年代起，这些观念被归入“日本人论”（Nihonjinron）或日本性理论的范畴，并重新引入一种精神成分；这种成分可见于许多动画（anime）特有的万物有灵论以及“软实力”外交之中。结果是，在当代话语中，“国学”一词不再用来指称当下的本土主义或本质主义学术。
+  - id: 8
+    kind: heading
+    source: |-
+      ## 2. The Emergence of Kokugaku
+    step1: |-
+      ## 2. 国学的兴起
+    step2: |-
+      ## 2. 国学的兴起
+  - id: 9
+    kind: heading
+    source: |-
+      ### 2.1 Keichū (1640–1701)
+    step1: |-
+      ### 2.1 契冲（1640—1701）
+    step2: |-
+      ### 2.1 契冲（1640—1701）
+  - id: 10
+    kind: body
+    source: |-
+      Because the preeminent Motoori Norinaga located a genesis for his own studies in the scholarship of Keichū, most students of Kokugaku today accept Keichū as at least its forerunner. Keichū had a solidly samurai pedigree, though his father and grandfather fared poorly after 1600 under the new Tokugawa regime. He had a rigorous early education supervised by his mother, and at the age of 12 to fulfill a parental vow began the ten-year path to ordination in the Shingon Buddhist priesthood, becoming a high priest (*Ajari*) in 1663.
+    step1: |-
+      由于卓越的本居宣长把自己学问的起源定位于契冲的学术，今天大多数国学研究者至少把契冲视为其先驱。契冲有纯正的武士家世，尽管其父与祖父在 1600 年后德川新政权下境遇不佳。他幼年受母亲督导，接受了严格教育；12 岁时，为还父母之愿，他开始走上历时十年的真言宗（Shingon）佛教僧侣受戒之路，并于 1663 年成为高僧（阿阇梨，Ajari）。
+    step2: |-
+      由于卓越的本居宣长把自己学问的起源定位于契冲的学术，今天大多数国学研究者至少把契冲视为其先驱。契冲有纯正的武士家世，尽管其父与祖父在 1600 年后德川新政权下境遇不佳。他幼年受母亲督导，接受了严格教育；12 岁时，为还父母之愿，他开始走上历时十年的真言宗（Shingon）佛教僧侣受戒之路，并于 1663 年成为高僧（阿阇梨，Ajari）。
+  - id: 11
+    kind: body
+    source: |-
+      Keichū developed an interest in traditional *waka*, (31-syllable) Japanese verse, including the verses in Japan’s most ancient extant poetry anthology, the eighth-century *Man’yōshū*. One feature of seventeenth-century Japanese poetics was an awakening interest in the anthology, but only about 10% of its 4400 poems were accessible to Keichū’s contemporaries owing to the arcane method of its original transcription. To remedy this lacuna the Daimyo of Mito commissioned a commentary, the responsibility for which, in a roundabout fashion, devolved upon Keichū. It was for that philological work that he remains best known.
+    step1: |-
+      契冲对传统和歌（waka）——一种每首 31 音节的日本诗歌——产生了兴趣，其中包括日本现存最古老的诗集、8 世纪《万叶集》中的作品。17 世纪日本诗学的一个特征是，人们开始对这部诗集产生兴趣；但由于其原始书写方式古奥难解，契冲的同时代人只能读到其中 4,400 首诗的大约 10%。为弥补这一缺憾，水户藩的大名（Daimyo）委托编纂一部注释书，这项责任几经周折落到了契冲身上。他正是因这项文献学工作而最为后世所知。
+    step2: |-
+      契冲对传统和歌（waka）——一种每首 31 音节的日本诗歌——产生了兴趣，其中包括日本现存最古老的诗集、8 世纪《万叶集》中的作品。17 世纪日本诗学的一个特征是，人们开始对这部诗集产生兴趣；但由于其原始书写方式古奥难解，契冲的同时代人只能读到其中 4,400 首诗的大约 10%。为弥补这一缺憾，水户藩的大名（Daimyo）委托编纂一部注释书，这项责任几经周折落到了契冲身上。他正是因这项文献学工作而最为后世所知。
+  - id: 12
+    kind: body
+    source: |-
+      In terms of the Kokugaku tradition, three factors stand out in terms of why later *Kokugakusha* (native studies scholars) came to see him as a pioneer of their own work. First was Keichū’s near-mystical reverence for *waka*. By tradition *waka* were thought to be an invention of the *kami* rendering them ultimately beyond human ken, and Keichū felt this numinous quality intensely. Second was the relative sophistication of Keichū’s philology, which balanced historical linguistic analysis with an intuitive sense of the meaning behind the text. Later scholars attributed this to Keichū’s earlier study of Sanskrit as part of his study for the Shingon Buddhist priesthood. And third was his representation of the ancient pre-Buddhist and pre-Confucian past as the “land of the *kami*” (*shinkoku*) characterized by a simple self-sufficiency rooted in the native Way.
+    step1: |-
+      就国学传统而言，有三项因素使后来的国学者（Kokugakusha）把他视为自身工作的先驱。第一是契冲对和歌近乎神秘的崇敬。按传统，和歌被认为是神的发明，因而最终超出人的理解；契冲深切感受到这种神圣性。第二是契冲文献学的相对精深，它在历史语言分析与对文本背后意义的直觉把握之间取得平衡。后来的学者把这一点归因于契冲早年为真言宗佛教僧职而学习梵语的经历。第三是他把佛教以前、儒教以前的古代描绘为“神国”（shinkoku），其特征是一种植根于本土之道的质朴自足。
+    step2: |-
+      就国学传统而言，有三项因素使后来的国学者（Kokugakusha）把他视为自身工作的先驱。第一是契冲对和歌近乎神秘的崇敬。按传统，和歌被认为是神的发明，因而最终超出人的理解；契冲深切感受到这种神圣性。第二是契冲文献学的相对精深，它在历史语言分析与对文本背后意义的直觉把握之间取得平衡。后来的学者把这一点归因于契冲早年为真言宗佛教僧职而学习梵语的经历。第三是他把佛教以前、儒教以前的古代描绘为“神国”（shinkoku），其特征是一种植根于本土之道的质朴自足。
+  - id: 13
+    kind: body
+    source: |-
+      As Keichū wrote in his commentary on the *Man’yōshū*:
+    step1: |-
+      契冲在《万叶集》注释中写道：
+    step2: |-
+      契冲在《万叶集》注释中写道：
+  - id: 14
+    kind: quote
+    source: |-
+      > Japan is the land of the *kami*. Therefore in both our histories and our government administration, we have always given priority to the *kami* and always placed humans second. In high antiquity, our rulers governed this land exclusively by means of Shinto…, and there was no philosophizing of the sort one finds in Confucian classics and Buddhist writings. (c. 1690, *Man’yō daishōki: zassetsu*, adapted from SJTa: 395)
+    step1: |-
+      > 日本是神之国。因此，在我们的史书与政务管理中，我们始终以神为先，始终把人置于其次。在上古，我们的统治者完全以神道（Shinto）治理此土……，并无儒典与佛书中所见的那种哲理化。（约 1690 年，《万叶代匠记·杂说》，据 SJTa: 395 改译）
+    step2: |-
+      > 日本是神之国。因此，在我们的史书与政务管理中，我们始终以神为先，始终把人置于其次。在上古，我们的统治者完全以神道（Shinto）治理此土……，并无儒典与佛书中所见的那种哲理化。（约 1690 年，《万叶代匠记·杂说》，据 SJTa: 395 改译）
+  - id: 15
+    kind: body
+    source: |-
+      Additionally in his later retirement from active priesthood Keichū produced a number of studies of Japan’s other major poetry anthologies, treatises on ancient Japanese language, and studies of the emergent canon of literary and historical prose works, all of which resonated with the topics taught in later Kokugaku academies.
+    step1: |-
+      此外，契冲晚年退出僧职后，还撰写了若干关于日本其他重要诗集的研究、关于古代日语的论著，以及关于正在形成的文学与历史散文正典的研究；这些都与后来国学学堂所授课题相呼应。
+    step2: |-
+      此外，契冲晚年退出僧职后，还撰写了若干关于日本其他重要诗集的研究、关于古代日语的论著，以及关于正在形成的文学与历史散文正典的研究；这些都与后来国学学堂所授课题相呼应。
+  - id: 16
+    kind: heading
+    source: |-
+      ### 2.2 Kada no Azumamaro (1666–1736)
+    step1: |-
+      ### 2.2 荷田春满（1669—1736）
+    step2: |-
+      ### 2.2 荷田春满（1669—1736）
+  - id: 17
+    kind: body
+    source: |-
+      Raised in the environment of the Inari Shinto Shrine in Fushimi just south of Kyoto, Azumamaro moved to Edo in 1700 lecturing on Shinto topics to a small school of mostly priests, and establishing a reputation as an authority on antiquarian matters. Perhaps inspired by Itō Jinsai’s success during the 1680s in establishing a Confucian private academy in Kyoto, and also perhaps by the Hayashi family’s success in garnering Bakufu support for a Confucian academy in Edo, Azumamaro also sought potential sponsors for his dream of founding a school dedicated to Japanese studies.
+    step1: |-
+      荷田春满在京都以南伏见稻荷神宫的环境中长大，1700 年迁往江户，向一所主要由神职人员组成的小学堂讲授神道题目，并确立了古物研究权威的声誉。他或许受到伊藤仁斋于 1680 年代在京都成功创办一所儒家私立学堂的启发，或许也受到林家成功争取幕府（Bakufu）支持在江户设立儒家学堂的启发，因而也为创办一所专治日本研究的学堂之梦寻找潜在赞助人。
+    step2: |-
+      荷田春满在京都以南伏见稻荷神宫的环境中长大，1700 年迁往江户，向一所主要由神职人员组成的小学堂讲授神道题目，并确立了古物研究权威的声誉。他或许受到伊藤仁斋于 1680 年代在京都成功创办一所儒家私立学堂的启发，或许也受到林家成功争取幕府（Bakufu）支持在江户设立儒家学堂的启发，因而也为创办一所专治日本研究的学堂之梦寻找潜在赞助人。
+  - id: 18
+    kind: body
+    source: |-
+      Returning to Fushimi and the Shrine in 1713, Azumamaro’s later writings spanned the entire range of what would become the Kokugaku curriculum: commentaries on prose and poetry classics, studies of ancient histories (especially the 720 CE *Nihon shoki*), historical linguistics, and antiquarian matters generally. The core of his scholarship, however, was Shinto and Shinto-related topics. Azumamaro’s focus was on the most ancient texts, seeking to disentangle the Shinto of his day from centuries of Buddhist syncretism and, less successfully, more recent decades of Confucianized Shinto. Nonetheless, he did champion Shinto and its ancient links with the monarchy as the native Japanese Way, the essence of Japaneseness, and the principal factor behind the historical stability of the Japanese polity.
+    step1: |-
+      1713 年，春满回到伏见与神宫；他后来的著作涵盖了后来成为国学课程的全部范围：对散文与诗歌经典的注释、对古代史（尤其是公元 720 年的《日本书纪》，Nihon shoki）的研究、历史语言学，以及一般意义上的古物研究。然而，其学术核心是神道及与神道相关的题目。春满的关注点是最古老的文本，力图把他那个时代的神道从数百年佛教混合主义中，以及（不那么成功地）从近数十年儒家化的神道中剥离出来。尽管如此，他确实把神道及其与王权的古老联系标举为日本的本土之道、日本性的本质，以及日本政体历史稳定性的首要因素。
+    step2: |-
+      1713 年，春满回到伏见与神宫；他后来的著作涵盖了后来成为国学课程的全部范围：对散文与诗歌经典的注释、对古代史（尤其是公元 720 年的《日本书纪》，Nihon shoki）的研究、历史语言学，以及一般意义上的古物研究。然而，其学术核心是神道及与神道相关的题目。春满的关注点是最古老的文本，力图把他那个时代的神道从数百年佛教混合主义中，以及（不那么成功地）从近数十年儒家化的神道中剥离出来。尽管如此，他确实把神道及其与王权的古老联系标举为日本的本土之道、日本性的本质，以及日本政体历史稳定性的首要因素。
+  - id: 19
+    kind: body
+    source: |-
+      Azumamaro’s contributions to later Kokugaku lie in the Shinto tone he set, the methodology of historical linguistics he championed, the binary opposition with Chinese studies he established, the institutional development of the nativist private academy, and the accomplishments of his students.
+    step1: |-
+      春满对后来国学的贡献在于：他奠定的神道基调、他倡导的历史语言学方法、他建立起来的与中国研究的二元对立、本土主义私立学堂的制度发展，以及其学生的成就。
+    step2: |-
+      春满对后来国学的贡献在于：他奠定的神道基调、他倡导的历史语言学方法、他建立起来的与中国研究的二元对立、本土主义私立学堂的制度发展，以及其学生的成就。
+  - id: 20
+    kind: body
+    source: |-
+      Many scholars credit Azumamaro with petitioning the Bakufu in 1728 to found a school of Kokugaku. Though nothing came of it, the Petition represents a succinct statement of Kokugaku’s aims and the Kada School’s vigorous rationale for it:
+    step1: |-
+      许多学者把 1728 年向幕府请愿创办国学学堂归功于春满。尽管请愿未果，它仍简明陈述了国学的目标以及荷田学派为其提出的有力理由：
+    step2: |-
+      许多学者把 1728 年向幕府请愿创办国学学堂归功于春满。尽管请愿未果，它仍简明陈述了国学的目标以及荷田学派为其提出的有力理由：
+  - id: 21
+    kind: quote
+    source: |-
+      > Alas, how ignorant the Confucian scholars were of the past, not knowing a single thing about the imperial Japanese learning…. False doctrines are rampant, taking advantage of our weakness…. If the old words are not understood, the old meanings will not be clear. If the old meanings are not clear, the old learning will not revive. The Way of the former kings is disappearing; the ideas of the wise men of antiquity have almost been abandoned. The loss will not be a slight one if we fail now to teach philology. (SJTa: 401–402)
+    step1: |-
+      > 唉，儒者对于过去何其无知，对日本皇学一无所知……。邪说横行，乘我之弱……。若不通古语，古义便不明；若古义不明，古学便不复兴。先王之道正在消亡，古圣贤的思想几乎被弃置。倘若我们如今再不讲授文献学，损失将非同小可。（SJTa: 401–402）
+    step2: |-
+      > 唉，儒者对于过去何其无知，对日本皇学一无所知……。邪说横行，乘我之弱……。若不通古语，古义便不明；若古义不明，古学便不复兴。先王之道正在消亡，古圣贤的思想几乎被弃置。倘若我们如今再不讲授文献学，损失将非同小可。（SJTa: 401–402）
+  - id: 22
+    kind: body
+    source: |-
+      After Azumamaro’s death in 1736, the center of native studies shifted from Kyoto to Edo, where Azumamaro’s scholarship was already represented by his adopted son Arimaro (1706–51). Arimaro was then joined in Edo by another of his father’s students, Kamo no Mabuchi, whose *magnum opus* would be a comprehensive study of *Man’yōshū* and the effort to glean from it an authentic ancient native Way believed to be encoded within its verses.
+    step1: |-
+      1736 年春满去世后，本土研究的中心从京都转移到江户；在江户，春满的学问已由其养子荷田在满（1706—1751）承接。随后，春满的另一位学生贺茂真渊也来到江户与在满会合；真渊的代表作将是对《万叶集》的全面研究，以及力图从中发掘出一种被认为编码于其诗行之中的纯正古代本土之道。
+    step2: |-
+      1736 年春满去世后，本土研究的中心从京都转移到江户；在江户，春满的学问已由其养子荷田在满（1706—1751）承接。随后，春满的另一位学生贺茂真渊也来到江户与在满会合；真渊的代表作将是对《万叶集》的全面研究，以及力图从中发掘出一种被认为编码于其诗行之中的纯正古代本土之道。
