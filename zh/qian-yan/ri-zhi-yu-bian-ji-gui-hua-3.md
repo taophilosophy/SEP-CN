@@ -259,3 +259,11 @@
 * **结论·B 不进翻译管线**：项目 oracle 是对 en/ 保真（I2/I3 重放已机械等值），公式转录已有 check_math_zh＋MathJax 全源覆盖；en 全库显式 Proof 节仅 30 件（2421 件 en 中），SEP 证明多为非正式概要，形式化需重构而非校验；2026 综述钉：“编译通过≠忠实表达源意图”（specification fidelity 未解）。**可另立独立衍生战役“机械化编目”**：对接既有 sorry-free 成果（FFL 哥德尔 I/II 2024-09、Solovay GL 2025-04、Löwenheim–Skolem、Löb、Tarski、ZFC 相对一致性；AFP Popescu/Traytel），只做引用对接与译注，低成本高学术价值；哲学逻辑推导校验更贴 Carnap（50+ 教材级形式系统）而非 Lean。
 * **外部事实钉**：Lean v4.35.0（2026-10-12）月度发版无 semver；mathlib 约 248 万行／29.1 万定理／772 贡献者，Mathlib Initiative 缓存基建迁移中（2026 Q4–2027 Q1）；Aristotle IMO 2025 金牌等价 5/6（仅题面人工形式化，200B+ 模型）；Gauss 强 PNT 3 周 2.5 万行但“依赖人类专家自然语言脚手架”；Lean 4.35 `lake check` 沙箱 Linux-only。
 * **门禁**：复跑 21/23 绿；2 红为会话外工件（`.mimosa` 安全扫描插件、`.screenshots` 浏览器工具目录，根目录未登记），未触碰、未处置。
+
+## 2026-11-28 065 立项（Lean 引入处置与机械化编目）
+
+* **用户指令**：立 065 任务书和 specs，不要与 064 任务书重复（2026-11-28）。
+* **产出**：`specs/065-lean-formalization/spec.md`（rev 1：决策 D-1–D-6、外部事实钉 §2、与 064 边界表 §3、工作包 W0–W3、重评触发 §6）＋`tasks.md`（T001–T008；W2／W3 待裁定不预写号）＋`results/README.md`。
+* **边界登记**：064 §0.3.6“不另立 065”只约束其自身建议线；本卡为用户新指令所立独立论域（Lean／形式化处置），与 064 的流程审计／标准映射／E2E／TBX／测试补齐逐域划界。
+* **索引**：`spec_index.py` 重生成，+065 行（63→64 规格目录）；`--check` 一致。
+* **门禁**：定向复跑——layout L3／L4＝0、docsize OK、junk 仅 `.mimosa`（外部插件目录）红，本卡零违规。
