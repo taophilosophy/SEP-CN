@@ -9,7 +9,7 @@
 
 | 任务 | 检查点 | 落点 | 验收结果 | 结论 |
 | ---- | ---- | ---- | ---- | ---- |
-| T313 | CP-S14-32 | `t175-rule-sync.md` | 6 源 18 项；每项有差异／落点／优先级；P1 5 项；无悬空 | 通过 |
+| T313 | CP-S14-32 | `t175-rule-sync.md` | 6 源 18 项；每项有差异／落点／优先级；P1 5 项已同步；无悬空 | 通过 |
 | T314 | CP-S14-33 | `t175-pilot-plan.md` | 11 件×P0–P6；每件有证据清单；全部内部边界 | 通过 |
 | T315 | CP-S14-34 | `t175-pilot-record-template.md` | spec／角色／TBX／full PE／评分卡／编校／归档字段齐；失败样本要求可复现 | 通过 |
 | T316 | CP-S14-35 | `t175-g5-checklist.md` | 三项检查；T170–T175 是、差异表是、pilot 基线否；G5 未通过 | 通过（检查单） |
@@ -19,11 +19,23 @@
 
 - `python tools/check_t175.py`：rule_sync／pilot_plan／g5／closure 全部 0 errors。
 - `python -m unittest tools.tests.test_t175`：**5 tests OK**（含缺源、缺件、G5 误判、收口缺句反例）。
-- `python tools/check_all.py`：**23 项，失败 0，全绿**。
+- `python tools/check_all.py`：**24 项，失败 0，全绿**（新增「流程 v2 校验」聚合门）。
 
 ## 3 边界与交接
 
 - 本批**未执行 11 件 pilot**：计划与模板已出，P0–P6 均未跑；G5 第 2 项为“否”，故 G5 未通过，不得扩量。
 - 本批**未执行翻译**：未改 `zh/`、`en/`、`html/`、`yuanwen/`、ledger；未改 `tasks/*.json` 状态。
-- P1 差异 5 项（rules/04 评分卡指针、rules/04 P5–P7、rules/05 工具表、rules/05 门禁、specs/061 缺口状态）须在 pilot 前同步；本批只登记，不改规则。
+- P1 差异 5 项已于 2026-11-28 同步：rules/04 评分卡与 P5–P7 指针、rules/05 工具表、`check_v2.py` 入 `check_all`、specs/061 缺口状态；P1 待办为 0。
+
+## 4 G5 修复记录（2026-11-28）
+
+| P1 项 | 落点 | 证据 |
+| ---- | ---- | ---- |
+| rules/04 评分卡／P5–P7 | `rules/04` 复核独立性段 | 指向 `rules/10` §10.4、`rules/09` §5.1 |
+| rules/05 工具表 | `rules/05/tools.md` | 7 个新工具登记 |
+| 新校验器入门禁 | `tools/check_v2.py`＋`tools/check_all.py` | `流程 v2 校验` 聚合门；6 项通过 |
+| specs/061 缺口状态 | `specs/061/spec.md` §1、§6 | G3／G4／G6／G8 标已关闭 |
+| 差异表状态 | `t175-rule-sync.md` | 5 项 P1 标“已同步” |
+
+G5 仍因 **11 件 pilot 未执行、基线未测** 未通过；本次只修 P1 可行动项。
 - 下一步：用户决定是否启动 pilot；启动后按模板逐件记录并测八项基线，G5 三项齐全后再评估扩量。

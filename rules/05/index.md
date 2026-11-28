@@ -20,4 +20,5 @@
 | [shell-discipline.md](shell-discipline.md) | 本机 shell 工具纪律（Windows + Git Bash 实测判据） |
 
 * 新增门禁/工具时：先改 `tools/check_all.py` 的 `GATES`（CI 矩阵自动跟随），再在 [tools.md](tools.md) 工具表与 [ci-workflows.md](ci-workflows.md) 工作流条目登记；判定权归属在 [judgment-rights.md](judgment-rights.md) 认领。
+* 流程 v2 校验（T172–T175）：`tools/check_v2.py` 聚合 TBX、风险矩阵、模型登记、评分卡、治理与 T175 清单六项，已入 `check_all` GATES；子工具见 [tools.md](tools.md)。
 * 本目录内引用其他规则用相对路径 `../0X-*.md`，引用 ADR 用 `../adr/`。

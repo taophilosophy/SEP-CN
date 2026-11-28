@@ -61,6 +61,7 @@ GATES = [
     ("目录四方重放网络", "catalog-net", "tools/check_catalog_network.py --gate"),
     ("规范登记册一致性", "standards", "specs/046-standards-compliance/bin/verify_standards.py"),
     ("规范标准表同步", "standards-table", "tools/standards_table.py --check"),
+    ("流程 v2 校验", "v2-checks", "tools/check_v2.py"),
     ("术语概念层（ADR-0084 D5=B，2026-12-01 起新登记）", "term-concepts", "tools/check_term_concepts.py"),
 ]
 UNIT_TESTS = ("管线单元测试", "unittest", "-m unittest discover -s tools/tests")

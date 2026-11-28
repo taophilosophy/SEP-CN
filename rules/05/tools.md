@@ -10,7 +10,14 @@
 | `baseline_audit.py` | 基线清单审计（哈希、版本钉一致性）；双账感知（ADR-0046）：已登记分歧且账目相符者计入 `divergent_registered` 不作 `hash_fail` |
 | `divergence.py` | 原始物分歧账门禁（ADR-0045）：`verify` 三账一致（台账原始钉 ↔ 现文件 ↔ 登记；未登记的静默改 `en/` 即退出码 1，CI 经 check_all 覆盖）；`--deep` 加核 `base_commit` 的 git blob（本地，需完整历史）；`register`/`carry`（三方合并逆向补丁随迁，冲突退出码 3 转人工，`--merged` 复跑，随迁即归档新上游快照并前移钉）/`unregister`/`patch`/`list` |
 | `drift_scan.py` | 全量回源 sha 核对（ADR-0045 跟进项，一次性豁免令 2026-11-15）：1872 词条 live index.html 对原始钉只读审计；64路×10s 已验证并发配置，逐请求留痕、429/5xx 退避不变；报告落盘 specs/001 results/drift-scan-<ts>.json；不进 CI（批量任务按需跑） |
-| `task_ops.py` | 文档任务状态机（show / create / advance / clear / block） |
+| `task_ops.py` | 文档任务状态机（show / create / advance / clear / block / competence；状态机与闸门见 rules/04） |
+| `term_tbx.py` | TBX-Core 导出／校验／迁移样本（T172）：`--check`、`--sample-out`、`--sample-views` |
+| `check_risk_matrix.py` | 风险分级矩阵校验（T172；A／B／C、出版 full PE、Critical＝0） |
+| `check_model_registry.py` | 模型／提示登记校验（T172；provider／model／version／params／数据条款） |
+| `check_qa_scorecard.py` | ISO 5060 评分卡校验与计分（T173；`--score` 按件计分） |
+| `qa_sample.py` | H2 分层抽样计划（T173；每层≥1、总量≥max(20,10%)、sha256 定序） |
+| `check_governance.py` | 归档／留存／度量／AI 治理／发布后校验（T174） |
+| `check_t175.py` | T175 差异表／pilot 计划／G5／收口校验 |
 | `check_style.py` | 体例检查（引号、quote-spacing、空格、HTML/AsciiDoc 残留、italic-cjk；输出 JSON）；`--connector-scan` 连接号形态告警（connector-form，GB/T 15834 §4.13，ADR-0041，告警级不进 CI） |
 | `check_prose.py` | 语言质量预检（ADR-0020，**告警级**，不进 CI）：长句、被动、弱动词、“的”链、类名“们”、作为一个、存在着、当…的时候 八则＋时态词冗余、并列连词接动词、“成功地” 三则（2026-11-14 扩项，specs/027）反欧化模式；输出 JSON，默认退出码 0，`--strict` 升硬 |
 | `axis_lib.py` | 六轴工序共享库（ADR-0079，非 CLI）：保护域掩码（代码/公式/URL/参考文献）、散句与段落块、直引抽取、语种判定（BCP 47 映射）、目标枚举 |
