@@ -21,9 +21,9 @@ import sys
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from tools import fetch, parser
-from tools.common import (ensure_dirs, find_zh_doc, load_json, repo_path,
-                          sha256_bytes, sha256_file, utcnow_iso,
-                          write_json_verified)
+from tools.common import (ROOT as REPO_ROOT, contained_path, ensure_dirs,
+                          find_zh_doc, load_json, repo_path, sha256_bytes,
+                          sha256_file, utcnow_iso, write_json_verified)
 from tools.divergence import load_divergences
 
 BASE = fetch.BASE
@@ -115,7 +115,7 @@ def fetch_one(slug, force, archive_edition=None):
     rec["zh_doc"] = ("zh/" + zh) if zh else None
 
     def save(relpath, payload):
-        path = os.path.join(edir, relpath.replace("/", os.sep))
+        path = contained_path(edir, relpath.replace("/", os.sep), root=REPO_ROOT)
         same = (os.path.exists(path) and sha256_file(path) == sha256_bytes(payload))
         if force or not same:
             with open(path, "wb") as f:

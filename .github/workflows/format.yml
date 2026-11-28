@@ -29,7 +29,7 @@ jobs:
       contents: read
     steps:
       - name: Checkout
-        uses: actions/checkout@v7
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1  # v7
         with:
           fetch-depth: 0
 
@@ -42,20 +42,31 @@ jobs:
 
       - name: 过滤禁改区（原文、镜像、脚本、夹具不进 lint）
         id: filter
+        env:
+          # PR 文件名属不可信输入：经 env 传入，禁止直接插值进 run 脚本（表达式注入）
+          ALL_CHANGED_FILES: ${{ steps.changed.outputs.all_changed_files }}
         run: |
-          files="$(printf '%s\n' "${{ steps.changed.outputs.all_changed_files }}" | tr ',' '\n' \
+          files="$(printf '%s\n' "$ALL_CHANGED_FILES" | tr ',' '\n' \
             | grep -Ev '^(en|yuanwen|script|state|\.zcode|\.specify|tools/tests/fixtures)/|^SUMMARY\.md$' || true)"
-          echo "files=$(printf '%s' "$files" | tr '\n' ' ')" >> "$GITHUB_OUTPUT"
+          # 文件名不进 GITHUB_OUTPUT（固定 heredoc 定界符可能被含换行文件名伪造）；
+          # 只落 runner 临时文件，输出一个常量布尔。
+          : > "$RUNNER_TEMP/lint-files.txt"
+          if [ -n "$files" ]; then
+            printf '%s\n' "$files" | grep -v '^$' > "$RUNNER_TEMP/lint-files.txt"
+            echo "has_files=1" >> "$GITHUB_OUTPUT"
+          else
+            echo "has_files=0" >> "$GITHUB_OUTPUT"
+          fi
 
       - name: Setup Bun
-        if: steps.filter.outputs.files != ''
+        if: steps.filter.outputs.has_files == '1'
         uses: oven-sh/setup-bun@0c5077e51419868618aeaa5fe8019c62421857d6  # v2
 
       - name: markdownlint（只读，告警级）
-        if: steps.filter.outputs.files != ''
+        if: steps.filter.outputs.has_files == '1'
         continue-on-error: true
         run: |
-          bunx markdownlint-cli2 --config .markdownlint-cli2.jsonc ${{ steps.filter.outputs.files }}
+          xargs -r -d '\n' bunx markdownlint-cli2 --config .markdownlint-cli2.jsonc < "$RUNNER_TEMP/lint-files.txt"
 
   fix:
     if: github.event_name == 'workflow_dispatch'
@@ -66,7 +77,7 @@ jobs:
         tool: [markdownlint, autocorrect, md-padding]
     steps:
       - name: Checkout
-        uses: actions/checkout@v7
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1  # v7
 
       - name: Setup Bun
         uses: oven-sh/setup-bun@0c5077e51419868618aeaa5fe8019c62421857d6  # v2

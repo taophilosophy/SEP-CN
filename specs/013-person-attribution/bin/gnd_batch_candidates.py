@@ -32,9 +32,7 @@ PM = 'specs/013-person-attribution/results/person-missing.txt'
 REN = 'ren-ming-biao.md'
 OUT = 'specs/013-person-attribution/results/gnd-candidates-2026-11-26.tsv'
 STATE = 'script/tmp/gnd-batch-state.json'
-CTX = ssl.create_default_context()
-CTX.check_hostname = False
-CTX.verify_mode = ssl.CERT_NONE
+CTX = ssl.create_default_context()  # 默认证书/主机名校验（2026-11-28 安全审计）
 OPENER = urllib.request.build_opener(urllib.request.HTTPSHandler(context=CTX))
 UA = 'SEP-CN-evidence/1.0 (academic metadata verification; repo maintainer)'
 FIELDS = ('gndIdentifier', 'preferredName', 'dateOfBirth', 'dateOfDeath',

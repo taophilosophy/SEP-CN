@@ -77,6 +77,21 @@ def safe_key(key):
     return re.sub(r'[^a-z0-9\u4e00-\u9fff]+', '_', key)[:80].strip('_')
 
 
+_JWT_RE = re.compile(r'eyJ[A-Za-z0-9_-]{10,}\.[A-Za-z0-9_-]{10,}\.[A-Za-z0-9_-]{10,}')
+
+
+def redact_secrets(text):
+    """凭证落盘前脱敏：JWT 与 token=... 查询串不进入证据文件。
+
+    2026-11-28 安全审计：termonline 的 401 响应会把带 token 的回源 URL 写进
+    message；原样落 raw 等于把会话令牌写进公开仓库。
+    """
+    if not text:
+        return text
+    text = _JWT_RE.sub('[REDACTED-JWT]', text)
+    return re.sub(r'(?i)(token(?:=|%3D)(?:%22)?)[^&\s"\\]+', r'\1[REDACTED]', text)
+
+
 # ---------------- providers ----------------
 
 def _tl_standard_fetch(term, timeout):
@@ -276,9 +291,9 @@ def query_with_retry(provider, term, retries=(15, 30, 60), timeout=30):
             status = 'ok' if hits else 'empty'
             return status, hits, note, data, None
         except ChannelSuspect as exc:
-            return 'denied', [], '', None, '%s: %s' % (type(exc).__name__, exc)
+            return 'denied', [], '', None, redact_secrets('%s: %s' % (type(exc).__name__, exc))
         except Exception as exc:  # urllib/JSON 各类失败统一退避
-            err = '%s: %s' % (type(exc).__name__, exc)
+            err = redact_secrets('%s: %s' % (type(exc).__name__, exc))
             if attempt < len(retries):
                 time.sleep(retries[attempt])
     return 'error', [], note, None, err
@@ -381,9 +396,9 @@ def main(argv=None):
         record = {
             'key': key, 'term': display, 'provider': args.provider,
             'queried_at': datetime.now(timezone.utc).isoformat(timespec='seconds'),
-            'status': status, 'note': note, 'hits': hits,
-            'error': err,
-            'raw': None if raw is None else json.dumps(raw, ensure_ascii=False)[:50000],
+            'status': status, 'note': redact_secrets(note), 'hits': hits,
+            'error': redact_secrets(err),
+            'raw': None if raw is None else redact_secrets(json.dumps(raw, ensure_ascii=False))[:50000],
         }
         tmp = path + '.tmp'
         with open(tmp, 'w', encoding='utf-8', newline='\n') as f:

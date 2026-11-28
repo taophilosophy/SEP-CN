@@ -36,19 +36,19 @@ jobs:
 
       # ================= 仓库检出部分 =================
       - name: 检出本项目
-        uses: actions/checkout@v7
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1  # v7
         with:
           path: sep-cn
 
       - name: 检出 gitbook-pdf-export 工具（只读使用，不回写）
-        uses: actions/checkout@v7
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1  # v7
         with:
           repository: FreeBSD-Ask/gitbook-pdf-export
           path: pdf-generator
 
       # ================= 环境配置部分 =================
       - name: 设置 Python 环境
-        uses: actions/setup-python@v7
+        uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0  # v7
         with:
           python-version: '3.15'   # 2026-11-16 用户裁定：导出线随仓基线统一 3.15（原注「暂留 3.13」作废）
 
@@ -68,10 +68,14 @@ jobs:
       # 与前置区一律保留。
       - name: 按首字母过滤 SUMMARY（留空则全量）
         if: ${{ inputs.letters != '' }}
+        env:
+          # workflow_dispatch 输入经 env 传入，避免插值进 Python 源码（表达式注入）
+          LETTERS: ${{ inputs.letters }}
         run: |
           python - <<'PY'
+          import os
           import re
-          letters = {c.strip().lower() for c in "${{ inputs.letters }}".split(',') if c.strip()}
+          letters = {c.strip().lower() for c in os.environ["LETTERS"].split(',') if c.strip()}
           assert letters, 'letters 输入为空'
           link = re.compile(r'\]\(([^)#]+)')
           sect = re.compile(r'^##\s+([A-Za-z])\s*$')
@@ -110,7 +114,7 @@ jobs:
 
       # ================= 产物上传（不创建 Tag/Release） =================
       - name: 上传运行工件
-        uses: actions/upload-artifact@v7
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9  # v7
         with:
           name: SEP-CN-zh-${{ github.run_id }}
           path: |

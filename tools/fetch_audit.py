@@ -25,7 +25,8 @@ import sys
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from tools import fetch
-from tools.common import load_json, repo_path, utcnow_iso
+from tools.common import (ROOT as REPO_ROOT, contained_path, load_json,
+                          repo_path, utcnow_iso)
 
 if (sys.stdout.encoding or "").lower().replace("-", "") != "utf8":
     sys.stdout.reconfigure(encoding="utf-8")
@@ -80,7 +81,8 @@ def audit_slug(slug, fix=False):
     for rel in missing:
         # 缺省件判定：抓一次，404 = 上游本就没有（显式缺省）
         os.makedirs(d, exist_ok=True)
-        status, _data = fetch.get(url_base + rel, dest=os.path.join(d, rel))
+        status, _data = fetch.get(url_base + rel,
+                                  dest=contained_path(d, rel, root=REPO_ROOT))
         if status == 200:
             fixed.append(rel)
         elif status == 404:
