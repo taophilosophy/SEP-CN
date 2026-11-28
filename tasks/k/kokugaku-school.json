@@ -2,7 +2,7 @@
   "slug": "kokugaku-school",
   "kind": "retranslate",
   "zh_doc": "zh/k/kokugaku-school.md",
-  "state": "rv-01_checked",
+  "state": "rv-09_checked",
   "translation_mode": "llm-pe",
   "project_spec": {
     "audience": "中文哲学读者（研究者与研究生为主）",
@@ -52,6 +52,62 @@
       "actor": "trae-main",
       "at": "2026-11-28T05:26:56Z",
       "evidence": "T258 rv-01 三轴（results/t258-rv01.md）：术语轴 check_terms 硬 0（自洽 0）、正文缺登记译法 0、人名缺籍属/生卒 0（终态 768）；登记册改动：Keichū 契沖→契冲（D2）、Matsudaira 松平义建 1800–1862（D2＋勘误）、Sanjō 终态（D5，源文未具名）、Ōkuni 1793／1792 跨历留痕（D5，译文随源 1792）；术语 60 条、人名 29 条覆盖。体例轴 check_style 0、check_quotes 0、check_pairs --gate hard 0/out_of_scope 0；尾序、编号、H1、pubinfo、51 定义闭合。勘误轴 4 行（松平②、荷田春满①、§3.1 方括号、§3.2 花括号），errata-apply 与 note-anchor 0。账本 181 段。"
+    },
+    {
+      "step": "rv-02",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-28T05:32:55Z",
+      "evidence": "T259 rv-02 两轴审计（results/t259-review.md）：账本 181 段与 en 逐块对齐（79 正文／51 脚注／26 标题／19 引块／6 表）；H3 12/12、H4 4/4、表 6/6、定义 51/51、引用 5/5、图 0、公式 0；H2 11 比 en 多译者注释（ADR-0065 允许）；密度破折号 25 对、“一个”19 处均数量义，无 AI 腔；check_math_zh 0、check_style 0、check_academic 无硬错误。"
+    },
+    {
+      "step": "rv-03",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-28T05:32:55Z",
+      "evidence": "T259 rv-03 q1 引文轴（results/t259-review.md）：cite_audit 17 条直引全部 pass；origin_lang=ja、original_status=unavailable、english_source=sep-inline；anchor 指向 en L32–L271；--gate 0、--check-hash 0；日文原著不可得，译文据 SEP 英文引文转译，未代造原文。"
+    },
+    {
+      "step": "rv-04",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-28T05:32:55Z",
+      "evidence": "T259 rv-04 q2 逻辑轴（results/t259-review.md）：logic_audit 303 散句，37 条 logic_bearing 全部 equivalent（reviewer=trae-main）；7 条算子候选逐条复核（all 1、no 5、align 1），均语义等价或词形误报；align 跳过 §3／§4 两节，已由 rv-02 逐段核与 tr-03 逐节核覆盖；--gate 0；q1 hash 不变。"
+    },
+    {
+      "step": "rv-05",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-28T05:32:56Z",
+      "evidence": "T259 rv-05 q3 语法轴（results/t259-review.md）：grammar_audit 10 条告警，G-7@216 删“无论如何”fixed；G-14@27 术语“和歌”假阳性；G-11@85 两处“有的”假阳性；G-11@141／167×2／226 引文内部 waived；G-19@71／75“物哀”已登记术语 waived；G-1／G-5 0、G-7 已修；--gate 0。"
+    },
+    {
+      "step": "rv-06",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-28T05:32:56Z",
+      "evidence": "T259 rv-06 q4 语域轴（results/t259-review.md）：六节全部 R-1，无 R-4／R-5 越界；R-e“蛮”2 条为历史语境蛮夷，false-positive；R-d 0；R-f 称谓统一；样章基准 baseline/register-baseline.md 缺失（全库缺口，已登记 I1）；--gate 0。"
+    },
+    {
+      "step": "rv-07",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-28T05:32:56Z",
+      "evidence": "T259 rv-07 q5 计量轴（results/t259-review.md）：measure_audit 量值 2 条（10%、80%）pass；范围 37 条，36 条一字线，1 条 en dash 为引文页码 SJTa: 401–402（ADR-0041 豁免）；M-6 连接号混用 false-positive；--gate 0。"
+    },
+    {
+      "step": "rv-08",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-28T05:32:56Z",
+      "evidence": "T259 rv-08 q6 标点轴（results/t259-review.md）：punct_audit 1 条 P-13@45（401–402）waived（引文页码）；其余 P 规则 0；check_style 0、check_quotes 0；--gate 0。"
+    },
+    {
+      "step": "rv-09",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-28T05:32:57Z",
+      "evidence": "T259 rv-09 体例终校（results/t259-review.md）：GB/T 15834／15835、CY/T 266、GB 3100 基线筛查无冲突；431 行／12,451 汉字、181 段、51 定义、5 引用、6 表；尾序正典；check_style／quotes 0、pairs --gate 0、terms 硬 0／告警 0、academic --strict 无硬错误、math_zh 0、prose 7 条已豁免；六轴 gate 全 0。"
     }
   ],
   "blockers": [],
